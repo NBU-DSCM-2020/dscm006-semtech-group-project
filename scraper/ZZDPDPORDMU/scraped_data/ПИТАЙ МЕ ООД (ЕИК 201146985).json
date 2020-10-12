@@ -1,0 +1,17 @@
+{
+    "legal_entity_name": "ПИТАЙ МЕ ООД",
+    "legal_entity_id": "201146985",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "ПИТАЙ МЕ",
+    "real_owner": "ДИМИТЪР   СТОЙКОВ НИКОЛОВ, БОРИСЛАВ ЛЮДМИЛОВ ДОСЕВ, СТИЛЯН МАРИНОВ НАЙДЕНОВ, ВАЛЕНТИН СТОЯНОВ КИРИЛОВ",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "120",
+            "contract_amount": 120,
+            "contract_basis_raw": "Местни избори 2019г",
+            "contract_sponsor_raw": "ПП  ГЕРБ"
+        }
+    ]
+}

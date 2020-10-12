@@ -1,0 +1,215 @@
+{
+    "legal_entity_name": "АЛО.БГ ЕООД",
+    "legal_entity_id": "102821160",
+    "public_company": "неприложимо",
+    "media_service_type": "Печатна медия",
+    "media_service_name": "вестници за обяви АЛО",
+    "real_owner": "ГЕОРГИ МИЛКОВ ГЕТОВ",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "85,14 лв.",
+            "contract_amount": 85,
+            "contract_basis_raw": "обяви/съобщения",
+            "contract_sponsor_raw": "ДП Пристанищна инфраструктура"
+        },
+        {
+            "contract_amount_raw": "90,32",
+            "contract_amount": 90,
+            "contract_basis_raw": "обяви/съобщения",
+            "contract_sponsor_raw": "ТДКЦ ЕООД, ЕИК 102927808"
+        },
+        {
+            "contract_amount_raw": "538,73 лв.",
+            "contract_amount": 538,
+            "contract_basis_raw": "обяви/съобщения",
+            "contract_sponsor_raw": "Чистота ЕООД, ЕИК 812198633"
+        },
+        {
+            "contract_amount_raw": "120,96 лв.",
+            "contract_amount": 120,
+            "contract_basis_raw": "обяви/съобщения",
+            "contract_sponsor_raw": "Административен съд – гр.Ямбол"
+        },
+        {
+            "contract_amount_raw": "1684,80 лв.",
+            "contract_amount": 1684,
+            "contract_basis_raw": "обяви/съобщения",
+            "contract_sponsor_raw": "Областна дирекция Земеделие – гр.Ямбол"
+        },
+        {
+            "contract_amount_raw": "144 лв.",
+            "contract_amount": 144,
+            "contract_basis_raw": "обяви/съобщения",
+            "contract_sponsor_raw": "Окръжна прокуратура – гр.Ямбол"
+        },
+        {
+            "contract_amount_raw": "11,52 лв.",
+            "contract_amount": 11,
+            "contract_basis_raw": "обяви/съобщения",
+            "contract_sponsor_raw": "ОС на БЧК - Ямбол"
+        },
+        {
+            "contract_amount_raw": "235,29 лв.",
+            "contract_amount": 235,
+            "contract_basis_raw": "обяви/съобщения",
+            "contract_sponsor_raw": "Тракийски университет – факултет Техника и\r\nтехнологии - Ямбол"
+        },
+        {
+            "contract_amount_raw": "382,59 лв.",
+            "contract_amount": 382,
+            "contract_basis_raw": "обяви/съобщения",
+            "contract_sponsor_raw": "Комплексен онкологичен център – Пловдив\r\nЕООД"
+        },
+        {
+            "contract_amount_raw": "103,68 лв.",
+            "contract_amount": 103,
+            "contract_basis_raw": "обяви/съобщения",
+            "contract_sponsor_raw": "МБАЛ Свети Пантайлемон – Пловдив ЕООД"
+        },
+        {
+            "contract_amount_raw": "75,60 лв.",
+            "contract_amount": 75,
+            "contract_basis_raw": "обяви/съобщения",
+            "contract_sponsor_raw": "Национална гимназия за сценични и екранни\r\nизкуства – гр.Пловдив"
+        },
+        {
+            "contract_amount_raw": "31,81 лв.",
+            "contract_amount": 31,
+            "contract_basis_raw": "обяви/съобщения",
+            "contract_sponsor_raw": "Адвокатска колегия – Сливен"
+        },
+        {
+            "contract_amount_raw": "311,52 лв.",
+            "contract_amount": 311,
+            "contract_basis_raw": "обяви/съобщения",
+            "contract_sponsor_raw": "Дентален център 1 – Сливен ЕООД, ЕИК\r\n000588112"
+        },
+        {
+            "contract_amount_raw": "85 лв.",
+            "contract_amount": 85,
+            "contract_basis_raw": "обяви/съобщения",
+            "contract_sponsor_raw": "ДМСГД – гр.Сливен"
+        },
+        {
+            "contract_amount_raw": "87,12 лв.",
+            "contract_amount": 87,
+            "contract_basis_raw": "обяви/съобщения",
+            "contract_sponsor_raw": "ДПП Сините камъни – гр.Сливен"
+        },
+        {
+            "contract_amount_raw": "127,24 лв.",
+            "contract_amount": 127,
+            "contract_basis_raw": "обяви/съобщения",
+            "contract_sponsor_raw": "Драматичен театър Стефан Киров – гр.Сливен"
+        },
+        {
+            "contract_amount_raw": "42,24 лв.",
+            "contract_amount": 42,
+            "contract_basis_raw": "обяви/съобщения",
+            "contract_sponsor_raw": "МБАЛ Карнобат"
+        },
+        {
+            "contract_amount_raw": "235,44 лв.",
+            "contract_amount": 235,
+            "contract_basis_raw": "обяви/съобщения",
+            "contract_sponsor_raw": "Община Сливен"
+        },
+        {
+            "contract_amount_raw": "588,64 лв.",
+            "contract_amount": 588,
+            "contract_basis_raw": "обяви/съобщения",
+            "contract_sponsor_raw": "Община Сливен – ОП Общински пазари"
+        },
+        {
+            "contract_amount_raw": "138,24 лв.",
+            "contract_amount": 138,
+            "contract_basis_raw": "обяви/съобщения",
+            "contract_sponsor_raw": "Общински съвет на БСП – Сливен"
+        },
+        {
+            "contract_amount_raw": "1285,92 лв.",
+            "contract_amount": 1285,
+            "contract_basis_raw": "обяви/съобщения",
+            "contract_sponsor_raw": "Областна дирекция Земеделие – гр.Сливен"
+        },
+        {
+            "contract_amount_raw": "110,16 лв.",
+            "contract_amount": 110,
+            "contract_basis_raw": "обяви/съобщения",
+            "contract_sponsor_raw": "Окръжна прокуратура – гр.Сливен"
+        },
+        {
+            "contract_amount_raw": "444,96 лв.",
+            "contract_amount": 444,
+            "contract_basis_raw": "обяви/съобщения",
+            "contract_sponsor_raw": "ОП Земеделие, гори и водни ресурси – Сливен"
+        },
+        {
+            "contract_amount_raw": "60 лв.",
+            "contract_amount": 60,
+            "contract_basis_raw": "обяви/съобщения",
+            "contract_sponsor_raw": "ПП ГЕРБ"
+        },
+        {
+            "contract_amount_raw": "151,20 лв.",
+            "contract_amount": 151,
+            "contract_basis_raw": "обяви/съобщения",
+            "contract_sponsor_raw": "Професионална гимназия по механотехника –\r\nгр.Сливен"
+        },
+        {
+            "contract_amount_raw": "73,87 лв.",
+            "contract_amount": 73,
+            "contract_basis_raw": "обяви/съобщения",
+            "contract_sponsor_raw": "Пътнически превози ЕООД – Сливен"
+        },
+        {
+            "contract_amount_raw": "98,64 лв.",
+            "contract_amount": 98,
+            "contract_basis_raw": "обяви/съобщения",
+            "contract_sponsor_raw": "Районен съд – Нова Загора"
+        },
+        {
+            "contract_amount_raw": "390,24 лв.",
+            "contract_amount": 390,
+            "contract_basis_raw": "обяви/съобщения",
+            "contract_sponsor_raw": "РДГ Сливен"
+        },
+        {
+            "contract_amount_raw": "61,20 лв.",
+            "contract_amount": 61,
+            "contract_basis_raw": "обяви/съобщения",
+            "contract_sponsor_raw": "РЗОК – Сливен"
+        },
+        {
+            "contract_amount_raw": "608,73 лв.",
+            "contract_amount": 608,
+            "contract_basis_raw": "обяви/съобщения",
+            "contract_sponsor_raw": "СБР – Котел ЕООД, ЕИК 119527829"
+        },
+        {
+            "contract_amount_raw": "60,48 лв.",
+            "contract_amount": 60,
+            "contract_basis_raw": "обяви/съобщения",
+            "contract_sponsor_raw": "Спортно училище Д.Рохов- гр.Сливен"
+        },
+        {
+            "contract_amount_raw": "46,80 лв.",
+            "contract_amount": 46,
+            "contract_basis_raw": "обяви/съобщения",
+            "contract_sponsor_raw": "СУ Пейо Яворов – Сливен"
+        },
+        {
+            "contract_amount_raw": "151,20 лв.",
+            "contract_amount": 151,
+            "contract_basis_raw": "обяви/съобщения",
+            "contract_sponsor_raw": "ТУ – София Факултет и колеж - Сливен"
+        },
+        {
+            "contract_amount_raw": "136,31 лв.",
+            "contract_amount": 136,
+            "contract_basis_raw": "обяви/съобщения",
+            "contract_sponsor_raw": "ЮИДП ДП ТП ДГС –гр.Сливен"
+        }
+    ]
+}

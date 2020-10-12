@@ -1,0 +1,143 @@
+{
+    "legal_entity_name": "Издателска къща Борба АД",
+    "legal_entity_id": "200614908",
+    "public_company": "неприложимо",
+    "media_service_type": "Печатна медия",
+    "media_service_name": "Издаване на вестник - вестник Борба",
+    "real_owner": "Николай Василев Томов, Александър Кирилов Георгиев",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "4066,59",
+            "contract_amount": 4066,
+            "contract_basis_raw": "Договор от 24.10.2019г.",
+            "contract_sponsor_raw": "Община Велико Търново"
+        },
+        {
+            "contract_amount_raw": "12000",
+            "contract_amount": 12000,
+            "contract_basis_raw": "Договор от 03.01.2019г.",
+            "contract_sponsor_raw": "Община Полски Тръмбеш"
+        },
+        {
+            "contract_amount_raw": "3360,38",
+            "contract_amount": 3360,
+            "contract_basis_raw": "Договор № ПЗ-3-03-04-5932#6",
+            "contract_sponsor_raw": "Агенция по заетостта, схема  Нова длъжност за младежка заетост"
+        },
+        {
+            "contract_amount_raw": "600",
+            "contract_amount": 600,
+            "contract_basis_raw": "112741",
+            "contract_sponsor_raw": "БСП-Павликени"
+        },
+        {
+            "contract_amount_raw": "480",
+            "contract_amount": 480,
+            "contract_basis_raw": "112737",
+            "contract_sponsor_raw": "ЕНП"
+        },
+        {
+            "contract_amount_raw": "360",
+            "contract_amount": 360,
+            "contract_basis_raw": "112734",
+            "contract_sponsor_raw": "ПП Български социалдемократи"
+        },
+        {
+            "contract_amount_raw": "300",
+            "contract_amount": 300,
+            "contract_basis_raw": "112711",
+            "contract_sponsor_raw": "ПП Български социалдемократи"
+        },
+        {
+            "contract_amount_raw": "999",
+            "contract_amount": 999,
+            "contract_basis_raw": "112707",
+            "contract_sponsor_raw": "ПП ДПС"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "112704",
+            "contract_sponsor_raw": "БСП - Стражица"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "112662",
+            "contract_sponsor_raw": "КП Демократична България - обединение"
+        },
+        {
+            "contract_amount_raw": "2400",
+            "contract_amount": 2400,
+            "contract_basis_raw": "112654",
+            "contract_sponsor_raw": "ВМРО"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "112655",
+            "contract_sponsor_raw": "БСП - Г. Оряховица"
+        },
+        {
+            "contract_amount_raw": "600",
+            "contract_amount": 600,
+            "contract_basis_raw": "112667",
+            "contract_sponsor_raw": "БСП - Павликени"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "112695",
+            "contract_sponsor_raw": "БСП -  В.Търново"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "112694",
+            "contract_sponsor_raw": "БСП -  В.Търново"
+        },
+        {
+            "contract_amount_raw": "2200",
+            "contract_amount": 2200,
+            "contract_basis_raw": "112318",
+            "contract_sponsor_raw": "ВМРО"
+        },
+        {
+            "contract_amount_raw": "800",
+            "contract_amount": 800,
+            "contract_basis_raw": "112339",
+            "contract_sponsor_raw": "ПП АБВ"
+        },
+        {
+            "contract_amount_raw": "2000",
+            "contract_amount": 2000,
+            "contract_basis_raw": "112295",
+            "contract_sponsor_raw": "ГЕРБ"
+        },
+        {
+            "contract_amount_raw": "999",
+            "contract_amount": 999,
+            "contract_basis_raw": "112316",
+            "contract_sponsor_raw": "ПП ДПС"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "112331",
+            "contract_sponsor_raw": "БСП - В.Търново"
+        },
+        {
+            "contract_amount_raw": "800",
+            "contract_amount": 800,
+            "contract_basis_raw": "112338",
+            "contract_sponsor_raw": "БСП - В.Търново"
+        },
+        {
+            "contract_amount_raw": "960",
+            "contract_amount": 960,
+            "contract_basis_raw": "112336",
+            "contract_sponsor_raw": "Движение- Да, България"
+        }
+    ]
+}

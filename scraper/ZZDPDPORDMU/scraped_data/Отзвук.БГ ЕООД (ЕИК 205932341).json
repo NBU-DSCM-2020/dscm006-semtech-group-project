@@ -1,0 +1,29 @@
+{
+    "legal_entity_name": "Отзвук.БГ ЕООД",
+    "legal_entity_id": "205932341",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "Отзвук.БГ (от 09.12.2019 г.)",
+    "real_owner": "Зарко Филипов Маринов",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "80",
+            "contract_amount": 80,
+            "contract_basis_raw": "12.12.2019, платена публикация",
+            "contract_sponsor_raw": "МБАЛ - Девин, 200591288"
+        },
+        {
+            "contract_amount_raw": "110",
+            "contract_amount": 110,
+            "contract_basis_raw": "12.12.2019, платени публикации",
+            "contract_sponsor_raw": "МБАЛ - Смолян, 120503871"
+        },
+        {
+            "contract_amount_raw": "230",
+            "contract_amount": 230,
+            "contract_basis_raw": "20.12.2019, публикуване на обява",
+            "contract_sponsor_raw": "МИГ Преспа - Чепеларе, 120618585"
+        }
+    ]
+}

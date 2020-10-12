@@ -1,0 +1,119 @@
+{
+    "legal_entity_name": "МЕДИЯ ГРУП 24 ЕООД",
+    "legal_entity_id": "160100650",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание; Печатна медия",
+    "media_service_name": "www.mg24.bg; Plovdiv24.bg Седмичен",
+    "real_owner": "Кирил Георгиев Налджиев, Веселин Костадинов Живков",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "14620",
+            "contract_amount": 14620,
+            "contract_basis_raw": "Рекламно-информационен",
+            "contract_sponsor_raw": "Община Пловдив"
+        },
+        {
+            "contract_amount_raw": "8640",
+            "contract_amount": 8640,
+            "contract_basis_raw": "Рекламно-информационен",
+            "contract_sponsor_raw": "Водоснабдяване и Канализация ЕООД"
+        },
+        {
+            "contract_amount_raw": "14400",
+            "contract_amount": 14400,
+            "contract_basis_raw": "Рекламно-информационен",
+            "contract_sponsor_raw": "ОП Чистота"
+        },
+        {
+            "contract_amount_raw": "11520",
+            "contract_amount": 11520,
+            "contract_basis_raw": "Рекламно-информационен",
+            "contract_sponsor_raw": "КОЦ Пловдив ЕООД"
+        },
+        {
+            "contract_amount_raw": "13800",
+            "contract_amount": 13800,
+            "contract_basis_raw": "Рекламно-информационен",
+            "contract_sponsor_raw": "УМБАЛ Св.Георги ЕАД"
+        },
+        {
+            "contract_amount_raw": "6200",
+            "contract_amount": 6200,
+            "contract_basis_raw": "Рекламно-информационен",
+            "contract_sponsor_raw": "ПП ГЕРБ"
+        },
+        {
+            "contract_amount_raw": "1200",
+            "contract_amount": 1200,
+            "contract_basis_raw": "Рекламно-информационен",
+            "contract_sponsor_raw": "ПП Движение България на гражданите"
+        },
+        {
+            "contract_amount_raw": "1200",
+            "contract_amount": 1200,
+            "contract_basis_raw": "Рекламно-информационен",
+            "contract_sponsor_raw": "ПП НФСБ"
+        },
+        {
+            "contract_amount_raw": "5868",
+            "contract_amount": 5868,
+            "contract_basis_raw": "Рекламно-информационен",
+            "contract_sponsor_raw": "Община Бургас"
+        },
+        {
+            "contract_amount_raw": "12000",
+            "contract_amount": 12000,
+            "contract_basis_raw": "Рекламно-информационен",
+            "contract_sponsor_raw": "Община Родопи - Пловдив"
+        },
+        {
+            "contract_amount_raw": "36000",
+            "contract_amount": 36000,
+            "contract_basis_raw": "Рекламно-информационен",
+            "contract_sponsor_raw": "Община Варна"
+        },
+        {
+            "contract_amount_raw": "300",
+            "contract_amount": 300,
+            "contract_basis_raw": "Рекламно-информационен",
+            "contract_sponsor_raw": "ПП ВОЛТ"
+        },
+        {
+            "contract_amount_raw": "568,8",
+            "contract_amount": 568,
+            "contract_basis_raw": "Рекламно-информационен",
+            "contract_sponsor_raw": "ИК Ваня Руменова Григорова"
+        },
+        {
+            "contract_amount_raw": "1500",
+            "contract_amount": 1500,
+            "contract_basis_raw": "Рекламно-информационен",
+            "contract_sponsor_raw": "ПГТ Гоце Делчев гр. Пловдив"
+        },
+        {
+            "contract_amount_raw": "35040",
+            "contract_amount": 35040,
+            "contract_basis_raw": "Рекламно-информационен",
+            "contract_sponsor_raw": "Общинска Фондация Пловдив 2019"
+        },
+        {
+            "contract_amount_raw": "360",
+            "contract_amount": 360,
+            "contract_basis_raw": "Рекламно-информационен",
+            "contract_sponsor_raw": "ПГ по Транспорт - Пловдив"
+        },
+        {
+            "contract_amount_raw": "18000",
+            "contract_amount": 18000,
+            "contract_basis_raw": "Рекламно-информационен",
+            "contract_sponsor_raw": "ПП ЗС Александър Стамболийски"
+        },
+        {
+            "contract_amount_raw": "540",
+            "contract_amount": 540,
+            "contract_basis_raw": "Рекламно-информационен",
+            "contract_sponsor_raw": "МБАЛ Сърце и мозък ЕАД"
+        }
+    ]
+}

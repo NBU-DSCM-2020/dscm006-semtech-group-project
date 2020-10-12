@@ -1,0 +1,59 @@
+{
+    "legal_entity_name": "Пропрес ЕООД",
+    "legal_entity_id": "203171211",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "СМОЛЯН ПРЕС",
+    "real_owner": "Милка Петкова Дочкова",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "700",
+            "contract_amount": 700,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "Община Мадан / ЕИК 000614984"
+        },
+        {
+            "contract_amount_raw": "300",
+            "contract_amount": 300,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "Община Златоград / ЕИК 000614938"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "Община Баните / ЕИК 000614952"
+        },
+        {
+            "contract_amount_raw": "1600",
+            "contract_amount": 1600,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "Новото време (Демократическа партия Обединение, Движение 21, Александър Стамболийски, Новото време) ЕИК 131287649"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "ПП ГЕРБ / ЕИК 175248466"
+        },
+        {
+            "contract_amount_raw": "250",
+            "contract_amount": 250,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "ПП ГЕРБ / ЕИК 175248466"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "ВМРО-БНД / ЕИК 130451348"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "ОбС на БСП - Смолян / ЕИК 0007020140359"
+        }
+    ]
+}

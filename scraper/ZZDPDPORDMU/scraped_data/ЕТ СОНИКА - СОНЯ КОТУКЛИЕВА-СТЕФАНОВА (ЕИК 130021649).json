@@ -1,0 +1,17 @@
+{
+    "legal_entity_name": "ЕТ СОНИКА - СОНЯ КОТУКЛИЕВА-СТЕФАНОВА",
+    "legal_entity_id": "130021649",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "bulgaria-news.bg",
+    "real_owner": "Соня Атанасова Котуклиева-Стефанова",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "4166,67",
+            "contract_amount": 4166,
+            "contract_basis_raw": "Медийно обслужване Местни избори 2019",
+            "contract_sponsor_raw": "ВМРО - БНД ЕИК: 130451348"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "legal_entity_name": "БОЙКОС ЕООД",
+    "legal_entity_id": "118017086",
+    "public_company": "неприложимо",
+    "media_service_type": "Радио; Радио",
+    "media_service_name": "РАДИО ГАМА; РАДИО МЕЛОДИЯ",
+    "real_owner": "Матей Евтимов Евтимов",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "3000",
+            "contract_amount": 3000,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "000565537"
+        }
+    ]
+}

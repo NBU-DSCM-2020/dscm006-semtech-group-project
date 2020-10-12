@@ -1,0 +1,107 @@
+{
+    "legal_entity_name": "СТРУМА ЕООД",
+    "legal_entity_id": "811142304",
+    "public_company": "неприложимо",
+    "media_service_type": "Печатна медия; Онлайн новинарско издание",
+    "media_service_name": "Издаване на вестник Струма; Електронно издание www. struma.bg",
+    "real_owner": "Христо Грозев Грозев, Карл Хансбург Лотинген",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "600",
+            "contract_amount": 600,
+            "contract_basis_raw": "04.01.2019 г.- медийно партньорство",
+            "contract_sponsor_raw": "Общ. Дупница - ЕИК 000261630"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "25.04.2019 г.- медийно партньорство",
+            "contract_sponsor_raw": "Общ. Радомир -ЕИК 000386776"
+        },
+        {
+            "contract_amount_raw": "720",
+            "contract_amount": 720,
+            "contract_basis_raw": "03.01.2019 г.-медийно партньорство",
+            "contract_sponsor_raw": "ВИК Благоевград ЕИК 811047831"
+        },
+        {
+            "contract_amount_raw": "750",
+            "contract_amount": 750,
+            "contract_basis_raw": "21.05.2019 г.- медийно парньорство",
+            "contract_sponsor_raw": "Общ. Гоце Делчев - ЕИК 000024745"
+        },
+        {
+            "contract_amount_raw": "600",
+            "contract_amount": 600,
+            "contract_basis_raw": "02.01.2019 г.- медийно партьорство",
+            "contract_sponsor_raw": "Общ. Струмяни - ЕИК 000024713"
+        },
+        {
+            "contract_amount_raw": "600",
+            "contract_amount": 600,
+            "contract_basis_raw": "12.12.2018 г. - медийно партньорство",
+            "contract_sponsor_raw": "Общ. Белица - ЕИК 000024688"
+        },
+        {
+            "contract_amount_raw": "799",
+            "contract_amount": 799,
+            "contract_basis_raw": "21.05.2019 г.- медийно партньорство",
+            "contract_sponsor_raw": "ЮЗДП - Благоевград - ЕИК 201627506"
+        },
+        {
+            "contract_amount_raw": "740",
+            "contract_amount": 740,
+            "contract_basis_raw": "10.12.2018 г.-медийно партьорство",
+            "contract_sponsor_raw": "Общ. Симитли - ЕИК 000024987"
+        },
+        {
+            "contract_amount_raw": "1884",
+            "contract_amount": 1884,
+            "contract_basis_raw": "01.01.2019 г.- медийно партньорство",
+            "contract_sponsor_raw": "Общ. Разлог - ЕИК 000024948"
+        },
+        {
+            "contract_amount_raw": "1200",
+            "contract_amount": 1200,
+            "contract_basis_raw": "28.12.2019 г.- медийно партньорство",
+            "contract_sponsor_raw": "Общ. Банско - ЕИК 000024663"
+        },
+        {
+            "contract_amount_raw": "1400",
+            "contract_amount": 1400,
+            "contract_basis_raw": "28.12.2018 г.-медийно партньорство",
+            "contract_sponsor_raw": "Общ. Сандански - ЕИК 000024955"
+        },
+        {
+            "contract_amount_raw": "12960",
+            "contract_amount": 12960,
+            "contract_basis_raw": "29.10.2019 г. - Публикации",
+            "contract_sponsor_raw": "ИК за издигане на Р.Томов за незевисим кандидат кмет на общ.Благоевгрод Ясен Попвасилев"
+        },
+        {
+            "contract_amount_raw": "1200",
+            "contract_amount": 1200,
+            "contract_basis_raw": "01.10.2019г.-Публикации",
+            "contract_sponsor_raw": "ПП ВМРО-Българско национално двежение- Красимир КаракачановЕИК 130451348"
+        },
+        {
+            "contract_amount_raw": "2580",
+            "contract_amount": 2580,
+            "contract_basis_raw": "05.10.2019 г. - Публикации",
+            "contract_sponsor_raw": "Местна коалиция партия на зелените ВОЛЯ-Андон Тодоров"
+        },
+        {
+            "contract_amount_raw": "10020",
+            "contract_amount": 10020,
+            "contract_basis_raw": "07.10.2019 г.- Публикации",
+            "contract_sponsor_raw": "ПП ГЕРБ - Даниела Савеклиева-Областен координатор на ПП ГЕРБ обл.Благоевград ЕИК 175248466"
+        },
+        {
+            "contract_amount_raw": "420",
+            "contract_amount": 420,
+            "contract_basis_raw": "24.10.2019 г.- Публикации",
+            "contract_sponsor_raw": "ПП РЗС - Яне Янев ЕИК 130459996"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "legal_entity_name": "РАДИО КОНТАКТ БЪЛГАРИЯ ЕООД",
+    "legal_entity_id": "130497114",
+    "public_company": "неприложимо",
+    "media_service_type": "Радио",
+    "media_service_name": "Радио Нова (включва и сайта radionova.bg, както и фейсбук страница Radio Nova Bulgaria за слушателите)",
+    "real_owner": "Николай Георгиев Янчовичин, Атанас Иванов Генов, Христин Богомилов Стрижлев",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "160",
+            "contract_amount": 160,
+            "contract_basis_raw": "Предизборна аудио реклама на Коалиция Демократична България",
+            "contract_sponsor_raw": "Коалиция Демократична България Обединение, ЕИК:177394797"
+        }
+    ]
+}

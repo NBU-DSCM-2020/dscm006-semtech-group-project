@@ -1,0 +1,65 @@
+{
+    "legal_entity_name": "ТВ САТ КОМ ООД",
+    "legal_entity_id": "115545438",
+    "public_company": "неприложимо",
+    "media_service_type": "Телевизия",
+    "media_service_name": "ТВ САТ КОМ",
+    "real_owner": "Кирил Красимиров Кирев, Красимир Кирилов Кирев",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "2220",
+            "contract_amount": 2220,
+            "contract_basis_raw": "медийно отразяване",
+            "contract_sponsor_raw": "ОБЩИНА  АСЕНОВГРАД 000471059"
+        },
+        {
+            "contract_amount_raw": "150",
+            "contract_amount": 150,
+            "contract_basis_raw": "медийно отразяване",
+            "contract_sponsor_raw": "ОБЩИНА  КУКЛЕН 115631816"
+        },
+        {
+            "contract_amount_raw": "5901",
+            "contract_amount": 5901,
+            "contract_basis_raw": "медийно отразяване",
+            "contract_sponsor_raw": "БСП 0007020140657 "
+        },
+        {
+            "contract_amount_raw": "250",
+            "contract_amount": 250,
+            "contract_basis_raw": "медийно отразяване",
+            "contract_sponsor_raw": "ПП ВОЛЯ 175358375"
+        },
+        {
+            "contract_amount_raw": "824",
+            "contract_amount": 824,
+            "contract_basis_raw": "медийно отразяване",
+            "contract_sponsor_raw": "БДС РАДИКАЛИ 130877084"
+        },
+        {
+            "contract_amount_raw": "140",
+            "contract_amount": 140,
+            "contract_basis_raw": "медийно отразяване",
+            "contract_sponsor_raw": "ПП НФСБ 176129116"
+        },
+        {
+            "contract_amount_raw": "50",
+            "contract_amount": 50,
+            "contract_basis_raw": "медийно отразяване",
+            "contract_sponsor_raw": "ЧИТАЛИЩЕ ИСКРА 000456192"
+        },
+        {
+            "contract_amount_raw": "150",
+            "contract_amount": 150,
+            "contract_basis_raw": "медийно отразяване",
+            "contract_sponsor_raw": "СУ СВ СВ КИРИЛ И МЕТОДИЙ 000452824"
+        },
+        {
+            "contract_amount_raw": "70",
+            "contract_amount": 70,
+            "contract_basis_raw": "медийно отразяване",
+            "contract_sponsor_raw": "ДГ МИР 000459092"
+        }
+    ]
+}

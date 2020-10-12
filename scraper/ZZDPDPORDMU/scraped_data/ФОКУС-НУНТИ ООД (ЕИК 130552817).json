@@ -1,0 +1,539 @@
+{
+    "legal_entity_name": "ФОКУС-НУНТИ ООД",
+    "legal_entity_id": "130552817",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание; Радио",
+    "media_service_name": "ИНФОРМАЦИОННА АГЕНЦИЯ ФОКУС; РАДИОВЕРИГА ФОКУС",
+    "real_owner": "ДЕНИЦА КРАСИМИРОВА УЗУНОВА, ТЕТЯНА ВАЛЕРИЕВНА УЗУНОВА, ТРИФОН ДИМИТРОВ БАЛЕВСКИ",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "7000",
+            "contract_amount": 7000,
+            "contract_basis_raw": "01.02.2019 - радио реклама",
+            "contract_sponsor_raw": "Агенция Пътна инфраструктура/  000695089"
+        },
+        {
+            "contract_amount_raw": "8340",
+            "contract_amount": 8340,
+            "contract_basis_raw": "19.07.2019 - Медийно обслужване",
+            "contract_sponsor_raw": "Агенция Пътна инфраструктура/  000695089"
+        },
+        {
+            "contract_amount_raw": "19440",
+            "contract_amount": 19440,
+            "contract_basis_raw": "02.01.2019 - Мониторинг",
+            "contract_sponsor_raw": "Администрацията на Президента/ 000698391"
+        },
+        {
+            "contract_amount_raw": "12000",
+            "contract_amount": 12000,
+            "contract_basis_raw": "01.10.2019 - Мониторинг",
+            "contract_sponsor_raw": "Българска агенция по безопасност на храните/ 176040023"
+        },
+        {
+            "contract_amount_raw": "2875",
+            "contract_amount": 2875,
+            "contract_basis_raw": "16.02.2019 - Мониторинг",
+            "contract_sponsor_raw": "Български червен кръст/ 000703415"
+        },
+        {
+            "contract_amount_raw": "586,75",
+            "contract_amount": 586,
+            "contract_basis_raw": "02.07.2019 - Фокус Press",
+            "contract_sponsor_raw": "Български червен кръст/ 000703415"
+        },
+        {
+            "contract_amount_raw": "6000",
+            "contract_amount": 6000,
+            "contract_basis_raw": "01.08.2019 - Продуциране на предаване и предоставяне на програмно време",
+            "contract_sponsor_raw": "Градски съвет на Българската социалистическа партия/ 0007020140012"
+        },
+        {
+            "contract_amount_raw": "4400",
+            "contract_amount": 4400,
+            "contract_basis_raw": "01.09.2019 - Медийно обслужване",
+            "contract_sponsor_raw": "Делегация на българските социалисти в Европейския парламент/  175848450"
+        },
+        {
+            "contract_amount_raw": "19900",
+            "contract_amount": 19900,
+            "contract_basis_raw": "25.06.2019 - Мониторинг",
+            "contract_sponsor_raw": "ДП НКЖИ/ 130823243"
+        },
+        {
+            "contract_amount_raw": "10000",
+            "contract_amount": 10000,
+            "contract_basis_raw": "26.02.2019 - радио реклама",
+            "contract_sponsor_raw": "ДП Ръководство на въздушното движение - РВД/ 000697179"
+        },
+        {
+            "contract_amount_raw": "6912",
+            "contract_amount": 6912,
+            "contract_basis_raw": "29.01.2019 - Мониторинг",
+            "contract_sponsor_raw": "Държавна агенция Държавен резерв и военновременни запаси/ 831913661"
+        },
+        {
+            "contract_amount_raw": "10000",
+            "contract_amount": 10000,
+            "contract_basis_raw": "11.07.2019 - Медийно обслужване",
+            "contract_sponsor_raw": "Електроенергиен системен оператор ЕАД/ 175201304"
+        },
+        {
+            "contract_amount_raw": "14725",
+            "contract_amount": 14725,
+            "contract_basis_raw": "11.06.2019 - Продуциране на предаване и предоставяне на програмно време",
+            "contract_sponsor_raw": "ИА ОПНОИР/ 177224179"
+        },
+        {
+            "contract_amount_raw": "3450",
+            "contract_amount": 3450,
+            "contract_basis_raw": "26.06.2019 - радио реклама",
+            "contract_sponsor_raw": "Изпълнителна агенция за насърчаване на малките и средни предприятия (ИАНМСП)/ : 131 304 835"
+        },
+        {
+            "contract_amount_raw": "4050",
+            "contract_amount": 4050,
+            "contract_basis_raw": "15.04.2019 - Мониторинг",
+            "contract_sponsor_raw": "Комисия за разкриване на документите и за обявяване на принадлежност на българските граждани към ДС и разузнавателните служби на БНА/ 175263817"
+        },
+        {
+            "contract_amount_raw": "15360",
+            "contract_amount": 15360,
+            "contract_basis_raw": "23.03.2019 - Мониторинг",
+            "contract_sponsor_raw": "Министерство на външните работи/ 000695228"
+        },
+        {
+            "contract_amount_raw": "7833,33",
+            "contract_amount": 7833,
+            "contract_basis_raw": "19.04.2019 - Медийно обслужване",
+            "contract_sponsor_raw": "Министерство на енергетиката/ 176789460"
+        },
+        {
+            "contract_amount_raw": "7250",
+            "contract_amount": 7250,
+            "contract_basis_raw": "19.09.2019 - Медийно обслужване",
+            "contract_sponsor_raw": "Министерство на енергетиката/ 176789460"
+        },
+        {
+            "contract_amount_raw": "29700",
+            "contract_amount": 29700,
+            "contract_basis_raw": "02.07.2019 - Продуциране на предаване и предоставяне на програмно време",
+            "contract_sponsor_raw": "Министерство на земеделието,храните и горите/ 831909905"
+        },
+        {
+            "contract_amount_raw": "19675",
+            "contract_amount": 19675,
+            "contract_basis_raw": "11.12.2019 - Продуциране на предаване и предоставяне на програмно време",
+            "contract_sponsor_raw": "Министерство на земеделието,храните и горите/ 831909905"
+        },
+        {
+            "contract_amount_raw": "51979,2",
+            "contract_amount": 51979,
+            "contract_basis_raw": "20.02.2019 - Продуциране на предаване и предоставяне на програмно време",
+            "contract_sponsor_raw": "Министерство на културата/ 000695160"
+        },
+        {
+            "contract_amount_raw": "14000",
+            "contract_amount": 14000,
+            "contract_basis_raw": "11.04.2019 - Медийно обслужване",
+            "contract_sponsor_raw": "Министерство на културата/ 000695160"
+        },
+        {
+            "contract_amount_raw": "19440",
+            "contract_amount": 19440,
+            "contract_basis_raw": "30.04.2019 - Продуциране на предаване и предоставяне на програмно време",
+            "contract_sponsor_raw": "Министерство на образованието и науката/ 000695114"
+        },
+        {
+            "contract_amount_raw": "41589,6",
+            "contract_amount": 41589,
+            "contract_basis_raw": "03.02.2019 - Продуциране на предаване и предоставяне на програмно време",
+            "contract_sponsor_raw": "Министерство на околната среда и водите/ 000697371"
+        },
+        {
+            "contract_amount_raw": "20000",
+            "contract_amount": 20000,
+            "contract_basis_raw": "24.02.2019 - Медийно обслужване",
+            "contract_sponsor_raw": "Министерство на правосъдието/ 000695349"
+        },
+        {
+            "contract_amount_raw": "39036",
+            "contract_amount": 39036,
+            "contract_basis_raw": "01.04.2019 - Продуциране на предаване и предоставяне на програмно време",
+            "contract_sponsor_raw": "Министерство на туризма/ 176789478"
+        },
+        {
+            "contract_amount_raw": "18700",
+            "contract_amount": 18700,
+            "contract_basis_raw": "01.08.2019 - Информационни бюлетини",
+            "contract_sponsor_raw": "Народно събрание/ 000695018"
+        },
+        {
+            "contract_amount_raw": "13000",
+            "contract_amount": 13000,
+            "contract_basis_raw": "11.06.2019 - Медийно обслужване",
+            "contract_sponsor_raw": "Национална Здравноосигурителна Каса/ 121858220"
+        },
+        {
+            "contract_amount_raw": "14400",
+            "contract_amount": 14400,
+            "contract_basis_raw": "03.01.2019 - Медийно обслужване",
+            "contract_sponsor_raw": "НГИ АБВ/ 176644461"
+        },
+        {
+            "contract_amount_raw": "1200",
+            "contract_amount": 1200,
+            "contract_basis_raw": "01.01.2019 - Медийно обслужване",
+            "contract_sponsor_raw": "Областна администрация - Сливен/ 119101402"
+        },
+        {
+            "contract_amount_raw": "3000",
+            "contract_amount": 3000,
+            "contract_basis_raw": "02.02.2019 - Медийно обслужване",
+            "contract_sponsor_raw": "Областна Администрация Кърджали/ 108070973"
+        },
+        {
+            "contract_amount_raw": "1500",
+            "contract_amount": 1500,
+            "contract_basis_raw": "05.11.2019 - Медийно обслужване",
+            "contract_sponsor_raw": "Община Алфатар/ 000565359"
+        },
+        {
+            "contract_amount_raw": "13800",
+            "contract_amount": 13800,
+            "contract_basis_raw": "24.06.2019 - Продуциране на предаване и предоставяне на програмно време",
+            "contract_sponsor_raw": "Община Асеновград/ 000471059"
+        },
+        {
+            "contract_amount_raw": "9600",
+            "contract_amount": 9600,
+            "contract_basis_raw": "01.02.2019 - Медийно обслужване",
+            "contract_sponsor_raw": "Община Банско/ 000024663"
+        },
+        {
+            "contract_amount_raw": "7800",
+            "contract_amount": 7800,
+            "contract_basis_raw": "10.02.2019 - Продуциране на предаване и предоставяне на програмно време",
+            "contract_sponsor_raw": "Община Белово/  000351558"
+        },
+        {
+            "contract_amount_raw": "2400",
+            "contract_amount": 2400,
+            "contract_basis_raw": "20.04.2019 - Медийно обслужване",
+            "contract_sponsor_raw": "Община Белослав/  000093403"
+        },
+        {
+            "contract_amount_raw": "4166,66",
+            "contract_amount": 4166,
+            "contract_basis_raw": "12.05.2019 - Продуциране на предаване и предоставяне на програмно време",
+            "contract_sponsor_raw": "Община Бургас/ 000056814"
+        },
+        {
+            "contract_amount_raw": "18000",
+            "contract_amount": 18000,
+            "contract_basis_raw": "01.07.2019 - Медийно обслужване",
+            "contract_sponsor_raw": "Община Велико Търново/ 000133634"
+        },
+        {
+            "contract_amount_raw": "3000",
+            "contract_amount": 3000,
+            "contract_basis_raw": "07.06.2019 - Медийно обслужване",
+            "contract_sponsor_raw": "Община Велинград/ 000351580"
+        },
+        {
+            "contract_amount_raw": "1800",
+            "contract_amount": 1800,
+            "contract_basis_raw": "01.03.2019 - Медийно обслужване",
+            "contract_sponsor_raw": "Община Ветрино/ 000093458"
+        },
+        {
+            "contract_amount_raw": "6000",
+            "contract_amount": 6000,
+            "contract_basis_raw": "15.01.2019 - Медийно обслужване",
+            "contract_sponsor_raw": "Община Видин/ 000159508"
+        },
+        {
+            "contract_amount_raw": "3600",
+            "contract_amount": 3600,
+            "contract_basis_raw": "28.07.2019 - Медийно обслужване",
+            "contract_sponsor_raw": "Община Гоце Делчев/ 000024745"
+        },
+        {
+            "contract_amount_raw": "6000",
+            "contract_amount": 6000,
+            "contract_basis_raw": "03.02.2019 - Медийно обслужване",
+            "contract_sponsor_raw": "Община Димитровград/ 000903533"
+        },
+        {
+            "contract_amount_raw": "12000",
+            "contract_amount": 12000,
+            "contract_basis_raw": "01.03.2019 - Продуциране на предаване и предоставяне на програмно време",
+            "contract_sponsor_raw": "Община Добрич/ 000852932"
+        },
+        {
+            "contract_amount_raw": "7200",
+            "contract_amount": 7200,
+            "contract_basis_raw": "26.04.2019 - радио реклама",
+            "contract_sponsor_raw": "Община Добрич/ 000852932"
+        },
+        {
+            "contract_amount_raw": "2000",
+            "contract_amount": 2000,
+            "contract_basis_raw": "27.03.2019 - Медийно обслужване",
+            "contract_sponsor_raw": "Община Долни Чифлик/ 000093517"
+        },
+        {
+            "contract_amount_raw": "9600",
+            "contract_amount": 9600,
+            "contract_basis_raw": "01.01.2019 - Продуциране на предаване и предоставяне на програмно време",
+            "contract_sponsor_raw": "Община Дупница/ 000261630"
+        },
+        {
+            "contract_amount_raw": "3000",
+            "contract_amount": 3000,
+            "contract_basis_raw": "14.02.2019 - Медийно обслужване",
+            "contract_sponsor_raw": "Община Дупница/ 000261630"
+        },
+        {
+            "contract_amount_raw": "2400",
+            "contract_amount": 2400,
+            "contract_basis_raw": "19.02.2019 - Медийно обслужване",
+            "contract_sponsor_raw": "Община Дългопол/ 000093524"
+        },
+        {
+            "contract_amount_raw": "3000",
+            "contract_amount": 3000,
+            "contract_basis_raw": "20.04.2019 - Медийно обслужване",
+            "contract_sponsor_raw": "Община Златоград/ 000614938"
+        },
+        {
+            "contract_amount_raw": "15000",
+            "contract_amount": 15000,
+            "contract_basis_raw": "26.03.2019 - Продуциране на предаване и предоставяне на програмно време",
+            "contract_sponsor_raw": "Община Казанлък/  000817778"
+        },
+        {
+            "contract_amount_raw": "6000",
+            "contract_amount": 6000,
+            "contract_basis_raw": "15.11.2019 - радио реклама",
+            "contract_sponsor_raw": "Община Казанлък/  000817778"
+        },
+        {
+            "contract_amount_raw": "16666,56",
+            "contract_amount": 16666,
+            "contract_basis_raw": "21.06.2019 - Продуциране на предаване и предоставяне на програмно време",
+            "contract_sponsor_raw": "Община Карлово/ 000471365"
+        },
+        {
+            "contract_amount_raw": "1666,67",
+            "contract_amount": 1666,
+            "contract_basis_raw": "11.02.2019 - Медийно обслужване",
+            "contract_sponsor_raw": "Община Кула/ 000159629"
+        },
+        {
+            "contract_amount_raw": "15000",
+            "contract_amount": 15000,
+            "contract_basis_raw": "05.03.2019 - Мониторинг",
+            "contract_sponsor_raw": "Община Кюстендил/ 000261517"
+        },
+        {
+            "contract_amount_raw": "24600",
+            "contract_amount": 24600,
+            "contract_basis_raw": "05.04.2019 - Продуциране на предаване и предоставяне на програмно време",
+            "contract_sponsor_raw": "Община Кюстендил/ 000261517"
+        },
+        {
+            "contract_amount_raw": "4166,67",
+            "contract_amount": 4166,
+            "contract_basis_raw": "01.07.2019 - Медийно обслужване",
+            "contract_sponsor_raw": "Община Панагюрище/ 000351743"
+        },
+        {
+            "contract_amount_raw": "9000",
+            "contract_amount": 9000,
+            "contract_basis_raw": "08.05.2019 - Продуциране на предаване и предоставяне на програмно време",
+            "contract_sponsor_raw": "Община Петрич/ 000024916"
+        },
+        {
+            "contract_amount_raw": "9600",
+            "contract_amount": 9600,
+            "contract_basis_raw": "01.03.2019 - Продуциране на предаване и предоставяне на програмно време",
+            "contract_sponsor_raw": "Община Пещера/ 000351750"
+        },
+        {
+            "contract_amount_raw": "2400",
+            "contract_amount": 2400,
+            "contract_basis_raw": "01.07.2019 - Медийно обслужване",
+            "contract_sponsor_raw": "Община Поморие/ 000057179"
+        },
+        {
+            "contract_amount_raw": "6600",
+            "contract_amount": 6600,
+            "contract_basis_raw": "15.01.2019 - Продуциране на предаване и предоставяне на програмно време",
+            "contract_sponsor_raw": "Община Садово/ 000471502"
+        },
+        {
+            "contract_amount_raw": "14400",
+            "contract_amount": 14400,
+            "contract_basis_raw": "01.02.2019 - Продуциране на предаване и предоставяне на програмно време",
+            "contract_sponsor_raw": "Община Свищов/ 000133965"
+        },
+        {
+            "contract_amount_raw": "3600",
+            "contract_amount": 3600,
+            "contract_basis_raw": "04.01.2019 - Радио реклама",
+            "contract_sponsor_raw": "Община Симитли/ 000024987"
+        },
+        {
+            "contract_amount_raw": "9000",
+            "contract_amount": 9000,
+            "contract_basis_raw": "02.02.2019 - Медийно обслужване",
+            "contract_sponsor_raw": "Община Симитли/ 000024987"
+        },
+        {
+            "contract_amount_raw": "4400",
+            "contract_amount": 4400,
+            "contract_basis_raw": "16.07.2019 - Медийно обслужване",
+            "contract_sponsor_raw": "Община Сливен/ 000590654"
+        },
+        {
+            "contract_amount_raw": "4800",
+            "contract_amount": 4800,
+            "contract_basis_raw": "03.05.2019 - Медийно обслужване",
+            "contract_sponsor_raw": "Община Смолян/ 000615118"
+        },
+        {
+            "contract_amount_raw": "7560",
+            "contract_amount": 7560,
+            "contract_basis_raw": "15.04.2019 - Медийно обслужване",
+            "contract_sponsor_raw": "Община Стара Загора/  000818022"
+        },
+        {
+            "contract_amount_raw": "1440",
+            "contract_amount": 1440,
+            "contract_basis_raw": "01.04.2019 - Медийно обслужване",
+            "contract_sponsor_raw": "Община Твърдица/ 000590704"
+        },
+        {
+            "contract_amount_raw": "4320",
+            "contract_amount": 4320,
+            "contract_basis_raw": "03.01.2019 - Мониторинг",
+            "contract_sponsor_raw": "Община Тополовград/ 000970464"
+        },
+        {
+            "contract_amount_raw": "1200",
+            "contract_amount": 1200,
+            "contract_basis_raw": "01.07.2019 - Радио реклама",
+            "contract_sponsor_raw": "Община Тополовград/ 000970464"
+        },
+        {
+            "contract_amount_raw": "3000",
+            "contract_amount": 3000,
+            "contract_basis_raw": "01.07.2019 - Медийно обслужване",
+            "contract_sponsor_raw": "Община Тополовград/ 000970464"
+        },
+        {
+            "contract_amount_raw": "6000",
+            "contract_amount": 6000,
+            "contract_basis_raw": "27.03.2019 - Медийно обслужване",
+            "contract_sponsor_raw": "Община Трън/ 000386790"
+        },
+        {
+            "contract_amount_raw": "6000",
+            "contract_amount": 6000,
+            "contract_basis_raw": "30.05.2019 - Медийно обслужване",
+            "contract_sponsor_raw": "Община Тутракан/ 000565626"
+        },
+        {
+            "contract_amount_raw": "6500",
+            "contract_amount": 6500,
+            "contract_basis_raw": "28.03.2019 - Изработка на уеб сайт",
+            "contract_sponsor_raw": "Община Тутракан/ 000565626"
+        },
+        {
+            "contract_amount_raw": "4500",
+            "contract_amount": 4500,
+            "contract_basis_raw": "08.02.2019 - Медийно обслужване",
+            "contract_sponsor_raw": "Община Чепеларе/ 000615164"
+        },
+        {
+            "contract_amount_raw": "4000",
+            "contract_amount": 4000,
+            "contract_basis_raw": "16.02.2019 - Медийно обслужване",
+            "contract_sponsor_raw": "Община Шумен/ 000931721"
+        },
+        {
+            "contract_amount_raw": "10000",
+            "contract_amount": 10000,
+            "contract_basis_raw": "07.02.2019 - Медийно обслужване",
+            "contract_sponsor_raw": "Община Ямбол/ 000970496"
+        },
+        {
+            "contract_amount_raw": "4320",
+            "contract_amount": 4320,
+            "contract_basis_raw": "16.02.2019 - Мониторинг",
+            "contract_sponsor_raw": "Омбудсман на Република България/ 131436477"
+        },
+        {
+            "contract_amount_raw": "12000",
+            "contract_amount": 12000,
+            "contract_basis_raw": "16.02.2019 - Продуциране на предаване и предоставяне на програмно време",
+            "contract_sponsor_raw": "Омбудсман на Република България/ 131436477"
+        },
+        {
+            "contract_amount_raw": "25000",
+            "contract_amount": 25000,
+            "contract_basis_raw": "22.07.2019 - Продуциране на предаване и предоставяне на програмно време",
+            "contract_sponsor_raw": "ОП Общинско кабелно радио/ 0001336340501"
+        },
+        {
+            "contract_amount_raw": "20000",
+            "contract_amount": 20000,
+            "contract_basis_raw": "25.01.2019 - Медийно обслужване",
+            "contract_sponsor_raw": "ПП Българска социалистическа партия/ 000702014"
+        },
+        {
+            "contract_amount_raw": "80000",
+            "contract_amount": 80000,
+            "contract_basis_raw": "01.01.2019 - Медийно обслужване",
+            "contract_sponsor_raw": "ПП ГЕРБ/  175248466"
+        },
+        {
+            "contract_amount_raw": "7200",
+            "contract_amount": 7200,
+            "contract_basis_raw": "02.01.2019 - Медийно обслужване",
+            "contract_sponsor_raw": "ПП ГЕРБ/  175248466"
+        },
+        {
+            "contract_amount_raw": "2000",
+            "contract_amount": 2000,
+            "contract_basis_raw": "08.06.2019 - Продуциране на предаване и предоставяне на програмно време",
+            "contract_sponsor_raw": "ПП СДС/ 130052349"
+        },
+        {
+            "contract_amount_raw": "6327",
+            "contract_amount": 6327,
+            "contract_basis_raw": "01.01.2019 - Мониторинг",
+            "contract_sponsor_raw": "Представителство на Европейската комисия в България/ 999999999"
+        },
+        {
+            "contract_amount_raw": "6000",
+            "contract_amount": 6000,
+            "contract_basis_raw": "28.02.2019 - Мониторинг",
+            "contract_sponsor_raw": "Прокуратура на Република България/  121817309"
+        },
+        {
+            "contract_amount_raw": "3600",
+            "contract_amount": 3600,
+            "contract_basis_raw": "18.03.2019 - Мониторинг",
+            "contract_sponsor_raw": "Съвет за електронни медии/ 121565598"
+        },
+        {
+            "contract_amount_raw": "6000",
+            "contract_amount": 6000,
+            "contract_basis_raw": "03.09.2019 - Радио реклама",
+            "contract_sponsor_raw": "УМБАЛ Св. Иван Рилски ЕАД/ 000715054"
+        }
+    ]
+}

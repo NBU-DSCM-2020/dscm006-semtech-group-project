@@ -1,0 +1,17 @@
+{
+    "legal_entity_name": "Община Созопол",
+    "legal_entity_id": "000057236",
+    "public_company": "Надзорна институция - Сметна палата",
+    "media_service_type": "Печатна медия",
+    "media_service_name": "вестник Созопол - приложение към в. Черноморски фар",
+    "real_owner": "Тихомир Йорданов Янакиев",
+    "executive_individual": "Тодор Дамянов Дамянов",
+    "contracts": [
+        {
+            "contract_amount_raw": "15552",
+            "contract_amount": 15552,
+            "contract_basis_raw": "издаване и разпространение на вестник Созопол - договор с Издателскакъща Компакт медиа ООД",
+            "contract_sponsor_raw": "бюджет на Община Созопол 2019"
+        }
+    ]
+}

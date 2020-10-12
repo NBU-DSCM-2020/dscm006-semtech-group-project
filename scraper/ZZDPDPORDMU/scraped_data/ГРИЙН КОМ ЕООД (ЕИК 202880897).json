@@ -1,0 +1,101 @@
+{
+    "legal_entity_name": "ГРИЙН КОМ ЕООД",
+    "legal_entity_id": "202880897",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "DGNEWS.EU",
+    "real_owner": "МИЛЕНА ИВАНОВА НИКОЛОВА",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "2880",
+            "contract_amount": 2880,
+            "contract_basis_raw": "публикация на текстове, снимки и рекламни банери",
+            "contract_sponsor_raw": "Община Димитровград, ЕИК 000903533"
+        },
+        {
+            "contract_amount_raw": "900",
+            "contract_amount": 900,
+            "contract_basis_raw": "медийно отразяване на предизборна кампания",
+            "contract_sponsor_raw": "ПП Единна народна партия ЕИК 175519298"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "медийно отразяване на предизборна кампания",
+            "contract_sponsor_raw": "ПП ГЕРБ ЕИК 175248466"
+        },
+        {
+            "contract_amount_raw": "450",
+            "contract_amount": 450,
+            "contract_basis_raw": "медийно отразяване на предизборна кампания",
+            "contract_sponsor_raw": "Коалиция Демократична България-обединение"
+        },
+        {
+            "contract_amount_raw": "195,58",
+            "contract_amount": 195,
+            "contract_basis_raw": "публикации по проект Пазители на Тракия",
+            "contract_sponsor_raw": "НЧ НОВ ПЪТ 2011"
+        },
+        {
+            "contract_amount_raw": "2880",
+            "contract_amount": 2880,
+            "contract_basis_raw": "публикация на текстове, снимки и рекламни банери",
+            "contract_sponsor_raw": "Община Димитровград, ЕИК 000903533"
+        },
+        {
+            "contract_amount_raw": "2880",
+            "contract_amount": 2880,
+            "contract_basis_raw": "публикация на текстове, снимки и рекламни банери",
+            "contract_sponsor_raw": "Община Димитровград, ЕИК 000903533"
+        },
+        {
+            "contract_amount_raw": "900",
+            "contract_amount": 900,
+            "contract_basis_raw": "медийно отразяване на предизборна кампания",
+            "contract_sponsor_raw": "ПП Единна народна партия ЕИК 175519298"
+        },
+        {
+            "contract_amount_raw": "900",
+            "contract_amount": 900,
+            "contract_basis_raw": "медийно отразяване на предизборна кампания",
+            "contract_sponsor_raw": "ПП Единна народна партия ЕИК 175519298"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "медийно отразяване на предизборна кампания",
+            "contract_sponsor_raw": "ПП ГЕРБ ЕИК 175248466"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "медийно отразяване на предизборна кампания",
+            "contract_sponsor_raw": "ПП ГЕРБ ЕИК 175248466"
+        },
+        {
+            "contract_amount_raw": "450",
+            "contract_amount": 450,
+            "contract_basis_raw": "медийно отразяване на предизборна кампания",
+            "contract_sponsor_raw": "Коалиция Демократична България-обединение"
+        },
+        {
+            "contract_amount_raw": "450",
+            "contract_amount": 450,
+            "contract_basis_raw": "медийно отразяване на предизборна кампания",
+            "contract_sponsor_raw": "Коалиция Демократична България-обединение"
+        },
+        {
+            "contract_amount_raw": "782,34",
+            "contract_amount": 782,
+            "contract_basis_raw": "публикации по проект Пазители на Тракия",
+            "contract_sponsor_raw": "НЧ НОВ ПЪТ 2011"
+        },
+        {
+            "contract_amount_raw": "782,34",
+            "contract_amount": 782,
+            "contract_basis_raw": "публикации по проект Пазители на Тракия",
+            "contract_sponsor_raw": "НЧ НОВ ПЪТ 2011"
+        }
+    ]
+}

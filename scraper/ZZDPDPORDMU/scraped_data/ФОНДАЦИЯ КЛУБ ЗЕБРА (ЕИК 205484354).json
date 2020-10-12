@@ -1,0 +1,119 @@
+{
+    "legal_entity_name": "ФОНДАЦИЯ КЛУБ ЗЕБРА",
+    "legal_entity_id": "205484354",
+    "public_company": "неприложимо",
+    "media_service_type": "Печатна медия; Онлайн новинарско издание",
+    "media_service_name": "списание Клуб Z; www.clubz.bg",
+    "real_owner": "Светлана Бориславова Джамджиева, Мила Владимирова Аврамова, Лилия Калинова Цачева",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "60000",
+            "contract_amount": 60000,
+            "contract_basis_raw": "Договор за финансиране",
+            "contract_sponsor_raw": "ФОНДАЦИЯ АМЕРИКА ЗА БЪЛГАРИЯ"
+        },
+        {
+            "contract_amount_raw": "100 000",
+            "contract_amount": 100000,
+            "contract_basis_raw": "Договор за дарение за целите на Фондацията",
+            "contract_sponsor_raw": "СОФПРИНТ ГРУП АД"
+        },
+        {
+            "contract_amount_raw": "80000",
+            "contract_amount": 80000,
+            "contract_basis_raw": "Договор за дарение за целите на Фондацията",
+            "contract_sponsor_raw": "ОГНЯН ИВАНОВ ДОНЕВ"
+        },
+        {
+            "contract_amount_raw": "3050",
+            "contract_amount": 3050,
+            "contract_basis_raw": "Медийно  информационно обслужване",
+            "contract_sponsor_raw": "ПП Движение Да България"
+        },
+        {
+            "contract_amount_raw": "2500",
+            "contract_amount": 2500,
+            "contract_basis_raw": "Медийно  информационно обслужване",
+            "contract_sponsor_raw": "АВТОМАГИСТРАЛИ - ЕАД"
+        },
+        {
+            "contract_amount_raw": "2500",
+            "contract_amount": 2500,
+            "contract_basis_raw": "Медийно  информационно обслужване",
+            "contract_sponsor_raw": "ВМРО-БЪЛГАРСКО НАЦИОНАЛНО ДВИЖЕНИЕ Политическа организация"
+        },
+        {
+            "contract_amount_raw": "18333,33",
+            "contract_amount": 18333,
+            "contract_basis_raw": "Медийно  информационно обслужване",
+            "contract_sponsor_raw": "ПОЛИТИЧЕСКА ПАРТИЯ ГЕРБ Политическа организация"
+        },
+        {
+            "contract_amount_raw": "3000",
+            "contract_amount": 3000,
+            "contract_basis_raw": "Медийно  информационно обслужване",
+            "contract_sponsor_raw": "ОБЩИНА БУРГАС"
+        },
+        {
+            "contract_amount_raw": "3000",
+            "contract_amount": 3000,
+            "contract_basis_raw": "Медийно  информационно обслужване",
+            "contract_sponsor_raw": "ОБЩИНА ВРАЦА"
+        },
+        {
+            "contract_amount_raw": "3000",
+            "contract_amount": 3000,
+            "contract_basis_raw": "Медийно  информационно обслужване",
+            "contract_sponsor_raw": "БЛАГОЕВГРАД ФЕСТ - ЕООД"
+        },
+        {
+            "contract_amount_raw": "3000",
+            "contract_amount": 3000,
+            "contract_basis_raw": "Медийно  информационно обслужване",
+            "contract_sponsor_raw": "ОБЩИНА СЛИВЕН"
+        },
+        {
+            "contract_amount_raw": "3000",
+            "contract_amount": 3000,
+            "contract_basis_raw": "Медийно  информационно обслужване",
+            "contract_sponsor_raw": "ОБЩИНА ВАРНА"
+        },
+        {
+            "contract_amount_raw": "3000",
+            "contract_amount": 3000,
+            "contract_basis_raw": "Медийно  информационно обслужване",
+            "contract_sponsor_raw": "ОБЩИНА ПЕРНИК"
+        },
+        {
+            "contract_amount_raw": "10000",
+            "contract_amount": 10000,
+            "contract_basis_raw": "Медийно  информационно обслужване",
+            "contract_sponsor_raw": "АГЕНЦИЯ ПО ГЕОДЕЗИЯ, КАРТОГРАФИЯ И КАДАСТЪР Изпълнителна агенция"
+        },
+        {
+            "contract_amount_raw": "4166,66",
+            "contract_amount": 4166,
+            "contract_basis_raw": "Медийно  информационно обслужване",
+            "contract_sponsor_raw": "ПП ГЕРБ (Местна коалиция ГЕРБ(СДС))"
+        },
+        {
+            "contract_amount_raw": "3000",
+            "contract_amount": 3000,
+            "contract_basis_raw": "Медийно  информационно обслужване",
+            "contract_sponsor_raw": "Коалиция ДЕМОКРАТИЧНА БЪЛГАРИЯ-ОБЕДИНЕНИЕ"
+        },
+        {
+            "contract_amount_raw": "5000",
+            "contract_amount": 5000,
+            "contract_basis_raw": "Медийно  информационно обслужване",
+            "contract_sponsor_raw": "СТОЛИЧЕН ИНСПЕКТОРАТ към СТОЛИЧНА ОБЩИНА"
+        },
+        {
+            "contract_amount_raw": "2500",
+            "contract_amount": 2500,
+            "contract_basis_raw": "Медийно  информационно обслужване",
+            "contract_sponsor_raw": "Радан Миленов Кънев"
+        }
+    ]
+}

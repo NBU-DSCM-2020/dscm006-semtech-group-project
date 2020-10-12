@@ -1,0 +1,101 @@
+{
+    "legal_entity_name": "Вестник Темпо ЕООД",
+    "legal_entity_id": "201596893",
+    "public_company": "неприложимо",
+    "media_service_type": "Печатна медия; Онлайн новинарско издание",
+    "media_service_name": "вестник Велинградски Темпо новини; www.tempo.velingrad.com",
+    "real_owner": "Йордан Илиев Баев",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "11099",
+            "contract_amount": 11099,
+            "contract_basis_raw": "обяви по фактури",
+            "contract_sponsor_raw": "Община Велинград"
+        },
+        {
+            "contract_amount_raw": "2179",
+            "contract_amount": 2179,
+            "contract_basis_raw": "обяви по фактури",
+            "contract_sponsor_raw": "Община Ракитово"
+        },
+        {
+            "contract_amount_raw": "412",
+            "contract_amount": 412,
+            "contract_basis_raw": "обяви по фактури",
+            "contract_sponsor_raw": "Община Сърница"
+        },
+        {
+            "contract_amount_raw": "2863",
+            "contract_amount": 2863,
+            "contract_basis_raw": "обявипо фактури",
+            "contract_sponsor_raw": "СНЦ МИГ Белово, Септември, Велинград"
+        },
+        {
+            "contract_amount_raw": "320",
+            "contract_amount": 320,
+            "contract_basis_raw": "реклама по фактури",
+            "contract_sponsor_raw": "БЛЦ Камена ЕАД"
+        },
+        {
+            "contract_amount_raw": "290",
+            "contract_amount": 290,
+            "contract_basis_raw": "реклама, абонамент по фактури",
+            "contract_sponsor_raw": "ОП СИП-ТИЦ"
+        },
+        {
+            "contract_amount_raw": "166",
+            "contract_amount": 166,
+            "contract_basis_raw": "абонамент, обяви по фактури",
+            "contract_sponsor_raw": "ИМ - Велинград"
+        },
+        {
+            "contract_amount_raw": "380",
+            "contract_amount": 380,
+            "contract_basis_raw": "обяви по фактури",
+            "contract_sponsor_raw": "ВКТВ ЕООД Велинград"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "обяви по фактури",
+            "contract_sponsor_raw": "МБАЛ-Велинград ЕООД"
+        },
+        {
+            "contract_amount_raw": "442",
+            "contract_amount": 442,
+            "contract_basis_raw": "обява по фактура",
+            "contract_sponsor_raw": "МБПЛР ВИТА ЕООД"
+        },
+        {
+            "contract_amount_raw": "280",
+            "contract_amount": 280,
+            "contract_basis_raw": "договор 14.10.2019",
+            "contract_sponsor_raw": "ИК Радослав Димов"
+        },
+        {
+            "contract_amount_raw": "600",
+            "contract_amount": 600,
+            "contract_basis_raw": "договор 7.10.2019",
+            "contract_sponsor_raw": "ПП ГЕРБ"
+        },
+        {
+            "contract_amount_raw": "3187",
+            "contract_amount": 3187,
+            "contract_basis_raw": "договор 3.10.2019",
+            "contract_sponsor_raw": "МК БСДП - ЗС Ал. Стамболийски"
+        },
+        {
+            "contract_amount_raw": "940",
+            "contract_amount": 940,
+            "contract_basis_raw": "договор 25.10.2019",
+            "contract_sponsor_raw": "ВМРО-БНД"
+        },
+        {
+            "contract_amount_raw": "1120",
+            "contract_amount": 1120,
+            "contract_basis_raw": "договор 30.09.2019, фактура",
+            "contract_sponsor_raw": "ОбщС на БСП - Велинград"
+        }
+    ]
+}

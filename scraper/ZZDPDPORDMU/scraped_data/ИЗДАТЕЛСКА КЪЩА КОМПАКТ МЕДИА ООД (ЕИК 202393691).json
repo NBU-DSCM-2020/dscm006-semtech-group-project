@@ -1,0 +1,107 @@
+{
+    "legal_entity_name": "ИЗДАТЕЛСКА КЪЩА КОМПАКТ МЕДИА ООД",
+    "legal_entity_id": "202393691",
+    "public_company": "неприложимо",
+    "media_service_type": "Печатна медия",
+    "media_service_name": "вестник Седмицата",
+    "real_owner": "ДИМИТЪР СТОЙКОВ НИКОЛОВ",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "Евроизбори 2019 г.",
+            "contract_sponsor_raw": "ПП ГЕРБ"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "Местни избори 2019 г.",
+            "contract_sponsor_raw": "ПП ГЕРБ"
+        },
+        {
+            "contract_amount_raw": "600",
+            "contract_amount": 600,
+            "contract_basis_raw": "Евроизбори 2019 г.",
+            "contract_sponsor_raw": "ПП ВМРО-БНД"
+        },
+        {
+            "contract_amount_raw": "2300",
+            "contract_amount": 2300,
+            "contract_basis_raw": "Местни избори 2019г.",
+            "contract_sponsor_raw": "ПП ВМРО-БНД"
+        },
+        {
+            "contract_amount_raw": "990",
+            "contract_amount": 990,
+            "contract_basis_raw": "Евроизбори 2019 г.",
+            "contract_sponsor_raw": "ОбСъвет на БСП-Г.Оряховица"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "Евроизбори 2019г",
+            "contract_sponsor_raw": "ОбСъвет на БСП-В. Търново"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "Местни избори 2019 г.",
+            "contract_sponsor_raw": "ОбСъвет на БСП-Г.Оряховица"
+        },
+        {
+            "contract_amount_raw": "400",
+            "contract_amount": 400,
+            "contract_basis_raw": "Местни избори 2019 г.",
+            "contract_sponsor_raw": "ОбСъвет на БСП-В. Търново"
+        },
+        {
+            "contract_amount_raw": "240",
+            "contract_amount": 240,
+            "contract_basis_raw": "Евроизбори 2019г",
+            "contract_sponsor_raw": "Петя Петкова- Демократична България"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "Местни избори 2019 г.",
+            "contract_sponsor_raw": "Петя Петкова- Демократична България Обединение"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "Местни избори 2019 г.",
+            "contract_sponsor_raw": "Съюз на демократичните сили"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "Местни избори 2019 г.",
+            "contract_sponsor_raw": "Виктор Азманов - МК Алтернативата на гражданите"
+        },
+        {
+            "contract_amount_raw": "180",
+            "contract_amount": 180,
+            "contract_basis_raw": "Местни избори 2019 г.",
+            "contract_sponsor_raw": "ПП ВОЛЯ"
+        },
+        {
+            "contract_amount_raw": "13248",
+            "contract_amount": 13248,
+            "contract_basis_raw": "Изработка, печат и доставка на вестник",
+            "contract_sponsor_raw": "Община Созопол"
+        },
+        {
+            "contract_amount_raw": "1966",
+            "contract_amount": 1966,
+            "contract_basis_raw": "Публикуване на обяви",
+            "contract_sponsor_raw": "Община Горна Оряховица"
+        },
+        {
+            "contract_amount_raw": "420",
+            "contract_amount": 420,
+            "contract_basis_raw": "Публикуване на обяви",
+            "contract_sponsor_raw": "Общинска пазари Г.О. ООД"
+        }
+    ]
+}

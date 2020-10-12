@@ -1,0 +1,17 @@
+{
+    "legal_entity_name": "Община Омуртаг",
+    "legal_entity_id": "000875817",
+    "public_company": "Надзорна институция - Общински съвет гр.Омуртаг",
+    "media_service_type": "Радио",
+    "media_service_name": "Общинско кабелно радио-Омуртаг",
+    "real_owner": "Ешреф Хасанов Ешрефов",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "31167",
+            "contract_amount": 31167,
+            "contract_basis_raw": "Издръжка РТВ по решение на ОбС-Омуртаг №445 от 31.01.2019 г.",
+            "contract_sponsor_raw": "Община Омуртаг ЕИК 000875817"
+        }
+    ]
+}

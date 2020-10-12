@@ -1,0 +1,23 @@
+{
+    "legal_entity_name": "ШУМЕН ОНЛАЙН ЕООД",
+    "legal_entity_id": "204848278",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "Интернет сайт: www.shumenonline.bg , https://www.facebook.com/Shumenonlinebg-2228598574083137/",
+    "real_owner": "Румен Георгиев Милков",
+    "executive_individual": "Хрисимира Димитрова Милкова",
+    "contracts": [
+        {
+            "contract_amount_raw": "150",
+            "contract_amount": 150,
+            "contract_basis_raw": "договори за предизборна кампания за избор на Европейски парламент 2019 г.",
+            "contract_sponsor_raw": "ПП ВМРО-Българско национално движение"
+        },
+        {
+            "contract_amount_raw": "510",
+            "contract_amount": 510,
+            "contract_basis_raw": "договори за предизборна кампания за избор на Европейски парламент 2019 г.",
+            "contract_sponsor_raw": "БСП"
+        }
+    ]
+}

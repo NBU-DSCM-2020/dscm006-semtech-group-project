@@ -1,0 +1,59 @@
+{
+    "legal_entity_name": "ПИК НЮЗ ЕООД",
+    "legal_entity_id": "202235999",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание; Онлайн новинарско издание; Онлайн новинарско издание; Онлайн новинарско издание",
+    "media_service_name": "ИНФОРМАЦИОННА АГЕНЦИЯ ПИК; http://nedyalko.bg; http://pikco.bg; http://retro.bg",
+    "real_owner": "НЕДЯЛКО НЕДЯЛКОВ ЙОРДАНОВ",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "12000",
+            "contract_amount": 12000,
+            "contract_basis_raw": "МЕДИЙНО ОТРАЗЯВАНЕ ОТ 24,01,2019",
+            "contract_sponsor_raw": "ОБЛАСТНА АДМИНИСТРАЦИЯ НА СОФИЙСКА ОБЛАСТ, ЕИК 000776057"
+        },
+        {
+            "contract_amount_raw": "10000",
+            "contract_amount": 10000,
+            "contract_basis_raw": "ИЗБОРИ ЗА ЕВРОПЕЙСКИ ПАРЛАМЕНТ 2019Г. ОТ 22,04,2019",
+            "contract_sponsor_raw": "ПП ВМРО - БНД, ЕИК 130451348"
+        },
+        {
+            "contract_amount_raw": "10000",
+            "contract_amount": 10000,
+            "contract_basis_raw": "ИЗБОРИ ЗА ЕВРОПЕЙСКИ ПАРЛАМЕНТ 2019Г. ОТ 24,04,2019Г.",
+            "contract_sponsor_raw": "ПП ГЕРБ, ЕИК 175248466"
+        },
+        {
+            "contract_amount_raw": "8333,33",
+            "contract_amount": 8333,
+            "contract_basis_raw": "ИЗБОРИ ЗА ЕВРОПЕЙСКИ ПАРЛАМЕНТ 2019Г. ОТ 02,05,2019",
+            "contract_sponsor_raw": "ПП АТАКА, ЕИК 131458114"
+        },
+        {
+            "contract_amount_raw": "15000",
+            "contract_amount": 15000,
+            "contract_basis_raw": "ИЗБОРИ ЗА ЕВРОПЕЙСКИ ПАРЛАМЕНТ 2019Г. ОТ 22,04,2019Г.",
+            "contract_sponsor_raw": "ПП НФСВ, ЕИК 176129116"
+        },
+        {
+            "contract_amount_raw": "9166,67",
+            "contract_amount": 9166,
+            "contract_basis_raw": "МЕСТНИ ИЗБОРИ 2019 ОТ 01,10,2019Г.",
+            "contract_sponsor_raw": "ПП АТАКА, ЕИК 131458114"
+        },
+        {
+            "contract_amount_raw": "5000",
+            "contract_amount": 5000,
+            "contract_basis_raw": "МЕСТИ ИЗБОРИ 2019 ОТ 10,10,2019Г.",
+            "contract_sponsor_raw": "ПП НФСБ, ЕИК 176129116"
+        },
+        {
+            "contract_amount_raw": "10000",
+            "contract_amount": 10000,
+            "contract_basis_raw": "ДОГОВОР ЗА МЕДИЙНО ОТРАЗЯВАНЕ ОТ 01,06,2019Г.",
+            "contract_sponsor_raw": "ПП АТАКА, ЕИК 131458114"
+        }
+    ]
+}

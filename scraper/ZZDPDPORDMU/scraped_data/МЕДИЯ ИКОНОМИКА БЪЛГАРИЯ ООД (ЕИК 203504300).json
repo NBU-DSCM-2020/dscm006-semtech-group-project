@@ -1,0 +1,41 @@
+{
+    "legal_entity_name": "МЕДИЯ ИКОНОМИКА БЪЛГАРИЯ ООД",
+    "legal_entity_id": "203504300",
+    "public_company": "неприложимо",
+    "media_service_type": "Печатна медия; Онлайн новинарско издание; Печатна медия",
+    "media_service_name": "издаване на сп.икономика; www.economic.bg; разпространение на специално издание",
+    "real_owner": "ИЛИЯНА МИТКОВА ГАТЕВА - ЙОНЧЕВА",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "28170",
+            "contract_amount": 28170,
+            "contract_basis_raw": "ПРОДАЖБА НА СПЕЦИАЛНО ИЗДАНИЕ УСПЕШНИТЕ КОМПАНИИ - 17.12.2019",
+            "contract_sponsor_raw": "ИЗПЪЛНИТЕЛНА АГЕНЦИЯ ЗА НАСЪРЧАВАНЕ НА МАЛКИ И СРЕДНИ ПРЕДПРИЯТИЯ /ЕИК 131304835"
+        },
+        {
+            "contract_amount_raw": "28500",
+            "contract_amount": 28500,
+            "contract_basis_raw": "ПРОДАЖБА НА СПЕЦИАЛНО ИЗДАНИЕ УСПЕШНИТЕ КОМПАНИИ - 19.12.19",
+            "contract_sponsor_raw": "ПАТЕНТНО ВЕДОМСТВО НА РБ / ЕИК 000695121"
+        },
+        {
+            "contract_amount_raw": "28400",
+            "contract_amount": 28400,
+            "contract_basis_raw": "ПРОДАЖБА НА СПЕЦИАЛНО ИЗДАНИЕ УСПЕШНИТЕ КОМПАНИИ  -16.12.19",
+            "contract_sponsor_raw": "МИНИСТЕРСТВО НА ИКОНОМИКАТА /ЕИК 176789453"
+        },
+        {
+            "contract_amount_raw": "11177",
+            "contract_amount": 11177,
+            "contract_basis_raw": "ОРГАНИЗАЦИЯ НА ЦЕРЕМОНИЯ МИСТЪР И МИСИС ИКОНОМИКА- 06.11.19",
+            "contract_sponsor_raw": "БНТ /ЕИК 000672350"
+        },
+        {
+            "contract_amount_raw": "3141",
+            "contract_amount": 3141,
+            "contract_basis_raw": "МЕДИЙНО ПАРТНЬОРСТВО - 06.11.19",
+            "contract_sponsor_raw": "БНТ /ЕИК 000672350"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "legal_entity_name": "АК Медия ЕООД",
+    "legal_entity_id": "202014965",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "infopleven.com",
+    "real_owner": "Антоанета Кирилова Костова",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "450",
+            "contract_amount": 450,
+            "contract_basis_raw": "4.10.2019 г Медийно отразяване на МИ 2019",
+            "contract_sponsor_raw": "Любомир Иванов Илиев"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "1.10.2019 г Медийно отразяване на предизборна кампания МИ 2019",
+            "contract_sponsor_raw": "ПП ГЕРБ 175248466"
+        },
+        {
+            "contract_amount_raw": "1100",
+            "contract_amount": 1100,
+            "contract_basis_raw": "1.10.2019 г. Медийно отразяване на предизборна кампания МИ 2019",
+            "contract_sponsor_raw": "ПП АБВ 176734649"
+        },
+        {
+            "contract_amount_raw": "945",
+            "contract_amount": 945,
+            "contract_basis_raw": "1.10.2019 г Медийно отразяване на предизборна кампания МИ 2019",
+            "contract_sponsor_raw": "Тодор Георгиев Еленков"
+        },
+        {
+            "contract_amount_raw": "700",
+            "contract_amount": 700,
+            "contract_basis_raw": "5.10.2019 г. Медийно отразяване на предизборна кампания МИ 2019",
+            "contract_sponsor_raw": "ПП ДПС 000707470"
+        },
+        {
+            "contract_amount_raw": "425",
+            "contract_amount": 425,
+            "contract_basis_raw": "14.10.2019 г Медийно отразяване на предизборна кампания МИ 2019",
+            "contract_sponsor_raw": "ПП Атака 131458114"
+        },
+        {
+            "contract_amount_raw": "600",
+            "contract_amount": 600,
+            "contract_basis_raw": "14.05.2019 Медийно отразяване предизборна кампания ЕП",
+            "contract_sponsor_raw": "Обл. съвет БСП 0007020140203"
+        },
+        {
+            "contract_amount_raw": "400",
+            "contract_amount": 400,
+            "contract_basis_raw": "26.052019 г Медийно отразяване предизборна кампания ЕП",
+            "contract_sponsor_raw": "Румен Йорданов Петков"
+        },
+        {
+            "contract_amount_raw": "585",
+            "contract_amount": 585,
+            "contract_basis_raw": "21.02.2019 г Медийно отразяване дейността на Делегацията  на българските социалисти в ЕП",
+            "contract_sponsor_raw": "Сергей Станишев"
+        },
+        {
+            "contract_amount_raw": "1500",
+            "contract_amount": 1500,
+            "contract_basis_raw": "01.03.2019 г информационно медийно обслужване",
+            "contract_sponsor_raw": "Община Плевен 000413974"
+        }
+    ]
+}

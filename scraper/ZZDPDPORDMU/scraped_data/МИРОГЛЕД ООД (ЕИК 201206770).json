@@ -1,0 +1,107 @@
+{
+    "legal_entity_name": "МИРОГЛЕД ООД",
+    "legal_entity_id": "201206770",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "Мироглед",
+    "real_owner": "Мирослава Александрова Начова, Светлана Миткова Стоименова",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "4200",
+            "contract_amount": 4200,
+            "contract_basis_raw": "Информационно обслужване 04.10.2018г.- 04.10.2019г.",
+            "contract_sponsor_raw": "Община Перник, ЕИК:000386751"
+        },
+        {
+            "contract_amount_raw": "2796",
+            "contract_amount": 2796,
+            "contract_basis_raw": "Информационно обслужване  - 11.03.2019г.",
+            "contract_sponsor_raw": "СНЦ МИГ - Радомир - Земен, ЕИК:177145618"
+        },
+        {
+            "contract_amount_raw": "600",
+            "contract_amount": 600,
+            "contract_basis_raw": "Информационно обслужване - 15.03.2019г.",
+            "contract_sponsor_raw": "Областна администрация Перник"
+        },
+        {
+            "contract_amount_raw": "600",
+            "contract_amount": 600,
+            "contract_basis_raw": "Информационно обслужване-16.03.2019г.",
+            "contract_sponsor_raw": "Областна администрация Перник"
+        },
+        {
+            "contract_amount_raw": "1800",
+            "contract_amount": 1800,
+            "contract_basis_raw": "Информационно обслужване - 04.01.2019г.",
+            "contract_sponsor_raw": "Община Брезник , ЕИК:000386559"
+        },
+        {
+            "contract_amount_raw": "2400",
+            "contract_amount": 2400,
+            "contract_basis_raw": "Информационно обслужване - 02.01.2019г.",
+            "contract_sponsor_raw": "Община Трън , ЕИК:000386790"
+        },
+        {
+            "contract_amount_raw": "4500",
+            "contract_amount": 4500,
+            "contract_basis_raw": "Информационно обслужване - 01.04.2019г.",
+            "contract_sponsor_raw": "ПП ГЕРБ , ЕИК :175248466"
+        },
+        {
+            "contract_amount_raw": "600",
+            "contract_amount": 600,
+            "contract_basis_raw": "Евроизбори 2019г. - 27.04.2019г. ",
+            "contract_sponsor_raw": "ПП ГЕРБ , ЕИК:175248466"
+        },
+        {
+            "contract_amount_raw": "300",
+            "contract_amount": 300,
+            "contract_basis_raw": "Евроизбори 2019г. - 01.05.2019г.",
+            "contract_sponsor_raw": "БСП Перник , ЕИК:0007020140099"
+        },
+        {
+            "contract_amount_raw": "900",
+            "contract_amount": 900,
+            "contract_basis_raw": "Евроизбори 2019г. - 14.05.2019г.",
+            "contract_sponsor_raw": "АБВ , ЕИК :176734649"
+        },
+        {
+            "contract_amount_raw": "1500",
+            "contract_amount": 1500,
+            "contract_basis_raw": "Местни избори за кмет 2019г. - 04.10.2019г.",
+            "contract_sponsor_raw": "АБВ , ЕИК :176734649"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "Местни избори за кмет 2019г. - 04.10.2019г.",
+            "contract_sponsor_raw": "БДЦ , ЕИК:175342727"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "Местни избори за кмет 2019г. - 04.10.2019г.",
+            "contract_sponsor_raw": "ПП Никола Петков , ЕИК:130035830"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "Местни избори за кмет 2019г. - 08.10.2019г.",
+            "contract_sponsor_raw": "ПП НФСБ, ЕИК:176129116"
+        },
+        {
+            "contract_amount_raw": "700",
+            "contract_amount": 700,
+            "contract_basis_raw": "Местни избори за кмет 2019г. - 21.10.2019г.",
+            "contract_sponsor_raw": "БСП за България , ЕИК:0007020140099"
+        },
+        {
+            "contract_amount_raw": "2000",
+            "contract_amount": 2000,
+            "contract_basis_raw": "Местни избори за кмет 2019г. - 04.10.2019г.",
+            "contract_sponsor_raw": "ПП ГЕРБ , ЕИК:175248466"
+        }
+    ]
+}

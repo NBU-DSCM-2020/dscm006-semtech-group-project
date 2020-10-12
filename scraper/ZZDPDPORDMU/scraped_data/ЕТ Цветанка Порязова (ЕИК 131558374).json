@@ -1,0 +1,23 @@
+{
+    "legal_entity_name": "ЕТ Цветанка Порязова",
+    "legal_entity_id": "131558374",
+    "public_company": "неприложимо",
+    "media_service_type": "Печатна медия",
+    "media_service_name": "Своге7",
+    "real_owner": "Цветанка Петрова Порязова",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "1800",
+            "contract_amount": 1800,
+            "contract_basis_raw": "04.12.2019/информационно обслужване- рекламна дейност",
+            "contract_sponsor_raw": "Община Своге/000776502"
+        },
+        {
+            "contract_amount_raw": "1800",
+            "contract_amount": 1800,
+            "contract_basis_raw": "04.12.2019/информационно обслужване- рекламна дейност",
+            "contract_sponsor_raw": "Община Своге/000776502"
+        }
+    ]
+}

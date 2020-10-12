@@ -1,0 +1,71 @@
+{
+    "legal_entity_name": "НЧ БРАТСТВО-1884",
+    "legal_entity_id": "000124197",
+    "public_company": "неприложимо",
+    "media_service_type": "Печатна медия",
+    "media_service_name": "Павликенски глас",
+    "real_owner": "Петър Иванов Петров",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "21000",
+            "contract_amount": 21000,
+            "contract_basis_raw": "Издаване на вестник",
+            "contract_sponsor_raw": "общинско финансиране - Община Павликени ЕИК 000133901 "
+        },
+        {
+            "contract_amount_raw": "21000",
+            "contract_amount": 21000,
+            "contract_basis_raw": "Издаване на вестник",
+            "contract_sponsor_raw": "общинско финансиране - Община Павликени ЕИК 000133901 "
+        },
+        {
+            "contract_amount_raw": "800",
+            "contract_amount": 800,
+            "contract_basis_raw": "фактура №638/08.10.2019 ",
+            "contract_sponsor_raw": "ПП ГЕРБ ЕИК 175248466"
+        },
+        {
+            "contract_amount_raw": "60",
+            "contract_amount": 60,
+            "contract_basis_raw": "фактура №643/25.11.2019",
+            "contract_sponsor_raw": "МБАЛ Балчик ЕООД ЕИК 124504885"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "фактура №635/25.09.2019",
+            "contract_sponsor_raw": "ОБС на БСП Павликени ЕИК 0007020140852"
+        },
+        {
+            "contract_amount_raw": "250",
+            "contract_amount": 250,
+            "contract_basis_raw": "фактура №633/11.09.2019",
+            "contract_sponsor_raw": "БОН ЕООД ЕИК 817070858"
+        },
+        {
+            "contract_amount_raw": "75",
+            "contract_amount": 75,
+            "contract_basis_raw": "фактура №624/07.06.2019",
+            "contract_sponsor_raw": "ДИ ЕМ АЙ Дивелопмънт ЕООД ЕИК 201557566"
+        },
+        {
+            "contract_amount_raw": "400",
+            "contract_amount": 400,
+            "contract_basis_raw": "фактура №621/21.05.2019",
+            "contract_sponsor_raw": "ОБС на БСП Павликени ЕИК 0007020140852"
+        },
+        {
+            "contract_amount_raw": "300",
+            "contract_amount": 300,
+            "contract_basis_raw": "фактура №619/21.05.2019",
+            "contract_sponsor_raw": "ОБС на БСП Павликени ЕИК 0007020140852"
+        },
+        {
+            "contract_amount_raw": "20",
+            "contract_amount": 20,
+            "contract_basis_raw": "фактура №608/22.01.2019",
+            "contract_sponsor_raw": "Боянов-ВТ ЕООД ЕИК 204389227"
+        }
+    ]
+}

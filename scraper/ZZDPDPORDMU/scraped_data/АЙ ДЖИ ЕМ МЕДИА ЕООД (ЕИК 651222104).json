@@ -1,0 +1,395 @@
+{
+    "legal_entity_name": "АЙ ДЖИ ЕМ МЕДИА ЕООД",
+    "legal_entity_id": "651222104",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "sliveninfo.bg",
+    "real_owner": "Георги Иванов Мангинов",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "100",
+            "contract_amount": 100,
+            "contract_basis_raw": "Публик. на поздравително съобщение",
+            "contract_sponsor_raw": "Техно ънлимитед ЕООД, ЕИК 205642135"
+        },
+        {
+            "contract_amount_raw": "2320",
+            "contract_amount": 2320,
+            "contract_basis_raw": "Договор за медийно отразяване на дейността",
+            "contract_sponsor_raw": "Напителни системи-Сливен, ЕИК 831160078"
+        },
+        {
+            "contract_amount_raw": "300",
+            "contract_amount": 300,
+            "contract_basis_raw": "Договор за реклама",
+            "contract_sponsor_raw": "ЛМ_ Си Груп ЕООД, ЕИК "
+        },
+        {
+            "contract_amount_raw": "100",
+            "contract_amount": 100,
+            "contract_basis_raw": "Публик. на поздравително съобщение",
+            "contract_sponsor_raw": "Алголекс ЕООД, ЕИК 119605174"
+        },
+        {
+            "contract_amount_raw": "200",
+            "contract_amount": 200,
+            "contract_basis_raw": "Публик. на поздравително съобщение",
+            "contract_sponsor_raw": "Крис Моторс ООД, ЕИК 201758593"
+        },
+        {
+            "contract_amount_raw": "100",
+            "contract_amount": 100,
+            "contract_basis_raw": "Публик. на поздравително съобщение",
+            "contract_sponsor_raw": "Мебеллукс АД, ЕИК 119020085"
+        },
+        {
+            "contract_amount_raw": "1320",
+            "contract_amount": 1320,
+            "contract_basis_raw": "Публик. на поздравително съобщение",
+            "contract_sponsor_raw": "Алфа маркет България АД, ЕИК 203495462"
+        },
+        {
+            "contract_amount_raw": "150",
+            "contract_amount": 150,
+            "contract_basis_raw": "Публик. на поздравително съобщение",
+            "contract_sponsor_raw": "ЗД Евроинс АД, ЕИК 121265113"
+        },
+        {
+            "contract_amount_raw": "200",
+            "contract_amount": 200,
+            "contract_basis_raw": "Публик. на поздравително съобщение",
+            "contract_sponsor_raw": "Благоустройствени строежи ЕООД, ЕИК 829053966"
+        },
+        {
+            "contract_amount_raw": "200",
+            "contract_amount": 200,
+            "contract_basis_raw": "Публик. на поздравително съобщение",
+            "contract_sponsor_raw": "СД Начеви-90 с-ие, ЕИК 119035258"
+        },
+        {
+            "contract_amount_raw": "4200",
+            "contract_amount": 4200,
+            "contract_basis_raw": "Договор за информац. обсулжване в сайт чрез банер",
+            "contract_sponsor_raw": "Едуардо Миролио ЕАД, ЕИК 119603547"
+        },
+        {
+            "contract_amount_raw": "1100",
+            "contract_amount": 1100,
+            "contract_basis_raw": "Договор за информац. обсулжване в сайт чрез банер",
+            "contract_sponsor_raw": "Комнет България холдинг ООД, ЕИК 102151443"
+        },
+        {
+            "contract_amount_raw": "100",
+            "contract_amount": 100,
+            "contract_basis_raw": "Публик. на поздравително съобщение",
+            "contract_sponsor_raw": "СД Берко 90-Берковски и сие, ЕИК 119027514"
+        },
+        {
+            "contract_amount_raw": "100",
+            "contract_amount": 100,
+            "contract_basis_raw": "Публик. на поздравително съобщение",
+            "contract_sponsor_raw": "ВДХ АД, ЕИК 119081953"
+        },
+        {
+            "contract_amount_raw": "100",
+            "contract_amount": 100,
+            "contract_basis_raw": "Публик. на поздравително съобщение",
+            "contract_sponsor_raw": "Ел и клима корект ООД, ЕИК 201395965"
+        },
+        {
+            "contract_amount_raw": "100",
+            "contract_amount": 100,
+            "contract_basis_raw": "Публик. на поздравително съобщение",
+            "contract_sponsor_raw": "ФКПДК в България, ЕИК 119084369"
+        },
+        {
+            "contract_amount_raw": "300",
+            "contract_amount": 300,
+            "contract_basis_raw": "Договор за публикуване на съобщения",
+            "contract_sponsor_raw": "Топлофикация Сливен, ЕИК 119004654"
+        },
+        {
+            "contract_amount_raw": "2400",
+            "contract_amount": 2400,
+            "contract_basis_raw": "публикуване на банер",
+            "contract_sponsor_raw": "Община Сливен, ЕИК 000590654"
+        },
+        {
+            "contract_amount_raw": "4800",
+            "contract_amount": 4800,
+            "contract_basis_raw": "Договор за информац. обсулжване",
+            "contract_sponsor_raw": "ВиК Сливен, ЕИК 829053806"
+        },
+        {
+            "contract_amount_raw": "1440",
+            "contract_amount": 1440,
+            "contract_basis_raw": "Договор за медийно отразяване на дейността и реклама",
+            "contract_sponsor_raw": "МБАЛ Д-р Иван Селимински АД, ЕИК 119502733"
+        },
+        {
+            "contract_amount_raw": "4200",
+            "contract_amount": 4200,
+            "contract_basis_raw": "Договор за медийно отразяване на дейността",
+            "contract_sponsor_raw": "ЮИДП  Сливен ЕИК 201162765"
+        },
+        {
+            "contract_amount_raw": "1800",
+            "contract_amount": 1800,
+            "contract_basis_raw": "Договор за информац. обсулжване",
+            "contract_sponsor_raw": "Община Котел, ЕИК 000590540"
+        },
+        {
+            "contract_amount_raw": "3000",
+            "contract_amount": 3000,
+            "contract_basis_raw": "Договор за медийно отразяване на дейността",
+            "contract_sponsor_raw": "Община Твърдица, ЕИК 000590704"
+        },
+        {
+            "contract_amount_raw": "1750",
+            "contract_amount": 1750,
+            "contract_basis_raw": "Договор за отразяване на евроизбори 2019 г.",
+            "contract_sponsor_raw": "Общински съвет на ПП БСП – Сливен, ЕИК 0007020140070"
+        },
+        {
+            "contract_amount_raw": "1750",
+            "contract_amount": 1750,
+            "contract_basis_raw": "Договор за отразяване на евроизбори 2019 г.",
+            "contract_sponsor_raw": "ПП ДПС, ЕИК 00707470"
+        },
+        {
+            "contract_amount_raw": "1800",
+            "contract_amount": 1800,
+            "contract_basis_raw": "Договор за информац. обсулжване и публик.на съобщения",
+            "contract_sponsor_raw": "ЮИДПТПДГС Твърдица, ЕИК 2016176540084"
+        },
+        {
+            "contract_amount_raw": "1200",
+            "contract_amount": 1200,
+            "contract_basis_raw": "Договор за реклама и медийно  отразяване на дейността",
+            "contract_sponsor_raw": "Общинска охрана и СОТ, ЕИК 119547647"
+        },
+        {
+            "contract_amount_raw": "300",
+            "contract_amount": 300,
+            "contract_basis_raw": "Публикуване на поздравления и съобщения",
+            "contract_sponsor_raw": "Пътничеиски превози Сливен, ЕИК 202311429"
+        },
+        {
+            "contract_amount_raw": "1750",
+            "contract_amount": 1750,
+            "contract_basis_raw": "Договор за отразяване на евроизбори 2019 г.",
+            "contract_sponsor_raw": "ПП Герб, ЕИК 175248466"
+        },
+        {
+            "contract_amount_raw": "200",
+            "contract_amount": 200,
+            "contract_basis_raw": "платена публикация",
+            "contract_sponsor_raw": "РДГ Сливен, ЕИК 000591101"
+        },
+        {
+            "contract_amount_raw": "152",
+            "contract_amount": 152,
+            "contract_basis_raw": "платена публикация по проект",
+            "contract_sponsor_raw": "ОУ Д-р П.Берон, ЕИК 000582255"
+        },
+        {
+            "contract_amount_raw": "150",
+            "contract_amount": 150,
+            "contract_basis_raw": "платена публикация по проект",
+            "contract_sponsor_raw": "ППМГ Д.Чинтулов, ЕИК 000582561"
+        },
+        {
+            "contract_amount_raw": "100",
+            "contract_amount": 100,
+            "contract_basis_raw": "Публик. на поздравително съобщение",
+            "contract_sponsor_raw": "Техно ънлимитед ЕООД, ЕИК 205642135"
+        },
+        {
+            "contract_amount_raw": "2320",
+            "contract_amount": 2320,
+            "contract_basis_raw": "Договор за медийно отразяване на дейността",
+            "contract_sponsor_raw": "Напителни системи-Сливен, ЕИК 831160078"
+        },
+        {
+            "contract_amount_raw": "300",
+            "contract_amount": 300,
+            "contract_basis_raw": "Договор за реклама",
+            "contract_sponsor_raw": "ЛМ_ Си Груп ЕООД, ЕИК"
+        },
+        {
+            "contract_amount_raw": "100",
+            "contract_amount": 100,
+            "contract_basis_raw": "Публик. на поздравително съобщение",
+            "contract_sponsor_raw": "Алголекс ЕООД, ЕИК 119605174"
+        },
+        {
+            "contract_amount_raw": "200",
+            "contract_amount": 200,
+            "contract_basis_raw": "Публик. на поздравително съобщение",
+            "contract_sponsor_raw": "Крис Моторс ООД, ЕИК 201758593"
+        },
+        {
+            "contract_amount_raw": "100",
+            "contract_amount": 100,
+            "contract_basis_raw": "Публик. на поздравително съобщение",
+            "contract_sponsor_raw": "Мебеллукс АД, ЕИК 119020085"
+        },
+        {
+            "contract_amount_raw": "1320",
+            "contract_amount": 1320,
+            "contract_basis_raw": "Публик. на поздравително съобщение",
+            "contract_sponsor_raw": "Алфа маркет България АД, ЕИК 203495462"
+        },
+        {
+            "contract_amount_raw": "150",
+            "contract_amount": 150,
+            "contract_basis_raw": "Публик. на поздравително съобщение",
+            "contract_sponsor_raw": "ЗД Евроинс АД, ЕИК 121265113"
+        },
+        {
+            "contract_amount_raw": "200",
+            "contract_amount": 200,
+            "contract_basis_raw": "Публик. на поздравително съобщение",
+            "contract_sponsor_raw": "Благоустройствени строежи ЕООД, ЕИК 829053966"
+        },
+        {
+            "contract_amount_raw": "200",
+            "contract_amount": 200,
+            "contract_basis_raw": "Публик. на поздравително съобщение",
+            "contract_sponsor_raw": "СД Начеви-90 с-ие, ЕИК 119035258"
+        },
+        {
+            "contract_amount_raw": "4200",
+            "contract_amount": 4200,
+            "contract_basis_raw": "Договор за информац. обсулжване в сайт чрез банер",
+            "contract_sponsor_raw": "Едуардо Миролио ЕАД, ЕИК 119603547"
+        },
+        {
+            "contract_amount_raw": "1100",
+            "contract_amount": 1100,
+            "contract_basis_raw": "Договор за информац. обсулжване в сайт чрез банер",
+            "contract_sponsor_raw": "Комнет България холдинг ООД, ЕИК 102151443"
+        },
+        {
+            "contract_amount_raw": "100",
+            "contract_amount": 100,
+            "contract_basis_raw": "Публик. на поздравително съобщение",
+            "contract_sponsor_raw": "СД Берко 90-Берковски и сие, ЕИК 119027514"
+        },
+        {
+            "contract_amount_raw": "100",
+            "contract_amount": 100,
+            "contract_basis_raw": "Публик. на поздравително съобщение",
+            "contract_sponsor_raw": "ВДХ АД, ЕИК 119081953"
+        },
+        {
+            "contract_amount_raw": "100",
+            "contract_amount": 100,
+            "contract_basis_raw": "Публик. на поздравително съобщение",
+            "contract_sponsor_raw": "Ел и клима корект ООД, ЕИК 201395965"
+        },
+        {
+            "contract_amount_raw": "100",
+            "contract_amount": 100,
+            "contract_basis_raw": "Публик. на поздравително съобщение",
+            "contract_sponsor_raw": "ФКПДК в България, ЕИК 119084369"
+        },
+        {
+            "contract_amount_raw": "300",
+            "contract_amount": 300,
+            "contract_basis_raw": "Договор за публикуване на съобщения",
+            "contract_sponsor_raw": "Топлофикация Сливен, ЕИК 119004654"
+        },
+        {
+            "contract_amount_raw": "2400",
+            "contract_amount": 2400,
+            "contract_basis_raw": "публикуване на банер",
+            "contract_sponsor_raw": "Община Сливен, ЕИК 000590654"
+        },
+        {
+            "contract_amount_raw": "4800",
+            "contract_amount": 4800,
+            "contract_basis_raw": "Договор за информац. обсулжване",
+            "contract_sponsor_raw": "ВиК Сливен, ЕИК 829053806"
+        },
+        {
+            "contract_amount_raw": "1440",
+            "contract_amount": 1440,
+            "contract_basis_raw": "Договор за медийно отразяване на дейността и реклама",
+            "contract_sponsor_raw": "МБАЛ Д-р Иван Селимински АД, ЕИК 119502733"
+        },
+        {
+            "contract_amount_raw": "4200",
+            "contract_amount": 4200,
+            "contract_basis_raw": "Договор за медийно отразяване на дейността",
+            "contract_sponsor_raw": "ЮИДП  Сливен ЕИК 201162765"
+        },
+        {
+            "contract_amount_raw": "1800",
+            "contract_amount": 1800,
+            "contract_basis_raw": "Договор за информац. обсулжване",
+            "contract_sponsor_raw": "Община Котел, ЕИК 000590540"
+        },
+        {
+            "contract_amount_raw": "3000",
+            "contract_amount": 3000,
+            "contract_basis_raw": "Договор за медийно отразяване на дейността",
+            "contract_sponsor_raw": "Община Твърдица, ЕИК 000590704"
+        },
+        {
+            "contract_amount_raw": "1750",
+            "contract_amount": 1750,
+            "contract_basis_raw": "Договор за отразяване на евроизбори 2019 г.",
+            "contract_sponsor_raw": "Общински съвет на ПП БСП – Сливен, ЕИК 0007020140070"
+        },
+        {
+            "contract_amount_raw": "1750",
+            "contract_amount": 1750,
+            "contract_basis_raw": "Договор за отразяване на евроизбори 2019 г.",
+            "contract_sponsor_raw": "ПП ДПС, ЕИК 00707470"
+        },
+        {
+            "contract_amount_raw": "1800",
+            "contract_amount": 1800,
+            "contract_basis_raw": "Договор за информац. обсулжване и публик.на съобщения",
+            "contract_sponsor_raw": "ЮИДПТПДГС Твърдица, ЕИК 2016176540084"
+        },
+        {
+            "contract_amount_raw": "1200",
+            "contract_amount": 1200,
+            "contract_basis_raw": "Договор за реклама и  медийно отразяване на дейността",
+            "contract_sponsor_raw": "Общинска охрана и СОТ, ЕИК 119547647"
+        },
+        {
+            "contract_amount_raw": "300",
+            "contract_amount": 300,
+            "contract_basis_raw": "Публикуване на поздравления и съобщения",
+            "contract_sponsor_raw": "Пътничеиски превози Сливен, ЕИК 202311429"
+        },
+        {
+            "contract_amount_raw": "1750",
+            "contract_amount": 1750,
+            "contract_basis_raw": "Договор за отразяване на евроизбори 2019 г.",
+            "contract_sponsor_raw": "ПП Герб, ЕИК 175248466 "
+        },
+        {
+            "contract_amount_raw": "200",
+            "contract_amount": 200,
+            "contract_basis_raw": "платена публикация",
+            "contract_sponsor_raw": "РДГ Сливен, ЕИК 000591101"
+        },
+        {
+            "contract_amount_raw": "152",
+            "contract_amount": 152,
+            "contract_basis_raw": "платена публикация по проект",
+            "contract_sponsor_raw": "ОУ Д-р П.Берон, ЕИК 000582255"
+        },
+        {
+            "contract_amount_raw": "150",
+            "contract_amount": 150,
+            "contract_basis_raw": "платена публикация по проект",
+            "contract_sponsor_raw": "ППМГ Д.Чинтулов, ЕИК 000582561"
+        }
+    ]
+}

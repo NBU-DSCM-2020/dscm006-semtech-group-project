@@ -1,0 +1,101 @@
+{
+    "legal_entity_name": "Медиа Лайт ЕООД",
+    "legal_entity_id": "147055321",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "zonaburgas.bg",
+    "real_owner": "Илиан Николаев Раданов",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "4320",
+            "contract_amount": 4320,
+            "contract_basis_raw": "04.02.2019 г./Медийно-информационна дейност",
+            "contract_sponsor_raw": "Пристанище Бургас ЕАД/ 102004532"
+        },
+        {
+            "contract_amount_raw": "4320",
+            "contract_amount": 4320,
+            "contract_basis_raw": "02.07.2019 / Електронна съобщителна услуга",
+            "contract_sponsor_raw": "Община Бургас/000056814"
+        },
+        {
+            "contract_amount_raw": "6000",
+            "contract_amount": 6000,
+            "contract_basis_raw": "01.02.2019 / Медийно-информационна дейност",
+            "contract_sponsor_raw": "Община Поморие/000057179"
+        },
+        {
+            "contract_amount_raw": "5400",
+            "contract_amount": 5400,
+            "contract_basis_raw": "29.03.2019 / Медийно-информационна дейност",
+            "contract_sponsor_raw": "Слънчев бряг АД/812020577"
+        },
+        {
+            "contract_amount_raw": "3456",
+            "contract_amount": 3456,
+            "contract_basis_raw": "Публикуване на обяви и съобщения",
+            "contract_sponsor_raw": "ВиК Бургас ЕАД/812115210"
+        },
+        {
+            "contract_amount_raw": "1080",
+            "contract_amount": 1080,
+            "contract_basis_raw": "Публикуване на обяви и съобщения",
+            "contract_sponsor_raw": "МИГ Поморие/177023379"
+        },
+        {
+            "contract_amount_raw": "12000",
+            "contract_amount": 12000,
+            "contract_basis_raw": "30.07.2020 г./ Изработване на аудио-визуални материали за предавания и програми ",
+            "contract_sponsor_raw": "Община Несебър/000057122"
+        },
+        {
+            "contract_amount_raw": "864",
+            "contract_amount": 864,
+            "contract_basis_raw": "19.09.2019 г. / Видео репортажи местни избори",
+            "contract_sponsor_raw": "ПП Движение България на гражданите / 176368365"
+        },
+        {
+            "contract_amount_raw": "288",
+            "contract_amount": 288,
+            "contract_basis_raw": "11.10.2019 г./ видео репортаж местни избори",
+            "contract_sponsor_raw": "Димитър Георгиев Найденов"
+        },
+        {
+            "contract_amount_raw": "1008",
+            "contract_amount": 1008,
+            "contract_basis_raw": "03.10.2019 / банер и публикации местни избори",
+            "contract_sponsor_raw": "ПП АБВ / 176734649"
+        },
+        {
+            "contract_amount_raw": "1008",
+            "contract_amount": 1008,
+            "contract_basis_raw": "30.09.2019 г./ репортажи и публикации местни избори",
+            "contract_sponsor_raw": "Коалиция Ние, гражданите"
+        },
+        {
+            "contract_amount_raw": "720",
+            "contract_amount": 720,
+            "contract_basis_raw": "15.05.2019 г./ Публикации ероизбори",
+            "contract_sponsor_raw": "Обл. съвет на БСП Бургас/0007020140222"
+        },
+        {
+            "contract_amount_raw": "1008",
+            "contract_amount": 1008,
+            "contract_basis_raw": "28.09.2019/публикации месни избори",
+            "contract_sponsor_raw": "Ирена Борисова Лашкова"
+        },
+        {
+            "contract_amount_raw": "1500",
+            "contract_amount": 1500,
+            "contract_basis_raw": "19.07.2019 / Публикации",
+            "contract_sponsor_raw": "СНЦ Младежки глас/ 147220125"
+        },
+        {
+            "contract_amount_raw": "233",
+            "contract_amount": 233,
+            "contract_basis_raw": "Публикация",
+            "contract_sponsor_raw": "МИРГ Несебър - Месемврия /177224916"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "legal_entity_name": "Община Бургас",
+    "legal_entity_id": "000056814",
+    "public_company": "неприложимо",
+    "media_service_type": "Радио",
+    "media_service_name": "Общинско радио Гласът на Бургас",
+    "real_owner": "неприложимо",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "118 676",
+            "contract_amount": 118676,
+            "contract_basis_raw": "радиодейност",
+            "contract_sponsor_raw": "общинска субсидия"
+        }
+    ]
+}

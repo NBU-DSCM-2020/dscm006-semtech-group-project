@@ -1,0 +1,23 @@
+{
+    "legal_entity_name": "Пловдив лайв ООД",
+    "legal_entity_id": "202363415",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "онлайн новинарски сайт -  www.plovdivlive.bg",
+    "real_owner": "Валентина Стайкова Василева, Йордан Василев Василев",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "12000",
+            "contract_amount": 12000,
+            "contract_basis_raw": "по договор за информационно обслужване",
+            "contract_sponsor_raw": "УНИВЕРСИТЕТСКА МНОГОПРОФИЛНА БОЛНИЦА ЗА АКТИВНО ЛЕЧЕНИЕ СВЕТИ ГЕОРГИ ЕАД, ЕИК 115576405"
+        },
+        {
+            "contract_amount_raw": "12000",
+            "contract_amount": 12000,
+            "contract_basis_raw": "договор за информационно обслужване от 09,2019г.",
+            "contract_sponsor_raw": "УНИВЕРСИТЕТСКА МНОГОПРОФИЛНА БОЛНИЦА ЗА АКТИВНО ЛЕЧЕНИЕ СВЕТИ ГЕОРГИ ЕАД, ЕИК 115576405"
+        }
+    ]
+}

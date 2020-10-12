@@ -1,0 +1,119 @@
+{
+    "legal_entity_name": "РЕТЕЛ ЕАД",
+    "legal_entity_id": "175461795",
+    "public_company": "неприложимо",
+    "media_service_type": "Телевизия",
+    "media_service_name": "СРЕДНОГОРИЕ ТВ",
+    "real_owner": "Евгени Йорданов Гацински",
+    "executive_individual": "Евгени Йорданов Гацински, Александър Тодоров Илиев",
+    "contracts": [
+        {
+            "contract_amount_raw": "11505",
+            "contract_amount": 11505,
+            "contract_basis_raw": "Договор за реклама",
+            "contract_sponsor_raw": "Елаците-Мед АД"
+        },
+        {
+            "contract_amount_raw": "10920",
+            "contract_amount": 10920,
+            "contract_basis_raw": "Договор за реклама",
+            "contract_sponsor_raw": "Дънди Прешъс Металс Челопеч АД"
+        },
+        {
+            "contract_amount_raw": "12999",
+            "contract_amount": 12999,
+            "contract_basis_raw": "Договор за реклама",
+            "contract_sponsor_raw": "Аурубис България АД"
+        },
+        {
+            "contract_amount_raw": "2700",
+            "contract_amount": 2700,
+            "contract_basis_raw": "Договор за пакет телевизионни обяви - абонамент",
+            "contract_sponsor_raw": "Общинска администрация - Челопеч"
+        },
+        {
+            "contract_amount_raw": "1920",
+            "contract_amount": 1920,
+            "contract_basis_raw": "Договор за заснемане и излъчване на заседания на Общински съвет",
+            "contract_sponsor_raw": "Общинска администрация - Челопеч"
+        },
+        {
+            "contract_amount_raw": "2700",
+            "contract_amount": 2700,
+            "contract_basis_raw": "Договор за пакет телевизионни обяви - абонамент",
+            "contract_sponsor_raw": "Общинска администрация - Пирдоп"
+        },
+        {
+            "contract_amount_raw": "3180",
+            "contract_amount": 3180,
+            "contract_basis_raw": "Договор за заснемане и излъчване на заседания на Общински съвет",
+            "contract_sponsor_raw": "Общинска администрация - Пирдоп"
+        },
+        {
+            "contract_amount_raw": "1815",
+            "contract_amount": 1815,
+            "contract_basis_raw": "Договор за пакет телевизионни обяви - абонамент",
+            "contract_sponsor_raw": "Общинска администрация - Чавдар"
+        },
+        {
+            "contract_amount_raw": "1500",
+            "contract_amount": 1500,
+            "contract_basis_raw": "Договор за реклама",
+            "contract_sponsor_raw": "Общинска администрация - Копривщица"
+        },
+        {
+            "contract_amount_raw": "360",
+            "contract_amount": 360,
+            "contract_basis_raw": "Договор за реклама",
+            "contract_sponsor_raw": "СУ Саво Савов - гр.Пирдоп"
+        },
+        {
+            "contract_amount_raw": "360",
+            "contract_amount": 360,
+            "contract_basis_raw": "Договор за реклама",
+            "contract_sponsor_raw": "СУ Любен Каравелов - гр.Копривщица"
+        },
+        {
+            "contract_amount_raw": "360",
+            "contract_amount": 360,
+            "contract_basis_raw": "Договор за реклама",
+            "contract_sponsor_raw": "СУ Паисий Хилендарски - гр.Златица"
+        },
+        {
+            "contract_amount_raw": "3000",
+            "contract_amount": 3000,
+            "contract_basis_raw": "Договор за медийни услуги в предизборна кампания - Избори за кметове и общински съветници",
+            "contract_sponsor_raw": "Политическа партия Евророма"
+        },
+        {
+            "contract_amount_raw": "633",
+            "contract_amount": 633,
+            "contract_basis_raw": "Договор за медийни услуги в предизборна кампания - Избори за кметове и общински съветници",
+            "contract_sponsor_raw": "Ангел Пенчов Геров - кандидат"
+        },
+        {
+            "contract_amount_raw": "302",
+            "contract_amount": 302,
+            "contract_basis_raw": "Договор за медийни услуги в предизборна кампания - Избори за кметове и общински съветници",
+            "contract_sponsor_raw": "Политическа партия СДС"
+        },
+        {
+            "contract_amount_raw": "300",
+            "contract_amount": 300,
+            "contract_basis_raw": "Договор за медийни услуги в предизборна кампания - Избори за кметове и общински съветници",
+            "contract_sponsor_raw": "Политическа партия ГЕРБ"
+        },
+        {
+            "contract_amount_raw": "260",
+            "contract_amount": 260,
+            "contract_basis_raw": "Договор за медийни услуги в предизборна кампания - Избори за кметове и общински съветници",
+            "contract_sponsor_raw": "Общинска организация на БСП - община Пирдоп"
+        },
+        {
+            "contract_amount_raw": "226",
+            "contract_amount": 226,
+            "contract_basis_raw": "Договор за медийни услуги в предизборна кампания - Избори за кметове и общински съветници",
+            "contract_sponsor_raw": "Вера Бойчева - кандидат"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "legal_entity_name": "Хасково Прес ЕООД Хасково",
+    "legal_entity_id": "205442469",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "Хасково Прес",
+    "real_owner": "Милена Стоева Лавчева",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "12000",
+            "contract_amount": 12000,
+            "contract_basis_raw": "Договор №1 /21.03.2019",
+            "contract_sponsor_raw": "Областен съвет на БСП - Хасково ЕИК 0007020140726"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "Договор за отразяване кампания местни избори",
+            "contract_sponsor_raw": "Общински съвет на БСП - Хасково ЕИК0007020140050"
+        },
+        {
+            "contract_amount_raw": "300",
+            "contract_amount": 300,
+            "contract_basis_raw": "Договор за отразяване кампания местни избори",
+            "contract_sponsor_raw": "Общински съвет БСП- Харманли ЕИК 0007020140432"
+        },
+        {
+            "contract_amount_raw": "220",
+            "contract_amount": 220,
+            "contract_basis_raw": "Публикация в сайт по проект BG05SFOP001",
+            "contract_sponsor_raw": "ФАККОР БГ ЕООД ЕИК205716799"
+        },
+        {
+            "contract_amount_raw": "769,99",
+            "contract_amount": 769,
+            "contract_basis_raw": "ВИДЕОМАТЕРИАЛИ -   3 БРОЯ",
+            "contract_sponsor_raw": "Българска свободна медия ЕИК 205214825"
+        },
+        {
+            "contract_amount_raw": "12000",
+            "contract_amount": 12000,
+            "contract_basis_raw": "Договор №1 /21.03.2019",
+            "contract_sponsor_raw": "Областен съвет на БСП - Хасково ЕИК 0007020140726"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "Договор за отразяване кампания местни избори",
+            "contract_sponsor_raw": "Общински съвет на БСП - Хасково ЕИК0007020140050"
+        },
+        {
+            "contract_amount_raw": "300",
+            "contract_amount": 300,
+            "contract_basis_raw": "Договор за отразяване кампания местни избори",
+            "contract_sponsor_raw": "Общински съвет БСП- Харманли ЕИК 0007020140432"
+        }
+    ]
+}

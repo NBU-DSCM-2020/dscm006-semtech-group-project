@@ -1,0 +1,59 @@
+{
+    "legal_entity_name": "ОПРИМ ООД",
+    "legal_entity_id": "125582004",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "Итармедия",
+    "real_owner": "Иван Колев Иванов",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "3600",
+            "contract_amount": 3600,
+            "contract_basis_raw": "по договор за информационно обслужване",
+            "contract_sponsor_raw": "000875920"
+        },
+        {
+            "contract_amount_raw": "1500",
+            "contract_amount": 1500,
+            "contract_basis_raw": "рекламни услуги за 12 месеца",
+            "contract_sponsor_raw": "835014989"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "публикация",
+            "contract_sponsor_raw": "175248466"
+        },
+        {
+            "contract_amount_raw": "200",
+            "contract_amount": 200,
+            "contract_basis_raw": "публикация",
+            "contract_sponsor_raw": "0007020140027"
+        },
+        {
+            "contract_amount_raw": "3600",
+            "contract_amount": 3600,
+            "contract_basis_raw": "информационно обслужване, чрез публикуване на съобщения и обявления в уеб страницата www.itarmedia.bg 31.01.2019 г.",
+            "contract_sponsor_raw": "Община Търговище / 000875920"
+        },
+        {
+            "contract_amount_raw": "1500",
+            "contract_amount": 1500,
+            "contract_basis_raw": "осигуряване на рекламна площ върху собствения си сайт www.itarmedia.bg 03.07.2019 г.",
+            "contract_sponsor_raw": "Водоснабдяване и канализация ООД / 835014989"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "информационно обслужване, чрез публикуване на съобщения и обявления в уеб страницата www.itarmedia.bg 01.10.2019 г.",
+            "contract_sponsor_raw": "ПП ГЕРБ / 175248466"
+        },
+        {
+            "contract_amount_raw": "200",
+            "contract_amount": 200,
+            "contract_basis_raw": "информационно обслужване, чрез публикуване на съобщения и обявления в уеб страницата www.itarmedia.bg 08.10.2019 г.",
+            "contract_sponsor_raw": "ЦК БСП за България ( БСП за България и АБВ ) / 00070201400027"
+        }
+    ]
+}

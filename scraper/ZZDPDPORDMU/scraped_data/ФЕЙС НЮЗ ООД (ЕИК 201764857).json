@@ -1,0 +1,35 @@
+{
+    "legal_entity_name": "ФЕЙС НЮЗ ООД",
+    "legal_entity_id": "201764857",
+    "public_company": "неприложимо",
+    "media_service_type": "Печатна медия",
+    "media_service_name": "ФЕЙС НЮЗ",
+    "real_owner": "ДИМИТЪР СТОЙКОВ НИКОЛОВ, БОРИСЛАВ ЛЮДМИЛОВ ДОСЕВ",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "600",
+            "contract_amount": 600,
+            "contract_basis_raw": "Евроизбори 2019 г.",
+            "contract_sponsor_raw": "ВМРО – Българско национално "
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "Евроизбори 2019 г.",
+            "contract_sponsor_raw": "ОС на БСП – Велико Търново"
+        },
+        {
+            "contract_amount_raw": "300",
+            "contract_amount": 300,
+            "contract_basis_raw": "Местни избори 2019г.",
+            "contract_sponsor_raw": "ПП  ГЕРБ"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "Местни избори 2019г.",
+            "contract_sponsor_raw": "Виктор Недев Азманов"
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "legal_entity_name": "РОДОПИ ВОЙС ООД",
+    "legal_entity_id": "108692200",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "24RODOPI.COM",
+    "real_owner": "Илхан Али Дурмуш-Андай",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "12800",
+            "contract_amount": 12800,
+            "contract_basis_raw": "публикуване на обяви и съобщения, заснемане на клипове",
+            "contract_sponsor_raw": "Община Кърджали/000235920"
+        },
+        {
+            "contract_amount_raw": "40900",
+            "contract_amount": 40900,
+            "contract_basis_raw": "обяви, съобщения, абонамент и др.",
+            "contract_sponsor_raw": "Община Смолян/000615118"
+        },
+        {
+            "contract_amount_raw": "250",
+            "contract_amount": 250,
+            "contract_basis_raw": "обяви",
+            "contract_sponsor_raw": "Административен съд Кърдажали / 108685856"
+        },
+        {
+            "contract_amount_raw": "3320",
+            "contract_amount": 3320,
+            "contract_basis_raw": "абонамент, поздравления ",
+            "contract_sponsor_raw": "ПП Герб / 175248466"
+        },
+        {
+            "contract_amount_raw": "864",
+            "contract_amount": 864,
+            "contract_basis_raw": "Поздравления ",
+            "contract_sponsor_raw": "ОС на ДПС Кърджали / 000707470"
+        },
+        {
+            "contract_amount_raw": "1860",
+            "contract_amount": 1860,
+            "contract_basis_raw": "договор за мед. обслужване, абонамент",
+            "contract_sponsor_raw": "МБАЛ д-р Атанас Дафовски / 108501669"
+        },
+        {
+            "contract_amount_raw": "180",
+            "contract_amount": 180,
+            "contract_basis_raw": "реклама",
+            "contract_sponsor_raw": "ЮЦДП Смоялн / 20161958001"
+        },
+        {
+            "contract_amount_raw": "360",
+            "contract_amount": 360,
+            "contract_basis_raw": "реклама",
+            "contract_sponsor_raw": "ЮЦДП ТП ДГС Кърджали /201619580"
+        },
+        {
+            "contract_amount_raw": "1840",
+            "contract_amount": 1840,
+            "contract_basis_raw": "реклама",
+            "contract_sponsor_raw": "СУ П.Р.Славейков/000258404"
+        },
+        {
+            "contract_amount_raw": "7458,75",
+            "contract_amount": 7458,
+            "contract_basis_raw": "реклама",
+            "contract_sponsor_raw": "Реклама за дейността на група АЛДЕ"
+        },
+        {
+            "contract_amount_raw": "860",
+            "contract_amount": 860,
+            "contract_basis_raw": "инф. обсл.- избори ЕП 2019",
+            "contract_sponsor_raw": "ПП Герб / 175248466"
+        },
+        {
+            "contract_amount_raw": "214",
+            "contract_amount": 214,
+            "contract_basis_raw": "инф. обсл.- избори ЕП 2019",
+            "contract_sponsor_raw": "Общински съвет на БСП Кърджали / 000702140428"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "инф. обсл.- избори ЕП 2019",
+            "contract_sponsor_raw": "Общински съвет на БСП Смолян/"
+        },
+        {
+            "contract_amount_raw": "150",
+            "contract_amount": 150,
+            "contract_basis_raw": "инф. обсл.- избори ЕП 2019",
+            "contract_sponsor_raw": "ПП ВМРО-Българско национално движение/13045134"
+        }
+    ]
+}

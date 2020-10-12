@@ -1,0 +1,101 @@
+{
+    "legal_entity_name": "Радио и телевизия Сити ЕООД",
+    "legal_entity_id": "121804856",
+    "public_company": "неприложимо",
+    "media_service_type": "Радио; Телевизия",
+    "media_service_name": "Радио Сити (включва сайт www.city.bg, както и фейсбук и инстаграм страници за срушатели); Сити ТВ",
+    "real_owner": "Николай Георгиев Янчовичин, Атанас Иванов Генов, Христин  Богомилов Стрижлев",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "232,4",
+            "contract_amount": 232,
+            "contract_basis_raw": "Предизборна аудио реклама на БСП Пловдив",
+            "contract_sponsor_raw": "ГС на БСП Пловдив, ЕИК: 0007020140237"
+        },
+        {
+            "contract_amount_raw": "338,52",
+            "contract_amount": 338,
+            "contract_basis_raw": "Предизборна аудио реклама на Йорданка Фъндъкова",
+            "contract_sponsor_raw": "ПП Герб, ЕИК: 175248466"
+        },
+        {
+            "contract_amount_raw": "459",
+            "contract_amount": 459,
+            "contract_basis_raw": "Предизборна аудио реклама на ВМРО БНД",
+            "contract_sponsor_raw": "ВМРО - БНД, ЕИК: 130451348"
+        },
+        {
+            "contract_amount_raw": "91,8",
+            "contract_amount": 91,
+            "contract_basis_raw": "Предизборна аудио реклама на Коалиция Демократична България",
+            "contract_sponsor_raw": "Коалиция Демократична България Обединение, ЕИК:177394797"
+        },
+        {
+            "contract_amount_raw": "677,04",
+            "contract_amount": 677,
+            "contract_basis_raw": "Предизборна аудио реклама на Йорданка Фъндъкова",
+            "contract_sponsor_raw": "ПП Герб, ЕИК: 175248466"
+        },
+        {
+            "contract_amount_raw": "855,4",
+            "contract_amount": 855,
+            "contract_basis_raw": "Предизборна аудио реклама Партия на Зелените",
+            "contract_sponsor_raw": "Партия на Зелените, ЕИК: 130481028"
+        },
+        {
+            "contract_amount_raw": "2269,5",
+            "contract_amount": 2269,
+            "contract_basis_raw": "Излъчване на реклама по предизборна кампания 13-24.05.19",
+            "contract_sponsor_raw": "ПП ГЕРБ, ЕИК 175248466"
+        },
+        {
+            "contract_amount_raw": "2188",
+            "contract_amount": 2188,
+            "contract_basis_raw": "Пакет предизборна кампания",
+            "contract_sponsor_raw": "ЦЕНТРАЛНА ИЗБИРАТЕЛНА КОМИСИЯ"
+        },
+        {
+            "contract_amount_raw": "2500",
+            "contract_amount": 2500,
+            "contract_basis_raw": "Видео заснемане на събития",
+            "contract_sponsor_raw": "ИЗБЕРИ БЪЛГАРИЯ Сдружение"
+        },
+        {
+            "contract_amount_raw": "5000",
+            "contract_amount": 5000,
+            "contract_basis_raw": "Излъчване на реклама по договор One dance week",
+            "contract_sponsor_raw": "Фондация Едно за Култура и Изкуства, ЕИК 175810193"
+        },
+        {
+            "contract_amount_raw": "855,4",
+            "contract_amount": 855,
+            "contract_basis_raw": "Излъчване на реклама по предизборна кампания",
+            "contract_sponsor_raw": "ПАРТИЯ НА ЗЕЛЕНИТЕ, ЕИК 130481028"
+        },
+        {
+            "contract_amount_raw": "677,04",
+            "contract_amount": 677,
+            "contract_basis_raw": "Предизборна аудио реклама на Йорданка Фъндъкова",
+            "contract_sponsor_raw": "ПП ГЕРБ (Местна коалиция ГЕРБ(СДС)), ЕИК 175248466"
+        },
+        {
+            "contract_amount_raw": "7795,56",
+            "contract_amount": 7795,
+            "contract_basis_raw": "Видео заснемане на събития",
+            "contract_sponsor_raw": "ИЗБЕРИ БЪЛГАРИЯ Сдружение"
+        },
+        {
+            "contract_amount_raw": "1003,68",
+            "contract_amount": 1003,
+            "contract_basis_raw": "Купуване на програмно време",
+            "contract_sponsor_raw": "МИНИСТЕРСТВО НА ОКОЛНАТА СРЕДА И ВОДИТЕ, ЕИК697371"
+        },
+        {
+            "contract_amount_raw": "1063,83",
+            "contract_amount": 1063,
+            "contract_basis_raw": "Видео заснемане на събития",
+            "contract_sponsor_raw": "ИЗБЕРИ БЪЛГАРИЯ Сдружение"
+        }
+    ]
+}

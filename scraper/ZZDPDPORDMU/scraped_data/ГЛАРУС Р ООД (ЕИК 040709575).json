@@ -1,0 +1,125 @@
+{
+    "legal_entity_name": "ГЛАРУС Р ООД",
+    "legal_entity_id": "040709575",
+    "public_company": "неприложимо",
+    "media_service_type": "Радио; Онлайн новинарско издание; Онлайн новинарско издание",
+    "media_service_name": "Радиоуслуга – Фолк радио; онлайн услуга –www.radio-folk.com; Фейсбук профил - Фолк радио",
+    "real_owner": "Мария Петкова Димитрова, Димитър Събков Събков",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "214,2",
+            "contract_amount": 214,
+            "contract_basis_raw": "Реклама",
+            "contract_sponsor_raw": "ДТ Адриана Будевска"
+        },
+        {
+            "contract_amount_raw": "1414,01",
+            "contract_amount": 1414,
+            "contract_basis_raw": "Реклама",
+            "contract_sponsor_raw": "МЕД.УНИВЕРСИТЕТ ПРОФ. Д-Р ПАРАСКЕВ СТОЯНОВ ВАРНА"
+        },
+        {
+            "contract_amount_raw": "416,13",
+            "contract_amount": 416,
+            "contract_basis_raw": "Радиокампания София Филм Фест На брега",
+            "contract_sponsor_raw": "ОБЩИНА БУРГАС"
+        },
+        {
+            "contract_amount_raw": "336,17",
+            "contract_amount": 336,
+            "contract_basis_raw": "Реклама Флора 2019",
+            "contract_sponsor_raw": "ОП Летен театър,фестивали и концерти "
+        },
+        {
+            "contract_amount_raw": "416,13",
+            "contract_amount": 416,
+            "contract_basis_raw": "Радио кампания - Великден",
+            "contract_sponsor_raw": "Община Бургас – Култура"
+        },
+        {
+            "contract_amount_raw": "998",
+            "contract_amount": 998,
+            "contract_basis_raw": "Реклама",
+            "contract_sponsor_raw": "ПГХТ Акад.Н.Д.Зелинский"
+        },
+        {
+            "contract_amount_raw": "1483,33",
+            "contract_amount": 1483,
+            "contract_basis_raw": "Организиране на кампания в полза на обществото Бургас е по-красив, защото аз го правя,ти също",
+            "contract_sponsor_raw": "ОБЩИНА БУРГАС"
+        },
+        {
+            "contract_amount_raw": "266,67",
+            "contract_amount": 266,
+            "contract_basis_raw": "Реклама - първа вноска",
+            "contract_sponsor_raw": "ИСТОРИЧЕСКИ МУЗЕЙ – ПОМОРИЕ"
+        },
+        {
+            "contract_amount_raw": "470",
+            "contract_amount": 470,
+            "contract_basis_raw": "Реклама Изложение Пясъчни фигури-юли",
+            "contract_sponsor_raw": "ОП Летен театър,фестивали и концерти"
+        },
+        {
+            "contract_amount_raw": "470",
+            "contract_amount": 470,
+            "contract_basis_raw": "Реклама Изложение Папагали-юли",
+            "contract_sponsor_raw": "ОП Летен театър,фестивали и концерти"
+        },
+        {
+            "contract_amount_raw": "833,25",
+            "contract_amount": 833,
+            "contract_basis_raw": "Реклама",
+            "contract_sponsor_raw": "ОП Туризъм"
+        },
+        {
+            "contract_amount_raw": "265,33",
+            "contract_amount": 265,
+            "contract_basis_raw": "Реклама - втора вноска",
+            "contract_sponsor_raw": "ИСТОРИЧЕСКИ МУЗЕЙ – ПОМОРИЕ"
+        },
+        {
+            "contract_amount_raw": "482",
+            "contract_amount": 482,
+            "contract_basis_raw": "Реклама Изложение Пясъчни фигури - м. август",
+            "contract_sponsor_raw": "ОП Летен театър,фестивали и концерти"
+        },
+        {
+            "contract_amount_raw": "482",
+            "contract_amount": 482,
+            "contract_basis_raw": "Реклама Изложение Папагали и пеперуди-м.август",
+            "contract_sponsor_raw": "ОП Летен театър,фестивали и концерти"
+        },
+        {
+            "contract_amount_raw": "831,6",
+            "contract_amount": 831,
+            "contract_basis_raw": "Осъществяване на рекл.кампания-Изложба Тутанкамон",
+            "contract_sponsor_raw": "Община Бургас – Култура"
+        },
+        {
+            "contract_amount_raw": "2070",
+            "contract_amount": 2070,
+            "contract_basis_raw": "Излъчване на предизборна реклама",
+            "contract_sponsor_raw": "ПП Средна Европейска Класа"
+        },
+        {
+            "contract_amount_raw": "1166,67",
+            "contract_amount": 1166,
+            "contract_basis_raw": "Организиране на кампания в полза на обществото под надслов Заедно пазим децата на пътя - спри, детето запази!",
+            "contract_sponsor_raw": "ОБЩИНА БУРГАС"
+        },
+        {
+            "contract_amount_raw": "250",
+            "contract_amount": 250,
+            "contract_basis_raw": "Медийно отразяване на проведени събития в област Бургас",
+            "contract_sponsor_raw": "ОБЛАСТНА АДМИНИСТРАЦИЯ БУРГАС"
+        },
+        {
+            "contract_amount_raw": "1500",
+            "contract_amount": 1500,
+            "contract_basis_raw": "Предоставяне на програмно време за популяризиране на конкурса  Бург на годината 2019 съгласно договор  31-00-24/21.11.2019",
+            "contract_sponsor_raw": "Община Бургас"
+        }
+    ]
+}

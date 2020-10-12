@@ -1,0 +1,59 @@
+{
+    "legal_entity_name": "Община Лясковец",
+    "legal_entity_id": "000133844",
+    "public_company": "неприложимо",
+    "media_service_type": "Радио",
+    "media_service_name": "Общинско кабелно радио - Лясковец",
+    "real_owner": "д-р Ивелина Хараламбиева Гецова",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "15603",
+            "contract_amount": 15603,
+            "contract_basis_raw": "Идръжка от местния бюджет",
+            "contract_sponsor_raw": "Община Лясковец"
+        },
+        {
+            "contract_amount_raw": "6",
+            "contract_amount": 6,
+            "contract_basis_raw": "Ф-ра № 0000002940/08.02.2019 г. - съобщение",
+            "contract_sponsor_raw": "ПП Атака"
+        },
+        {
+            "contract_amount_raw": "6",
+            "contract_amount": 6,
+            "contract_basis_raw": "Ф-ра № 0000002941/08.02.2019 г. - съобщение",
+            "contract_sponsor_raw": "ПП Атака"
+        },
+        {
+            "contract_amount_raw": "18",
+            "contract_amount": 18,
+            "contract_basis_raw": "Ф-ра № 0000003576/01.10.2019 г. - предизборен материал",
+            "contract_sponsor_raw": "ПП Коалиция БСП за България"
+        },
+        {
+            "contract_amount_raw": "186",
+            "contract_amount": 186,
+            "contract_basis_raw": "Ф-ра № 0000003578/01.10.2019 г. -  предизборен материал",
+            "contract_sponsor_raw": "ПП Земеделски съюз Александър Стамболийски"
+        },
+        {
+            "contract_amount_raw": "60",
+            "contract_amount": 60,
+            "contract_basis_raw": "Ф-ра № 0000003590/14.10.2019 г. -  предизборен материал",
+            "contract_sponsor_raw": "Местна коалиция  - Демократична България - Обединение, Воля и НФСБ"
+        },
+        {
+            "contract_amount_raw": "18",
+            "contract_amount": 18,
+            "contract_basis_raw": "Ф-ра № 0000003600/21.10.2019 г. - предизборен материал",
+            "contract_sponsor_raw": "Местна коалиция  - Демократична България - Обединение, Воля и НФСБ"
+        },
+        {
+            "contract_amount_raw": "60",
+            "contract_amount": 60,
+            "contract_basis_raw": "Ф-ра № 0000003650/05.11.2019 г. - предизборен материал",
+            "contract_sponsor_raw": "ПП ГЕРБ"
+        }
+    ]
+}

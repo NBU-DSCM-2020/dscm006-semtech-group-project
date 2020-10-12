@@ -1,0 +1,383 @@
+{
+    "legal_entity_name": "Инвестор.БГ АД",
+    "legal_entity_id": "130277328",
+    "public_company": "Надзорна институция - Комисия за финансов надзор",
+    "media_service_type": "Телевизия; Радио; Радио; Печатна медия; Печатна медия; Печатна медия; Онлайн новинарско издание; Онлайн новинарско издание; Онлайн новинарско издание; Онлайн новинарско издание; Онлайн новинарско издание; Онлайн новинарско издание; Онлайн новинарско издание; Онлайн новинарско издание; Онлайн новинарско издание; Онлайн новинарско издание; Онлайн новинарско издание ; Онлайн новинарско издание; Онлайн новинарско издание",
+    "media_service_name": "Телевизия BULGARIA ON AIR; Радио BULGARIA ON AIR; Радио ALPHA RADIO; Списание BULGARIA ON AIR The Inflight Magazine; Списание INVESTOR DIGEST; Списание GO ON AIR The Traveller’s Magazine / Болгария Путеводитель; Investor.bg; Dnes.bg; Start.bg; Gol.bg; Tialoto.bg; Snimka.bg; Rabota.bg; Teenproblem.net; Blog.bg; Automedia.bg; Az-jenata.bg; Az-deteto.bg; bgonair.bg",
+    "real_owner": "ВИКТОРИЯ ЕМИЛОВА МИТКОВА-на основание пар. 2, ал. 5 от ДР на ЗМИП",
+    "executive_individual": "НИКОЛИНА  ИВАНОВА  ДИМИТРОВА- програмен директор ТВ България он ер, АЛЕКСАНДЪР СТОЯНЧЕВ ПОПОВ – главен редактор dnes.bg, БОЙЧО ЧАВДАРОВ ПОПОВ – главен редактор investor.bg и rabota.bg, ВАЛЕНТИН ИВАНОВ ДИРЕКОВ – мениджър уеб сайт start.bg, ГЕОРГИ ВЕСЕЛИНОВ ПЕШЕВ – главен редактор gol.bg, КРИСИ НИКОЛАЕВА ТАБАЧКА – главен редактор tialoto.bg и teenproblem.net, МАРИЯ ДИМИТРОВА ДУКОВСКА-САВКОВА – главен редактор az-jenata.bg и az-deteto.bg",
+    "contracts": [
+        {
+            "contract_amount_raw": "300 000",
+            "contract_amount": 300000,
+            "contract_basis_raw": "Договор за заем",
+            "contract_sponsor_raw": "Холдинг Варна АД, ЕИК:103249584"
+        },
+        {
+            "contract_amount_raw": "34854,1",
+            "contract_amount": 34854,
+            "contract_basis_raw": "Договор от 25.04.2019г. за предоставяне на програмно/рекламно време в програмата на телевизия Bulgaria ON AIR/България он ер",
+            "contract_sponsor_raw": "НС на БСП, ЕИК:000702014"
+        },
+        {
+            "contract_amount_raw": "8333,33",
+            "contract_amount": 8333,
+            "contract_basis_raw": "Договор от дата 25.04.2019г. за предоставяне на програмно/рекламно време в програмата на телевизия Bulgaria ON AIR/България он ер",
+            "contract_sponsor_raw": "ВМРО Бълг.нац.движение, ЕИК:130451348"
+        },
+        {
+            "contract_amount_raw": "8333,33",
+            "contract_amount": 8333,
+            "contract_basis_raw": "Договор от 30.09.2019г. за предоставяне на програмно/рекламно време в програмата на телевизия Bulgaria ON AIR/България он ер",
+            "contract_sponsor_raw": "ВМРО Бълг.нац.движение, ЕИК:130451348"
+        },
+        {
+            "contract_amount_raw": "25000",
+            "contract_amount": 25000,
+            "contract_basis_raw": "Договор № Д-33-14/09.03.2018 за предоставяне на програмно време в ТВ България он ер",
+            "contract_sponsor_raw": "Министерство на околната среда и водите, ЕИК:000697371"
+        },
+        {
+            "contract_amount_raw": "29812,5",
+            "contract_amount": 29812,
+            "contract_basis_raw": "Договор №РД-02-037-121/18.10.2019г. За предоставяне на програмно време в ТВ България он ер за популяризиране на напредъка и изпълнението на ОПРР 2014-2020 за новата програма за регионално развитие през програмен период 2021-2027",
+            "contract_sponsor_raw": "Министерство на регионалното развитие и благоустройство, ЕИК:831661388"
+        },
+        {
+            "contract_amount_raw": "79999,99",
+            "contract_amount": 79999,
+            "contract_basis_raw": "Договор №Т-РД 29-70 /02,04,2019 г. за предоставяне на прогр.време в телевизия България он ер и радио България он ер с цел рекламиране и утвърждаване на България като предпочитана туристическа дестинация",
+            "contract_sponsor_raw": "Министерство на туризма, ЕИК:176789478"
+        },
+        {
+            "contract_amount_raw": "120 000",
+            "contract_amount": 120000,
+            "contract_basis_raw": "Договор №Т-РД-29-176/ 06.11.2019 г. за предоставяне на програмно време в телевизия България он ер с цел рекламиране и утвърждаване на  България като предпочитана туристическа дистинация",
+            "contract_sponsor_raw": "Министерство на туризма, ЕИК:176789478"
+        },
+        {
+            "contract_amount_raw": "1500",
+            "contract_amount": 1500,
+            "contract_basis_raw": "Рекл.публикация в сп.Bulgaria ON  AIR The Inflight Magazine.",
+            "contract_sponsor_raw": "Община Банско, ЕИК:000024663"
+        },
+        {
+            "contract_amount_raw": "1450",
+            "contract_amount": 1450,
+            "contract_basis_raw": "Отразяване на информационни съобщения в програмата на телевизия България он ер по заявка",
+            "contract_sponsor_raw": "Община Габрово, ЕИК:000215630"
+        },
+        {
+            "contract_amount_raw": "8360",
+            "contract_amount": 8360,
+            "contract_basis_raw": "Договор от дата 27.09.2019г. за предоставяне на програмно/рекламно време в програмата на телевизия Bulgaria ON AIR/България он ер",
+            "contract_sponsor_raw": "ПП АБВ алтернатива за бълг.възраждане, ЕИК:176734649"
+        },
+        {
+            "contract_amount_raw": "13747,57",
+            "contract_amount": 13747,
+            "contract_basis_raw": "Договор от дата 02.05.2019г. за предоставяне на програмно/рекламно време/площи в програмата на телевизия и радио Bulgaria ON AIR/България он ер  и  на уебстраниците www.dnes.bg  и www.investor.bg",
+            "contract_sponsor_raw": "ПП АБВ алтернатива за бълг.възраждане, ЕИК:176734649"
+        },
+        {
+            "contract_amount_raw": "20896,8",
+            "contract_amount": 20896,
+            "contract_basis_raw": "Договор от дата 22.04.2019г. за предоставяне на програмно/рекламно време в програмата на телевизия и радио Bulgaria ON AIR/България он ер",
+            "contract_sponsor_raw": "ПП Герб, ЕИК:175248466"
+        },
+        {
+            "contract_amount_raw": "3450",
+            "contract_amount": 3450,
+            "contract_basis_raw": "Рекл.публикация в сп.Bulgaria ON  AIR The Inflight Magazine.",
+            "contract_sponsor_raw": "Софийска филхармония, ЕИК:000670883"
+        },
+        {
+            "contract_amount_raw": "23348,1",
+            "contract_amount": 23348,
+            "contract_basis_raw": "Договор М-00545 / 01.07.2019 за осигуряване на програмно време за излъчване на телевизионни рекламни съобщения в Телевизия България он ер и Bloomberg TV Bulgaria.",
+            "contract_sponsor_raw": "НДК-конгр.център София ЕАД, ЕИК:201570116"
+        },
+        {
+            "contract_amount_raw": "9260",
+            "contract_amount": 9260,
+            "contract_basis_raw": "Договор 44/01.10.2019г за изработка на 2 броя обучителни клипа.",
+            "contract_sponsor_raw": "Централна избирателна комисия, ЕИК:176481459"
+        },
+        {
+            "contract_amount_raw": "17030,04",
+            "contract_amount": 17030,
+            "contract_basis_raw": "Договор от дата 23.04.2019г. за предоставяне на рекламно време и рекламни площи в програмата на телевизия и радио Bulgaria ON AIR/България он ер, Bloomberg TV Bulgaria и рекламни площи на уеб страниците www.dnes.bg , www.investor.bg, www.az-jenata.bg и www.puls.bg",
+            "contract_sponsor_raw": "Централна избирателна комисия, ЕИК:176481459"
+        },
+        {
+            "contract_amount_raw": "6680,2",
+            "contract_amount": 6680,
+            "contract_basis_raw": "Договор от дата 07.05.2019г. за предоставяне на програмно/рекламно време в програмата на телевизия Bulgaria ON AIR/България он ер",
+            "contract_sponsor_raw": "Централна избирателна комисия, ЕИК:176481459"
+        },
+        {
+            "contract_amount_raw": "8592,52",
+            "contract_amount": 8592,
+            "contract_basis_raw": "Договор Д03-13/06.11.19 за предост.на прогр.време в телевизия България он ер за излъчване на рекламни форми за ОП Наука и образовине за интелигентен растеж-53332,72лв.без ддс обща сума по договор.",
+            "contract_sponsor_raw": "ИА ОП Наука и образование за интелигентен растеж, ЕИК:177224179"
+        },
+        {
+            "contract_amount_raw": "3450",
+            "contract_amount": 3450,
+            "contract_basis_raw": "Отразяване на информационни съобщения в сп. Инвестор  Дайджест и телевизия Bulgaria ON AIR по заявка",
+            "contract_sponsor_raw": "Община Шумен, ЕИК:000931721"
+        },
+        {
+            "contract_amount_raw": "2000",
+            "contract_amount": 2000,
+            "contract_basis_raw": "Договор от дата 21.05.2019 за предоставяне на програмно/рекламно време в програмата ан телевизия Bulgaria ON AIR/България он ер",
+            "contract_sponsor_raw": "ПП Атака, ЕИК:131458114"
+        },
+        {
+            "contract_amount_raw": "2000",
+            "contract_amount": 2000,
+            "contract_basis_raw": "Договор от дата 30.09.2019 за предоставяне на програмно/рекламно време в програмата ан телевизия Bulgaria ON AIR/България он ер",
+            "contract_sponsor_raw": "ПП Атака, ЕИК:131458114"
+        },
+        {
+            "contract_amount_raw": "1900",
+            "contract_amount": 1900,
+            "contract_basis_raw": "Договор от дата 04.10.2019 за предоставяне на програмно/рекламно време в програмата ан телевизия Bulgaria ON AIR/България он ер",
+            "contract_sponsor_raw": "ПП Атака, ЕИК:131458114"
+        },
+        {
+            "contract_amount_raw": "1900",
+            "contract_amount": 1900,
+            "contract_basis_raw": "Договор от дата 07.10.2019 за предоставяне на програмно/рекламно време в програмата ан телевизия Bulgaria ON AIR/България он ер",
+            "contract_sponsor_raw": "ПП Атака, ЕИК:131458114"
+        },
+        {
+            "contract_amount_raw": "1900",
+            "contract_amount": 1900,
+            "contract_basis_raw": "Договор от дата 14.10.2019 за предоставяне на програмно/рекламно време в програмата ан телевизия Bulgaria ON AIR/България он ер",
+            "contract_sponsor_raw": "ПП Атака, ЕИК:131458114"
+        },
+        {
+            "contract_amount_raw": "1900",
+            "contract_amount": 1900,
+            "contract_basis_raw": "Договор от дата 15.10.2019 за предоставяне на програмно/рекламно време в програмата ан телевизия Bulgaria ON AIR/България он ер",
+            "contract_sponsor_raw": "ПП Атака, ЕИК:131458114"
+        },
+        {
+            "contract_amount_raw": "1250",
+            "contract_amount": 1250,
+            "contract_basis_raw": "Договор от дата 16.10.2019 за предоставяне на програмно/рекламно време в програмата ан телевизия Bulgaria ON AIR/България он ер",
+            "contract_sponsor_raw": "ПП Атака, ЕИК:131458114"
+        },
+        {
+            "contract_amount_raw": "1900",
+            "contract_amount": 1900,
+            "contract_basis_raw": "Договор от дата 21.10.2019 за предоставяне на програмно/рекламно време в програмата ан телевизия Bulgaria ON AIR/България он ер",
+            "contract_sponsor_raw": "ПП Атака, ЕИК:131458114"
+        },
+        {
+            "contract_amount_raw": "1900",
+            "contract_amount": 1900,
+            "contract_basis_raw": "Договор от дата 23.10.2019 за предоставяне на програмно/рекламно време в програмата ан телевизия Bulgaria ON AIR/България он ер",
+            "contract_sponsor_raw": "ПП Атака, ЕИК:131458114"
+        },
+        {
+            "contract_amount_raw": "5000",
+            "contract_amount": 5000,
+            "contract_basis_raw": "Договор от 08.05.2019 г., предоставяне на рекламно време в телевизия Bulgaria ON Air",
+            "contract_sponsor_raw": "Народен театър Иван Вазов, ЕИК:000670748"
+        },
+        {
+            "contract_amount_raw": "750",
+            "contract_amount": 750,
+            "contract_basis_raw": "Медийно отразяване на събитие в Телевизия България он ер по заявка",
+            "contract_sponsor_raw": "Община Севлиево, ЕИК:000215889"
+        },
+        {
+            "contract_amount_raw": "1500",
+            "contract_amount": 1500,
+            "contract_basis_raw": "Договор от дата 21.08.2019г. за предоставяне на рекламна площ в BOA The Inflight Мagazine брой септември",
+            "contract_sponsor_raw": "Химико-технологичен и металургичен университет, ЕИК:000670673"
+        },
+        {
+            "contract_amount_raw": "1900",
+            "contract_amount": 1900,
+            "contract_basis_raw": "Договор от дата 30.10.2019г. за предоставяне на програмно/рекламно време в програмата ан телевизия Bulgaria ON AIR/България он ер",
+            "contract_sponsor_raw": "ПП НФСБ, ЕИК:176129116"
+        },
+        {
+            "contract_amount_raw": "66",
+            "contract_amount": 66,
+            "contract_basis_raw": "Продажба на 6 бр. списания бр.107-66 лв.",
+            "contract_sponsor_raw": "Българска банка за развитие АД, ЕИК:121856059"
+        },
+        {
+            "contract_amount_raw": "2500",
+            "contract_amount": 2500,
+            "contract_basis_raw": "Договор от 02.11.2018г.за спонсорска застравка в телевизия България он ер",
+            "contract_sponsor_raw": "ДП РВД, ЕИК:000697179"
+        },
+        {
+            "contract_amount_raw": "10000",
+            "contract_amount": 10000,
+            "contract_basis_raw": "Договор 114/20.03.2019 г. за предоставяне на прогр.време с цел излъчване на рекл.бъг.",
+            "contract_sponsor_raw": "ДП РВД, ЕИК:000697179"
+        },
+        {
+            "contract_amount_raw": "11000",
+            "contract_amount": 11000,
+            "contract_basis_raw": "Договор от 25.10.2019 по осъществяване на информ.кампания Стани ръководител на полети и предоставяне на прогр.време за ицлъчване на спонс.заставка и репортажи",
+            "contract_sponsor_raw": "ДП РВД, ЕИК:000697179"
+        },
+        {
+            "contract_amount_raw": "6274,8",
+            "contract_amount": 6274,
+            "contract_basis_raw": "Договор№ ИО -04-262/22.04.2013 г.за бартер с предмет: лого на сайта dnes.bg",
+            "contract_sponsor_raw": "БТА, Българска телеграфна агенция, ЕИК:000695071"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "Договор К-124/10.11.2019 Г.Инвестор.БГ АД / доставчик / по договор с предмет: рекламно присъствие на Инвестор Файнанс Форум 2019",
+            "contract_sponsor_raw": "Централен депозитар АД, ЕИК:121142712"
+        },
+        {
+            "contract_amount_raw": "3000",
+            "contract_amount": 3000,
+            "contract_basis_raw": "Договор К-123/10.11.2019 - Събитие IFF 2019",
+            "contract_sponsor_raw": "Българска фондова борса АД, ЕИК: 030412611"
+        },
+        {
+            "contract_amount_raw": "749,97",
+            "contract_amount": 749,
+            "contract_basis_raw": "Договор C-020/24.06.2019 - ПР материал в investor.bg",
+            "contract_sponsor_raw": "Българска фондова борса АД, ЕИК: 030412611"
+        },
+        {
+            "contract_amount_raw": "42000",
+            "contract_amount": 42000,
+            "contract_basis_raw": "Договор К-23/31.03.2019 за реклама на събития, реклама в списание  Inflight magazine и банер реклама",
+            "contract_sponsor_raw": "Българска банка за развитие АД, ЕИК:121856059"
+        },
+        {
+            "contract_amount_raw": "1250",
+            "contract_amount": 1250,
+            "contract_basis_raw": "Услуга- ментор на събитие Knowledge city",
+            "contract_sponsor_raw": "Асоциация за развитие на София, ЕИК:175941584"
+        },
+        {
+            "contract_amount_raw": "62,5",
+            "contract_amount": 62,
+            "contract_basis_raw": "Услуга- такса вход за събитие Knowledge city",
+            "contract_sponsor_raw": "Общински гаранционен фонд за малки и средни предприятия, ЕИК:0006963271980"
+        },
+        {
+            "contract_amount_raw": "4740",
+            "contract_amount": 4740,
+            "contract_basis_raw": "Услуга-ПР кампании в сайт investor.bg",
+            "contract_sponsor_raw": "Корейска агенция за насърчаване на търговията и инвестициите, ЕИК:131014209"
+        },
+        {
+            "contract_amount_raw": "15000",
+            "contract_amount": 15000,
+            "contract_basis_raw": "Договор К-84-1/11.12.2018 - Публикуване на уведомления в dnes.bg",
+            "contract_sponsor_raw": "Софийска вода АД, ЕИК:130175000"
+        },
+        {
+            "contract_amount_raw": "5000",
+            "contract_amount": 5000,
+            "contract_basis_raw": "Договор с ПП Движение 21/08.05.2019 - реклама в dnes.bg",
+            "contract_sponsor_raw": "Централна избирателна комисия, ЕИК:176481459"
+        },
+        {
+            "contract_amount_raw": "35739,71",
+            "contract_amount": 35739,
+            "contract_basis_raw": "Договор № 34/17.09.19 - 35739.71 за рекламна кампания в БОА, Bloomberg TV, dnes.bg, azjenata.bg,investor.bg, puls.bg",
+            "contract_sponsor_raw": "Централна избирателна комисия, ЕИК:176481459"
+        },
+        {
+            "contract_amount_raw": "30688,17",
+            "contract_amount": 30688,
+            "contract_basis_raw": "Договор №К-82/22.05.2019 - събитие Финансов форум, бордно издание на България ЕР,ТВ реклама Bloomberg TV , bloombergtv.bg , банер  investor.bg, на обща стойност 30159лв. и такса вход събития -  529.17 лв",
+            "contract_sponsor_raw": "Фонд мениджър на ФИ в България, ЕИК:203740812"
+        },
+        {
+            "contract_amount_raw": "6285,78",
+            "contract_amount": 6285,
+            "contract_basis_raw": "Договор М-00545/01.07.2019 на обща стойност 29630.99 лв за  реклама в БОА и Блумберг ТВ България",
+            "contract_sponsor_raw": "НДК-Конгресен център София ЕООД, ЕИК:201570119"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "Договор К-65/08.04.2019 - Участие във форум бременност и детско здраве",
+            "contract_sponsor_raw": "ПСАГБАЛ Св.София ЕАД,  ЕИК:000689182"
+        },
+        {
+            "contract_amount_raw": "560",
+            "contract_amount": 560,
+            "contract_basis_raw": "Услуга-участие в конференция и информ.бюлетин",
+            "contract_sponsor_raw": "София Тех Парк АД, ЕИК:202099976"
+        },
+        {
+            "contract_amount_raw": "3900,04",
+            "contract_amount": 3900,
+            "contract_basis_raw": "Договор К-111/15.10.2019 г. за ТВ реклама БОА, реклама в dnes.bg, invesestor.bg, azjenata.bg ",
+            "contract_sponsor_raw": "Коалиция Демократична България-обединение, ЕИК:177394797"
+        },
+        {
+            "contract_amount_raw": "3000",
+            "contract_amount": 3000,
+            "contract_basis_raw": "Договор К-110/10.10.2019 ,за реклама в dnes.bg",
+            "contract_sponsor_raw": "ПП Герб, ЕИК:175248466"
+        },
+        {
+            "contract_amount_raw": "1080",
+            "contract_amount": 1080,
+            "contract_basis_raw": "Договор С-38/16.10.2019  за ПР публикация вinvestor.bg ",
+            "contract_sponsor_raw": "ДП Пристанищна инфраструктура, ЕИК:130316140"
+        },
+        {
+            "contract_amount_raw": "20738,47",
+            "contract_amount": 20738,
+            "contract_basis_raw": "Договор за бартер с предмет: публикуване на интернет рекламни форми за популяризиране на телевизионна продукция на БНТ",
+            "contract_sponsor_raw": "Българска национална телевизия, ЕИК:000672350"
+        },
+        {
+            "contract_amount_raw": "90",
+            "contract_amount": 90,
+            "contract_basis_raw": "Услуга-такса публикуване на бюлетин",
+            "contract_sponsor_raw": "Булгартрансгаз ЕАД, ЕИК:175203478"
+        },
+        {
+            "contract_amount_raw": "60",
+            "contract_amount": 60,
+            "contract_basis_raw": "Услуга-такса публикуване на бюлетин",
+            "contract_sponsor_raw": "Български енергиен холдинг ЕАД, ЕИК:831373560"
+        },
+        {
+            "contract_amount_raw": "50",
+            "contract_amount": 50,
+            "contract_basis_raw": "Услуга-такса публикуване на бюлетин",
+            "contract_sponsor_raw": "ДКЦ 1 Сливен ЕООД, ЕИК:119502758"
+        },
+        {
+            "contract_amount_raw": "60",
+            "contract_amount": 60,
+            "contract_basis_raw": "Услуга-такса публикуване на бюлетин",
+            "contract_sponsor_raw": "Чистота ЕООД, ЕИК:812198633"
+        },
+        {
+            "contract_amount_raw": "50",
+            "contract_amount": 50,
+            "contract_basis_raw": "Услуга-такса публикуване на бюлетин",
+            "contract_sponsor_raw": "ДКЦ 1 Ямбол ЕООД, 128057410"
+        },
+        {
+            "contract_amount_raw": "41,67",
+            "contract_amount": 41,
+            "contract_basis_raw": "Услуга-такса вход за събитие",
+            "contract_sponsor_raw": "Аграрен университет-Пловдив, ЕИК:000455464"
+        }
+    ]
+}

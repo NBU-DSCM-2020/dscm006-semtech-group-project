@@ -1,0 +1,89 @@
+{
+    "legal_entity_name": "ЕООД Щерев оил груп",
+    "legal_entity_id": "202996004",
+    "public_company": "неприложимо",
+    "media_service_type": "Телевизия",
+    "media_service_name": "Щерев ТВ",
+    "real_owner": "Агора Такова Щерева",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "6600",
+            "contract_amount": 6600,
+            "contract_basis_raw": "абонаментно обслужване",
+            "contract_sponsor_raw": "Община Сопот - ЕИК 115816423"
+        },
+        {
+            "contract_amount_raw": "6600",
+            "contract_amount": 6600,
+            "contract_basis_raw": "абонаментно обслужване",
+            "contract_sponsor_raw": "Община Карлово- ЕИК -000471365"
+        },
+        {
+            "contract_amount_raw": "3300",
+            "contract_amount": 3300,
+            "contract_basis_raw": "медийно отразяване кампания местни избори 2019",
+            "contract_sponsor_raw": "ОБС НА БСП ПЛОВДИВ- ЕИК 000702014"
+        },
+        {
+            "contract_amount_raw": "300",
+            "contract_amount": 300,
+            "contract_basis_raw": "медийно отразяване кампания местни избори 2019",
+            "contract_sponsor_raw": "ПП ВМРО-БНД - ЕИК - 130451348"
+        },
+        {
+            "contract_amount_raw": "300",
+            "contract_amount": 300,
+            "contract_basis_raw": "медийно отразяване кампания местни избори 2019",
+            "contract_sponsor_raw": "ПП ВМРО-БНД- ЕИК - 130451348"
+        },
+        {
+            "contract_amount_raw": "1100",
+            "contract_amount": 1100,
+            "contract_basis_raw": "медийно отразяване кампания местни избори 2019",
+            "contract_sponsor_raw": "ОБС НА БСП КАРЛОВО - ЕИК 000702014"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "медийно отразяване кампания местни избори 2019",
+            "contract_sponsor_raw": "ПП ВОЛЯ - ЕИК - 175358375"
+        },
+        {
+            "contract_amount_raw": "300",
+            "contract_amount": 300,
+            "contract_basis_raw": "медийно отразяване кампания местни избори 2019",
+            "contract_sponsor_raw": "ПП ВОЛЯ- ЕИК - 175358375"
+        },
+        {
+            "contract_amount_raw": "200",
+            "contract_amount": 200,
+            "contract_basis_raw": "медийно отразяване кампания местни избори 2019",
+            "contract_sponsor_raw": "ПП ВОЛЯ- ЕИК - 175358375"
+        },
+        {
+            "contract_amount_raw": "700",
+            "contract_amount": 700,
+            "contract_basis_raw": "медийно отразяване кампания местни избори 2019",
+            "contract_sponsor_raw": "ВМРО-БНД- ЕИК - 130451348"
+        },
+        {
+            "contract_amount_raw": "840",
+            "contract_amount": 840,
+            "contract_basis_raw": "медийно отразяване кампания местни избори 2019",
+            "contract_sponsor_raw": "ПП ГЕРБ -ЕИК - 175248466"
+        },
+        {
+            "contract_amount_raw": "2400",
+            "contract_amount": 2400,
+            "contract_basis_raw": "медийно отразяване кампания местни избори 2019",
+            "contract_sponsor_raw": "ОБЩИНСКА ОРГАНИЗАЦИЯ НА БСП СОПОТ ЕИК 9101084644"
+        },
+        {
+            "contract_amount_raw": "600",
+            "contract_amount": 600,
+            "contract_basis_raw": "медийно отразяване кампания местни избори 2019",
+            "contract_sponsor_raw": "ПП ВМРО-БНД- ЕИК-130451348"
+        }
+    ]
+}

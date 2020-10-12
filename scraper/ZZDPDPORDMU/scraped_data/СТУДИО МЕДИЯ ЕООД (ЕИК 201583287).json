@@ -1,0 +1,95 @@
+{
+    "legal_entity_name": "СТУДИО МЕДИЯ ЕООД",
+    "legal_entity_id": "201583287",
+    "public_company": "неприложимо",
+    "media_service_type": "Телевизия",
+    "media_service_name": "Канал 6",
+    "real_owner": "Мария Стефанова Стамболийска",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "3000",
+            "contract_amount": 3000,
+            "contract_basis_raw": "Информационно обслужване за календарната година- 19.03.2019",
+            "contract_sponsor_raw": "Община Сливен/ 000590654"
+        },
+        {
+            "contract_amount_raw": "1080",
+            "contract_amount": 1080,
+            "contract_basis_raw": "Информационно обслужване за календарната година- 03.04.2019",
+            "contract_sponsor_raw": "МБАЛ Д-р Иван Селимински/ 119502733"
+        },
+        {
+            "contract_amount_raw": "2250",
+            "contract_amount": 2250,
+            "contract_basis_raw": "Информационно обслужване за календарната година- 30.01.2019",
+            "contract_sponsor_raw": "ПП ГЕРБ/ 175248466"
+        },
+        {
+            "contract_amount_raw": "3600",
+            "contract_amount": 3600,
+            "contract_basis_raw": "Медийно обслужване за календарната година - 01.04.2019",
+            "contract_sponsor_raw": "Югоизточно държавно предприятие ДП - гр.Сливен/ 201617654"
+        },
+        {
+            "contract_amount_raw": "480",
+            "contract_amount": 480,
+            "contract_basis_raw": "Излъчване на рекламен клип - 20.06.2019",
+            "contract_sponsor_raw": "Община Котел/ 000590540"
+        },
+        {
+            "contract_amount_raw": "100",
+            "contract_amount": 100,
+            "contract_basis_raw": "Изготвяне на репортаж - 02.12.2019",
+            "contract_sponsor_raw": "СУ Йордан Йовков - Сливен/ 119105999"
+        },
+        {
+            "contract_amount_raw": "100",
+            "contract_amount": 100,
+            "contract_basis_raw": "Изготвяне на репортаж - 9.12.2019",
+            "contract_sponsor_raw": "7 ОУ Панайот Хитов - Сливен/ 000581776"
+        },
+        {
+            "contract_amount_raw": "2940",
+            "contract_amount": 2940,
+            "contract_basis_raw": "Отразяване на предизборна кампания - 07.05.2019",
+            "contract_sponsor_raw": "ОБЛАСТЕН СЪВЕТ НА БСП - СЛИВЕН/ 0007020140764"
+        },
+        {
+            "contract_amount_raw": "250",
+            "contract_amount": 250,
+            "contract_basis_raw": "Отразяване на предизборна кампания - 14.05.2019",
+            "contract_sponsor_raw": "ПП ГЕРБ/ 175248466"
+        },
+        {
+            "contract_amount_raw": "2000",
+            "contract_amount": 2000,
+            "contract_basis_raw": "Отразяване на предизборна кампания - 26.04.2019",
+            "contract_sponsor_raw": "ПП АБВ/ 176734649"
+        },
+        {
+            "contract_amount_raw": "9600",
+            "contract_amount": 9600,
+            "contract_basis_raw": "Отразяване на предизборна кампания - 27.09.2019",
+            "contract_sponsor_raw": "Общински съвет на БСП - Сливен/ 0007020140070"
+        },
+        {
+            "contract_amount_raw": "2400",
+            "contract_amount": 2400,
+            "contract_basis_raw": "Отразяване на предизборна кампания - 02.10.2019",
+            "contract_sponsor_raw": "ПП ГЕРБ/ 175248466"
+        },
+        {
+            "contract_amount_raw": "1998",
+            "contract_amount": 1998,
+            "contract_basis_raw": "Отразяване на предизборна кампания - 04.10.2019",
+            "contract_sponsor_raw": "ПП АБВ/ 176734649"
+        },
+        {
+            "contract_amount_raw": "180",
+            "contract_amount": 180,
+            "contract_basis_raw": "Отразяване на предизборно мероприятие - 04.10.2019",
+            "contract_sponsor_raw": "ПП НФСБ/ 176129116"
+        }
+    ]
+}

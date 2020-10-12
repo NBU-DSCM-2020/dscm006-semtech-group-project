@@ -1,0 +1,17 @@
+{
+    "legal_entity_name": "ПАЧОТИ ЕООД",
+    "legal_entity_id": "202522084",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "Kibik.bg",
+    "real_owner": "Паню Костов Стойчев",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "600",
+            "contract_amount": 600,
+            "contract_basis_raw": "Рекламен банер",
+            "contract_sponsor_raw": "КЛИМА ГРУП 2 ЕООД ЕИК 200247068"
+        }
+    ]
+}

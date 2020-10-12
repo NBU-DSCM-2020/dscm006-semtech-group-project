@@ -1,0 +1,119 @@
+{
+    "legal_entity_name": "ИЗДАТЕЛСКА КЪЩА ЗНАМЕ ЕАД",
+    "legal_entity_id": "202127308",
+    "public_company": "неприложимо",
+    "media_service_type": "Печатна медия",
+    "media_service_name": "вестник Знаме",
+    "real_owner": "ДИМИТЪР СТОЙКОВ НИКОЛОВ",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "600",
+            "contract_amount": 600,
+            "contract_basis_raw": "Евроизбори 2019 г.",
+            "contract_sponsor_raw": "ПП ВМРО - БНД"
+        },
+        {
+            "contract_amount_raw": "900",
+            "contract_amount": 900,
+            "contract_basis_raw": "Евроизбори 2019 г.",
+            "contract_sponsor_raw": "Областен съвет на БСП - Пазарджик"
+        },
+        {
+            "contract_amount_raw": "3000",
+            "contract_amount": 3000,
+            "contract_basis_raw": "Местни избори 2019 г.",
+            "contract_sponsor_raw": "МК Новото време - Пазарджик"
+        },
+        {
+            "contract_amount_raw": "3000",
+            "contract_amount": 3000,
+            "contract_basis_raw": "Местни избори 2019 г.",
+            "contract_sponsor_raw": "МК Новото време - Пазарджик"
+        },
+        {
+            "contract_amount_raw": "2097",
+            "contract_amount": 2097,
+            "contract_basis_raw": "Местни избори 2019 г.",
+            "contract_sponsor_raw": "ПП ГЕРБ - Пазарджик"
+        },
+        {
+            "contract_amount_raw": "360",
+            "contract_amount": 360,
+            "contract_basis_raw": "Местни избори 2019 г.",
+            "contract_sponsor_raw": "ПП ГЕРБ - Пазарджик"
+        },
+        {
+            "contract_amount_raw": "540",
+            "contract_amount": 540,
+            "contract_basis_raw": "Местни избори 2019 г.",
+            "contract_sponsor_raw": "Общински съвет на БСП - Белово"
+        },
+        {
+            "contract_amount_raw": "600",
+            "contract_amount": 600,
+            "contract_basis_raw": "Местни избори 2019 г.",
+            "contract_sponsor_raw": "Общински съвет на БСП - Белово"
+        },
+        {
+            "contract_amount_raw": "1200",
+            "contract_amount": 1200,
+            "contract_basis_raw": "Местни избори 2019 г.",
+            "contract_sponsor_raw": "Общински съвет на БСП - Белово"
+        },
+        {
+            "contract_amount_raw": "540",
+            "contract_amount": 540,
+            "contract_basis_raw": "Местни избори 2019 г.",
+            "contract_sponsor_raw": "Общински съвет на БСП - Белово"
+        },
+        {
+            "contract_amount_raw": "720",
+            "contract_amount": 720,
+            "contract_basis_raw": "Местни избори 2019 г.",
+            "contract_sponsor_raw": "Общински съвет на БСП - Белово"
+        },
+        {
+            "contract_amount_raw": "66",
+            "contract_amount": 66,
+            "contract_basis_raw": "Местни избори 2019 г.",
+            "contract_sponsor_raw": "МК Движение България на гражданите - Пазарджик"
+        },
+        {
+            "contract_amount_raw": "96",
+            "contract_amount": 96,
+            "contract_basis_raw": "Местни избори 2019 г.",
+            "contract_sponsor_raw": "ИК Кмет на Община Стрелча Георги Кирилов Павлов"
+        },
+        {
+            "contract_amount_raw": "180",
+            "contract_amount": 180,
+            "contract_basis_raw": "Местни избори 2019 г.",
+            "contract_sponsor_raw": "Общински съвет на БСП - Септември"
+        },
+        {
+            "contract_amount_raw": "360",
+            "contract_amount": 360,
+            "contract_basis_raw": "Местни избори 2019 г.",
+            "contract_sponsor_raw": "Общински съвет на БСП - Пещера"
+        },
+        {
+            "contract_amount_raw": "29520",
+            "contract_amount": 29520,
+            "contract_basis_raw": "Договор за информационно обслужване",
+            "contract_sponsor_raw": "Община Пазарджик"
+        },
+        {
+            "contract_amount_raw": "1440",
+            "contract_amount": 1440,
+            "contract_basis_raw": "Договор за реклама",
+            "contract_sponsor_raw": "Община Септември"
+        },
+        {
+            "contract_amount_raw": "1200",
+            "contract_amount": 1200,
+            "contract_basis_raw": "Договор за информационно обслужване",
+            "contract_sponsor_raw": "Водоснабдяване и канализационни услуги ЕООД - Пазарджик"
+        }
+    ]
+}

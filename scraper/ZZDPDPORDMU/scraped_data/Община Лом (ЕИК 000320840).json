@@ -1,0 +1,17 @@
+{
+    "legal_entity_name": "Община Лом",
+    "legal_entity_id": "000320840",
+    "public_company": "Надзорна институция - местна власт",
+    "media_service_type": "Радио",
+    "media_service_name": "Общински Радиовъзел Лом",
+    "real_owner": "Георги Гаврилов Георгиев",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "18400",
+            "contract_amount": 18400,
+            "contract_basis_raw": "3000 издръжка, 15400 фондРаботна заплата",
+            "contract_sponsor_raw": "Общшина Лом -  ЕИК 000320840"
+        }
+    ]
+}

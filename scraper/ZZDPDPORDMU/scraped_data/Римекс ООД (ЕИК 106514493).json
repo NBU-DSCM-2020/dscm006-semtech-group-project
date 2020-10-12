@@ -1,0 +1,125 @@
+{
+    "legal_entity_name": "Римекс ООД",
+    "legal_entity_id": "106514493",
+    "public_company": "неприложимо",
+    "media_service_type": "Телевизия",
+    "media_service_name": "RM Channel",
+    "real_owner": "Илиан Дамянов Иванов",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "90",
+            "contract_amount": 90,
+            "contract_basis_raw": "излъчване рекламно съобщение",
+            "contract_sponsor_raw": "Агенция Стратегма ООД/BG121026679"
+        },
+        {
+            "contract_amount_raw": "80",
+            "contract_amount": 80,
+            "contract_basis_raw": "Преки включвания и репортажи за емисия Новини",
+            "contract_sponsor_raw": "БНТ/BG000672350"
+        },
+        {
+            "contract_amount_raw": "1405",
+            "contract_amount": 1405,
+            "contract_basis_raw": "Репортажи за емисия Новини",
+            "contract_sponsor_raw": "Българска свободна медия ЕООД/205214825"
+        },
+        {
+            "contract_amount_raw": "360",
+            "contract_amount": 360,
+            "contract_basis_raw": "Излъчване филм",
+            "contract_sponsor_raw": "Видин Вест ЕООД/BG203961732"
+        },
+        {
+            "contract_amount_raw": "1560",
+            "contract_amount": 1560,
+            "contract_basis_raw": "Договор информационно обслужване",
+            "contract_sponsor_raw": "ВиК ООД Враца/BG816090199"
+        },
+        {
+            "contract_amount_raw": "120",
+            "contract_amount": 120,
+            "contract_basis_raw": "Репортажи за емисия Новини",
+            "contract_sponsor_raw": "Елит Медия България ЕООД/BG130275893"
+        },
+        {
+            "contract_amount_raw": "960",
+            "contract_amount": 960,
+            "contract_basis_raw": "Заснемане събитие",
+            "contract_sponsor_raw": "Мартин Петров - Орг ЕООД/205494537"
+        },
+        {
+            "contract_amount_raw": "354",
+            "contract_amount": 354,
+            "contract_basis_raw": "Репортажи за емисия Новини",
+            "contract_sponsor_raw": "Телевизия Европа АД/BG115568068"
+        },
+        {
+            "contract_amount_raw": "6720",
+            "contract_amount": 6720,
+            "contract_basis_raw": "Договор информационно обслужване",
+            "contract_sponsor_raw": "ЧЕЗ България ЕАД/BG131434768"
+        },
+        {
+            "contract_amount_raw": "2880",
+            "contract_amount": 2880,
+            "contract_basis_raw": "Договор информационно обслужване",
+            "contract_sponsor_raw": "ЧЕЗ Електро България ЕАД/BG175133827"
+        },
+        {
+            "contract_amount_raw": "9000",
+            "contract_amount": 9000,
+            "contract_basis_raw": "30.09.2019 - местни избори 2019",
+            "contract_sponsor_raw": "ВМРО-БНД/130451348"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "19.05.2019 - европейски избори 2919",
+            "contract_sponsor_raw": "Областен съвет на БСП - Враца/0007020140294"
+        },
+        {
+            "contract_amount_raw": "4000",
+            "contract_amount": 4000,
+            "contract_basis_raw": "Отразяване мероприятия",
+            "contract_sponsor_raw": "Община Враца/000193115"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "02.05.2019 - европейски избори 2919",
+            "contract_sponsor_raw": "ПП Герб/BG175248466"
+        },
+        {
+            "contract_amount_raw": "960",
+            "contract_amount": 960,
+            "contract_basis_raw": "29.09.2019 - местни избори 2019",
+            "contract_sponsor_raw": "Христо Герогиев Петков"
+        },
+        {
+            "contract_amount_raw": "360",
+            "contract_amount": 360,
+            "contract_basis_raw": "09.10.2019 - местни избори 2019",
+            "contract_sponsor_raw": "Общински съвет на БСП"
+        },
+        {
+            "contract_amount_raw": "336",
+            "contract_amount": 336,
+            "contract_basis_raw": "11.10.2019 - местни избори 2019",
+            "contract_sponsor_raw": "ПП на ДПС"
+        },
+        {
+            "contract_amount_raw": "900",
+            "contract_amount": 900,
+            "contract_basis_raw": "14.10.2019 - местни избори 2019",
+            "contract_sponsor_raw": "Земеделски Народен Съюз"
+        },
+        {
+            "contract_amount_raw": "300",
+            "contract_amount": 300,
+            "contract_basis_raw": "07.05.2019 - европейски избори 2919",
+            "contract_sponsor_raw": "ВМРО-БНД/130451348"
+        }
+    ]
+}

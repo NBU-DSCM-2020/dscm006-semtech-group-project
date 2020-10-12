@@ -1,0 +1,17 @@
+{
+    "legal_entity_name": "Камбана прес-2018 ООД",
+    "legal_entity_id": "205065160",
+    "public_company": "неприложимо",
+    "media_service_type": "Печатна медия; Онлайн новинарско издание",
+    "media_service_name": "Вестник Камбана; www.kambana.net",
+    "real_owner": "Александра Иванова Тодорова, Кристиян Христов Христов",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "720",
+            "contract_amount": 720,
+            "contract_basis_raw": "Договор за отразяване на предизборна кампания",
+            "contract_sponsor_raw": "Общински съвет на  БСП град Пирдоп -ЕИК 000702014"
+        }
+    ]
+}

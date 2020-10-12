@@ -1,0 +1,83 @@
+{
+    "legal_entity_name": "Труд медиа ЕООД",
+    "legal_entity_id": "203021560",
+    "public_company": "неприложимо",
+    "media_service_type": "Печатна медия",
+    "media_service_name": "в. труд",
+    "real_owner": "Петьо Петьов Блъсков",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "3000",
+            "contract_amount": 3000,
+            "contract_basis_raw": "Община Варна, Дирекция Спорт",
+            "contract_sponsor_raw": "публикуване на информационни материали"
+        },
+        {
+            "contract_amount_raw": "7200",
+            "contract_amount": 7200,
+            "contract_basis_raw": "Община Търговище",
+            "contract_sponsor_raw": "публикуване на информационни материали"
+        },
+        {
+            "contract_amount_raw": "1200",
+            "contract_amount": 1200,
+            "contract_basis_raw": "Община Павликени",
+            "contract_sponsor_raw": "публикуване на информационни материали"
+        },
+        {
+            "contract_amount_raw": "1200",
+            "contract_amount": 1200,
+            "contract_basis_raw": "Община Павликени ",
+            "contract_sponsor_raw": "публикуване на информационни материали"
+        },
+        {
+            "contract_amount_raw": "6600",
+            "contract_amount": 6600,
+            "contract_basis_raw": "Община Аврен",
+            "contract_sponsor_raw": "публикуване на информационни материали"
+        },
+        {
+            "contract_amount_raw": "4500",
+            "contract_amount": 4500,
+            "contract_basis_raw": "Община Шумен",
+            "contract_sponsor_raw": "публикуване на информационни материали"
+        },
+        {
+            "contract_amount_raw": "3600",
+            "contract_amount": 3600,
+            "contract_basis_raw": "Община Елена",
+            "contract_sponsor_raw": "публикуване на информационни материали"
+        },
+        {
+            "contract_amount_raw": "9690",
+            "contract_amount": 9690,
+            "contract_basis_raw": "Община Бургас",
+            "contract_sponsor_raw": "публикуване на информационни материали"
+        },
+        {
+            "contract_amount_raw": "7200",
+            "contract_amount": 7200,
+            "contract_basis_raw": "Община Велико Търново",
+            "contract_sponsor_raw": "публикуване на информационни материали"
+        },
+        {
+            "contract_amount_raw": "2000",
+            "contract_amount": 2000,
+            "contract_basis_raw": "ПП ГЕРБ",
+            "contract_sponsor_raw": "публикуване на информационни материали избори"
+        },
+        {
+            "contract_amount_raw": "10000",
+            "contract_amount": 10000,
+            "contract_basis_raw": "ПП АТАКА",
+            "contract_sponsor_raw": "публикуване на информационни материали избори"
+        },
+        {
+            "contract_amount_raw": "2000",
+            "contract_amount": 2000,
+            "contract_basis_raw": "ПП ДПС",
+            "contract_sponsor_raw": "публикуване на информационни материали избори"
+        }
+    ]
+}

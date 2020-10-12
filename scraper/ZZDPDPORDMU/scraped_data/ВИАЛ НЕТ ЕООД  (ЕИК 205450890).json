@@ -1,0 +1,125 @@
+{
+    "legal_entity_name": "ВИАЛ НЕТ ЕООД ",
+    "legal_entity_id": "205450890",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "http://radio.slivenbg.net/",
+    "real_owner": "Нели Йорданова Димитрова",
+    "executive_individual": "Нели Йорданова Димитрова",
+    "contracts": [
+        {
+            "contract_amount_raw": "2400",
+            "contract_amount": 2400,
+            "contract_basis_raw": "28.12.2018 - информационно обслужване",
+            "contract_sponsor_raw": "Община Сливен / 000590654"
+        },
+        {
+            "contract_amount_raw": "960",
+            "contract_amount": 960,
+            "contract_basis_raw": "07.01.2019 - информационно обслужване",
+            "contract_sponsor_raw": "Областна администрация Сливен / 119101402"
+        },
+        {
+            "contract_amount_raw": "1800",
+            "contract_amount": 1800,
+            "contract_basis_raw": "01.04.2019 - информационно обслужване",
+            "contract_sponsor_raw": "В И К Сливен ООД / 829053806"
+        },
+        {
+            "contract_amount_raw": "1440",
+            "contract_amount": 1440,
+            "contract_basis_raw": "17.01.2019 - информационно обслужване",
+            "contract_sponsor_raw": "МБАЛ Д-р Иван Селимински АД / 119502733 "
+        },
+        {
+            "contract_amount_raw": "1440",
+            "contract_amount": 1440,
+            "contract_basis_raw": "04.01.2019 - информационно обслужване",
+            "contract_sponsor_raw": "Община Твърдица / 000590704"
+        },
+        {
+            "contract_amount_raw": "1320",
+            "contract_amount": 1320,
+            "contract_basis_raw": "15.02.2019 - информационно обслужване",
+            "contract_sponsor_raw": "Община Котел / 000590540"
+        },
+        {
+            "contract_amount_raw": "770",
+            "contract_amount": 770,
+            "contract_basis_raw": "02.01.2019 - политическа реклама",
+            "contract_sponsor_raw": "ПП ГЕРБ / 175248466"
+        },
+        {
+            "contract_amount_raw": "720",
+            "contract_amount": 720,
+            "contract_basis_raw": "04.01.2019 - политическа реклама",
+            "contract_sponsor_raw": "Областен съвет на БСП / 0007020140764"
+        },
+        {
+            "contract_amount_raw": "100",
+            "contract_amount": 100,
+            "contract_basis_raw": "03.01.2019 - информационно обслужване",
+            "contract_sponsor_raw": "СУ Димитър Рохов / 119005701"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "21.05.2019 - политическа реклама",
+            "contract_sponsor_raw": "Общински съвет на БСП / 0007020140070"
+        },
+        {
+            "contract_amount_raw": "70",
+            "contract_amount": 70,
+            "contract_basis_raw": "25.04.2019 - политическа реклама",
+            "contract_sponsor_raw": "ПП ГЕРБ / 175248466"
+        },
+        {
+            "contract_amount_raw": "700",
+            "contract_amount": 700,
+            "contract_basis_raw": "30.04.2019 - политическа реклама",
+            "contract_sponsor_raw": "Областен съвет на ДПС / 000707470"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "07.10.2019 - политическа реклама",
+            "contract_sponsor_raw": "Областен съвет на ДПС / 000707470"
+        },
+        {
+            "contract_amount_raw": "100",
+            "contract_amount": 100,
+            "contract_basis_raw": "29.10.2019 - политическа реклама",
+            "contract_sponsor_raw": "ПП ГЕРБ / 175248466"
+        },
+        {
+            "contract_amount_raw": "100",
+            "contract_amount": 100,
+            "contract_basis_raw": "29.10.2019 - политическа реклама",
+            "contract_sponsor_raw": "Общински съвет на БСП / 0007020140070"
+        },
+        {
+            "contract_amount_raw": "200",
+            "contract_amount": 200,
+            "contract_basis_raw": "09.10.2019 - политическа реклама",
+            "contract_sponsor_raw": "ПП АБВ / 176734649"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "07.10.2019 - политическа реклама",
+            "contract_sponsor_raw": "ПП ГЕРБ / 175248466"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "03.10.2019 - политическа реклама",
+            "contract_sponsor_raw": "ПП Възраждане / 176845471"
+        },
+        {
+            "contract_amount_raw": "240",
+            "contract_amount": 240,
+            "contract_basis_raw": "30.09.2019 - политическа реклама",
+            "contract_sponsor_raw": "Общински съвет на БСП / 0007020140070"
+        }
+    ]
+}

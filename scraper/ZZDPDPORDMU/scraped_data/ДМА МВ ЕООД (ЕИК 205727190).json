@@ -1,0 +1,23 @@
+{
+    "legal_entity_name": "ДМА МВ ЕООД",
+    "legal_entity_id": "205727190",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "razgradnews.net",
+    "real_owner": "Петромир Пламенов Пенчев",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "540",
+            "contract_amount": 540,
+            "contract_basis_raw": "02.10.2019 / Предизборна кампания за местни избори 2019 г.",
+            "contract_sponsor_raw": "Политическа партия ГЕРБ"
+        },
+        {
+            "contract_amount_raw": "540",
+            "contract_amount": 540,
+            "contract_basis_raw": "02.10.2019 / Предизборна кампания за местни избори 2019 г.",
+            "contract_sponsor_raw": "Политическа партия ГЕРБ"
+        }
+    ]
+}

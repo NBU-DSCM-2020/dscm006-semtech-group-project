@@ -1,0 +1,119 @@
+{
+    "legal_entity_name": "ОП ОБЩИНСКИ МЕДИЕН ЦЕНТЪР",
+    "legal_entity_id": "000931721",
+    "public_company": "неприложимо",
+    "media_service_type": "Телевизия",
+    "media_service_name": "ТЕЛЕВИЗИЯ  ШУМЕН",
+    "real_owner": "Любомир Димитров Христов",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "279 664",
+            "contract_amount": 279664,
+            "contract_basis_raw": "субсидия",
+            "contract_sponsor_raw": "Община Шумен -000931721"
+        },
+        {
+            "contract_amount_raw": "1200",
+            "contract_amount": 1200,
+            "contract_basis_raw": "инф. обслужване",
+            "contract_sponsor_raw": "Община Върбица  000931415"
+        },
+        {
+            "contract_amount_raw": "4320",
+            "contract_amount": 4320,
+            "contract_basis_raw": "инф. обслужване",
+            "contract_sponsor_raw": "Община Н Козлево- 000931568"
+        },
+        {
+            "contract_amount_raw": "2160",
+            "contract_amount": 2160,
+            "contract_basis_raw": "ИНФ. ОБСЛУЖВАНЕ",
+            "contract_sponsor_raw": "Община Венец- 000931397"
+        },
+        {
+            "contract_amount_raw": "4320",
+            "contract_amount": 4320,
+            "contract_basis_raw": "инф. обслужване",
+            "contract_sponsor_raw": "Община Смядово-000931657"
+        },
+        {
+            "contract_amount_raw": "2400",
+            "contract_amount": 2400,
+            "contract_basis_raw": "инф. обслужване",
+            "contract_sponsor_raw": "Община Каолинова-000931881"
+        },
+        {
+            "contract_amount_raw": "1080",
+            "contract_amount": 1080,
+            "contract_basis_raw": "инф.обслужване",
+            "contract_sponsor_raw": "Община Каспичан-000931511"
+        },
+        {
+            "contract_amount_raw": "3912",
+            "contract_amount": 3912,
+            "contract_basis_raw": "предизборни хроники",
+            "contract_sponsor_raw": "ОС НА БСП ШУМЕН-00070201450543"
+        },
+        {
+            "contract_amount_raw": "2964",
+            "contract_amount": 2964,
+            "contract_basis_raw": "предизборни хроники",
+            "contract_sponsor_raw": "ГЕРБ-175248466"
+        },
+        {
+            "contract_amount_raw": "1200",
+            "contract_amount": 1200,
+            "contract_basis_raw": "предизборни хроники",
+            "contract_sponsor_raw": "ПП АБВ-176734649"
+        },
+        {
+            "contract_amount_raw": "3756",
+            "contract_amount": 3756,
+            "contract_basis_raw": "предизборни хроники",
+            "contract_sponsor_raw": "ПП ДПС- 000707470"
+        },
+        {
+            "contract_amount_raw": "300",
+            "contract_amount": 300,
+            "contract_basis_raw": "предизборни хроники",
+            "contract_sponsor_raw": "ПП ДВИЖЕНИЕ БЪЛГАРИЯ- 177151578"
+        },
+        {
+            "contract_amount_raw": "408",
+            "contract_amount": 408,
+            "contract_basis_raw": "предизборни хроники",
+            "contract_sponsor_raw": "ПП ВМРО -130451348"
+        },
+        {
+            "contract_amount_raw": "1740",
+            "contract_amount": 1740,
+            "contract_basis_raw": "предизборни хроники",
+            "contract_sponsor_raw": "ПП БСД-1310175251"
+        },
+        {
+            "contract_amount_raw": "3600",
+            "contract_amount": 3600,
+            "contract_basis_raw": "инф.обслужване",
+            "contract_sponsor_raw": "МБАЛ АД ШУМЕН- 127521092"
+        },
+        {
+            "contract_amount_raw": "360",
+            "contract_amount": 360,
+            "contract_basis_raw": "инф.обслужване",
+            "contract_sponsor_raw": "ОБЩИНА В ПРЕСЛАВ-"
+        },
+        {
+            "contract_amount_raw": "1440",
+            "contract_amount": 1440,
+            "contract_basis_raw": "реклама",
+            "contract_sponsor_raw": "КОЦ ШУМЕН ЕООД 127512758"
+        },
+        {
+            "contract_amount_raw": "4644",
+            "contract_amount": 4644,
+            "contract_basis_raw": "реклама",
+            "contract_sponsor_raw": "ДКЦ ШУМЕН  ЕООД 127511543"
+        }
+    ]
+}

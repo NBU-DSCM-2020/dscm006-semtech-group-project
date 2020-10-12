@@ -1,0 +1,89 @@
+{
+    "legal_entity_name": "БУМЕРАНГ ФМ ЕООД",
+    "legal_entity_id": "107046713",
+    "public_company": "неприложимо",
+    "media_service_type": "Радио",
+    "media_service_name": "Бумеранг FM ( включва и сайта  bumerangfm.net, както и фейсбук за слушателите)",
+    "real_owner": "Васил Стефанов Василев",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "13188",
+            "contract_amount": 13188,
+            "contract_basis_raw": "Договор 60-ПВО-19/21.01.2019г. Излъчване на радио рубрика Часът на Габрово с актуална информация за дейността на община Габрово.  С включен ДДС.",
+            "contract_sponsor_raw": "Община Габрово , ЕИК:000215630"
+        },
+        {
+            "contract_amount_raw": "1288,8",
+            "contract_amount": 1288,
+            "contract_basis_raw": "Договор 186-ИЕ-19/ 07.03.2019 г. Информация за дейностите  по управление на отпадъците на територията на община Габрово. С включен ДДС.",
+            "contract_sponsor_raw": "Община Габрово , ЕИК:000215630"
+        },
+        {
+            "contract_amount_raw": "56,4",
+            "contract_amount": 56,
+            "contract_basis_raw": "Обява за съдебни заседатели. С включен ДДС.",
+            "contract_sponsor_raw": "Община Габрово , ЕИК:000215630"
+        },
+        {
+            "contract_amount_raw": "192",
+            "contract_amount": 192,
+            "contract_basis_raw": "Прием за учебната 2019/ 2020 г. С включен ДДС.",
+            "contract_sponsor_raw": "Средно училище Отец Паисий, ЕИК: 000213048"
+        },
+        {
+            "contract_amount_raw": "24",
+            "contract_amount": 24,
+            "contract_basis_raw": "Излъчване на рекламен клип. С включен ДДС.",
+            "contract_sponsor_raw": "Държавна опера-гр. Русе, ЕИК: 117103220"
+        },
+        {
+            "contract_amount_raw": "98,4",
+            "contract_amount": 98,
+            "contract_basis_raw": "Популяризиране на инициативи по проект Иновативен младежки форум Реакция.С включен ДДС.",
+            "contract_sponsor_raw": "Сдружение ИМКА, ЕИК: 107026358"
+        },
+        {
+            "contract_amount_raw": "60",
+            "contract_amount": 60,
+            "contract_basis_raw": "Излъчване на обяви по проект Творчество и знание. С включен ДДС.",
+            "contract_sponsor_raw": "НЧ Христо Ботев 2008, ЕИК: 107596340"
+        },
+        {
+            "contract_amount_raw": "144",
+            "contract_amount": 144,
+            "contract_basis_raw": "Излъчване на обява за откриване на нова специалност Производство на мляко и млечни продукти. С включен ДДС.",
+            "contract_sponsor_raw": "ПГТ Пенчо Семов, ЕИК: 000210123"
+        },
+        {
+            "contract_amount_raw": "207,36",
+            "contract_amount": 207,
+            "contract_basis_raw": "Договор от 11.10.2019 г. Излъчване на предизборна кампания на Коалиция Демократична България- Обединение. С включен ДДС.",
+            "contract_sponsor_raw": "Григор Венциславов Григоров, ЕГН: 6901062248"
+        },
+        {
+            "contract_amount_raw": "233,28",
+            "contract_amount": 233,
+            "contract_basis_raw": "Излъчване на предизборна кампания по договор от 22.10.2019 г.  С включен ДДС.",
+            "contract_sponsor_raw": "Общински съвет на БСП Габрово, ЕИК: 0007020140260"
+        },
+        {
+            "contract_amount_raw": "622,08",
+            "contract_amount": 622,
+            "contract_basis_raw": "Излъчване на предизборна кампания по договор от 30.09.2019 г. С включен ДДС.",
+            "contract_sponsor_raw": "ПП ГЕРБ, ЕИК: BG175248466"
+        },
+        {
+            "contract_amount_raw": "158,4",
+            "contract_amount": 158,
+            "contract_basis_raw": "Излъчване на реклама. С включен ДДС.",
+            "contract_sponsor_raw": "ДТ Рачо Стоянов, ЕИК: 000210326"
+        },
+        {
+            "contract_amount_raw": "17,28",
+            "contract_amount": 17,
+            "contract_basis_raw": "Излъчване на рекл. клип по проект Подобряване на мобилността и заетостта в културните и творчески индустрии в румънско- българската трансгранична област. С включен ДДС.",
+            "contract_sponsor_raw": "Бойкос ЕООД, ЕИК: 118017086"
+        }
+    ]
+}

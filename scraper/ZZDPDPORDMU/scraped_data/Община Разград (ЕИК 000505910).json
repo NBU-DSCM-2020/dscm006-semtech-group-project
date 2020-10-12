@@ -1,0 +1,71 @@
+{
+    "legal_entity_name": "Община Разград",
+    "legal_entity_id": "000505910",
+    "public_company": "неприложимо",
+    "media_service_type": "Радио",
+    "media_service_name": "Общинско радио Разград",
+    "real_owner": "Денчо Стоянов Бояджиев",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "128 171",
+            "contract_amount": 128171,
+            "contract_basis_raw": "Бюджет",
+            "contract_sponsor_raw": "Община Разград"
+        },
+        {
+            "contract_amount_raw": "12",
+            "contract_amount": 12,
+            "contract_basis_raw": "03.10.2019 г. Предизборна реклама",
+            "contract_sponsor_raw": "ПП НФСБ"
+        },
+        {
+            "contract_amount_raw": "12",
+            "contract_amount": 12,
+            "contract_basis_raw": "04.10.2019 г. Предизборна реклама",
+            "contract_sponsor_raw": "Общ. съвет на БСП"
+        },
+        {
+            "contract_amount_raw": "140",
+            "contract_amount": 140,
+            "contract_basis_raw": "25.10.2019 г. Предизборна реклама",
+            "contract_sponsor_raw": "Общ. съвет на БСП"
+        },
+        {
+            "contract_amount_raw": "100",
+            "contract_amount": 100,
+            "contract_basis_raw": "14.10.2019 г. Предизборна реклама",
+            "contract_sponsor_raw": "ПП ГЕРБ"
+        },
+        {
+            "contract_amount_raw": "78",
+            "contract_amount": 78,
+            "contract_basis_raw": "25.10.2019 г. Предизборна реклама",
+            "contract_sponsor_raw": "Общ. съвет на БСП"
+        },
+        {
+            "contract_amount_raw": "108",
+            "contract_amount": 108,
+            "contract_basis_raw": "22.10.2019 г. Предизборна реклама",
+            "contract_sponsor_raw": "ПП ГЕРБ"
+        },
+        {
+            "contract_amount_raw": "100",
+            "contract_amount": 100,
+            "contract_basis_raw": "25.10.2019 г. Предизборна реклама",
+            "contract_sponsor_raw": "ПП ГЕРБ"
+        },
+        {
+            "contract_amount_raw": "36",
+            "contract_amount": 36,
+            "contract_basis_raw": "25.10.2019 г. Предизборна реклама",
+            "contract_sponsor_raw": "Общ. съвет на БСП"
+        },
+        {
+            "contract_amount_raw": "18",
+            "contract_amount": 18,
+            "contract_basis_raw": "01.11.2019 г. Предизборна реклама",
+            "contract_sponsor_raw": "Общ. съвет на БСП"
+        }
+    ]
+}

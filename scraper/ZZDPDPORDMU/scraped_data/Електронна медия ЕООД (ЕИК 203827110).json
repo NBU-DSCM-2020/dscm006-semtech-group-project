@@ -1,0 +1,143 @@
+{
+    "legal_entity_name": "Електронна медия ЕООД",
+    "legal_entity_id": "203827110",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "Севлиево онлайн",
+    "real_owner": "Емилия Маринова Димитрова-Данкова",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "380",
+            "contract_amount": 380,
+            "contract_basis_raw": "договор за информационно обслужване",
+            "contract_sponsor_raw": "000210187 ПГМЕТ Ген. Иван Бъчваров"
+        },
+        {
+            "contract_amount_raw": "380",
+            "contract_amount": 380,
+            "contract_basis_raw": "договор за информационно обслужване",
+            "contract_sponsor_raw": "000210187 ПГМЕТ Ген. Иван Бъчваров"
+        },
+        {
+            "contract_amount_raw": "1700",
+            "contract_amount": 1700,
+            "contract_basis_raw": "договор за предизборно отразяване на местни избори 2019",
+            "contract_sponsor_raw": "Инициативен комитет за издигане кандидатурата на Богомил Петков за кмет на община Севлиево"
+        },
+        {
+            "contract_amount_raw": "1700",
+            "contract_amount": 1700,
+            "contract_basis_raw": "договор за предизборно отразяване на местни избори 2019",
+            "contract_sponsor_raw": "Инициативен комитет за издигане кандидатурата на Богомил Петков за кмет на община Севлиево"
+        },
+        {
+            "contract_amount_raw": "1800",
+            "contract_amount": 1800,
+            "contract_basis_raw": "фактури за информационно обслужване за 2019 г.",
+            "contract_sponsor_raw": "107504281 Медицински център-1-Севлиево"
+        },
+        {
+            "contract_amount_raw": "1800",
+            "contract_amount": 1800,
+            "contract_basis_raw": "фактури за информационно обслужване за 2019 г.",
+            "contract_sponsor_raw": "107504281 Медицински център-1-Севлиево"
+        },
+        {
+            "contract_amount_raw": "100",
+            "contract_amount": 100,
+            "contract_basis_raw": "договор за предизборно отразяване за местни избори 20192019",
+            "contract_sponsor_raw": "Момчил Тодоров Димов"
+        },
+        {
+            "contract_amount_raw": "100",
+            "contract_amount": 100,
+            "contract_basis_raw": "договор за предизборно отразяване за местни избори 20192019",
+            "contract_sponsor_raw": "Момчил Тодоров Димов"
+        },
+        {
+            "contract_amount_raw": "1600",
+            "contract_amount": 1600,
+            "contract_basis_raw": "договор за предизборно отразяване на местни избори 2019",
+            "contract_sponsor_raw": "0000000395 ПП Коалиция за теб България"
+        },
+        {
+            "contract_amount_raw": "1600",
+            "contract_amount": 1600,
+            "contract_basis_raw": "договор за предизборно отразяване на местни избори 2019",
+            "contract_sponsor_raw": "0000000395 ПП Коалиция за теб България"
+        },
+        {
+            "contract_amount_raw": "200",
+            "contract_amount": 200,
+            "contract_basis_raw": "публикация по проект BG16M10P002-2.007-0001-C01 на ОП Околна среда",
+            "contract_sponsor_raw": "200543375 Елмазови ООД"
+        },
+        {
+            "contract_amount_raw": "200",
+            "contract_amount": 200,
+            "contract_basis_raw": "публикация по проект BG16M10P002-2.007-0001-C01 на ОП Околна среда",
+            "contract_sponsor_raw": "200543375 Елмазови ООД"
+        },
+        {
+            "contract_amount_raw": "120",
+            "contract_amount": 120,
+            "contract_basis_raw": "платени публикации",
+            "contract_sponsor_raw": "0000000340 ПГ Марин Попов"
+        },
+        {
+            "contract_amount_raw": "120",
+            "contract_amount": 120,
+            "contract_basis_raw": "платени публикации",
+            "contract_sponsor_raw": "0000000340 ПГ Марин Попов"
+        },
+        {
+            "contract_amount_raw": "90",
+            "contract_amount": 90,
+            "contract_basis_raw": "информационно обслужване",
+            "contract_sponsor_raw": "0000000323 ГХГ Асен и Илия Пейкови"
+        },
+        {
+            "contract_amount_raw": "90",
+            "contract_amount": 90,
+            "contract_basis_raw": "информационно обслужване",
+            "contract_sponsor_raw": "0000000323 ГХГ Асен и Илия Пейкови"
+        },
+        {
+            "contract_amount_raw": "360",
+            "contract_amount": 360,
+            "contract_basis_raw": "предизборен банер за европейски избори на 26 май 2019",
+            "contract_sponsor_raw": "Областен съвет на БСП Габрово"
+        },
+        {
+            "contract_amount_raw": "360",
+            "contract_amount": 360,
+            "contract_basis_raw": "предизборен банер за европейски избори на 26 май 2019",
+            "contract_sponsor_raw": "Областен съвет на БСП Габрово"
+        },
+        {
+            "contract_amount_raw": "360",
+            "contract_amount": 360,
+            "contract_basis_raw": "предизборни публикации за европейски избори на 26 май 2019 г.",
+            "contract_sponsor_raw": "Общински съвет на БСП Севлиево"
+        },
+        {
+            "contract_amount_raw": "360",
+            "contract_amount": 360,
+            "contract_basis_raw": "предизборни публикации за европейски избори на 26 май 2019 г.",
+            "contract_sponsor_raw": "Общински съвет на БСП Севлиево"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "предизборни публикации за местни избори 2019 г. съгласно договор",
+            "contract_sponsor_raw": "Общински съвет на БСП Севлиево"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "предизборни публикации за местни избори 2019 г. съгласно договор",
+            "contract_sponsor_raw": "Общински съвет на БСП Севлиево"
+        }
+    ]
+}

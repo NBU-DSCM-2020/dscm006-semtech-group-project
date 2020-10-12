@@ -1,0 +1,161 @@
+{
+    "legal_entity_name": "ДЕТ 2007 ООД",
+    "legal_entity_id": "123762364",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "starozagorci.com",
+    "real_owner": "ЕМИЛ ГЕОРГИЕВ ДУДЕВ, ДИМИТЪР ГЕОРГИЕВ ДУДЕВ, ТОДОР ВАСИЛЕВ КУЦАРОВ",
+    "executive_individual": "ПАВЛИНА ГЕОРГИЕВА ДУДЕВА",
+    "contracts": [
+        {
+            "contract_amount_raw": "600",
+            "contract_amount": 600,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "ПИ ЕНД ПИ МАУНТИН-ЕАД ЕИК 200454147"
+        },
+        {
+            "contract_amount_raw": "410",
+            "contract_amount": 410,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "Юсис ООД ЕИК BG831633773"
+        },
+        {
+            "contract_amount_raw": "70",
+            "contract_amount": 70,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "Аероиск ЕООД ЕИК BG203788586"
+        },
+        {
+            "contract_amount_raw": "195",
+            "contract_amount": 195,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "Кремък ЕООД ЕИК BG 831404223"
+        },
+        {
+            "contract_amount_raw": "200",
+            "contract_amount": 200,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "Екселай ЕООД ЕИК BG202677056"
+        },
+        {
+            "contract_amount_raw": "70",
+            "contract_amount": 70,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "SEO Solutions Limited VAT: MT20908917"
+        },
+        {
+            "contract_amount_raw": "120",
+            "contract_amount": 120,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "ОТ-ДО Консулт ЕООД ЕИК 131431341"
+        },
+        {
+            "contract_amount_raw": "370",
+            "contract_amount": 370,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "БАПЗГ РК Стара Загора"
+        },
+        {
+            "contract_amount_raw": "100",
+            "contract_amount": 100,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "УЕБ ХЪБ  ЕООД ЕИК02452433"
+        },
+        {
+            "contract_amount_raw": "200",
+            "contract_amount": 200,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "Каммартон България  ЕООД ЕИК BG040201751"
+        },
+        {
+            "contract_amount_raw": "208",
+            "contract_amount": 208,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "Рекламен Маркет ЕООД ЕИК201017509"
+        },
+        {
+            "contract_amount_raw": "120",
+            "contract_amount": 120,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "ДИРЕКТ МЕДИЯ ЕООД ЕИК 204132161"
+        },
+        {
+            "contract_amount_raw": "120",
+            "contract_amount": 120,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "ЗАД БУЛСТРАД ВИЕНА ИНШУРЪНС ГРУП  ЕИК000694286"
+        },
+        {
+            "contract_amount_raw": "180",
+            "contract_amount": 180,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "Паралел проект ЕООД ЕИК 203468433"
+        },
+        {
+            "contract_amount_raw": "70",
+            "contract_amount": 70,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "ПРОФИ КРЕДИТ България ЕООД  ЕИК 175074752"
+        },
+        {
+            "contract_amount_raw": "7200",
+            "contract_amount": 7200,
+            "contract_basis_raw": "покупко-продажба на рекламна площ- Договор сключен на 1.04.2019 год, със срок на изпълнение до 31.03.2020год.",
+            "contract_sponsor_raw": "Община Стара Загора, със седалище и адрес на управление гр. Стара Загора, ул.Цар Симеон Велики № 107,  идентификационен номер 000818022, представлявана от Живко Тодоров "
+        },
+        {
+            "contract_amount_raw": "600",
+            "contract_amount": 600,
+            "contract_basis_raw": "Информационно сътрудничество- Договор сключен на 14.05.2019 год, със срок на изпълнение до 14.05.2020год",
+            "contract_sponsor_raw": "Водоснабдяване и канализация ЕООД-Стара Загора е ЕИК: 833066300, със седалище и адрес на управление, гр.Стара Загора, бул.Христо Ботев 62, представлявано от Румен Тенев Райков, управител"
+        },
+        {
+            "contract_amount_raw": "750",
+            "contract_amount": 750,
+            "contract_basis_raw": "покупко-продажба на рекламна площ- Договор сключен на 30.05.2019 год, със срок на изпълнение до 01.11.2019год.",
+            "contract_sponsor_raw": "Община Мъглиж, със седалище и адрес на управление гр. Мъглиж, ул.Трети март № 32,  идентификационен номер BG000817867, представлявана от Господин Антонов Господинов – кмет на Община Мъглиж"
+        },
+        {
+            "contract_amount_raw": "1800",
+            "contract_amount": 1800,
+            "contract_basis_raw": "покупко-продажба на рекламна площ-  Договор сключен на 12.11.2019 год, със срок на изпълнение до 12.11.2020год.",
+            "contract_sponsor_raw": "Община Мъглиж, със седалище и адрес на управление гр. Мъглиж, ул.Трети март № 32,  идентификационен номер BG000817867, представлявана от Господин Антонов Господинов – кмет на Община Мъглиж"
+        },
+        {
+            "contract_amount_raw": "63",
+            "contract_amount": 63,
+            "contract_basis_raw": "публикуване на информационна публикация на Министество на околната среда и водите по Оперативна програма Околна среда в сайта starozagorci.com",
+            "contract_sponsor_raw": "Ламбаджиев Стандарт ООД ЕИК BG 130862812"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "Информационно обслужване- Европейски избори",
+            "contract_sponsor_raw": "ПП ГЕРБ"
+        },
+        {
+            "contract_amount_raw": "600",
+            "contract_amount": 600,
+            "contract_basis_raw": "Информационно обслужване-Европейски избори",
+            "contract_sponsor_raw": "Областен съвет на БСП-Стара Загора"
+        },
+        {
+            "contract_amount_raw": "300",
+            "contract_amount": 300,
+            "contract_basis_raw": "Информационно обслужване- Местни избори",
+            "contract_sponsor_raw": "Общинска организация на БСП в Стара Загора"
+        },
+        {
+            "contract_amount_raw": "200",
+            "contract_amount": 200,
+            "contract_basis_raw": "Информационно обслужване- Местни избори",
+            "contract_sponsor_raw": "ВМРО-БНД"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "Информационно обслужване- Местни избори",
+            "contract_sponsor_raw": "ПП ГЕРБ"
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "legal_entity_name": "С-ФАКТОРБГ ЕООД",
+    "legal_entity_id": "202104455",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "www.faktor.bg",
+    "real_owner": "Стоян Стойков Стоянов",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "50000",
+            "contract_amount": 50000,
+            "contract_basis_raw": "01.2019г. Медийно обслужване",
+            "contract_sponsor_raw": "ПП ГЕРБ/ ЕИК: 175248466"
+        },
+        {
+            "contract_amount_raw": "50000",
+            "contract_amount": 50000,
+            "contract_basis_raw": "01.2019г. Медийно обслужване",
+            "contract_sponsor_raw": "ПП ГЕРБ/ ЕИК: 175248466"
+        },
+        {
+            "contract_amount_raw": "4000",
+            "contract_amount": 4000,
+            "contract_basis_raw": "01.2019г. Медийно обслужване",
+            "contract_sponsor_raw": "ПП БЗНС/ ЕИК: 121440908"
+        },
+        {
+            "contract_amount_raw": "4000",
+            "contract_amount": 4000,
+            "contract_basis_raw": "01.2019г. Медийно обслужване",
+            "contract_sponsor_raw": "ПП БЗНС/ ЕИК: 121440908"
+        },
+        {
+            "contract_amount_raw": "5000",
+            "contract_amount": 5000,
+            "contract_basis_raw": "04.2019г. Медийно обслужване Евро избори 2019",
+            "contract_sponsor_raw": "ПП ГЕРБ/ ЕИК: 175248466"
+        },
+        {
+            "contract_amount_raw": "5000",
+            "contract_amount": 5000,
+            "contract_basis_raw": "04.2019г. Медийно обслужване Евро избори 2019",
+            "contract_sponsor_raw": "ПП ГЕРБ/ ЕИК: 175248466"
+        },
+        {
+            "contract_amount_raw": "1500",
+            "contract_amount": 1500,
+            "contract_basis_raw": "05.2019г. Медийно обслужване Евро избори 2019",
+            "contract_sponsor_raw": "ПП НФСБ/ ЕИК: 176129116"
+        },
+        {
+            "contract_amount_raw": "1500",
+            "contract_amount": 1500,
+            "contract_basis_raw": "05.2019г. Медийно обслужване Евро избори 2019",
+            "contract_sponsor_raw": "ПП НФСБ/ ЕИК: 176129116"
+        },
+        {
+            "contract_amount_raw": "2400",
+            "contract_amount": 2400,
+            "contract_basis_raw": "05.2019г. Рекламни услуги за Евро избори 2019",
+            "contract_sponsor_raw": "Иниц. комитет за издиг. Н. Ненчев / ЕИК: 7410066532"
+        },
+        {
+            "contract_amount_raw": "2400",
+            "contract_amount": 2400,
+            "contract_basis_raw": "05.2019г. Рекламни услуги за Евро избори 2019",
+            "contract_sponsor_raw": "Иниц. комитет за издиг. Н. Ненчев / ЕИК: 7410066532"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "09.2019г. Отразяване Местни избори 2019",
+            "contract_sponsor_raw": "ПП ГЕРБ/ ЕИК: 175248466"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "09.2019г. Отразяване Местни избори 2019",
+            "contract_sponsor_raw": "ПП ГЕРБ/ ЕИК: 175248466"
+        },
+        {
+            "contract_amount_raw": "2200",
+            "contract_amount": 2200,
+            "contract_basis_raw": "09.2019г. Отразяване Местни изб. 2019 - ГЕРБ Ловеч",
+            "contract_sponsor_raw": "ПП ГЕРБ/ ЕИК: 175248466"
+        },
+        {
+            "contract_amount_raw": "2200",
+            "contract_amount": 2200,
+            "contract_basis_raw": "09.2019г. Отразяване Местни изб. 2019 - ГЕРБ Ловеч",
+            "contract_sponsor_raw": "ПП ГЕРБ/ ЕИК: 175248466"
+        },
+        {
+            "contract_amount_raw": "1500",
+            "contract_amount": 1500,
+            "contract_basis_raw": "10.2019г. Отразяване Местни избори 2019",
+            "contract_sponsor_raw": "ПП БЗНС/ ЕИК: 121440908"
+        },
+        {
+            "contract_amount_raw": "1500",
+            "contract_amount": 1500,
+            "contract_basis_raw": "10.2019г. Отразяване Местни избори 2019",
+            "contract_sponsor_raw": "ПП БЗНС/ ЕИК: 121440908"
+        },
+        {
+            "contract_amount_raw": "2400",
+            "contract_amount": 2400,
+            "contract_basis_raw": "10.2019г. Отразяване Местни избори 2019",
+            "contract_sponsor_raw": "ПП НФСБ/ ЕИК: 176129116"
+        },
+        {
+            "contract_amount_raw": "2400",
+            "contract_amount": 2400,
+            "contract_basis_raw": "10.2019г. Отразяване Местни избори 2019",
+            "contract_sponsor_raw": "ПП НФСБ/ ЕИК: 176129116"
+        }
+    ]
+}

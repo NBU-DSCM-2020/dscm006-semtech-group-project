@@ -1,0 +1,35 @@
+{
+    "legal_entity_name": "Добруджа прес ЕООД",
+    "legal_entity_id": "202416729",
+    "public_company": "неприложимо",
+    "media_service_type": "Печатна медия",
+    "media_service_name": "Вестник Седмичен ГЛАС",
+    "real_owner": "Веселин Илиев Димитров",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "750",
+            "contract_amount": 750,
+            "contract_basis_raw": "01.10.2019 г. - Договор за политическа реклама",
+            "contract_sponsor_raw": "Общ. съвет на БСП Добричка, ЕИК:0007020140730"
+        },
+        {
+            "contract_amount_raw": "1446",
+            "contract_amount": 1446,
+            "contract_basis_raw": "27.09.2019 г. - Договор за политическа реклама",
+            "contract_sponsor_raw": "Местна коалиция ГЕРБ /СДС/, ЕИК:175248466"
+        },
+        {
+            "contract_amount_raw": "250",
+            "contract_amount": 250,
+            "contract_basis_raw": "19.05.2019 г. - Договор за политическа реклама",
+            "contract_sponsor_raw": "ПП Да България, ЕИК:177151578"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "02.01.2019 г. - Договор за информационно обслужване",
+            "contract_sponsor_raw": "ПП ГЕРБ, ЕИК: 175248466"
+        }
+    ]
+}

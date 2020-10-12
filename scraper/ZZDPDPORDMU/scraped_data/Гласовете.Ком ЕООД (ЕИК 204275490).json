@@ -1,0 +1,125 @@
+{
+    "legal_entity_name": "Гласовете.Ком ЕООД",
+    "legal_entity_id": "204275490",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "www.glasove.com",
+    "real_owner": "Галя Лазарова Дачкова",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "1955,83",
+            "contract_amount": 1955,
+            "contract_basis_raw": "медийни услуги",
+            "contract_sponsor_raw": "АРГЕНТ 2002 ООД, с ЕИК: 131015485"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "медийни услуги",
+            "contract_sponsor_raw": "АВАНТИ 777 ЕООД, с ЕИК: 105568755"
+        },
+        {
+            "contract_amount_raw": "17000",
+            "contract_amount": 17000,
+            "contract_basis_raw": "медийни услуги /предизборни кампании/",
+            "contract_sponsor_raw": "ПП БСП - НС, идент. 000702014"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "медийни услуги /предизборна кампания/",
+            "contract_sponsor_raw": "ГС БСП - София, идент. 000702014"
+        },
+        {
+            "contract_amount_raw": "7823,36",
+            "contract_amount": 7823,
+            "contract_basis_raw": "медийни услуги",
+            "contract_sponsor_raw": "Европейски парламент"
+        },
+        {
+            "contract_amount_raw": "14000",
+            "contract_amount": 14000,
+            "contract_basis_raw": "медийни услуги",
+            "contract_sponsor_raw": "СОФИЙСКА ФИЛХАРМОНИЯ, с ЕИК: 000670883"
+        },
+        {
+            "contract_amount_raw": "833,33",
+            "contract_amount": 833,
+            "contract_basis_raw": "медийни услуги /предизборна кампания/",
+            "contract_sponsor_raw": "ПП ГЕРБ (МК ГЕРБ/СДС), идент: 175248466"
+        },
+        {
+            "contract_amount_raw": "12089,85",
+            "contract_amount": 12089,
+            "contract_basis_raw": "рекламни услуги",
+            "contract_sponsor_raw": "GOOGLE IRELAND LIMIT, идент. IE6388047V"
+        },
+        {
+            "contract_amount_raw": "48000",
+            "contract_amount": 48000,
+            "contract_basis_raw": "медийни услуги",
+            "contract_sponsor_raw": "РА Киви ООД, с ЕИК: 121443784"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "медийни услуги",
+            "contract_sponsor_raw": "Сергей Димитриевич Станишев"
+        },
+        {
+            "contract_amount_raw": "2400",
+            "contract_amount": 2400,
+            "contract_basis_raw": "услуги",
+            "contract_sponsor_raw": "ТЕРА ЮГЛАНС ЕООД, с ЕИК: BG201340538"
+        },
+        {
+            "contract_amount_raw": "3000",
+            "contract_amount": 3000,
+            "contract_basis_raw": "медийни услуги /предизборна кампания/",
+            "contract_sponsor_raw": "ПП ВМРО - НД, идент. 130451348"
+        },
+        {
+            "contract_amount_raw": "15000",
+            "contract_amount": 15000,
+            "contract_basis_raw": "медийни услуги /предизборна кампания за ЕП/ договор от 24.04.2019",
+            "contract_sponsor_raw": "ПП БСП - НС, идент. 000702014"
+        },
+        {
+            "contract_amount_raw": "2000",
+            "contract_amount": 2000,
+            "contract_basis_raw": "медийни услуги /предизборна кампания за местни избори/ договор от 10.09.2019",
+            "contract_sponsor_raw": "ПП БСП - НС, идент. 000702014"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "медийни услуги /предизборна кампания/, договор от 26.09.2019",
+            "contract_sponsor_raw": "ГС БСП - София, идент. 000702014"
+        },
+        {
+            "contract_amount_raw": "7823,36",
+            "contract_amount": 7823,
+            "contract_basis_raw": "медийни услуги, договор от 18.04.2018",
+            "contract_sponsor_raw": "Европейски парламент"
+        },
+        {
+            "contract_amount_raw": "14000",
+            "contract_amount": 14000,
+            "contract_basis_raw": "медийни услуги, договор от 22.01.2018",
+            "contract_sponsor_raw": "СОФИЙСКА ФИЛХАРМОНИЯ, с ЕИК: 000670883"
+        },
+        {
+            "contract_amount_raw": "833,33",
+            "contract_amount": 833,
+            "contract_basis_raw": "медийни услуги /предизборна кампания/, договор от 26.09.2019",
+            "contract_sponsor_raw": "ПП ГЕРБ (МК ГЕРБ/СДС), идент: 175248466"
+        },
+        {
+            "contract_amount_raw": "3000",
+            "contract_amount": 3000,
+            "contract_basis_raw": "медийни услуги /предизборна кампания/, договор от 30.09.2019",
+            "contract_sponsor_raw": "ПП ВМРО - НД, идент. 130451348"
+        }
+    ]
+}

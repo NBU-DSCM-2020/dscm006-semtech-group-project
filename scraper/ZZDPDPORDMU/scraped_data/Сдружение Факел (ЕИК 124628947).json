@@ -1,0 +1,107 @@
+{
+    "legal_entity_name": "Сдружение Факел",
+    "legal_entity_id": "124628947",
+    "public_company": "неприложимо",
+    "media_service_type": "Печатна медия",
+    "media_service_name": "Вестник Каварна плюс",
+    "real_owner": "Анелия Иванова Каменова",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "163,8",
+            "contract_amount": 163,
+            "contract_basis_raw": "ф 4525/27.09.2019 г",
+            "contract_sponsor_raw": "Веселина Николова Енчева - предизб. публ-ия"
+        },
+        {
+            "contract_amount_raw": "342",
+            "contract_amount": 342,
+            "contract_basis_raw": "ф. 4527/27.09.2019 г.",
+            "contract_sponsor_raw": "МК ГЕРБ /СДС/ - Йордан Стоянов - предизб. публ-ия"
+        },
+        {
+            "contract_amount_raw": "149,5",
+            "contract_amount": 149,
+            "contract_basis_raw": "4532/27.09.2019 г.",
+            "contract_sponsor_raw": "МК ГЕРБ /СДС/ - Йордан Стоянов - предизб. публ-ия"
+        },
+        {
+            "contract_amount_raw": "1104",
+            "contract_amount": 1104,
+            "contract_basis_raw": "4528/27.09.2019 г.",
+            "contract_sponsor_raw": "МК АТАКА /ПП АБВ, ПП АТАКА – Георги Йорданов – предизборна публикация"
+        },
+        {
+            "contract_amount_raw": "94,5",
+            "contract_amount": 94,
+            "contract_basis_raw": "4529/29.09.2019 г.",
+            "contract_sponsor_raw": "Милена Бончева - ИК за издигане кандидатурата на независим кандидат за кмет на община Каварна - предизборна публикация"
+        },
+        {
+            "contract_amount_raw": "292,95",
+            "contract_amount": 292,
+            "contract_basis_raw": "4535/03.10.2019 г.",
+            "contract_sponsor_raw": "Веселина Николова Енчева, предизборна публикация"
+        },
+        {
+            "contract_amount_raw": "622,5",
+            "contract_amount": 622,
+            "contract_basis_raw": "4539/05.10.2019 г.",
+            "contract_sponsor_raw": "МК ГЕРБ /СДС/ - Йордан Стоянов- предизборна публикация"
+        },
+        {
+            "contract_amount_raw": "155",
+            "contract_amount": 155,
+            "contract_basis_raw": "4540/06.10.2019 г.",
+            "contract_sponsor_raw": "МК ГЕРБ /СДС/ - Йордан Стоянов- предизборна публикация"
+        },
+        {
+            "contract_amount_raw": "225",
+            "contract_amount": 225,
+            "contract_basis_raw": "4546/10.10.2019 г.",
+            "contract_sponsor_raw": "МК АТАКА /ПП АБВ, ПП АТАКА – Георги Йорданов – предизборна публикация"
+        },
+        {
+            "contract_amount_raw": "535,95",
+            "contract_amount": 535,
+            "contract_basis_raw": "4547/10.10.2019 г.",
+            "contract_sponsor_raw": "Красимир Атанасов Кръстев"
+        },
+        {
+            "contract_amount_raw": "789",
+            "contract_amount": 789,
+            "contract_basis_raw": "4549/13.10.2019",
+            "contract_sponsor_raw": "МК ГЕРБ /СДС/ - Йордан Стоянов- предизборна публикация"
+        },
+        {
+            "contract_amount_raw": "94,5",
+            "contract_amount": 94,
+            "contract_basis_raw": "4553/18.10.2019 г.",
+            "contract_sponsor_raw": "Милена Бончева - ИК за издигане кандидатурата на независим кандидат за кмет на община Каварна - предизборна публикация"
+        },
+        {
+            "contract_amount_raw": "789",
+            "contract_amount": 789,
+            "contract_basis_raw": "4554/19.10.2019 г.",
+            "contract_sponsor_raw": "МК ГЕРБ /СДС/ - Йордан Стоянов- предизборна публикация"
+        },
+        {
+            "contract_amount_raw": "224,25",
+            "contract_amount": 224,
+            "contract_basis_raw": "4556/23.10.2019 г.",
+            "contract_sponsor_raw": "МК АТАКА /ПП АБВ, ПП АТАКА – Георги Йорданов – предизборна публикация"
+        },
+        {
+            "contract_amount_raw": "789",
+            "contract_amount": 789,
+            "contract_basis_raw": "4557/23.10.2019 г.",
+            "contract_sponsor_raw": "МК ГЕРБ /СДС/ - Йордан Стоянов- предизборна публикация"
+        },
+        {
+            "contract_amount_raw": "789",
+            "contract_amount": 789,
+            "contract_basis_raw": "4558/30.10.2019 г.",
+            "contract_sponsor_raw": "МК ГЕРБ /СДС/ - Йордан Стоянов- предизборна публикация"
+        }
+    ]
+}

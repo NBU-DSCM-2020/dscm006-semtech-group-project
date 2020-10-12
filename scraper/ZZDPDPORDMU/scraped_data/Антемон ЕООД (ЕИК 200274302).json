@@ -1,0 +1,35 @@
+{
+    "legal_entity_name": "Антемон ЕООД",
+    "legal_entity_id": "200274302",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "meduzata.com",
+    "real_owner": "ИРИНА СТЕФАНОВА ГЕНОВА",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "1800",
+            "contract_amount": 1800,
+            "contract_basis_raw": "Медийно обслужване, 01,2019",
+            "contract_sponsor_raw": "Община Камено, ЕИК 000057001"
+        },
+        {
+            "contract_amount_raw": "2400",
+            "contract_amount": 2400,
+            "contract_basis_raw": "Медийно обслужване, 11,2019",
+            "contract_sponsor_raw": "ЮИДП Сливен, ЕИК 201617654"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "Медийно обслужване, 06,2019",
+            "contract_sponsor_raw": "Община Царево, ЕИК 000057097"
+        },
+        {
+            "contract_amount_raw": "300",
+            "contract_amount": 300,
+            "contract_basis_raw": "Медийно обслужване, 09.2019",
+            "contract_sponsor_raw": "ПП ДБГ, ЕИК 176368365"
+        }
+    ]
+}

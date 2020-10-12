@@ -1,0 +1,161 @@
+{
+    "legal_entity_name": "Ес Ти Загора ЕООД",
+    "legal_entity_id": "202340772",
+    "public_company": "неприложимо",
+    "media_service_type": "Телевизия",
+    "media_service_name": "Телевизия Загора",
+    "real_owner": "Станимира Димова Димова",
+    "executive_individual": "Станимира Димова Димова",
+    "contracts": [
+        {
+            "contract_amount_raw": "14400",
+            "contract_amount": 14400,
+            "contract_basis_raw": "договор за информационно обслужване",
+            "contract_sponsor_raw": "община Стара Загора"
+        },
+        {
+            "contract_amount_raw": "3600",
+            "contract_amount": 3600,
+            "contract_basis_raw": "договор за информационно обслужване",
+            "contract_sponsor_raw": "община Гълъбово"
+        },
+        {
+            "contract_amount_raw": "1500",
+            "contract_amount": 1500,
+            "contract_basis_raw": "договор за информ. обслужване",
+            "contract_sponsor_raw": "Регионален исторически музей Стара Загора"
+        },
+        {
+            "contract_amount_raw": "2500",
+            "contract_amount": 2500,
+            "contract_basis_raw": "договор реклама",
+            "contract_sponsor_raw": "Дорис ООД"
+        },
+        {
+            "contract_amount_raw": "6000",
+            "contract_amount": 6000,
+            "contract_basis_raw": "договор реклама",
+            "contract_sponsor_raw": "Металик АД"
+        },
+        {
+            "contract_amount_raw": "200",
+            "contract_amount": 200,
+            "contract_basis_raw": "договор Евроизбори",
+            "contract_sponsor_raw": "ПП ГЕРБ"
+        },
+        {
+            "contract_amount_raw": "2000",
+            "contract_amount": 2000,
+            "contract_basis_raw": "договор Евроизбори",
+            "contract_sponsor_raw": "Областен съвет БСП Стара Загора"
+        },
+        {
+            "contract_amount_raw": "2000",
+            "contract_amount": 2000,
+            "contract_basis_raw": "договор Евроизбори",
+            "contract_sponsor_raw": "Аргент - 2002 ООД"
+        },
+        {
+            "contract_amount_raw": "20000",
+            "contract_amount": 20000,
+            "contract_basis_raw": "договор реклама",
+            "contract_sponsor_raw": "Медина Мед ООД"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "договор Местни избори",
+            "contract_sponsor_raw": "Общински съвет БСП Казанлък"
+        },
+        {
+            "contract_amount_raw": "5000",
+            "contract_amount": 5000,
+            "contract_basis_raw": "договор реклама",
+            "contract_sponsor_raw": "Европейски пътища АД"
+        },
+        {
+            "contract_amount_raw": "6000",
+            "contract_amount": 6000,
+            "contract_basis_raw": "договор за възлагане на работа",
+            "contract_sponsor_raw": "община Стара Загора"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "договор Местни избори",
+            "contract_sponsor_raw": "Земеделски народен съюз"
+        },
+        {
+            "contract_amount_raw": "200",
+            "contract_amount": 200,
+            "contract_basis_raw": "договор Местни избори",
+            "contract_sponsor_raw": "Димитър Здравков Чорбаджиев"
+        },
+        {
+            "contract_amount_raw": "20000",
+            "contract_amount": 20000,
+            "contract_basis_raw": "договор информационно обслужване",
+            "contract_sponsor_raw": "Община Мъглиж"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "договор Местни избори",
+            "contract_sponsor_raw": "Местна коалиция ПП ГЕРБ Чирпан"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "договор Местни избори ",
+            "contract_sponsor_raw": "ПП Възраждане"
+        },
+        {
+            "contract_amount_raw": "3000",
+            "contract_amount": 3000,
+            "contract_basis_raw": "договор Местни избори",
+            "contract_sponsor_raw": "ПП АБВ"
+        },
+        {
+            "contract_amount_raw": "400",
+            "contract_amount": 400,
+            "contract_basis_raw": "договор Местни избори",
+            "contract_sponsor_raw": "ВМРО БНД"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "договор местни избори",
+            "contract_sponsor_raw": "ПП ДПС"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "договор местни избори",
+            "contract_sponsor_raw": "ПП Воля"
+        },
+        {
+            "contract_amount_raw": "2000",
+            "contract_amount": 2000,
+            "contract_basis_raw": "договор информ. обслужване",
+            "contract_sponsor_raw": "община Раднево"
+        },
+        {
+            "contract_amount_raw": "840",
+            "contract_amount": 840,
+            "contract_basis_raw": "договор инф. обслужване",
+            "contract_sponsor_raw": "Държавна опера Стара Загора"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "договор Местни избори",
+            "contract_sponsor_raw": "Общ. организация на БСП Стара Загора"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "договор Местни избори ",
+            "contract_sponsor_raw": "ПП ГЕРБ"
+        }
+    ]
+}

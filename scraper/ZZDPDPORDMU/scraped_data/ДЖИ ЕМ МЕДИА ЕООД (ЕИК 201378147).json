@@ -1,0 +1,299 @@
+{
+    "legal_entity_name": "ДЖИ ЕМ МЕДИА ЕООД",
+    "legal_entity_id": "201378147",
+    "public_company": "неприложимо",
+    "media_service_type": "Печатна медия",
+    "media_service_name": "sliveninfo.bg",
+    "real_owner": "Георги Иванов Мангинов",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "1800",
+            "contract_amount": 1800,
+            "contract_basis_raw": "Договор за реклама",
+            "contract_sponsor_raw": "Дорис травел ЕООД, ЕИК 203098464"
+        },
+        {
+            "contract_amount_raw": "200",
+            "contract_amount": 200,
+            "contract_basis_raw": "Публик.на обява в sliveninfo",
+            "contract_sponsor_raw": "ДПП Сините камъни, ЕИК 119607289"
+        },
+        {
+            "contract_amount_raw": "250",
+            "contract_amount": 250,
+            "contract_basis_raw": "Договор за реклама",
+            "contract_sponsor_raw": "Янос ЕООД, ЕИК 119511974"
+        },
+        {
+            "contract_amount_raw": "300",
+            "contract_amount": 300,
+            "contract_basis_raw": "Публик.на обява",
+            "contract_sponsor_raw": "Ловно-рибарско дружество, ЕИК 119505576"
+        },
+        {
+            "contract_amount_raw": "2000",
+            "contract_amount": 2000,
+            "contract_basis_raw": "Договор за публикуване на банер",
+            "contract_sponsor_raw": "Община Сливен, ЕИК 000590654"
+        },
+        {
+            "contract_amount_raw": "2880",
+            "contract_amount": 2880,
+            "contract_basis_raw": "Договор за медийно отразяване на дейността",
+            "contract_sponsor_raw": "РЗИ Сливен, ЕИК 176031165"
+        },
+        {
+            "contract_amount_raw": "1440",
+            "contract_amount": 1440,
+            "contract_basis_raw": "Договор за медийно отразяване на дейността и реклама",
+            "contract_sponsor_raw": "МБАЛ Д-р Иван Селимински АД, ЕИК 119502733"
+        },
+        {
+            "contract_amount_raw": "1200",
+            "contract_amount": 1200,
+            "contract_basis_raw": "Договор за медийно отразяване и реклама",
+            "contract_sponsor_raw": "ЮИДПТПДГС  Стара река ЕИК 2016176540065"
+        },
+        {
+            "contract_amount_raw": "1200",
+            "contract_amount": 1200,
+            "contract_basis_raw": "Договор за медийно отразяване и реклама",
+            "contract_sponsor_raw": "МБАЛ Х.Димитър, ЕИК119624388"
+        },
+        {
+            "contract_amount_raw": "1440",
+            "contract_amount": 1440,
+            "contract_basis_raw": "Договор за информационно обслужване",
+            "contract_sponsor_raw": "ДКЦ-2 Сливен, ЕИК 120102939"
+        },
+        {
+            "contract_amount_raw": "1500",
+            "contract_amount": 1500,
+            "contract_basis_raw": "Договор за отразяване на местни избори 2019 г.",
+            "contract_sponsor_raw": "ПП ГЕРБ, ЕИК 175248466"
+        },
+        {
+            "contract_amount_raw": "1500",
+            "contract_amount": 1500,
+            "contract_basis_raw": "Договор за отразяване на местни избори 2019 г.",
+            "contract_sponsor_raw": "Общински съвет на ПП БСП – Сливен, ЕИК 0007020140070"
+        },
+        {
+            "contract_amount_raw": "1500",
+            "contract_amount": 1500,
+            "contract_basis_raw": "Договор за отразяване на местни избори 2019 г.",
+            "contract_sponsor_raw": "ПП ДПС, ЕИК 00707470"
+        },
+        {
+            "contract_amount_raw": "1500",
+            "contract_amount": 1500,
+            "contract_basis_raw": "Договор за отразяване на местни избори 2019 г.",
+            "contract_sponsor_raw": "Бълг.социалдемократична Евролевица, ЕИК 121713634"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "Договор за отразяване на местни  избори 2019 г",
+            "contract_sponsor_raw": "Християн демократична партия на България, ЕИК 175586681"
+        },
+        {
+            "contract_amount_raw": "1500",
+            "contract_amount": 1500,
+            "contract_basis_raw": "Договор за отразяване на местни избори 2019 г.",
+            "contract_sponsor_raw": "Димитър Сяров – 730411хххх"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "Договор за отразяване на местни избори 2019 г.",
+            "contract_sponsor_raw": "Движение България на гражданите, ЕИК 176368365"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "Договор за отразяване на местни избори 2019 г.",
+            "contract_sponsor_raw": "ПП Единна народна партия, ЕИК 175519298"
+        },
+        {
+            "contract_amount_raw": "1500",
+            "contract_amount": 1500,
+            "contract_basis_raw": "Договор за отразяване на местни избори 2019 г.",
+            "contract_sponsor_raw": "ПП БСДП, ЕИК 000707125"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "Договор за отразяване на местни избори 2019 г.",
+            "contract_sponsor_raw": "ПП СДС, ЕИК 130052349"
+        },
+        {
+            "contract_amount_raw": "1020",
+            "contract_amount": 1020,
+            "contract_basis_raw": "Договор за информационно обслужване",
+            "contract_sponsor_raw": "ТД ДКЦ – 1 ЕООД, ЕИК 119502758"
+        },
+        {
+            "contract_amount_raw": "12000",
+            "contract_amount": 12000,
+            "contract_basis_raw": "Договор за електронно и информационно обслужване",
+            "contract_sponsor_raw": "Община Сливен, ЕИК 000590654"
+        },
+        {
+            "contract_amount_raw": "200",
+            "contract_amount": 200,
+            "contract_basis_raw": "Договор за отразяване балотаж на местни избори 2019 г.",
+            "contract_sponsor_raw": "ПП ГЕРБ, ЕИК 175248466"
+        },
+        {
+            "contract_amount_raw": "7000",
+            "contract_amount": 7000,
+            "contract_basis_raw": "Договор за медийно и информац. обслужване",
+            "contract_sponsor_raw": "ПП ГЕРБ, ЕИК 175248466"
+        },
+        {
+            "contract_amount_raw": "1800",
+            "contract_amount": 1800,
+            "contract_basis_raw": "Договор за реклама",
+            "contract_sponsor_raw": "Дорис травел ЕООД, ЕИК 203098464"
+        },
+        {
+            "contract_amount_raw": "200",
+            "contract_amount": 200,
+            "contract_basis_raw": "Публик.на обява в sliveninfo",
+            "contract_sponsor_raw": "ДПП Сините камъни, ЕИК 119607289"
+        },
+        {
+            "contract_amount_raw": "250",
+            "contract_amount": 250,
+            "contract_basis_raw": "Договор за реклама",
+            "contract_sponsor_raw": "Янос ЕООД, ЕИК 119511974"
+        },
+        {
+            "contract_amount_raw": "300",
+            "contract_amount": 300,
+            "contract_basis_raw": "Публик.на обява",
+            "contract_sponsor_raw": "Ловно-рибарско дружество, ЕИК 119505576"
+        },
+        {
+            "contract_amount_raw": "2000",
+            "contract_amount": 2000,
+            "contract_basis_raw": "Договор за публикуване на банер",
+            "contract_sponsor_raw": "Община Сливен, ЕИК 000590654"
+        },
+        {
+            "contract_amount_raw": "2880",
+            "contract_amount": 2880,
+            "contract_basis_raw": "Договор за медийно отразяване на дейността",
+            "contract_sponsor_raw": "РЗИ Сливен, ЕИК 176031165"
+        },
+        {
+            "contract_amount_raw": "1440",
+            "contract_amount": 1440,
+            "contract_basis_raw": "Договор за медийно отразяване на дейността и реклама",
+            "contract_sponsor_raw": "МБАЛ Д-р Иван Селимински АД, ЕИК 119502733"
+        },
+        {
+            "contract_amount_raw": "1200",
+            "contract_amount": 1200,
+            "contract_basis_raw": "Договор за медийно отразяване и реклама",
+            "contract_sponsor_raw": "ЮИДПТПДГС Стара река ЕИК 2016176540065"
+        },
+        {
+            "contract_amount_raw": "1200",
+            "contract_amount": 1200,
+            "contract_basis_raw": "Договор за медийно отразяване и реклама",
+            "contract_sponsor_raw": "МБАЛ Х.Димитър, ЕИК119624388"
+        },
+        {
+            "contract_amount_raw": "1440",
+            "contract_amount": 1440,
+            "contract_basis_raw": "Договор за информационно обслужване",
+            "contract_sponsor_raw": "ДКЦ-2 Сливен, ЕИК 120102939"
+        },
+        {
+            "contract_amount_raw": "1500",
+            "contract_amount": 1500,
+            "contract_basis_raw": "Договор за отразяване на местни избори 2019 г.",
+            "contract_sponsor_raw": "ПП ГЕРБ, ЕИК 175248466"
+        },
+        {
+            "contract_amount_raw": "1500",
+            "contract_amount": 1500,
+            "contract_basis_raw": "Договор за отразяване на местни избори 2019 г.",
+            "contract_sponsor_raw": "Общински съвет на ПП БСП – Сливен, ЕИК 0007020140070"
+        },
+        {
+            "contract_amount_raw": "1500",
+            "contract_amount": 1500,
+            "contract_basis_raw": "Договор за отразяване на местни избори 2019 г.",
+            "contract_sponsor_raw": "ПП ДПС, ЕИК 00707470"
+        },
+        {
+            "contract_amount_raw": "1500",
+            "contract_amount": 1500,
+            "contract_basis_raw": "Договор за отразяване на местни избори 2019 г.",
+            "contract_sponsor_raw": "Бълг.социалдемократична Евролевица, ЕИК 121713634"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "Договор за отразяване на местни избори 2019 г.",
+            "contract_sponsor_raw": "Християн демократична партия на България, ЕИК 175586681"
+        },
+        {
+            "contract_amount_raw": "1500",
+            "contract_amount": 1500,
+            "contract_basis_raw": "Договор за отразяване на местни избори 2019 г.",
+            "contract_sponsor_raw": "Димитър Сяров – 730411хххх"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "Договор за отразяване на местни избори 2019 г.",
+            "contract_sponsor_raw": "Движение България на гражданите, ЕИК 176368365"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "Договор за отразяване на местни избори 2019 г.",
+            "contract_sponsor_raw": "ПП Единна народна партия, ЕИК 175519298 "
+        },
+        {
+            "contract_amount_raw": "1500",
+            "contract_amount": 1500,
+            "contract_basis_raw": "Договор за отразяване на местни избори 2019 г.",
+            "contract_sponsor_raw": "ПП БСДП, ЕИК 000707125"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "Договор за отразяване на местни избори 2019 г.",
+            "contract_sponsor_raw": "ПП СДС, ЕИК 130052349"
+        },
+        {
+            "contract_amount_raw": "1020",
+            "contract_amount": 1020,
+            "contract_basis_raw": "Договор за информационно обслужване",
+            "contract_sponsor_raw": "ТД ДКЦ – 1 ЕООД, ЕИК 119502758"
+        },
+        {
+            "contract_amount_raw": "12000",
+            "contract_amount": 12000,
+            "contract_basis_raw": "Договор за електронно и информационно обслужване",
+            "contract_sponsor_raw": "Община Сливен, ЕИК 000590654"
+        },
+        {
+            "contract_amount_raw": "200",
+            "contract_amount": 200,
+            "contract_basis_raw": "Договор за отразяване балотаж на местни избори 2019 г.",
+            "contract_sponsor_raw": "ПП ГЕРБ, ЕИК 175248466"
+        },
+        {
+            "contract_amount_raw": "7000",
+            "contract_amount": 7000,
+            "contract_basis_raw": "Договор за медийно и информац. обслужване",
+            "contract_sponsor_raw": "ПП ГЕРБ, ЕИК 175248466"
+        }
+    ]
+}

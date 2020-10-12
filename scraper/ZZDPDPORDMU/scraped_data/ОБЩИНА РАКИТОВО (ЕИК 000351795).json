@@ -1,0 +1,17 @@
+{
+    "legal_entity_name": "ОБЩИНА РАКИТОВО",
+    "legal_entity_id": "000351795",
+    "public_company": "Надзорна институция - Министерски съвет",
+    "media_service_type": "Печатна медия",
+    "media_service_name": "ВЕСТНИК ОБЩИНА РАКИТОВО",
+    "real_owner": "Костадин Щерев Холянов",
+    "executive_individual": "Костадин Щерев Холянов",
+    "contracts": [
+        {
+            "contract_amount_raw": "12000",
+            "contract_amount": 12000,
+            "contract_basis_raw": "Информационна политика на Община Ракитово за прозрачно управление",
+            "contract_sponsor_raw": "000351795"
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "legal_entity_name": "Синхрон медия ООД",
+    "legal_entity_id": "104691751",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание; Онлайн новинарско издание",
+    "media_service_name": "http://veliko-tarnovo.net/; http://sport-vt.com/",
+    "real_owner": "Анатоли Атанасов Петров, Радослав Игнатов Владев",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "1080",
+            "contract_amount": 1080,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "Община Велико Търново, ЕИК: 000133634"
+        },
+        {
+            "contract_amount_raw": "480",
+            "contract_amount": 480,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "Община Свищов, ЕИК: 000133965"
+        },
+        {
+            "contract_amount_raw": "600",
+            "contract_amount": 600,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "Община Павликени, ЕИК: 000133901"
+        },
+        {
+            "contract_amount_raw": "630",
+            "contract_amount": 630,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "Община Лясковец, ЕИК: 000133844"
+        },
+        {
+            "contract_amount_raw": "120",
+            "contract_amount": 120,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "Община Горна Оряховица, ЕИК: 000133673"
+        },
+        {
+            "contract_amount_raw": "240",
+            "contract_amount": 240,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "МУ Проф. Д-р П. Стоянов, ЕИК: 000083633"
+        },
+        {
+            "contract_amount_raw": "240",
+            "contract_amount": 240,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "ВТУ СВ. СВ. КИРИЛ И МЕТОДИЙ, ЕИК: 104025653"
+        },
+        {
+            "contract_amount_raw": "700",
+            "contract_amount": 700,
+            "contract_basis_raw": "Отразяване на кампания ",
+            "contract_sponsor_raw": "ВМРО-БНД, ЕИК: 130451348"
+        },
+        {
+            "contract_amount_raw": "800",
+            "contract_amount": 800,
+            "contract_basis_raw": "Озвучаване",
+            "contract_sponsor_raw": "ПП ГЕРБ, ЕИК: 175248466"
+        },
+        {
+            "contract_amount_raw": "400",
+            "contract_amount": 400,
+            "contract_basis_raw": "Отразяване на кампания",
+            "contract_sponsor_raw": "ПП ГЕРБ, ЕИК: 175248466"
+        },
+        {
+            "contract_amount_raw": "800",
+            "contract_amount": 800,
+            "contract_basis_raw": "Отразяване на предизборна кампания",
+            "contract_sponsor_raw": "ОС НА БСП - В. ТЪРНОВО, ЕИК: 0007020140310"
+        },
+        {
+            "contract_amount_raw": "300",
+            "contract_amount": 300,
+            "contract_basis_raw": "Информационно обслужване в полза на Алтернатива за гражданите",
+            "contract_sponsor_raw": "ТАНЯ ТРИФОНОВА АЗМАНОВА, ЕГН: 9103241470"
+        },
+        {
+            "contract_amount_raw": "250",
+            "contract_amount": 250,
+            "contract_basis_raw": "Отразяване на кампания",
+            "contract_sponsor_raw": "КОАЛИЦИЯ ДЕМОКРАТИЧНА БЪЛГАРИЯ ОБЕДИНЕНИЕ, ЕИК:  177394797"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "Отразяване на кампания",
+            "contract_sponsor_raw": "ПП БЪЛГАРСКА ДЕМОКРАТИЧНА ОБЩНОСТ, ЕИК: 176073596"
+        }
+    ]
+}

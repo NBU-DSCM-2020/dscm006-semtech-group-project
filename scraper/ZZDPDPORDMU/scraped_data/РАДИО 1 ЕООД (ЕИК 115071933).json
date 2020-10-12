@@ -1,0 +1,263 @@
+{
+    "legal_entity_name": "РАДИО 1 ЕООД",
+    "legal_entity_id": "115071933",
+    "public_company": "неприложимо",
+    "media_service_type": "Радио",
+    "media_service_name": "Радио 1 (включва и сайта radio1.bg, както и фейсбук за слушателите)",
+    "real_owner": "Николай Георгиев Янчовичин, Атанас Иванов Генов, Христин Богомилов Стрижлев",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "200",
+            "contract_amount": 200,
+            "contract_basis_raw": "Предоставяне на програмно време 18.03.2019",
+            "contract_sponsor_raw": "Сдружение учебна работилница Европа - Плевен, ЕИК121887866"
+        },
+        {
+            "contract_amount_raw": "5873,5",
+            "contract_amount": 5873,
+            "contract_basis_raw": "Излъчване на предизборна аудио реклама  13.05.2019-24.05.2019",
+            "contract_sponsor_raw": "ПП ГЕРБ, ЕИК175248466"
+        },
+        {
+            "contract_amount_raw": "1200",
+            "contract_amount": 1200,
+            "contract_basis_raw": "Излъчване на предизборна аудио реклама  15.05.2019-23.05.2019",
+            "contract_sponsor_raw": "ПП ГЕРБ, ЕИК175248466"
+        },
+        {
+            "contract_amount_raw": "6193,8",
+            "contract_amount": 6193,
+            "contract_basis_raw": "Излъчване на предизборна аудио реклама  15.05.2019-24.05.2019",
+            "contract_sponsor_raw": "ПП ВМРО, ЕИК1630451348"
+        },
+        {
+            "contract_amount_raw": "1079,73",
+            "contract_amount": 1079,
+            "contract_basis_raw": "Излъчване на предизборна аудио реклама на Димитър Филипов гр. София и гр. Варна -16.05.2019-24.05.2019",
+            "contract_sponsor_raw": "Димитър Филипов, ЕИК7004221023"
+        },
+        {
+            "contract_amount_raw": "880",
+            "contract_amount": 880,
+            "contract_basis_raw": "Излъчване на предизборна аудио реклама по медиен пакет ПАРТИЯ НА ЗЕЛЕНИТЕ",
+            "contract_sponsor_raw": "ЦЕНТРАЛНА ИЗБИРАТЕЛНА КОМИСИЯ, ЕИК176481459"
+        },
+        {
+            "contract_amount_raw": "9427,5",
+            "contract_amount": 9427,
+            "contract_basis_raw": "Излъчване на реклама по договор",
+            "contract_sponsor_raw": "Българска Национална Телевизия, ЕИК672350"
+        },
+        {
+            "contract_amount_raw": "1260",
+            "contract_amount": 1260,
+            "contract_basis_raw": "Предизборна реклама в териториален обхват гр. Бургас 27.09-25.10.2019",
+            "contract_sponsor_raw": "Политическа Партия Възраждане, ЕИК176845471"
+        },
+        {
+            "contract_amount_raw": "598,5",
+            "contract_amount": 598,
+            "contract_basis_raw": "Предизборна реклама в териториален обхват гр. Бургас 14.10-25.10.2019",
+            "contract_sponsor_raw": "ПП Движение България на гражданите, ЕИК176368365"
+        },
+        {
+            "contract_amount_raw": "869,55",
+            "contract_amount": 869,
+            "contract_basis_raw": "Предизборна реклама в териториален обхват гр. Русе 07.10-25.10.2019",
+            "contract_sponsor_raw": "Местна Коалиция БСП за България, ЕИК7020140256"
+        },
+        {
+            "contract_amount_raw": "1396,8",
+            "contract_amount": 1396,
+            "contract_basis_raw": "Предизборна реклама в териториален обхват гр. Пловдив 01.10-25.10.2019 адв. Георги Колев",
+            "contract_sponsor_raw": "ПП Земеделски съюз Александър Стамболийски, ЕИК130038602"
+        },
+        {
+            "contract_amount_raw": "1725,36",
+            "contract_amount": 1725,
+            "contract_basis_raw": "Предизборна реклама в териториален обхват гр. София 04.10-25.10.2019",
+            "contract_sponsor_raw": "ПАРТИЯ НА ЗЕЛЕНИТЕ, ЕИК130481028"
+        },
+        {
+            "contract_amount_raw": "1596",
+            "contract_amount": 1596,
+            "contract_basis_raw": "Предизборна реклама в териториален обхват гр. Бургас 07.10-25.10.2019",
+            "contract_sponsor_raw": "ПП Средна Европейска Класа, ЕИК175335476"
+        },
+        {
+            "contract_amount_raw": "758,88",
+            "contract_amount": 758,
+            "contract_basis_raw": "Предизборна реклама в териториален обхват гр. В.Търново 14.10-25.10.2019",
+            "contract_sponsor_raw": "Общински съвет на БСП, ЕИК702010310"
+        },
+        {
+            "contract_amount_raw": "286,3",
+            "contract_amount": 286,
+            "contract_basis_raw": "Предизборна реклама в териториален обхват гр. В.Търново 11.10-16.10.2019",
+            "contract_sponsor_raw": "ОбС на БСП град Казанлък, ЕИК7020140588"
+        },
+        {
+            "contract_amount_raw": "920,7",
+            "contract_amount": 920,
+            "contract_basis_raw": "Предизборна реклама в териториален обхват гр. Русе 11.10-25.10.2019",
+            "contract_sponsor_raw": "ПП ВМРО, ЕИК130451348"
+        },
+        {
+            "contract_amount_raw": "655,5",
+            "contract_amount": 655,
+            "contract_basis_raw": "Предизборна реклама в териториален обхват гр. Пловдив 17.10-01.11.2019",
+            "contract_sponsor_raw": "Политическа Партия ГЕРБ, ЕИК175248466"
+        },
+        {
+            "contract_amount_raw": "398,4",
+            "contract_amount": 398,
+            "contract_basis_raw": "Предизборна реклама в териториален обхват гр. Пловдив 21.10-25.10.2019",
+            "contract_sponsor_raw": "Градски съвет на БСП - Пловдив, ЕИК7020140237"
+        },
+        {
+            "contract_amount_raw": "401,76",
+            "contract_amount": 401,
+            "contract_basis_raw": "Предизборна реклама в териториален обхват гр. Плевен 18.10-25.10.2019",
+            "contract_sponsor_raw": "ИК за издигане на Георг Леонидов Спартански, ЕИК5606274000"
+        },
+        {
+            "contract_amount_raw": "1185,75",
+            "contract_amount": 1185,
+            "contract_basis_raw": "Предизборна реклама в териториален обхват гр. София 18.10-25.10.2019",
+            "contract_sponsor_raw": "ПП ВМРО, ЕИК130451348"
+        },
+        {
+            "contract_amount_raw": "1581,58",
+            "contract_amount": 1581,
+            "contract_basis_raw": "Предизборна реклама в териториален обхват гр. София Йорданка Фъндъкова 21.10-25.10.2019",
+            "contract_sponsor_raw": "ПП ГЕРБ (Местна коалиция ГЕРБ(СДС)), ЕИК175248466"
+        },
+        {
+            "contract_amount_raw": "1004,4",
+            "contract_amount": 1004,
+            "contract_basis_raw": "Предизборна реклама в териториален обхват гр. София, Варна, В.Търново",
+            "contract_sponsor_raw": "Коалиция ДЕМОКРАТИЧНА БЪЛГАРИЯ – ОБЕДИНЕНИЕ, ЕИК177394797"
+        },
+        {
+            "contract_amount_raw": "418,5",
+            "contract_amount": 418,
+            "contract_basis_raw": "Предизборна реклама в териториален обхват гр. Плевен 21.10-25.10.2019",
+            "contract_sponsor_raw": "ПП Демократи за силна България, ЕИК131271567"
+        },
+        {
+            "contract_amount_raw": "279",
+            "contract_amount": 279,
+            "contract_basis_raw": "Предизборна реклама в териториален обхват гр. Варна  21.10-25.10.20",
+            "contract_sponsor_raw": "Цветан Христов Атанасов, ЕИК7001181009"
+        },
+        {
+            "contract_amount_raw": "1738",
+            "contract_amount": 1738,
+            "contract_basis_raw": "Предизборна реклама в териториален обхват гр. София 22.10-25.10.2019",
+            "contract_sponsor_raw": "ПП Атака, ЕИК131458114"
+        },
+        {
+            "contract_amount_raw": "264",
+            "contract_amount": 264,
+            "contract_basis_raw": "Предизборна реклама в териториален обхват гр. Шумен 23.10-25.10.2019",
+            "contract_sponsor_raw": "ПП Коалиция за теб България, ЕИК177312818"
+        },
+        {
+            "contract_amount_raw": "288",
+            "contract_amount": 288,
+            "contract_basis_raw": "Предизборна реклама в териториален обхват гр. Бургас 23.10-25.10.2019",
+            "contract_sponsor_raw": "Партия Български Социалдемократи, ЕИК131017251"
+        },
+        {
+            "contract_amount_raw": "264",
+            "contract_amount": 264,
+            "contract_basis_raw": "Предизборна реклама в териториален обхват гр. Габрово 23.10-25.10.2019",
+            "contract_sponsor_raw": "Политическа Партия ГЕРБ, ЕИК175248466"
+        },
+        {
+            "contract_amount_raw": "237,6",
+            "contract_amount": 237,
+            "contract_basis_raw": "Предизборна реклама в териториален обхват гр. Габрово 23.10-25.10.2019",
+            "contract_sponsor_raw": "ПП  Воля, ЕИК175358375"
+        },
+        {
+            "contract_amount_raw": "159,89",
+            "contract_amount": 159,
+            "contract_basis_raw": "Предизборна реклама в териториален обхват гр. Габрово 23.10-25.10.2019",
+            "contract_sponsor_raw": "БЪЛГАРСКА СОЦИАЛДЕМОКРАТИЧЕСКА ПАРТИЯ, ЕИК707125"
+        },
+        {
+            "contract_amount_raw": "831,25",
+            "contract_amount": 831,
+            "contract_basis_raw": "Предизборна реклама в териториален обхват гр. София",
+            "contract_sponsor_raw": "ИК за издигане на Стефан Кирилов Стефанов за кмет на СО, район Младост, ЕИК4906306981"
+        },
+        {
+            "contract_amount_raw": "120",
+            "contract_amount": 120,
+            "contract_basis_raw": "Предизборна реклама в териториален обхват гр. Варна проф. д-р Анелия Клисарова  24.10-25.10.20",
+            "contract_sponsor_raw": "Лун Арт ЕООД, ЕИК200051438"
+        },
+        {
+            "contract_amount_raw": "228",
+            "contract_amount": 228,
+            "contract_basis_raw": "Предизборна реклама Местни Избори 2019",
+            "contract_sponsor_raw": "Иван Димитров Монев, ЕИК7709230466"
+        },
+        {
+            "contract_amount_raw": "120,12",
+            "contract_amount": 120,
+            "contract_basis_raw": "Предизборна реклама в териториален обхват гр. Бургас 25.10.2019",
+            "contract_sponsor_raw": "ПП НФСБ, ЕИК176129116"
+        },
+        {
+            "contract_amount_raw": "183,6",
+            "contract_amount": 183,
+            "contract_basis_raw": "Предизборна реклама в териториален обхват гр. Варна 24.10-25.10.2019",
+            "contract_sponsor_raw": "Коалиция ДЕМОКРАТИЧНА БЪЛГАРИЯ – ОБЕДИНЕНИЕ, ЕИК177394797"
+        },
+        {
+            "contract_amount_raw": "198",
+            "contract_amount": 198,
+            "contract_basis_raw": "Предизборна реклама в териториален обхват гр. Горна Оряховица 30.10-01.11.2019",
+            "contract_sponsor_raw": "ОБЩИНСКИ СЪВЕТ НА БСП ГОРНА ОРЯХОВИЦА, ЕИК7020140852"
+        },
+        {
+            "contract_amount_raw": "245,52",
+            "contract_amount": 245,
+            "contract_basis_raw": "Предизборна реклама в териториален обхват гр. Русе 29.10-01.11.2019",
+            "contract_sponsor_raw": "Местна Коалиция БСП за България, ЕИК7020140256"
+        },
+        {
+            "contract_amount_raw": "251,1",
+            "contract_amount": 251,
+            "contract_basis_raw": "Предизборна реклама в териториален обхват гр. Плевен 30.10-01.11.2019",
+            "contract_sponsor_raw": "ИК за издигане на Георг Леонидов Спартански, ЕИК5606274000"
+        },
+        {
+            "contract_amount_raw": "776,41",
+            "contract_amount": 776,
+            "contract_basis_raw": "Предизборна реклама в териториален обхват гр. София  Йорданка Фандъкова 30.10-01.11.2019",
+            "contract_sponsor_raw": "ПП ГЕРБ (Местна коалиция ГЕРБ(СДС)), ЕИК175248466"
+        },
+        {
+            "contract_amount_raw": "128,7",
+            "contract_amount": 128,
+            "contract_basis_raw": "Предизборна реклама Местни Избори 2019 Балотаж",
+            "contract_sponsor_raw": "ОБЩИНСКИ СЪВЕТ НА БСП ГОРНА ОРЯХОВИЦА, ЕИК702014852"
+        },
+        {
+            "contract_amount_raw": "3999,08",
+            "contract_amount": 3999,
+            "contract_basis_raw": "Излъчване на програмно време дог. Д34-93/07.10.2019  БГ BG16M1OP002-6.002-0010",
+            "contract_sponsor_raw": "Министерство на Окол среда и водите, ЕИК697371"
+        },
+        {
+            "contract_amount_raw": "2571,45",
+            "contract_amount": 2571,
+            "contract_basis_raw": "Предизборна реклама в териториален обхват гр. София ГС на БСП 21.10-25.10.2019",
+            "contract_sponsor_raw": "Аргент 2002 ООД, ЕИК131015485"
+        }
+    ]
+}

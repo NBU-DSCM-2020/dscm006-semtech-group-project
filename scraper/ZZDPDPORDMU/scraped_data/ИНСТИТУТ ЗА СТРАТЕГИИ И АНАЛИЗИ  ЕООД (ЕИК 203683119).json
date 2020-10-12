@@ -1,0 +1,149 @@
+{
+    "legal_entity_name": "ИНСТИТУТ ЗА СТРАТЕГИИ И АНАЛИЗИ  ЕООД",
+    "legal_entity_id": "203683119",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "Информационен сайт",
+    "real_owner": "Валерия Венелинова Кръстева",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "13500",
+            "contract_amount": 13500,
+            "contract_basis_raw": "Дарение",
+            "contract_sponsor_raw": "Фондация Трейс за хората/"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "Месечен абонамент за периодични доклади на ИСА",
+            "contract_sponsor_raw": "ОБЩИНА МИНЕРАЛНИ БАНИ"
+        },
+        {
+            "contract_amount_raw": "8000",
+            "contract_amount": 8000,
+            "contract_basis_raw": "Месечен абонамент за периодични доклади на ИСА",
+            "contract_sponsor_raw": "ОБЩИНА КЪРДЖАЛИ"
+        },
+        {
+            "contract_amount_raw": "8000",
+            "contract_amount": 8000,
+            "contract_basis_raw": "Месечен абонамент за периодични доклади на ИСА",
+            "contract_sponsor_raw": "ОБЩИНА АРДИНО"
+        },
+        {
+            "contract_amount_raw": "8000",
+            "contract_amount": 8000,
+            "contract_basis_raw": "Месечен абонамент за периодични доклади на ИСА",
+            "contract_sponsor_raw": "ОБЩИНА КИРКОВО"
+        },
+        {
+            "contract_amount_raw": "8000",
+            "contract_amount": 8000,
+            "contract_basis_raw": "Месечен абонамент за периодични доклади на ИСА",
+            "contract_sponsor_raw": "ОБЩИНА КРУМОВГРАД"
+        },
+        {
+            "contract_amount_raw": "6666,7",
+            "contract_amount": 6666,
+            "contract_basis_raw": "Месечен абонамент за периодични доклади на ИСА",
+            "contract_sponsor_raw": "ОБЩИНА БУРГАС"
+        },
+        {
+            "contract_amount_raw": "8000",
+            "contract_amount": 8000,
+            "contract_basis_raw": "Месечен абонамент за периодични доклади на ИСА",
+            "contract_sponsor_raw": "ОБЩИНА МОМЧИЛГРАД"
+        },
+        {
+            "contract_amount_raw": "17666,63",
+            "contract_amount": 17666,
+            "contract_basis_raw": "Месечен абонамент за периодични доклади на ИСА",
+            "contract_sponsor_raw": "ПП ГЕРБ Политическа органицация"
+        },
+        {
+            "contract_amount_raw": "14000",
+            "contract_amount": 14000,
+            "contract_basis_raw": "Медийно  информационно обслужване",
+            "contract_sponsor_raw": "ПП ГЕРБ Политическа органицация"
+        },
+        {
+            "contract_amount_raw": "10800",
+            "contract_amount": 10800,
+            "contract_basis_raw": "Месечен абонамент за периодични доклади на ИСА",
+            "contract_sponsor_raw": "МИНИСТЕРСТВО НА  ОТБРАНАТА"
+        },
+        {
+            "contract_amount_raw": "7250",
+            "contract_amount": 7250,
+            "contract_basis_raw": "Месечен абонамент за периодични доклади на ИСА",
+            "contract_sponsor_raw": "УНИВЕРСИТЕТ ПО БИБЛИОТЕКОЗНАНИЕ И ИНФОРМАЦИОННИ ТЕХНОЛОГИИ"
+        },
+        {
+            "contract_amount_raw": "14000",
+            "contract_amount": 14000,
+            "contract_basis_raw": "Медийно  информационно обслужване",
+            "contract_sponsor_raw": "АВТОМАГИСТРАЛИ - ЕАД"
+        },
+        {
+            "contract_amount_raw": "12000",
+            "contract_amount": 12000,
+            "contract_basis_raw": "Месечен абонамент за периодични доклади на ИСА",
+            "contract_sponsor_raw": "НС на  БЪЛГАРСКА СОЦИАЛИСТИЧЕСКА ПАРТИЯ"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "Медийно  информационно обслужване",
+            "contract_sponsor_raw": "ГРАДСКИ СЪВЕТ НА БСП - София"
+        },
+        {
+            "contract_amount_raw": "15000",
+            "contract_amount": 15000,
+            "contract_basis_raw": "Медийно  информационно обслужване",
+            "contract_sponsor_raw": "БЪЛГАРСКА СОЦИАЛИСТИЧЕСКА ПАРТИЯ Политическа организация"
+        },
+        {
+            "contract_amount_raw": "3000",
+            "contract_amount": 3000,
+            "contract_basis_raw": "Медийно  информационно обслужване",
+            "contract_sponsor_raw": "ПОЛИТИЧЕСКА ПАРТИЯ НАЦИОНАЛЕН ФРОНТ ЗА СПАСЕНИЕ НА БЪЛГАРИЯ Политическа организация"
+        },
+        {
+            "contract_amount_raw": "15000",
+            "contract_amount": 15000,
+            "contract_basis_raw": "Медийно  информационно обслужване",
+            "contract_sponsor_raw": "ПОЛИТИЧЕСКА ПАРТИЯ ВЪЗРАЖДАНЕ Политическа организация"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "Медийно  информационно обслужване",
+            "contract_sponsor_raw": "ОБЩИНСКИ СЪВЕТ НА БСП - ВЕЛИКО ТЪРНОВО Поделение"
+        },
+        {
+            "contract_amount_raw": "3000",
+            "contract_amount": 3000,
+            "contract_basis_raw": "Медийно  информационно обслужване",
+            "contract_sponsor_raw": "Местна коалиция  БСП за България/АБВ, ДРП Българска пролет,ПД Социалдемократи"
+        },
+        {
+            "contract_amount_raw": "8333,34",
+            "contract_amount": 8333,
+            "contract_basis_raw": "Медийно  информационно обслужване",
+            "contract_sponsor_raw": "ПП ВМРО-БЪЛГАРСКО НАЦИОНАЛНО ДВИЖЕНИЕ"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "Медийно  информационно обслужване",
+            "contract_sponsor_raw": "Румен Василев Гечев"
+        },
+        {
+            "contract_amount_raw": "833,33",
+            "contract_amount": 833,
+            "contract_basis_raw": "Медийно  информационно обслужване",
+            "contract_sponsor_raw": "ПОЛИТИЧЕСКА ПАРТИЯ СВОБОДА Политическа организация"
+        }
+    ]
+}

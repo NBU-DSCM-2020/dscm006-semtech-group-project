@@ -1,0 +1,101 @@
+{
+    "legal_entity_name": "ЕТ ИРА Профи - Стефан Божилов",
+    "legal_entity_id": "112587706",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "PA media",
+    "real_owner": "Стефан Венков Божилов",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "1100",
+            "contract_amount": 1100,
+            "contract_basis_raw": "Договор 01.03.2019 Публикации на текстове и снимки на Община Пещера",
+            "contract_sponsor_raw": "Община Пещера  000351750"
+        },
+        {
+            "contract_amount_raw": "50",
+            "contract_amount": 50,
+            "contract_basis_raw": "Договор 02.01.2019 Поддръжка сайт",
+            "contract_sponsor_raw": "РЗИ-Пазарджик 176032140"
+        },
+        {
+            "contract_amount_raw": "150",
+            "contract_amount": 150,
+            "contract_basis_raw": "Договор 2019 Поддръжка сайт, публикуване на новини",
+            "contract_sponsor_raw": "Община Стрелча  000351864"
+        },
+        {
+            "contract_amount_raw": "250",
+            "contract_amount": 250,
+            "contract_basis_raw": "Договор 21.01.2019 поддръжка сайта на ОбС-Пазарджик",
+            "contract_sponsor_raw": "Община Пазарджик  000351736"
+        },
+        {
+            "contract_amount_raw": "3000",
+            "contract_amount": 3000,
+            "contract_basis_raw": "Договор 02.01.2019 Публикуване на информации за събития, мероприятия и кампании, организирани от Областна организация на ПП ГЕРБ",
+            "contract_sponsor_raw": "ПП ГЕРБ 175248466"
+        },
+        {
+            "contract_amount_raw": "850",
+            "contract_amount": 850,
+            "contract_basis_raw": "Ф-ра 02.12.2019 Изработка сайт на НУ В. Друмев",
+            "contract_sponsor_raw": "НУ В. Друмев 000341247"
+        },
+        {
+            "contract_amount_raw": "200",
+            "contract_amount": 200,
+            "contract_basis_raw": "Договор 07.05.2019 Публикуване на предизборни материали за  ЕП",
+            "contract_sponsor_raw": "Областен съвет на БСП-Пазарджик 000702014"
+        },
+        {
+            "contract_amount_raw": "300",
+            "contract_amount": 300,
+            "contract_basis_raw": "Договор 09.05.2019 Публикуване на предизборни материали за  ЕП",
+            "contract_sponsor_raw": "ПП ГЕРБ 175248466"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "Договор 14.01.2019 Популяризиране дейността на общинска администрация - Пазардик",
+            "contract_sponsor_raw": "Община Пазарджик  000351736"
+        },
+        {
+            "contract_amount_raw": "690",
+            "contract_amount": 690,
+            "contract_basis_raw": "Договор 26.09.2019 Публикуване банер и предизборни публикации за МИ2019",
+            "contract_sponsor_raw": "МК Движение България на гражданите 176368365"
+        },
+        {
+            "contract_amount_raw": "1440",
+            "contract_amount": 1440,
+            "contract_basis_raw": "Договор 25.09.2019 Публикуване банер и предизборни публикации за МИ2019",
+            "contract_sponsor_raw": "ПП ГЕРБ 175248466"
+        },
+        {
+            "contract_amount_raw": "2000",
+            "contract_amount": 2000,
+            "contract_basis_raw": "Договор 25.09.2019 Публикуване банер и предизборни публикации за МИ2019",
+            "contract_sponsor_raw": "МК Новото време 175465701"
+        },
+        {
+            "contract_amount_raw": "250",
+            "contract_amount": 250,
+            "contract_basis_raw": "Анекс към Договор 25.09.2019 Публикуване банер и предизборни публикации за МИ2019",
+            "contract_sponsor_raw": "ПП ГЕРБ 175248466"
+        },
+        {
+            "contract_amount_raw": "180",
+            "contract_amount": 180,
+            "contract_basis_raw": "Ф-ра 13.09.2019 Публикация",
+            "contract_sponsor_raw": "СНИ МИГ 177223481"
+        },
+        {
+            "contract_amount_raw": "180",
+            "contract_amount": 180,
+            "contract_basis_raw": "Ф-ра 24.09.2019 Публикация",
+            "contract_sponsor_raw": "СНИ МИГ 177223481"
+        }
+    ]
+}

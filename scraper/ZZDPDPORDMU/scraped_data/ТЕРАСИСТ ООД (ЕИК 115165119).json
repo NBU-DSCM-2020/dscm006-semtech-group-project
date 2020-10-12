@@ -1,0 +1,17 @@
+{
+    "legal_entity_name": "ТЕРАСИСТ ООД",
+    "legal_entity_id": "115165119",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "www.karlovo.tv",
+    "real_owner": "Димо Величков Канев, Мария Стефанова Канева",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "150",
+            "contract_amount": 150,
+            "contract_basis_raw": "Рекламна дейност по НП Иновации в действие",
+            "contract_sponsor_raw": "СУ Христо Проданов Карлово"
+        }
+    ]
+}

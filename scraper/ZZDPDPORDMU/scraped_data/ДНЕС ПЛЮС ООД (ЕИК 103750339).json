@@ -1,0 +1,41 @@
+{
+    "legal_entity_name": "ДНЕС ПЛЮС ООД",
+    "legal_entity_id": "103750339",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "Онлайн новинарски услуги – Nakratko.bg",
+    "real_owner": "Весел Димов Ханджиев, Стефан Мартинов Коев, Стефан Антонов Луков, Валентин Илиев Маринов",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "2400",
+            "contract_amount": 2400,
+            "contract_basis_raw": "02.01.2019г. Рекламно и информационно обслужване",
+            "contract_sponsor_raw": "ДКИ КУЛТУРЕН ЦЕНТЪР ДВОРЕЦА/124609886"
+        },
+        {
+            "contract_amount_raw": "84",
+            "contract_amount": 84,
+            "contract_basis_raw": "05.03.2019 Публикуване на информационен материал",
+            "contract_sponsor_raw": "Перформа ЕООД/200836245"
+        },
+        {
+            "contract_amount_raw": "12960",
+            "contract_amount": 12960,
+            "contract_basis_raw": "13.03.2019г. Рекламно и информационно обслужване",
+            "contract_sponsor_raw": "ОБЩИНА КАВАРНА/000852697"
+        },
+        {
+            "contract_amount_raw": "240",
+            "contract_amount": 240,
+            "contract_basis_raw": "15.10.2019г. Рекламно и информационно обслужване",
+            "contract_sponsor_raw": "Инициативен комитет за издигане кандидатурата на Григор Григоров за кандидат за общински съветник"
+        },
+        {
+            "contract_amount_raw": "660",
+            "contract_amount": 660,
+            "contract_basis_raw": "17.10.2019г. Рекламно и информационно обслужване",
+            "contract_sponsor_raw": "ПП МИР/177390302"
+        }
+    ]
+}

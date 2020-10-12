@@ -1,0 +1,83 @@
+{
+    "legal_entity_name": "ГЛОБАЛ КОНСУЛТ ТМ ЕООД",
+    "legal_entity_id": "119601432",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "сайт www.slivenpress.bg",
+    "real_owner": "Теодора Тодорова Маринова",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "2040",
+            "contract_amount": 2040,
+            "contract_basis_raw": "17.01.2019, информационно обслужване",
+            "contract_sponsor_raw": "Водоснабдявани и канализация Сливен ООД 829053806"
+        },
+        {
+            "contract_amount_raw": "1560",
+            "contract_amount": 1560,
+            "contract_basis_raw": "02.01.2019г. информационно обслужване",
+            "contract_sponsor_raw": "ПП ГЕРБ 175248466"
+        },
+        {
+            "contract_amount_raw": "3000",
+            "contract_amount": 3000,
+            "contract_basis_raw": "28.12.2019- БАНЕР",
+            "contract_sponsor_raw": "ОБШИНА СЛИВЕН 000590654"
+        },
+        {
+            "contract_amount_raw": "1080",
+            "contract_amount": 1080,
+            "contract_basis_raw": "01.02.2019 инф.обслужване",
+            "contract_sponsor_raw": "Областна управа 119101402"
+        },
+        {
+            "contract_amount_raw": "1200",
+            "contract_amount": 1200,
+            "contract_basis_raw": "18.01.2019 инф.обслужване",
+            "contract_sponsor_raw": "МБАЛ Д-Р ИВАН СЕЛИМИНСКИ 119502733"
+        },
+        {
+            "contract_amount_raw": "200",
+            "contract_amount": 200,
+            "contract_basis_raw": "28.10.2019 избори, балотаж",
+            "contract_sponsor_raw": "ПП ГЕРБ 175248466"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "28.10.2019, избори, балотаж",
+            "contract_sponsor_raw": "КОАЛИЦИЯ БСП ЗА БЪЛГАРИЯ"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "04.10.2019, МЕСТНИ ИЗБОРИ",
+            "contract_sponsor_raw": "ПП ЗЕМЕДЕЛСКИ СЪЮЗ Ал. Стамболийски30038602"
+        },
+        {
+            "contract_amount_raw": "800",
+            "contract_amount": 800,
+            "contract_basis_raw": "02.10.2019 местни избори",
+            "contract_sponsor_raw": "ПП НОВА АЛТЕРНАТИВА, 176433208"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "27.09.2019, местни избори",
+            "contract_sponsor_raw": "ХРИСТИЯНДЕМОКРАТИЧЕСАК ПАРТИЯ НА БЪЛГАРИЯ,"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "27.09.2019, местни избори",
+            "contract_sponsor_raw": "КОАЛИЦИЯ БСП ЗА БЪЛГАРИЯ"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "16.09.2019, местни избори",
+            "contract_sponsor_raw": "ПП ГЕРБ 175248466"
+        }
+    ]
+}

@@ -1,0 +1,545 @@
+{
+    "legal_entity_name": "БЪЛГАРСКА ТЕЛЕГРАФНА АГЕНЦИЯ",
+    "legal_entity_id": "000695071",
+    "public_company": "Надзорна институция - НАРОДНО СЪБРАНИЕ",
+    "media_service_type": "Онлайн новинарско издание; Онлайн новинарско издание; Онлайн новинарско издание; Онлайн новинарско издание",
+    "media_service_name": "Електронен песклипинг в онлайн емисиите на БТА; Публикуване на текстове и снимки на интернет страницата на БТА; Предоставяне на рекламна площ на сайта на БТА; Достъп до база данни в онлайн емисиите на БТА",
+    "real_owner": "НАРОДНО СЪБРАНИВ",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "5 707 700",
+            "contract_amount": 5707700,
+            "contract_basis_raw": "ДЪРЖАВНА СУБСИДИЯ",
+            "contract_sponsor_raw": "МИНИСТЕРСТВО НА ФИНАНСИТЕ/000695406"
+        },
+        {
+            "contract_amount_raw": "2600",
+            "contract_amount": 2600,
+            "contract_basis_raw": "Електронен песклипинг в онлайн емисиите на БТА",
+            "contract_sponsor_raw": "МИНИСТЕРСТВО НА ОКОЛНТАТА СРЕДА И ВОДИТЕ /000697371"
+        },
+        {
+            "contract_amount_raw": "2500",
+            "contract_amount": 2500,
+            "contract_basis_raw": "Електронен песклипинг в онлайн емисиите на БТА",
+            "contract_sponsor_raw": "Български фармацевтичен съюз / ЕИК 175240964 "
+        },
+        {
+            "contract_amount_raw": "1020",
+            "contract_amount": 1020,
+            "contract_basis_raw": "Публикуване на текстове и снимки на интернет страницата на БТА",
+            "contract_sponsor_raw": "ОБЩИНА ШУМЕН/000931721"
+        },
+        {
+            "contract_amount_raw": "2600",
+            "contract_amount": 2600,
+            "contract_basis_raw": "Електронен песклипинг в онлайн емисиите на БТА",
+            "contract_sponsor_raw": "ВКС / 121268006"
+        },
+        {
+            "contract_amount_raw": "1020",
+            "contract_amount": 1020,
+            "contract_basis_raw": "Електронен песклипинг в онлайн емисиите на БТА",
+            "contract_sponsor_raw": "ОБЩИНА КЮСТЕНДИЛ / 000261517"
+        },
+        {
+            "contract_amount_raw": "820",
+            "contract_amount": 820,
+            "contract_basis_raw": "Електронен песклипинг в онлайн емисиите на БТА",
+            "contract_sponsor_raw": "ОБЩИНА МИНЕРАЛНИ БАНИ / 000903743"
+        },
+        {
+            "contract_amount_raw": "2000",
+            "contract_amount": 2000,
+            "contract_basis_raw": "Електронен песклипинг в онлайн емисиите на БТА",
+            "contract_sponsor_raw": "ТЕАТЪР СОФИЯ / 000673477"
+        },
+        {
+            "contract_amount_raw": "816",
+            "contract_amount": 816,
+            "contract_basis_raw": "Публикуване на текстове и снимки на интернет страницата на БТА",
+            "contract_sponsor_raw": "ОБЩИНА ДОБРИЧ / 000852188"
+        },
+        {
+            "contract_amount_raw": "820",
+            "contract_amount": 820,
+            "contract_basis_raw": "Публикуване на текстове и снимки на интернет страницата на БТА",
+            "contract_sponsor_raw": "ОБЩИНА БЕРКОВИЦА / 000320559"
+        },
+        {
+            "contract_amount_raw": "1020",
+            "contract_amount": 1020,
+            "contract_basis_raw": "Публикуване на текстове и снимки на интернет страницата на БТА",
+            "contract_sponsor_raw": "ПАМПОРОВО АД / 830166943"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "Публикуване на текстове и снимки на интернет страницата на БТА",
+            "contract_sponsor_raw": "ОБЩИНА ТЕРВЕЛ / 000852925"
+        },
+        {
+            "contract_amount_raw": "2000",
+            "contract_amount": 2000,
+            "contract_basis_raw": "Публикуване на текстове и снимки на интернет страницата на БТА",
+            "contract_sponsor_raw": "ЕДИЦИНСКИ УНИВЕРСИТЕТ СОФИЯ / 831385737"
+        },
+        {
+            "contract_amount_raw": "2600",
+            "contract_amount": 2600,
+            "contract_basis_raw": "Електронен песклипинг в онлайн емисиите на БТА",
+            "contract_sponsor_raw": "КАМАРА НА ЧСИ / 131568913"
+        },
+        {
+            "contract_amount_raw": "816",
+            "contract_amount": 816,
+            "contract_basis_raw": "Предоставяне на рекламна площ на сайта на БТА",
+            "contract_sponsor_raw": "ОБЩИНА КАЛОЯНОВО / 000590654"
+        },
+        {
+            "contract_amount_raw": "2040",
+            "contract_amount": 2040,
+            "contract_basis_raw": "Публикуване на текстове и снимки на интернет страницата на БТА",
+            "contract_sponsor_raw": "ОБЩИНА СТАРА ЗАГОРА / 000818022"
+        },
+        {
+            "contract_amount_raw": "540",
+            "contract_amount": 540,
+            "contract_basis_raw": "Публикуване на текстове и снимки на интернет страницата на БТА",
+            "contract_sponsor_raw": "ОБЩИНА ЯМБОЛ / 000970496"
+        },
+        {
+            "contract_amount_raw": "1020",
+            "contract_amount": 1020,
+            "contract_basis_raw": "Публикуване на текстове и снимки на интернет страницата на БТА",
+            "contract_sponsor_raw": "ОБЩИНА ПЪРВОМАЙ / 000471536"
+        },
+        {
+            "contract_amount_raw": "300",
+            "contract_amount": 300,
+            "contract_basis_raw": "Публикуване на текстове и снимки на интернет страницата на БТА",
+            "contract_sponsor_raw": "ЕЙ ЕМ АЙ КОМЮНИКЕЙШЪНС / 131387546"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "Публикуване на текстове и снимки на интернет страницата на БТА",
+            "contract_sponsor_raw": "ОБЩИНА РУЖИНЦИ / 000159682"
+        },
+        {
+            "contract_amount_raw": "1020",
+            "contract_amount": 1020,
+            "contract_basis_raw": "Публикуване на текстове и снимки на интернет страницата на БТА",
+            "contract_sponsor_raw": "МИХАЛКОВО АД / 200277095"
+        },
+        {
+            "contract_amount_raw": "2600",
+            "contract_amount": 2600,
+            "contract_basis_raw": "Електронен песклипинг в онлайн емисиите на БТА",
+            "contract_sponsor_raw": "АСАРЕЛ - ИНВЕСТМЪНТ / 202285379"
+        },
+        {
+            "contract_amount_raw": "1400",
+            "contract_amount": 1400,
+            "contract_basis_raw": "Електронен песклипинг в онлайн емисиите на БТА",
+            "contract_sponsor_raw": "ЦИК / 176481459"
+        },
+        {
+            "contract_amount_raw": "600",
+            "contract_amount": 600,
+            "contract_basis_raw": "Електронен песклипинг в онлайн емисиите на БТА",
+            "contract_sponsor_raw": "НАПОИТЕЛНИ СИСТЕМИ / 831160078"
+        },
+        {
+            "contract_amount_raw": "1020",
+            "contract_amount": 1020,
+            "contract_basis_raw": "Електронен песклипинг в онлайн емисиите на БТА",
+            "contract_sponsor_raw": "ОБЩИНА РАЗГРАД / 000505910"
+        },
+        {
+            "contract_amount_raw": "2400",
+            "contract_amount": 2400,
+            "contract_basis_raw": "Публикуване на текстове и снимки на интернет страницата на БТА",
+            "contract_sponsor_raw": "Подворие на Московская и на цяла Русия Патриарх/ 131027861 "
+        },
+        {
+            "contract_amount_raw": "820",
+            "contract_amount": 820,
+            "contract_basis_raw": "Публикуване на текстове и снимки на интернет страницата на БТА",
+            "contract_sponsor_raw": "ОБЩИНА ЛЕВСКИ / 000413814"
+        },
+        {
+            "contract_amount_raw": "1020",
+            "contract_amount": 1020,
+            "contract_basis_raw": "Публикуване на текстове и снимки на интернет страницата на БТА",
+            "contract_sponsor_raw": "ОБЩИНА ПАВЛИКЕНИ / 000133901"
+        },
+        {
+            "contract_amount_raw": "2400",
+            "contract_amount": 2400,
+            "contract_basis_raw": "Електронен песклипинг в онлайн емисиите на БТА",
+            "contract_sponsor_raw": "ВАРНЕНСКИ СВОБОДЕН УНИВЕРСИТЕТ / 103010965"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "Публикуване на текстове и снимки на интернет страницата на БТА",
+            "contract_sponsor_raw": "ОБЩИНА ЛОЗНИЦА / 000505853"
+        },
+        {
+            "contract_amount_raw": "1020",
+            "contract_amount": 1020,
+            "contract_basis_raw": "Публикуване на текстове и снимки на интернет страницата на БТА",
+            "contract_sponsor_raw": "ОБЩИНА РАЗЛОГ / 000024948"
+        },
+        {
+            "contract_amount_raw": "2600",
+            "contract_amount": 2600,
+            "contract_basis_raw": "Електронен песклипинг в онлайн емисиите на БТА",
+            "contract_sponsor_raw": "МИНИ МАРИЦА ИЗТОК ЕАД / 833017552"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "Публикуване на текстове и снимки на интернет страницата на БТА",
+            "contract_sponsor_raw": "ОБЩИНА ЧУПРЕНЕ / 000159700"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "Публикуване на текстове и снимки на интернет страницата на БТА",
+            "contract_sponsor_raw": "ОБЩИНА ТРЪН / 000386790"
+        },
+        {
+            "contract_amount_raw": "1020",
+            "contract_amount": 1020,
+            "contract_basis_raw": "Публикуване на текстове и снимки на интернет страницата на БТА",
+            "contract_sponsor_raw": "ОБЩИНА БАЛЧИК / 000852544"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "Публикуване на текстове и снимки на интернет страницата на БТА",
+            "contract_sponsor_raw": "ОБЩИНА БЕРКОВИЦА / 000320559"
+        },
+        {
+            "contract_amount_raw": "2400",
+            "contract_amount": 2400,
+            "contract_basis_raw": "Публикуване на текстове и снимки на интернет страницата на БТА",
+            "contract_sponsor_raw": "ТОПЛОФИКАЦИЯ ПЕРНИК АД / 113012360"
+        },
+        {
+            "contract_amount_raw": "1200",
+            "contract_amount": 1200,
+            "contract_basis_raw": "Предоставяне на рекламна площ на сайта на БТА",
+            "contract_sponsor_raw": "Медицински университет – Плевен /000405689 "
+        },
+        {
+            "contract_amount_raw": "1350",
+            "contract_amount": 1350,
+            "contract_basis_raw": "Публикуване на текстове и снимки на интернет страницата на БТА",
+            "contract_sponsor_raw": "Община Плевен ЕИК 000413974"
+        },
+        {
+            "contract_amount_raw": "432",
+            "contract_amount": 432,
+            "contract_basis_raw": "Публикуване на текстове и снимки на интернет страницата на БТА",
+            "contract_sponsor_raw": "ОБЩИНА ТЕРВЕЛ / 000852925"
+        },
+        {
+            "contract_amount_raw": "2040",
+            "contract_amount": 2040,
+            "contract_basis_raw": "Публикуване на текстове и снимки на интернет страницата на БТА",
+            "contract_sponsor_raw": "ОБЩИНА ВЕЛИКО ТЪРНОВО / 000133634"
+        },
+        {
+            "contract_amount_raw": "540",
+            "contract_amount": 540,
+            "contract_basis_raw": "Публикуване на текстове и снимки на интернет страницата на БТА",
+            "contract_sponsor_raw": "ОБЩИНА ТЕТЕВЕН / 000291698"
+        },
+        {
+            "contract_amount_raw": "2400",
+            "contract_amount": 2400,
+            "contract_basis_raw": "Публикуване на текстове и снимки на интернет страницата на БТА",
+            "contract_sponsor_raw": "МЕДИКА НАРЕЧЕНСКИ БАНИ ЕООД / 201369988"
+        },
+        {
+            "contract_amount_raw": "2000",
+            "contract_amount": 2000,
+            "contract_basis_raw": "Електронен песклипинг в онлайн емисиите на БТА",
+            "contract_sponsor_raw": "НКБТХ / 175075361"
+        },
+        {
+            "contract_amount_raw": "1020",
+            "contract_amount": 1020,
+            "contract_basis_raw": "Публикуване на текстове и снимки на интернет страницата на БТА",
+            "contract_sponsor_raw": "ОБЩИНА РАДОМИР / 000386776"
+        },
+        {
+            "contract_amount_raw": "2000",
+            "contract_amount": 2000,
+            "contract_basis_raw": "Електронен песклипинг в онлайн емисиите на БТА",
+            "contract_sponsor_raw": "АСАРЕЛ МЕДЕТ АД / 822106269"
+        },
+        {
+            "contract_amount_raw": "1020",
+            "contract_amount": 1020,
+            "contract_basis_raw": "Публикуване на текстове и снимки на интернет страницата на БТА",
+            "contract_sponsor_raw": "ОБЩИНА СВИЩОВ / 000133965"
+        },
+        {
+            "contract_amount_raw": "3040",
+            "contract_amount": 3040,
+            "contract_basis_raw": "Публикуване на текстове и снимки на интернет страницата на БТА",
+            "contract_sponsor_raw": "ОБЩИНА ПАЗАРДЖИК / 000351736"
+        },
+        {
+            "contract_amount_raw": "820",
+            "contract_amount": 820,
+            "contract_basis_raw": "Публикуване на текстове и снимки на интернет страницата на БТА",
+            "contract_sponsor_raw": "ОБЩИНА ИСПЕРИХ / 000505821"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "Публикуване на текстове и снимки на интернет страницата на БТА",
+            "contract_sponsor_raw": "ОБЩИНА КУБРАТ/ 000505846"
+        },
+        {
+            "contract_amount_raw": "250",
+            "contract_amount": 250,
+            "contract_basis_raw": "Публикуване на текстове и снимки на интернет страницата на БТА",
+            "contract_sponsor_raw": "ОБЩИНА ЗЛОТОГРАД / 000614938"
+        },
+        {
+            "contract_amount_raw": "1400",
+            "contract_amount": 1400,
+            "contract_basis_raw": "Електронен песклипинг в онлайн емисиите на БТА",
+            "contract_sponsor_raw": "ЦИК / 176481459"
+        },
+        {
+            "contract_amount_raw": "1020",
+            "contract_amount": 1020,
+            "contract_basis_raw": "Публикуване на текстове и снимки на интернет страницата на БТА",
+            "contract_sponsor_raw": "ОБЩИНА КАВАРНА /000852697"
+        },
+        {
+            "contract_amount_raw": "1800",
+            "contract_amount": 1800,
+            "contract_basis_raw": "Публикуване на текстове и снимки на интернет страницата на БТА",
+            "contract_sponsor_raw": "РУСЕНСКИ УНИВЕРСИТЕТ АНГЕЛ КЪНЧЕВ / 000522685"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "Публикуване на текстове и снимки на интернет страницата на БТА",
+            "contract_sponsor_raw": "ОБЩИНА ЕЛЕНА /000133762"
+        },
+        {
+            "contract_amount_raw": "1020",
+            "contract_amount": 1020,
+            "contract_basis_raw": "Публикуване на текстове и снимки на интернет страницата на БТА",
+            "contract_sponsor_raw": "ОБЩИНА ТЪРГОВИЩЕ / 000875920"
+        },
+        {
+            "contract_amount_raw": "1020",
+            "contract_amount": 1020,
+            "contract_basis_raw": "Публикуване на текстове и снимки на интернет страницата на БТА",
+            "contract_sponsor_raw": "ОБЩИНА ТРОЯН / 000291709"
+        },
+        {
+            "contract_amount_raw": "820",
+            "contract_amount": 820,
+            "contract_basis_raw": "Публикуване на текстове и снимки на интернет страницата на БТА",
+            "contract_sponsor_raw": "ОБЩИНА ЧЕРВЕН БРЯГ / 000414154"
+        },
+        {
+            "contract_amount_raw": "2010",
+            "contract_amount": 2010,
+            "contract_basis_raw": "Електронен песклипинг в онлайн емисиите на БТА - справочници и календари",
+            "contract_sponsor_raw": "ОБЩИНА РУСЕ / 000530632"
+        },
+        {
+            "contract_amount_raw": "1080",
+            "contract_amount": 1080,
+            "contract_basis_raw": "Публикуване на текстове и снимки на интернет страницата на БТА",
+            "contract_sponsor_raw": "ОБЩИНА ХАСКОВО / 000903946"
+        },
+        {
+            "contract_amount_raw": "570",
+            "contract_amount": 570,
+            "contract_basis_raw": "Публикуване на текстове и снимки на интернет страницата на БТА",
+            "contract_sponsor_raw": "ОБЩИНА ЛОВЕЧ / 000291591"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "Публикуване на текстове и снимки на интернет страницата на БТА",
+            "contract_sponsor_raw": "ОБЩИНА ЧЕПЕЛАРЕ / 000615164"
+        },
+        {
+            "contract_amount_raw": "1020",
+            "contract_amount": 1020,
+            "contract_basis_raw": "Публикуване на текстове и снимки на интернет страницата на БТА",
+            "contract_sponsor_raw": "ОБЩИНА КЪРДЖАЛИ / 000325920"
+        },
+        {
+            "contract_amount_raw": "900",
+            "contract_amount": 900,
+            "contract_basis_raw": "Публикуване на текстове и снимки на интернет страницата на БТА",
+            "contract_sponsor_raw": "ОБЩИНА ПЕЩЕРА / 000351750"
+        },
+        {
+            "contract_amount_raw": "1020",
+            "contract_amount": 1020,
+            "contract_basis_raw": "Публикуване на текстове и снимки на интернет страницата на БТА",
+            "contract_sponsor_raw": "ОБЩИНА СИЛИСТРА / 000565537"
+        },
+        {
+            "contract_amount_raw": "820",
+            "contract_amount": 820,
+            "contract_basis_raw": "Публикуване на текстове и снимки на интернет страницата на БТА",
+            "contract_sponsor_raw": "ОБЩИНА МОНТАНА/ 000320872"
+        },
+        {
+            "contract_amount_raw": "600",
+            "contract_amount": 600,
+            "contract_basis_raw": "Публикуване на текстове и снимки на интернет страницата на БТА",
+            "contract_sponsor_raw": "ОБЩИНА СОПОТ/ 115816423"
+        },
+        {
+            "contract_amount_raw": "1020",
+            "contract_amount": 1020,
+            "contract_basis_raw": "Публикуване на текстове и снимки на интернет страницата на БТА",
+            "contract_sponsor_raw": "ОБЩИНА ЛУКОВИТ / 000291602"
+        },
+        {
+            "contract_amount_raw": "820",
+            "contract_amount": 820,
+            "contract_basis_raw": "Публикуване на текстове и снимки на интернет страницата на БТА",
+            "contract_sponsor_raw": "ОБЩИНА КОТЕЛ / 000590540"
+        },
+        {
+            "contract_amount_raw": "1020",
+            "contract_amount": 1020,
+            "contract_basis_raw": "Публикуване на текстове и снимки на интернет страницата на БТА",
+            "contract_sponsor_raw": "ОБЩИНА ХАРМАНЛИ / 000903939"
+        },
+        {
+            "contract_amount_raw": "1020",
+            "contract_amount": 1020,
+            "contract_basis_raw": "Публикуване на текстове и снимки на интернет страницата на БТА",
+            "contract_sponsor_raw": "ОБЩИНА СВИЛЕНГРАД / 000903825"
+        },
+        {
+            "contract_amount_raw": "1020",
+            "contract_amount": 1020,
+            "contract_basis_raw": "Публикуване на текстове и снимки на интернет страницата на БТА",
+            "contract_sponsor_raw": "ОБЩИНА ДИМИТРОВГРАД / 000903533"
+        },
+        {
+            "contract_amount_raw": "8400",
+            "contract_amount": 8400,
+            "contract_basis_raw": "Публикуване на текстове и снимки на интернет страницата на БТА",
+            "contract_sponsor_raw": "ЧЕЗ БЪЛГАРИЯ ЕАД / 131434768"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "Публикуване на текстове и снимки на интернет страницата на БТА",
+            "contract_sponsor_raw": "ОБЩИНА ВЪРШЕЦ / 000320655"
+        },
+        {
+            "contract_amount_raw": "1020",
+            "contract_amount": 1020,
+            "contract_basis_raw": "Публикуване на текстове и снимки на интернет страницата на БТА",
+            "contract_sponsor_raw": "ОБЩИНА ВИДИН / 000159508"
+        },
+        {
+            "contract_amount_raw": "1020",
+            "contract_amount": 1020,
+            "contract_basis_raw": "Публикуване на текстове и снимки на интернет страницата на БТА",
+            "contract_sponsor_raw": "ОБЩИНА ОМУРТАГ / 000875817"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "Публикуване на текстове и снимки на интернет страницата на БТА",
+            "contract_sponsor_raw": "ОБЩИНА АНТОНОВО / 000875557"
+        },
+        {
+            "contract_amount_raw": "4560",
+            "contract_amount": 4560,
+            "contract_basis_raw": "Достъп до информация на база данни на БТА",
+            "contract_sponsor_raw": "ИНФОРМАЦИОНЕН ЦЕНТЪР НА МО / 129010545"
+        },
+        {
+            "contract_amount_raw": "22800",
+            "contract_amount": 22800,
+            "contract_basis_raw": "Достъп до информация на база данни на БТА",
+            "contract_sponsor_raw": "СТОЛИЧНА ОБЩИНА / 203831561"
+        },
+        {
+            "contract_amount_raw": "137 643",
+            "contract_amount": 137643,
+            "contract_basis_raw": "ОСИГУРЯВАНЕ НА РЕКЛАМЕН БАНЕР В ИНТЕРНЕТ СТРАНИЦАТА НА БТА, ОСИГУРЯВАНЕ НА РЕКЛАМНА ПЛОЩ В НАЦИОНАЛНИ ПРЕСКЛУБОВЕ НА БТА",
+            "contract_sponsor_raw": "ИНВЕСТБАНК АД / 831663282"
+        },
+        {
+            "contract_amount_raw": "2000",
+            "contract_amount": 2000,
+            "contract_basis_raw": "Електронен песклипинг в онлайн емисиите на БТА",
+            "contract_sponsor_raw": "РАЙФАЙЗЕН ЗАСТРАХОВАТЕЛЕН БРОКЕР / 175073337"
+        },
+        {
+            "contract_amount_raw": "2000",
+            "contract_amount": 2000,
+            "contract_basis_raw": "Електронен песклипинг в онлайн емисиите на БТА",
+            "contract_sponsor_raw": "ПОК ДОВЕРИЕ АД / 831190986"
+        },
+        {
+            "contract_amount_raw": "2140",
+            "contract_amount": 2140,
+            "contract_basis_raw": "Достъп до информация на база данни на БТА",
+            "contract_sponsor_raw": "ТЕЛЕНОР БЪЛГАРИЯ ЕАД / 130460283"
+        },
+        {
+            "contract_amount_raw": "35006",
+            "contract_amount": 35006,
+            "contract_basis_raw": "Достъп до информация на база данни на БТА",
+            "contract_sponsor_raw": "БТВ МЕДИА ГРУП ЕАД/ 130081393"
+        },
+        {
+            "contract_amount_raw": "24000",
+            "contract_amount": 24000,
+            "contract_basis_raw": "Достъп до информация на база данни на БТА",
+            "contract_sponsor_raw": "НОВА БРОУДКАСТИНГ ГРУП ЕАД / 832093629"
+        },
+        {
+            "contract_amount_raw": "2140",
+            "contract_amount": 2140,
+            "contract_basis_raw": "Достъп до информация на база данни на БТА",
+            "contract_sponsor_raw": "ЕВРОПЕЙСКА ИНВЕСТИЦИОННА БАНКА / "
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "Предоставяне на рекламна площ на сайта на БТА",
+            "contract_sponsor_raw": "МБАЛ СЪРЦЕ И МОЗЪК / 203831564"
+        },
+        {
+            "contract_amount_raw": "8400",
+            "contract_amount": 8400,
+            "contract_basis_raw": "Публикуване на текстове и снимки на интернет страницата на БТА",
+            "contract_sponsor_raw": "ЧЕЗ ЕЛЕКТРО БЪЛГАРИЯ АД / 175133827"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "Публикуване на текстове и снимки на интернет страницата на БТА",
+            "contract_sponsor_raw": "ЦЕНТРАЛЕН КООПЕРАТИВЕН СЪЮЗ / 000696497"
+        }
+    ]
+}

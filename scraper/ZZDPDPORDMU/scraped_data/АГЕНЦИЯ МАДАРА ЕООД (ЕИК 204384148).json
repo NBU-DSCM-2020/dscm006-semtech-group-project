@@ -1,0 +1,65 @@
+{
+    "legal_entity_name": "АГЕНЦИЯ МАДАРА ЕООД",
+    "legal_entity_id": "204384148",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "медия,разпространявана чрез електронни съобщителни мрежи-информационна агенция",
+    "real_owner": "Стоянка Божкова Великова",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "180",
+            "contract_amount": 180,
+            "contract_basis_raw": "РЕКЛАМА",
+            "contract_sponsor_raw": "КОЦ ШУМЕН -127521758"
+        },
+        {
+            "contract_amount_raw": "1200",
+            "contract_amount": 1200,
+            "contract_basis_raw": "инф. обслужване",
+            "contract_sponsor_raw": "Делегацията на българските евродепутати социалисти в Европейския парламент"
+        },
+        {
+            "contract_amount_raw": "290",
+            "contract_amount": 290,
+            "contract_basis_raw": "инф. обслужване",
+            "contract_sponsor_raw": "ПП ВМРО БНД"
+        },
+        {
+            "contract_amount_raw": "3448",
+            "contract_amount": 3448,
+            "contract_basis_raw": "инф. обслужване",
+            "contract_sponsor_raw": "ОС НА БСП ШУМЕН"
+        },
+        {
+            "contract_amount_raw": "130",
+            "contract_amount": 130,
+            "contract_basis_raw": "инф. обслужване",
+            "contract_sponsor_raw": "ПП  ДА БЪЛГАРИЯ"
+        },
+        {
+            "contract_amount_raw": "930",
+            "contract_amount": 930,
+            "contract_basis_raw": "ИНФ ОБСЛУЖВАНЕ",
+            "contract_sponsor_raw": "кОАЛИЦИЯ ниЕ , ГРАЖДАНИТЕ"
+        },
+        {
+            "contract_amount_raw": "510",
+            "contract_amount": 510,
+            "contract_basis_raw": "ИНФ.ОБСЛУЖВАНЕ",
+            "contract_sponsor_raw": "КБоалиция Демократична България"
+        },
+        {
+            "contract_amount_raw": "750",
+            "contract_amount": 750,
+            "contract_basis_raw": "инф обслужване",
+            "contract_sponsor_raw": "Коалиция ДБТ ЕНП,ССД"
+        },
+        {
+            "contract_amount_raw": "90",
+            "contract_amount": 90,
+            "contract_basis_raw": "РЕКЛАМА",
+            "contract_sponsor_raw": "ПП АТАКА"
+        }
+    ]
+}

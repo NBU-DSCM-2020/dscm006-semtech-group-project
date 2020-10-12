@@ -1,0 +1,41 @@
+{
+    "legal_entity_name": "БЪЛГАРСКА РАДИОКОМПАНИЯ ЕООД",
+    "legal_entity_id": "130274951",
+    "public_company": "неприложимо",
+    "media_service_type": "Радио",
+    "media_service_name": "Радио 1 Рок (включва и сайта radio1rock.bg, както и фейсбук страница за слушателите)",
+    "real_owner": "Николай Георгиев Янчовичин, Атанас Иванов Генов, Христин Богомилов Стрижлев",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "57,33",
+            "contract_amount": 57,
+            "contract_basis_raw": "Предизборна аудиореклама на политическа партия БСП Горна Оряховица",
+            "contract_sponsor_raw": "Общински Съвет на БСП Горна Оряховица, ЕИК 0007020140852"
+        },
+        {
+            "contract_amount_raw": "60,06",
+            "contract_amount": 60,
+            "contract_basis_raw": "Предизборна аудио реклама Местни избори",
+            "contract_sponsor_raw": "ПП НФСБ, ЕИК:176129116"
+        },
+        {
+            "contract_amount_raw": "91,8",
+            "contract_amount": 91,
+            "contract_basis_raw": "Предизборна аудио реклама на Коалиция Демократична България",
+            "contract_sponsor_raw": "Коалиция Демократична България Обединение, ЕИК:177394797"
+        },
+        {
+            "contract_amount_raw": "166",
+            "contract_amount": 166,
+            "contract_basis_raw": "Предизборна аудио реклама на БСП Пловдив",
+            "contract_sponsor_raw": "ГС на БСП Пловдив, ЕИК: 0007020140237"
+        },
+        {
+            "contract_amount_raw": "560",
+            "contract_amount": 560,
+            "contract_basis_raw": "Предизборна аудио реклама на ПП Възраждане",
+            "contract_sponsor_raw": "ПП Възраждане, ЕИК 176845471"
+        }
+    ]
+}

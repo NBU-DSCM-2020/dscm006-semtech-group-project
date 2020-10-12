@@ -1,0 +1,95 @@
+{
+    "legal_entity_name": "НАБЛЮДАТЕЛ.БГ ЕООД",
+    "legal_entity_id": "203233410",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "Регионални новини",
+    "real_owner": "Александра Руменова Иванова",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "2400",
+            "contract_amount": 2400,
+            "contract_basis_raw": "ДОГОВОР",
+            "contract_sponsor_raw": "Община Сливен"
+        },
+        {
+            "contract_amount_raw": "1680",
+            "contract_amount": 1680,
+            "contract_basis_raw": "ДОГОВОР",
+            "contract_sponsor_raw": "Областна администрация Сливен"
+        },
+        {
+            "contract_amount_raw": "1440",
+            "contract_amount": 1440,
+            "contract_basis_raw": "ДОГОВОР",
+            "contract_sponsor_raw": "МБАЛ д-р Иван Селимински Сливен"
+        },
+        {
+            "contract_amount_raw": "2400",
+            "contract_amount": 2400,
+            "contract_basis_raw": "ДОГОВОР",
+            "contract_sponsor_raw": "В и К Сливен ООД"
+        },
+        {
+            "contract_amount_raw": "1200",
+            "contract_amount": 1200,
+            "contract_basis_raw": "ДОГОВОР",
+            "contract_sponsor_raw": "ПП ГЕРБ - СЛИВЕН"
+        },
+        {
+            "contract_amount_raw": "1200",
+            "contract_amount": 1200,
+            "contract_basis_raw": "ДОГОВОР",
+            "contract_sponsor_raw": "МЦ ЛАЙФ - СЛИВЕН"
+        },
+        {
+            "contract_amount_raw": "420",
+            "contract_amount": 420,
+            "contract_basis_raw": "ДОГОВОР",
+            "contract_sponsor_raw": "ОУ ДИМИТЪР ПЕТРОВ - СЛИВЕН"
+        },
+        {
+            "contract_amount_raw": "2400",
+            "contract_amount": 2400,
+            "contract_basis_raw": "ДОГОВОР",
+            "contract_sponsor_raw": "Община Сливен"
+        },
+        {
+            "contract_amount_raw": "1680",
+            "contract_amount": 1680,
+            "contract_basis_raw": "ДОГОВОР",
+            "contract_sponsor_raw": "Областна администрация Сливен"
+        },
+        {
+            "contract_amount_raw": "1440",
+            "contract_amount": 1440,
+            "contract_basis_raw": "ДОГОВОР",
+            "contract_sponsor_raw": "МБАЛ д-р Иван Селимински Сливен"
+        },
+        {
+            "contract_amount_raw": "2400",
+            "contract_amount": 2400,
+            "contract_basis_raw": "ДОГОВОР",
+            "contract_sponsor_raw": "В и К Сливен ООД"
+        },
+        {
+            "contract_amount_raw": "1200",
+            "contract_amount": 1200,
+            "contract_basis_raw": "ДОГОВОР",
+            "contract_sponsor_raw": "ПП ГЕРБ - СЛИВЕН"
+        },
+        {
+            "contract_amount_raw": "1200",
+            "contract_amount": 1200,
+            "contract_basis_raw": "ДОГОВОР",
+            "contract_sponsor_raw": "МЦ ЛАЙФ - СЛИВЕН"
+        },
+        {
+            "contract_amount_raw": "420",
+            "contract_amount": 420,
+            "contract_basis_raw": "ДОГОВОР",
+            "contract_sponsor_raw": "ОУ ДИМИТЪР ПЕТРОВ - СЛИВЕН"
+        }
+    ]
+}

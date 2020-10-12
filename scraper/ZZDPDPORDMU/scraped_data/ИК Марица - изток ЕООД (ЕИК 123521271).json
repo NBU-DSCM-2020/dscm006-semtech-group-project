@@ -1,0 +1,71 @@
+{
+    "legal_entity_name": "ИК Марица - изток ЕООД",
+    "legal_entity_id": "123521271",
+    "public_company": "Надзорна институция - Община Раднево",
+    "media_service_type": "Печатна медия",
+    "media_service_name": "Вестник Марица изток",
+    "real_owner": "Д-р Теньо Желязков Тенев",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "18000",
+            "contract_amount": 18000,
+            "contract_basis_raw": "Публикуване на рекламно каре/22.01.2019 г.",
+            "contract_sponsor_raw": "Мини Марица Изток ЕАД 833017552"
+        },
+        {
+            "contract_amount_raw": "4000",
+            "contract_amount": 4000,
+            "contract_basis_raw": "Безвъзмездно дарение/06.03.2019 г.",
+            "contract_sponsor_raw": "Тец Марица изток 2 ЕАД 123531939"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "Информационно обслужване/02.05.2019 г.",
+            "contract_sponsor_raw": "БСП - Стара Загора  0007020140642"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "Информационно обслужване/07.05.2019 г.",
+            "contract_sponsor_raw": "ГЕРБ- 175248466"
+        },
+        {
+            "contract_amount_raw": "144",
+            "contract_amount": 144,
+            "contract_basis_raw": "Информационно обслужване/20.05.2019 г.",
+            "contract_sponsor_raw": "ГЕРБ- 175248466"
+        },
+        {
+            "contract_amount_raw": "2000",
+            "contract_amount": 2000,
+            "contract_basis_raw": "Информационно обслужване/30.09.2019 г.",
+            "contract_sponsor_raw": "ГЕРБ- 175248466"
+        },
+        {
+            "contract_amount_raw": "2038,72",
+            "contract_amount": 2038,
+            "contract_basis_raw": "Информационно обслужване/30.09.2019 г.",
+            "contract_sponsor_raw": "МИР- 117380302"
+        },
+        {
+            "contract_amount_raw": "756",
+            "contract_amount": 756,
+            "contract_basis_raw": "Информационно обслужване/30.09.2019 г.",
+            "contract_sponsor_raw": "БСП- Раднево  0007020140638"
+        },
+        {
+            "contract_amount_raw": "813,6",
+            "contract_amount": 813,
+            "contract_basis_raw": "Информационно обслужване/15.10.2019 г.",
+            "contract_sponsor_raw": "АБВ - 176734649"
+        },
+        {
+            "contract_amount_raw": "35900",
+            "contract_amount": 35900,
+            "contract_basis_raw": "Публикуване на страниците на вестника/11.12.2019 г.",
+            "contract_sponsor_raw": "Община Раднево 000817956"
+        }
+    ]
+}

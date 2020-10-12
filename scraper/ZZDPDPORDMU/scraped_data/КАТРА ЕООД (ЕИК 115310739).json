@@ -1,0 +1,65 @@
+{
+    "legal_entity_name": "КАТРА ЕООД",
+    "legal_entity_id": "115310739",
+    "public_company": "неприложимо",
+    "media_service_type": "Радио; Радио",
+    "media_service_name": "KATРА ФМ; katrafm.com и фейсбук профил за слушателите",
+    "real_owner": "Калоян Димитров Трачев",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "599,26",
+            "contract_amount": 599,
+            "contract_basis_raw": "2316/28.1.2019 - За радиореклама и изработка за клип ( с вкл. ДДС)",
+            "contract_sponsor_raw": "Международен панаир Пловдив АД, ЕИК: 825278766"
+        },
+        {
+            "contract_amount_raw": "384",
+            "contract_amount": 384,
+            "contract_basis_raw": "2328/11.2.2020 - За радиореклама (с вкл.ДДС)",
+            "contract_sponsor_raw": "Аграрен университет, гр. Пловдив, ЕИК: 000455464"
+        },
+        {
+            "contract_amount_raw": "791,81",
+            "contract_amount": 791,
+            "contract_basis_raw": "2358/22.3.2019 - За излъчване на търговски съобщения и изработка на аудиоклип ( с вкл. ДДС)",
+            "contract_sponsor_raw": "Международен панаир Пловдив АД, ЕИК: 825278766"
+        },
+        {
+            "contract_amount_raw": "384",
+            "contract_amount": 384,
+            "contract_basis_raw": "2400/14.5.2019 - За за радиореклама (с вкл. ДДС)",
+            "contract_sponsor_raw": "Аграрен университет, гр. Пловдив, ЕИК: 000455464"
+        },
+        {
+            "contract_amount_raw": "360",
+            "contract_amount": 360,
+            "contract_basis_raw": "2419/31.5.2020 - За изработка на аудиоклип (с вкл.ДДС)",
+            "contract_sponsor_raw": "Международен панаир Пловдив АД, ЕИК: 825278766"
+        },
+        {
+            "contract_amount_raw": "384",
+            "contract_amount": 384,
+            "contract_basis_raw": "2450/5.7.2019 - За излъчване на търговски съобщения (с вкл.ДДС) ",
+            "contract_sponsor_raw": "Аграрен университет, гр. Пловдив, ЕИК: 000455464"
+        },
+        {
+            "contract_amount_raw": "288",
+            "contract_amount": 288,
+            "contract_basis_raw": "2482/26.08.2019 -За излъчване на търговски съобщения (с вкл.ДДС) ",
+            "contract_sponsor_raw": "Аграрен университет, гр. Пловдив, ЕИК: 000455464"
+        },
+        {
+            "contract_amount_raw": "60",
+            "contract_amount": 60,
+            "contract_basis_raw": "2503/24.09.2019 - За производство на клип (с вкл. ДДС)",
+            "contract_sponsor_raw": "Държавна Опера – Пловдив, ЕИК: 115314988"
+        },
+        {
+            "contract_amount_raw": "288",
+            "contract_amount": 288,
+            "contract_basis_raw": "ДП – 113/30.08.19 /За изработка на аудиоклип (с вкл. ДДС) ",
+            "contract_sponsor_raw": "OФПловдив 2019, ЕИК: 176182033"
+        }
+    ]
+}

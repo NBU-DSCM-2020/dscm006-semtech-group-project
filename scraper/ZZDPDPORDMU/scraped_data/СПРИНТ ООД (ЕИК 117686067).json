@@ -1,0 +1,23 @@
+{
+    "legal_entity_name": "СПРИНТ ООД",
+    "legal_entity_id": "117686067",
+    "public_company": "неприложимо",
+    "media_service_type": "Печатна медия",
+    "media_service_name": "ИНФОРМАЦИОННО МЕДИЙНО ОБСЛУЖВАНЕ В ИНТЕРНЕТ САЙТ SLIVEN-SPORT.COM, ВКЛЮЧВАЩО ПРЕДСТОЯЩИ И  АКТУАЛНИ СЪБИТИЯ,СЪБИТИЯ ОТ СПОРТНИЯ И КУЛТУРЕН КАЛЕНДАР, ПРЕСКОНФЕРЕНЦИИ, ПРАЗНИЧНИ ПОЗДРАВИ И ДРУГИ МАТЕРИАЛИ.",
+    "real_owner": "ПЕНКО ИГНАТОВ ВЕЛИКОВ, ЕВГЕНИ ИГНАТОВ ИГНАТОВ",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "1320",
+            "contract_amount": 1320,
+            "contract_basis_raw": "ДОГОВОР от 02.01.2019 - медийно информационно обслужване",
+            "contract_sponsor_raw": "ПП ГЕРБ ЕИК 175248466"
+        },
+        {
+            "contract_amount_raw": "1440",
+            "contract_amount": 1440,
+            "contract_basis_raw": "ДОГОВОР от 28.12.2018 - медийно информационно обслужване",
+            "contract_sponsor_raw": "Община Сливен - ЕИК 000590654"
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "legal_entity_name": "Добруджа спектър ЕООД",
+    "legal_entity_id": "124134441",
+    "public_company": "неприложимо",
+    "media_service_type": "Радио",
+    "media_service_name": "Радио Добруджа",
+    "real_owner": "Веселин Илиев Димитров",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "2880",
+            "contract_amount": 2880,
+            "contract_basis_raw": "05.03.2019 г. - Договор за информационно обслужване",
+            "contract_sponsor_raw": "Община Генерал Тошево, ЕИК: 000852633"
+        },
+        {
+            "contract_amount_raw": "4800",
+            "contract_amount": 4800,
+            "contract_basis_raw": "19.02.2019 г. - Договор за информационно обслужване",
+            "contract_sponsor_raw": "Община град Добрич, ЕИК: 000852932"
+        },
+        {
+            "contract_amount_raw": "3600",
+            "contract_amount": 3600,
+            "contract_basis_raw": "01.02.2019 г. - Договор за информационно обслужване",
+            "contract_sponsor_raw": "ВиК Добрич ЕООД, ЕИК: 204219357"
+        },
+        {
+            "contract_amount_raw": "1440",
+            "contract_amount": 1440,
+            "contract_basis_raw": "14.03.2019 г. - Договор за информационно обслужване",
+            "contract_sponsor_raw": "Община Крушари, ЕИК: 000852754"
+        },
+        {
+            "contract_amount_raw": "2400",
+            "contract_amount": 2400,
+            "contract_basis_raw": "10.02.2019 г. - Договор за информационно обслужване",
+            "contract_sponsor_raw": "ДКЦ Двореца Балчик, ЕИК: 124609886"
+        },
+        {
+            "contract_amount_raw": "729,6",
+            "contract_amount": 729,
+            "contract_basis_raw": "01.05.2019 г. - Договор за политическа реклама",
+            "contract_sponsor_raw": "ПП ВМРО-БНД, ЕИК: 130451348"
+        },
+        {
+            "contract_amount_raw": "720",
+            "contract_amount": 720,
+            "contract_basis_raw": "14.05.2019 г. - Договор за политическа реклама",
+            "contract_sponsor_raw": "Коалиция за България, ЕИК: 176734649"
+        },
+        {
+            "contract_amount_raw": "1260",
+            "contract_amount": 1260,
+            "contract_basis_raw": "18.09.2019 г. - Договор за политическа реклама",
+            "contract_sponsor_raw": "Общ. съвет на БСП гр.Ген.Тошево - ЕИК: 0007020140745"
+        },
+        {
+            "contract_amount_raw": "1536",
+            "contract_amount": 1536,
+            "contract_basis_raw": "27.09.2019 г. - Договор за политическа реклама",
+            "contract_sponsor_raw": "Местна коалиция ГЕРБ/СДС/, ЕИК: 175248466"
+        },
+        {
+            "contract_amount_raw": "548,8",
+            "contract_amount": 548,
+            "contract_basis_raw": "27.09.2019 г. - Договор за политическа реклама",
+            "contract_sponsor_raw": "ПП ВМРО-БНД, ЕИК: 130451348"
+        },
+        {
+            "contract_amount_raw": "3780,2",
+            "contract_amount": 3780,
+            "contract_basis_raw": "30.09.2019 г. - Договор за политическа реклама",
+            "contract_sponsor_raw": "ПП ДБГ, ЕИК: 176368365"
+        },
+        {
+            "contract_amount_raw": "432",
+            "contract_amount": 432,
+            "contract_basis_raw": "30.09.2019 г. - Договор за политическа реклама",
+            "contract_sponsor_raw": "Общ. съвет на БСП Добричка - ЕИК: 0007020140730"
+        },
+        {
+            "contract_amount_raw": "1060",
+            "contract_amount": 1060,
+            "contract_basis_raw": "01.10.2019 г. - Договор за политическа реклама",
+            "contract_sponsor_raw": "Общ. съвет на БСП гр.Добрич- ЕИК: 0007020140730"
+        },
+        {
+            "contract_amount_raw": "240",
+            "contract_amount": 240,
+            "contract_basis_raw": "01.10.2019 г. - Договор за политическа реклама",
+            "contract_sponsor_raw": "ПП ДПС, ЕИК: 000707470"
+        },
+        {
+            "contract_amount_raw": "856",
+            "contract_amount": 856,
+            "contract_basis_raw": "24.10.2019 г. - Договор за политическа реклама",
+            "contract_sponsor_raw": "ПП Воля, - ЕИК: 175358375"
+        },
+        {
+            "contract_amount_raw": "910",
+            "contract_amount": 910,
+            "contract_basis_raw": "14.10.2019 г. - Договор за политическа реклама",
+            "contract_sponsor_raw": "ПП ВМРО-БНД , ЕИК: 130451348"
+        },
+        {
+            "contract_amount_raw": "2500",
+            "contract_amount": 2500,
+            "contract_basis_raw": "02.01.2019 г. - Договор за политическа реклама",
+            "contract_sponsor_raw": "ПП ГЕРБ, ЕИК: 175248466"
+        },
+        {
+            "contract_amount_raw": "492",
+            "contract_amount": 492,
+            "contract_basis_raw": "06.05.2019 г. - Договор за политическа реклама",
+            "contract_sponsor_raw": "ПП Воля, ЕИК: 175358375"
+        }
+    ]
+}

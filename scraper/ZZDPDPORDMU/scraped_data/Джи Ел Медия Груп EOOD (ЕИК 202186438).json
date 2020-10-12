@@ -1,0 +1,89 @@
+{
+    "legal_entity_name": "Джи Ел Медия Груп EOOD",
+    "legal_entity_id": "202186438",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "plovdivskinovini.bg",
+    "real_owner": "Георги Василев Линков",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "1800",
+            "contract_amount": 1800,
+            "contract_basis_raw": "Договор за рекламно обслужване, 2019 г.",
+            "contract_sponsor_raw": "Община Пловдив, район Северен , 047150400645"
+        },
+        {
+            "contract_amount_raw": "1800",
+            "contract_amount": 1800,
+            "contract_basis_raw": "Договор за рекламно обслужване, 2019 г.",
+            "contract_sponsor_raw": "Община Пловдив, район Тракия, 004715040084"
+        },
+        {
+            "contract_amount_raw": "700",
+            "contract_amount": 700,
+            "contract_basis_raw": "Договор за рекламно обслужване, 2019 г.",
+            "contract_sponsor_raw": "Община Пловдив, район Южен, 004715040070"
+        },
+        {
+            "contract_amount_raw": "600",
+            "contract_amount": 600,
+            "contract_basis_raw": "Договор за рекламно обслужване, 2019 г.",
+            "contract_sponsor_raw": "Община Пловдив, район Централен, 000471504"
+        },
+        {
+            "contract_amount_raw": "1800",
+            "contract_amount": 1800,
+            "contract_basis_raw": "Договор за рекламно обслужване, 2019 г.",
+            "contract_sponsor_raw": "Община Пловдив, район Източен, 004715040046"
+        },
+        {
+            "contract_amount_raw": "1800",
+            "contract_amount": 1800,
+            "contract_basis_raw": "Договор за рекламно обслужване, 2019 г.",
+            "contract_sponsor_raw": "ДКЦ 2, гр. Пловдив, 000463258"
+        },
+        {
+            "contract_amount_raw": "4800",
+            "contract_amount": 4800,
+            "contract_basis_raw": "Договор за рекламно обслужване, 2019 г.",
+            "contract_sponsor_raw": "УМБАЛ Св. Георги, 115576405"
+        },
+        {
+            "contract_amount_raw": "2600",
+            "contract_amount": 2600,
+            "contract_basis_raw": "Договор за рекламно обслужване, 2019 г.",
+            "contract_sponsor_raw": "Партия Воля, ЕИК 175358375"
+        },
+        {
+            "contract_amount_raw": "800",
+            "contract_amount": 800,
+            "contract_basis_raw": "Договор за рекламно обслужване, 2019 г.",
+            "contract_sponsor_raw": "Градски съвет на БСП Пловдив, 0007020140237"
+        },
+        {
+            "contract_amount_raw": "2500",
+            "contract_amount": 2500,
+            "contract_basis_raw": "Договор за рекламно обслужване, 2019 г.",
+            "contract_sponsor_raw": "Областен съвет на БСП Пловдив,ЕИК 000702014"
+        },
+        {
+            "contract_amount_raw": "2000",
+            "contract_amount": 2000,
+            "contract_basis_raw": "Договор за рекламно обслужване, 2019 г.",
+            "contract_sponsor_raw": "ПП Земеделски съюз Ал. Стамболийски, 130038602"
+        },
+        {
+            "contract_amount_raw": "300",
+            "contract_amount": 300,
+            "contract_basis_raw": "Договор за рекламно обслужване, 2019 г.",
+            "contract_sponsor_raw": "ПП Национален фронт за спасение на България, 176129116"
+        },
+        {
+            "contract_amount_raw": "2000",
+            "contract_amount": 2000,
+            "contract_basis_raw": "Договор за рекламно обслужване, 2019 г.",
+            "contract_sponsor_raw": "Коалиция Съюз за Пловдив, 176091306 "
+        }
+    ]
+}

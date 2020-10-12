@@ -1,0 +1,71 @@
+{
+    "legal_entity_name": "ОП Русе арт- Община Русе",
+    "legal_entity_id": "000530632",
+    "public_company": "неприложимо",
+    "media_service_type": "Радио",
+    "media_service_name": "Общинско радио Русе ",
+    "real_owner": "Пенчо Пламенов Милков",
+    "executive_individual": "Галина Савова Рафаелова",
+    "contracts": [
+        {
+            "contract_amount_raw": "450",
+            "contract_amount": 450,
+            "contract_basis_raw": "Договор за радиореклама",
+            "contract_sponsor_raw": "ПП ГЕРБ/ ЕИК-175248466"
+        },
+        {
+            "contract_amount_raw": "690",
+            "contract_amount": 690,
+            "contract_basis_raw": "Договор за радиореклама",
+            "contract_sponsor_raw": "Станимир Стефанов Станчев -МК СЪЮЗ НА ДЕМОКРАТИЧНИТЕ СИЛИ (СДС)/"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "Договор за радиореклама",
+            "contract_sponsor_raw": "ПП ГЕРБ/ ЕИК-175248466"
+        },
+        {
+            "contract_amount_raw": "96",
+            "contract_amount": 96,
+            "contract_basis_raw": "Договор за радиореклама",
+            "contract_sponsor_raw": "ВМРО БНД /ЕИК-130451348"
+        },
+        {
+            "contract_amount_raw": "103",
+            "contract_amount": 103,
+            "contract_basis_raw": "Договор за радиореклама",
+            "contract_sponsor_raw": "ВМРО БНД /ЕИК-130451348"
+        },
+        {
+            "contract_amount_raw": "1310",
+            "contract_amount": 1310,
+            "contract_basis_raw": "Договор за радиореклама",
+            "contract_sponsor_raw": "ВМРО БНД /ЕИК-130451348"
+        },
+        {
+            "contract_amount_raw": "40",
+            "contract_amount": 40,
+            "contract_basis_raw": "Договор за радиореклама",
+            "contract_sponsor_raw": "ВМРО БНД /ЕИК-130451348"
+        },
+        {
+            "contract_amount_raw": "135",
+            "contract_amount": 135,
+            "contract_basis_raw": "Договор за радиореклама",
+            "contract_sponsor_raw": "ПГПТ Атанас Цонев Буров/ЕИК-117003945"
+        },
+        {
+            "contract_amount_raw": "960",
+            "contract_amount": 960,
+            "contract_basis_raw": "Договор за радиореклама",
+            "contract_sponsor_raw": "ВиК ООД-Русе/ ЕИК- BG827184123"
+        },
+        {
+            "contract_amount_raw": "1600",
+            "contract_amount": 1600,
+            "contract_basis_raw": "Договор за радиореклама",
+            "contract_sponsor_raw": "Общински пазари ЕООД /ЕИК- BG117111045"
+        }
+    ]
+}

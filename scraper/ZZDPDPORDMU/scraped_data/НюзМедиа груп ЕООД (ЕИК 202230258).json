@@ -1,0 +1,125 @@
+{
+    "legal_entity_name": "НюзМедиа груп ЕООД",
+    "legal_entity_id": "202230258",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание; Печатна медия",
+    "media_service_name": "www.dgpazar.eu - Новинарски уебсайт; Димитровградски пазар",
+    "real_owner": "Тенчо Атанасов Тенчев",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "300",
+            "contract_amount": 300,
+            "contract_basis_raw": "ф.№1257/8.5.2019 г.",
+            "contract_sponsor_raw": "ОбС на БСП-Димитровград, ЕИК: 0007020140065"
+        },
+        {
+            "contract_amount_raw": "860",
+            "contract_amount": 860,
+            "contract_basis_raw": "Ф.№1259/17.5.2019 г.",
+            "contract_sponsor_raw": "ПП ГЕРБ, ЕИК: 175248466"
+        },
+        {
+            "contract_amount_raw": "250",
+            "contract_amount": 250,
+            "contract_basis_raw": "Ф.№1260/21.5.2019 г.",
+            "contract_sponsor_raw": "Обл. съвет на БСП-Хасково, ЕИК: 0007020140726"
+        },
+        {
+            "contract_amount_raw": "144",
+            "contract_amount": 144,
+            "contract_basis_raw": "Ф.№1316/11.9.2019 г./Проект Подкрепа за всички деца",
+            "contract_sponsor_raw": "Община Димитровград, BG000903533"
+        },
+        {
+            "contract_amount_raw": "130",
+            "contract_amount": 130,
+            "contract_basis_raw": "Ф.№1322/9.10.2019 г.",
+            "contract_sponsor_raw": "ОбС на БСП-Димитровград, ЕИК: 0007020140065"
+        },
+        {
+            "contract_amount_raw": "250",
+            "contract_amount": 250,
+            "contract_basis_raw": "Ф.№1204/31л1.2019 г./публикуване решения",
+            "contract_sponsor_raw": "Община Димитровград, BG000903533"
+        },
+        {
+            "contract_amount_raw": "250",
+            "contract_amount": 250,
+            "contract_basis_raw": "Ф.№1217/27.2.2019 г./публикуване решения",
+            "contract_sponsor_raw": "Община Димитровград, BG000903533"
+        },
+        {
+            "contract_amount_raw": "250",
+            "contract_amount": 250,
+            "contract_basis_raw": "Ф.№1232/1.4.2019 г./публикуване решения",
+            "contract_sponsor_raw": "Община Димитровград, BG000903533"
+        },
+        {
+            "contract_amount_raw": "250",
+            "contract_amount": 250,
+            "contract_basis_raw": "Ф.№1244/19.4.2019 г./публикуване решения",
+            "contract_sponsor_raw": "Община Димитровград, BG000903533"
+        },
+        {
+            "contract_amount_raw": "250",
+            "contract_amount": 250,
+            "contract_basis_raw": "Ф.№1262/27.5.2019 г./публикуване решения",
+            "contract_sponsor_raw": "Община Димитровград, BG000903533"
+        },
+        {
+            "contract_amount_raw": "250",
+            "contract_amount": 250,
+            "contract_basis_raw": "Ф.№1285/2.7.2019 г./публикуване решения",
+            "contract_sponsor_raw": "Община Димитровград, BG000903533"
+        },
+        {
+            "contract_amount_raw": "250",
+            "contract_amount": 250,
+            "contract_basis_raw": "Ф.№1288/29.7.2019 г./публикуване решения",
+            "contract_sponsor_raw": "Община Димитровград, BG000903533"
+        },
+        {
+            "contract_amount_raw": "250",
+            "contract_amount": 250,
+            "contract_basis_raw": "Ф.№1304/29.8.2019 г./публикуване решения",
+            "contract_sponsor_raw": "Община Димитровград, BG000903533"
+        },
+        {
+            "contract_amount_raw": "250",
+            "contract_amount": 250,
+            "contract_basis_raw": "Ф.№1321/30.9.2019 г./публикуване решения",
+            "contract_sponsor_raw": "Община Димитровград, BG000903533"
+        },
+        {
+            "contract_amount_raw": "250",
+            "contract_amount": 250,
+            "contract_basis_raw": "Ф.№1363/17.12.2019 г./публикуване решения",
+            "contract_sponsor_raw": "Община Димитровград, BG000903533"
+        },
+        {
+            "contract_amount_raw": "4800",
+            "contract_amount": 4800,
+            "contract_basis_raw": "21.01.2019 г./информационно обслужване",
+            "contract_sponsor_raw": "Община Димитровград, BG000903533"
+        },
+        {
+            "contract_amount_raw": "6000",
+            "contract_amount": 6000,
+            "contract_basis_raw": "21.01.2019 г./публикуване на обяви",
+            "contract_sponsor_raw": "Община Димитровград, BG000903533"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "28.09.2019 г./медияно отразяване",
+            "contract_sponsor_raw": "ПП ГЕРБ, ЕИК: 175248466"
+        },
+        {
+            "contract_amount_raw": "1510",
+            "contract_amount": 1510,
+            "contract_basis_raw": "30.10.2019 г./медийно отразяване",
+            "contract_sponsor_raw": "ПП Единна народна партия, ЕИК: 175519298"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "legal_entity_name": "Община Ловеч",
+    "legal_entity_id": "000291591",
+    "public_company": "неприложимо",
+    "media_service_type": "Радио",
+    "media_service_name": "Общинско радио Ловеч",
+    "real_owner": "Корнелия Добрева Маринова",
+    "executive_individual": "Никола Колев Николов",
+    "contracts": [
+        {
+            "contract_amount_raw": "25801",
+            "contract_amount": 25801,
+            "contract_basis_raw": "Собствено финансиране - от бюджета на Община Ловеч",
+            "contract_sponsor_raw": "Община Ловеч - ЕИК 000291591"
+        }
+    ]
+}

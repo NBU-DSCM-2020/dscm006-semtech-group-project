@@ -1,0 +1,83 @@
+{
+    "legal_entity_name": "Пловдив прес ООД",
+    "legal_entity_id": "204808860",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "Онлайн новинарски сайт -www.plovdiv-press.bg",
+    "real_owner": "Спас Тодоров Кузов, Иван Златков Кузов",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "720",
+            "contract_amount": 720,
+            "contract_basis_raw": "информационно обслужване",
+            "contract_sponsor_raw": "Местна инициативна група-Куклен-Асеновград Сдружение"
+        },
+        {
+            "contract_amount_raw": "5000",
+            "contract_amount": 5000,
+            "contract_basis_raw": "Кампания за местни избори 2019 година",
+            "contract_sponsor_raw": "ГРАДСКИ СЪВЕТ на БСП - ПЛОВДИВ Поделение"
+        },
+        {
+            "contract_amount_raw": "7000",
+            "contract_amount": 7000,
+            "contract_basis_raw": "Информационно  обслужване за  кампания за избори  за европейски  парламент 2019г.",
+            "contract_sponsor_raw": "ОБЛАСТЕН СЪВЕТ на БСП - ПЛОВДИВ Поделение"
+        },
+        {
+            "contract_amount_raw": "3000",
+            "contract_amount": 3000,
+            "contract_basis_raw": "информационно обслужване",
+            "contract_sponsor_raw": "ОБЩИНА МАРИЦА"
+        },
+        {
+            "contract_amount_raw": "1500",
+            "contract_amount": 1500,
+            "contract_basis_raw": "информационно обслужване",
+            "contract_sponsor_raw": "ОБЩИНА САДОВО"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "Кампания за местни избори 2019 година",
+            "contract_sponsor_raw": "ПОЛИТИЧЕСКА ПАРТИЯ АБВ / АЛТЕРНАТИВА ЗА БЪЛГАРСКО ВЪЗРАЖДАНЕ / Политическа организация"
+        },
+        {
+            "contract_amount_raw": "1500",
+            "contract_amount": 1500,
+            "contract_basis_raw": "Кампания за местни избори 2019 година",
+            "contract_sponsor_raw": "ПОЛИТИЧЕСКА ПАРТИЯ ДВИЖЕНИЕ БЪЛГАРИЯ НА ГРАЖДАНИТЕ Политическа организация"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "Кампания за местни избори 2019 година",
+            "contract_sponsor_raw": "ПОЛИТИЧЕСКА ПАРТИЯ ЗЕМЕДЕЛСКИ СЪЮЗ АЛЕКСАНДЪР СТАМБОЛИЙСКИ Политическа организация"
+        },
+        {
+            "contract_amount_raw": "1500",
+            "contract_amount": 1500,
+            "contract_basis_raw": "Кампания за местни избори 2019 година",
+            "contract_sponsor_raw": "ПОЛИТИЧЕСКА ПАРТИЯ КАУЗА БЪЛГАРИЯ Политическа организация"
+        },
+        {
+            "contract_amount_raw": "4500",
+            "contract_amount": 4500,
+            "contract_basis_raw": "Кампания за местни избори 2019 година",
+            "contract_sponsor_raw": "ПОЛИТИЧЕСКА ПАРТИЯ ЛИБЕРАЛЕН АЛИАНС Политическа организация"
+        },
+        {
+            "contract_amount_raw": "1500",
+            "contract_amount": 1500,
+            "contract_basis_raw": "Кампания за местни избори 2019 година",
+            "contract_sponsor_raw": "ПОЛИТИЧЕСКА ПАРТИЯ НАЦИОНАЛЕН ФРОНТ ЗА СПАСЕНИЕ НА БЪЛГАРИЯ Политическа организация"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "Кампания за местни избори 2019 година",
+            "contract_sponsor_raw": "СЪЮЗ НА ДЕМОКРАТИЧНИТЕ СИЛИ"
+        }
+    ]
+}

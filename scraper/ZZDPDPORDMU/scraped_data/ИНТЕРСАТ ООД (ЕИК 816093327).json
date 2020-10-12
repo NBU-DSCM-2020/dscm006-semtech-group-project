@@ -1,0 +1,143 @@
+{
+    "legal_entity_name": "ИНТЕРСАТ ООД",
+    "legal_entity_id": "816093327",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "MEDIANEWS.BG",
+    "real_owner": "Веселин Иванов Веселинов, Цветослав Мирославов Захариев, Здравко Любенов Михайлов, Тодор Василев Тодоров, Цветомила Петрова Михайлова, Румен Любомиров Бонев",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "83,33",
+            "contract_amount": 83,
+            "contract_basis_raw": "Договор за медийна услуга от дата 07.05.2019г.",
+            "contract_sponsor_raw": "ПП ГЕРБ, ЕИК 175248466"
+        },
+        {
+            "contract_amount_raw": "66,67",
+            "contract_amount": 66,
+            "contract_basis_raw": "Фактура №5374/09.04.2019г.- Публикуване на статичен рекламен банер",
+            "contract_sponsor_raw": "ПП ВМРО -БНД, ЕИК 130451348"
+        },
+        {
+            "contract_amount_raw": "100",
+            "contract_amount": 100,
+            "contract_basis_raw": "Договор за медийна услуга от дата 08.05.2019г.",
+            "contract_sponsor_raw": "ПП ВМРО -БНД, ЕИК 130451348"
+        },
+        {
+            "contract_amount_raw": "200",
+            "contract_amount": 200,
+            "contract_basis_raw": "Договор за медийна услуга от дата 09.05.2019г.",
+            "contract_sponsor_raw": "ПП АБВ , ЕИК 176734649"
+        },
+        {
+            "contract_amount_raw": "170",
+            "contract_amount": 170,
+            "contract_basis_raw": "Договор за медийна услуга № 31/26.09.2019г.",
+            "contract_sponsor_raw": "ПП ГЕРБ, ЕИК 175248466"
+        },
+        {
+            "contract_amount_raw": "1250",
+            "contract_amount": 1250,
+            "contract_basis_raw": "Договор за медийна услуга № 32/27.09.2019г.",
+            "contract_sponsor_raw": "ПП АБВ , ЕИК 176734649"
+        },
+        {
+            "contract_amount_raw": "100",
+            "contract_amount": 100,
+            "contract_basis_raw": "Договор за медийна услуга от дата 07.10.2019г.",
+            "contract_sponsor_raw": "ПП ВМРО -БНД, ЕИК 130451348"
+        },
+        {
+            "contract_amount_raw": "200",
+            "contract_amount": 200,
+            "contract_basis_raw": "Договор за медийна услуга № 33/10.10.2019г.",
+            "contract_sponsor_raw": "ПП ВМРО -БНД, ЕИК 130451348"
+        },
+        {
+            "contract_amount_raw": "750",
+            "contract_amount": 750,
+            "contract_basis_raw": "Договор за медийни услуги № 29/01.11.2016г.",
+            "contract_sponsor_raw": "Община Мездра, ЕИК 000193371"
+        },
+        {
+            "contract_amount_raw": "100",
+            "contract_amount": 100,
+            "contract_basis_raw": "Фактура №5296/14.01.2019г.- Публикация от информ.агенция",
+            "contract_sponsor_raw": "Община Враца, ЕИК 000193115"
+        },
+        {
+            "contract_amount_raw": "100",
+            "contract_amount": 100,
+            "contract_basis_raw": "Фактура №5322/08.02.2019г.- Публикация от информ.агенция ",
+            "contract_sponsor_raw": "Община Враца, ЕИК 000193115"
+        },
+        {
+            "contract_amount_raw": "100",
+            "contract_amount": 100,
+            "contract_basis_raw": "Фактура №5348/11.03.2019г.- Публикация от информ.агенция ",
+            "contract_sponsor_raw": "Община Враца, ЕИК 000193115"
+        },
+        {
+            "contract_amount_raw": "100",
+            "contract_amount": 100,
+            "contract_basis_raw": "Фактура №5373/09.04.2019г.- Публикация от информ.агенция",
+            "contract_sponsor_raw": "Община Враца, ЕИК 000193115"
+        },
+        {
+            "contract_amount_raw": "100",
+            "contract_amount": 100,
+            "contract_basis_raw": "Фактура №5395/09.05.2019г.- Публикация от информ.агенция",
+            "contract_sponsor_raw": "Община Враца, ЕИК 000193115"
+        },
+        {
+            "contract_amount_raw": "100",
+            "contract_amount": 100,
+            "contract_basis_raw": "Фактура №5421/11.06.2019г.- Публикация от информ.агенция",
+            "contract_sponsor_raw": "Община Враца, ЕИК 000193115"
+        },
+        {
+            "contract_amount_raw": "100",
+            "contract_amount": 100,
+            "contract_basis_raw": "Фактура №5450/09.07.2019г.- Публикация от информ.агенция ",
+            "contract_sponsor_raw": "Община Враца, ЕИК 000193115"
+        },
+        {
+            "contract_amount_raw": "100",
+            "contract_amount": 100,
+            "contract_basis_raw": "Фактура №5470/01.08.2019г.- Публикация от информ.агенция ",
+            "contract_sponsor_raw": "Община Враца, ЕИК 000193115"
+        },
+        {
+            "contract_amount_raw": "100",
+            "contract_amount": 100,
+            "contract_basis_raw": "Фактура №5491/10.09.2019г.- Публикация от информ.агенция",
+            "contract_sponsor_raw": "Община Враца, ЕИК 000193115"
+        },
+        {
+            "contract_amount_raw": "100",
+            "contract_amount": 100,
+            "contract_basis_raw": "Фактура №5525/08.10.2019г.- Публикация от информ.агенция ",
+            "contract_sponsor_raw": "Община Враца, ЕИК 000193115"
+        },
+        {
+            "contract_amount_raw": "100",
+            "contract_amount": 100,
+            "contract_basis_raw": "Фактура №5549/07.11.2019г.- Публикация от информ.агенция",
+            "contract_sponsor_raw": "Община Враца, ЕИК 000193115"
+        },
+        {
+            "contract_amount_raw": "100",
+            "contract_amount": 100,
+            "contract_basis_raw": "Фактура №5580/10.12.2019г.- Публикация от информ.агенция",
+            "contract_sponsor_raw": "Община Враца, ЕИК 000193115"
+        },
+        {
+            "contract_amount_raw": "1200",
+            "contract_amount": 1200,
+            "contract_basis_raw": "Договор № 30/01.02.2018 г.",
+            "contract_sponsor_raw": "Община Борован, ЕИК 000193065"
+        }
+    ]
+}

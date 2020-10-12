@@ -1,0 +1,83 @@
+{
+    "legal_entity_name": "СМОЛЯН ДНЕС ЕООД",
+    "legal_entity_id": "200684924",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "Смолян днес",
+    "real_owner": "Недялко Тодоров Чернев",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "300",
+            "contract_amount": 300,
+            "contract_basis_raw": "Информационно обслужване / 07.01.2019",
+            "contract_sponsor_raw": "СНЦ Нови хоризонти, BG120547138"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "Информационно обслужване / Договор№1/14.01.2019",
+            "contract_sponsor_raw": "Община Доспат"
+        },
+        {
+            "contract_amount_raw": "600",
+            "contract_amount": 600,
+            "contract_basis_raw": "Информационно обслужване / Договор №2/14.01.2019",
+            "contract_sponsor_raw": "Община Мадан"
+        },
+        {
+            "contract_amount_raw": "300",
+            "contract_amount": 300,
+            "contract_basis_raw": "Информационно обслужване / Договор № 3/30.01.2019",
+            "contract_sponsor_raw": "Община Златоград"
+        },
+        {
+            "contract_amount_raw": "40",
+            "contract_amount": 40,
+            "contract_basis_raw": "ПР Публикации по Европейски проекти / 31.01.2019",
+            "contract_sponsor_raw": "ЕС ПИ КОНСУЛТ БГ - ООД, BG200571378"
+        },
+        {
+            "contract_amount_raw": "40",
+            "contract_amount": 40,
+            "contract_basis_raw": "ПР Публикации по Европейски проекти / 31.01.2019",
+            "contract_sponsor_raw": "ЕС ПИ КОНСУЛТ БГ - ООД, BG200571378"
+        },
+        {
+            "contract_amount_raw": "1164",
+            "contract_amount": 1164,
+            "contract_basis_raw": "Осигуряване на публичност и визуализация по проект  BG16RFOP002-3.001-0932-C01Подобряване на енергийната ефективност по  договор SE-01 / Договор  № 4/04.06.2019",
+            "contract_sponsor_raw": "ЕКО ФОРЕСТ ГРУП – ЕООД Смолян, BG202102739"
+        },
+        {
+            "contract_amount_raw": "40",
+            "contract_amount": 40,
+            "contract_basis_raw": "ПР Публикации по Европейски проекти /13.06.2019",
+            "contract_sponsor_raw": "ЕС ПИ КОНСУЛТ БГ - ООД, BG200571378"
+        },
+        {
+            "contract_amount_raw": "40",
+            "contract_amount": 40,
+            "contract_basis_raw": "ПР Публикации по Европейски проекти / 16.09.2019",
+            "contract_sponsor_raw": "ЕС ПИ КОНСУЛТ БГ - ООД, BG200571378"
+        },
+        {
+            "contract_amount_raw": "40",
+            "contract_amount": 40,
+            "contract_basis_raw": "ПР Публикации по Европейски проекти / 16.09.2019",
+            "contract_sponsor_raw": "ЕС ПИ КОНСУЛТ БГ - ООД, BG200571378"
+        },
+        {
+            "contract_amount_raw": "40",
+            "contract_amount": 40,
+            "contract_basis_raw": "ПР Публикации по Европейски проекти 24.10.2019",
+            "contract_sponsor_raw": "ЕС ПИ КОНСУЛТ БГ - ООД, BG200571378"
+        },
+        {
+            "contract_amount_raw": "40",
+            "contract_amount": 40,
+            "contract_basis_raw": "ПР Публикации по Европейски проекти 24.10.2019",
+            "contract_sponsor_raw": "ЕС ПИ КОНСУЛТ БГ - ООД, BG200571378"
+        }
+    ]
+}

@@ -1,0 +1,167 @@
+{
+    "legal_entity_name": "Интерлинк ЕООД",
+    "legal_entity_id": "120076070",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "Отзвук.БГ (до 08.12.2019 г.)",
+    "real_owner": "Зарко Филипов Маринов ",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "2400",
+            "contract_amount": 2400,
+            "contract_basis_raw": "08.03.2019, абонамент и публикации",
+            "contract_sponsor_raw": "Община Мадан, 000614984"
+        },
+        {
+            "contract_amount_raw": "720",
+            "contract_amount": 720,
+            "contract_basis_raw": "08.03.2019, абонамент",
+            "contract_sponsor_raw": "Община Златоград, 000614938"
+        },
+        {
+            "contract_amount_raw": "56",
+            "contract_amount": 56,
+            "contract_basis_raw": "12.03.2019, публикуване на обява",
+            "contract_sponsor_raw": "ПГТТ Христо Ботев - Смолян, 120565499"
+        },
+        {
+            "contract_amount_raw": "87,5",
+            "contract_amount": 87,
+            "contract_basis_raw": "01.04.2019, платена публикация",
+            "contract_sponsor_raw": "МБАЛ - Девин, 200591288"
+        },
+        {
+            "contract_amount_raw": "78,75",
+            "contract_amount": 78,
+            "contract_basis_raw": "01.04.2019, платена публикация",
+            "contract_sponsor_raw": "РДГ- Смолян, 000615424"
+        },
+        {
+            "contract_amount_raw": "104",
+            "contract_amount": 104,
+            "contract_basis_raw": "15.04.2019, публикуване на обява",
+            "contract_sponsor_raw": "РЗОК - Смолян, 121858220159"
+        },
+        {
+            "contract_amount_raw": "54",
+            "contract_amount": 54,
+            "contract_basis_raw": "15.04.2019, платена публикация",
+            "contract_sponsor_raw": "МБАЛ - Смолян, 120503871"
+        },
+        {
+            "contract_amount_raw": "230",
+            "contract_amount": 230,
+            "contract_basis_raw": "29.05.2019, платена публикация",
+            "contract_sponsor_raw": "МИГ Преспа - Чепеларе, 120618585"
+        },
+        {
+            "contract_amount_raw": "186",
+            "contract_amount": 186,
+            "contract_basis_raw": "29.05.2019, платена публикация",
+            "contract_sponsor_raw": "МИГ Преспа - Чепеларе, 120618585"
+        },
+        {
+            "contract_amount_raw": "1920",
+            "contract_amount": 1920,
+            "contract_basis_raw": "21.06.2019, абонамент и публикации 2018 г.",
+            "contract_sponsor_raw": "Община Рудозем, 000615075"
+        },
+        {
+            "contract_amount_raw": "1560",
+            "contract_amount": 1560,
+            "contract_basis_raw": "25.06.2019, абонамент и публикации 2019 г.",
+            "contract_sponsor_raw": "Община Рудозем, 000615075"
+        },
+        {
+            "contract_amount_raw": "51",
+            "contract_amount": 51,
+            "contract_basis_raw": "28.06.2019, публикуване на обява",
+            "contract_sponsor_raw": "РДГ- Смолян, 000615424"
+        },
+        {
+            "contract_amount_raw": "108",
+            "contract_amount": 108,
+            "contract_basis_raw": "28.06.2019, публикуване на обява",
+            "contract_sponsor_raw": "ОД Земеделие - Смолян, 175810268"
+        },
+        {
+            "contract_amount_raw": "1200",
+            "contract_amount": 1200,
+            "contract_basis_raw": "10.07.2019, абонамент и публикации",
+            "contract_sponsor_raw": "Община Мадан, 000614984"
+        },
+        {
+            "contract_amount_raw": "154,8",
+            "contract_amount": 154,
+            "contract_basis_raw": "23.08.2019, публикуване на обява",
+            "contract_sponsor_raw": "Община Борино, 000614856"
+        },
+        {
+            "contract_amount_raw": "68",
+            "contract_amount": 68,
+            "contract_basis_raw": "19.09.2019, публикуване на обява",
+            "contract_sponsor_raw": "ОД на МВР - Смолян, 129009920"
+        },
+        {
+            "contract_amount_raw": "230",
+            "contract_amount": 230,
+            "contract_basis_raw": "26.09.2019, платена публикация",
+            "contract_sponsor_raw": "МИГ Преспа - Чепеларе, 120618585"
+        },
+        {
+            "contract_amount_raw": "230",
+            "contract_amount": 230,
+            "contract_basis_raw": "26.09.2019, платена публикация",
+            "contract_sponsor_raw": "МИГ Преспа - Чепеларе, 120618585"
+        },
+        {
+            "contract_amount_raw": "2000",
+            "contract_amount": 2000,
+            "contract_basis_raw": "30.09.2019, платени публикации",
+            "contract_sponsor_raw": "МК Новото време, 131287649"
+        },
+        {
+            "contract_amount_raw": "90",
+            "contract_amount": 90,
+            "contract_basis_raw": "01.10.2019, платена публикация",
+            "contract_sponsor_raw": "МБАЛ - Девин, 200591288"
+        },
+        {
+            "contract_amount_raw": "990",
+            "contract_amount": 990,
+            "contract_basis_raw": "01.10.2019, платени публикации",
+            "contract_sponsor_raw": "Общински съвет на БСП - Смолян, 0007020140359"
+        },
+        {
+            "contract_amount_raw": "990",
+            "contract_amount": 990,
+            "contract_basis_raw": "04.10.2019, платени публикации",
+            "contract_sponsor_raw": "Общински съвет на БСП - Смолян, 0007020140359"
+        },
+        {
+            "contract_amount_raw": "300",
+            "contract_amount": 300,
+            "contract_basis_raw": "08.10.2019, платени публикации",
+            "contract_sponsor_raw": "ПП Земеделски народен съюз, 121575090"
+        },
+        {
+            "contract_amount_raw": "378",
+            "contract_amount": 378,
+            "contract_basis_raw": "21.10.2019, публикация, ИК на Мирослав Фисински",
+            "contract_sponsor_raw": "Искрен Весков Кошничаров, 6406166020"
+        },
+        {
+            "contract_amount_raw": "480",
+            "contract_amount": 480,
+            "contract_basis_raw": "24.10.2019, платени публикации",
+            "contract_sponsor_raw": "ОбС на БСП - Чепеларе, 0007020149359"
+        },
+        {
+            "contract_amount_raw": "990",
+            "contract_amount": 990,
+            "contract_basis_raw": "30.10.2019, платени публикации",
+            "contract_sponsor_raw": "Общински съвет на БСП - Смолян, 0007020140359"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "legal_entity_name": "Издателска къща Барикада ООД",
+    "legal_entity_id": "204206028",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "Онлайн портал Барикада",
+    "real_owner": "Боян Мачей Станиславски, Филип Антонов Буров, Ивайло Николаев Атнасов",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "4022,66",
+            "contract_amount": 4022,
+            "contract_basis_raw": "Допълнителни вноски от собственици",
+            "contract_sponsor_raw": "Боян Мачей Станиславски"
+        },
+        {
+            "contract_amount_raw": "4022,66",
+            "contract_amount": 4022,
+            "contract_basis_raw": "Допълнителни вноски от собственици",
+            "contract_sponsor_raw": "Филип Антонов Буров"
+        },
+        {
+            "contract_amount_raw": "4022,66",
+            "contract_amount": 4022,
+            "contract_basis_raw": "Допълнителни вноски от собственици",
+            "contract_sponsor_raw": "Ивайло Николаев Атанасов"
+        },
+        {
+            "contract_amount_raw": "1833",
+            "contract_amount": 1833,
+            "contract_basis_raw": "Дарение в щатски долари",
+            "contract_sponsor_raw": "Дарения, получени през плтформа Patreon"
+        },
+        {
+            "contract_amount_raw": "2481,5",
+            "contract_amount": 2481,
+            "contract_basis_raw": "Дарение в евро",
+            "contract_sponsor_raw": "Дарения, получени през платформа PayPal"
+        },
+        {
+            "contract_amount_raw": "1251,87",
+            "contract_amount": 1251,
+            "contract_basis_raw": "Дарение в лева",
+            "contract_sponsor_raw": "Дарения, получени по банкова сметка"
+        },
+        {
+            "contract_amount_raw": "750",
+            "contract_amount": 750,
+            "contract_basis_raw": "Медийно обслужване, 02.05.2019",
+            "contract_sponsor_raw": "Инициативен комитет за издигане на Ваня Руменова Григорова за независимкандидат за член на Европейския парламент"
+        },
+        {
+            "contract_amount_raw": "391,17",
+            "contract_amount": 391,
+            "contract_basis_raw": "Медийно обезпечаване, сума в евро. 06.12.2019",
+            "contract_sponsor_raw": "PARTY OF THE EUROPEAN LEFT"
+        },
+        {
+            "contract_amount_raw": "833,33",
+            "contract_amount": 833,
+            "contract_basis_raw": "Реклама, 30.01.2019",
+            "contract_sponsor_raw": "Българска свободна медия ООД"
+        },
+        {
+            "contract_amount_raw": "2083,33",
+            "contract_amount": 2083,
+            "contract_basis_raw": "Медийно партньорство по проект, 19.12.2019",
+            "contract_sponsor_raw": "Сдружение Конфедерация на независимите синдикати в България"
+        }
+    ]
+}

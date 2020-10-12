@@ -1,0 +1,47 @@
+{
+    "legal_entity_name": "Вагабонд Медия ЕООД",
+    "legal_entity_id": "131297860",
+    "public_company": "неприложимо",
+    "media_service_type": "Печатна медия",
+    "media_service_name": "VAGABOND Bulgaria's English Magazine",
+    "real_owner": "Антони Емилов Георгиев",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "1296",
+            "contract_amount": 1296,
+            "contract_basis_raw": "Рекламна публикация в сп. Vagabond  03.06.2019",
+            "contract_sponsor_raw": "ОП Русе арт ЕИК 0005306320317"
+        },
+        {
+            "contract_amount_raw": "1296",
+            "contract_amount": 1296,
+            "contract_basis_raw": "Рекламна публикация в сп. Vagabond  03.06.2019",
+            "contract_sponsor_raw": "ОП Русе арт ЕИК 0005306320317"
+        },
+        {
+            "contract_amount_raw": "600",
+            "contract_amount": 600,
+            "contract_basis_raw": "Рекламна публикация в сп. Vagabond  02.05.2019",
+            "contract_sponsor_raw": "Община Ловеч ЕИК 000291591"
+        },
+        {
+            "contract_amount_raw": "600",
+            "contract_amount": 600,
+            "contract_basis_raw": "Рекламна публикация в сп. Vagabond  02.05.2019",
+            "contract_sponsor_raw": "Община Ловеч ЕИК 000291591"
+        },
+        {
+            "contract_amount_raw": "432",
+            "contract_amount": 432,
+            "contract_basis_raw": "Рекламна публикация в сп. Vagabond  28.11.2019",
+            "contract_sponsor_raw": "Община Пловдив ЕИК 000471504"
+        },
+        {
+            "contract_amount_raw": "432",
+            "contract_amount": 432,
+            "contract_basis_raw": "Рекламна публикация в сп. Vagabond  28.11.2019",
+            "contract_sponsor_raw": "Община Пловдив ЕИК 000471504"
+        }
+    ]
+}

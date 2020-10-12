@@ -1,0 +1,29 @@
+{
+    "legal_entity_name": "ОМЪ – ИЛИЕВИ ООД",
+    "legal_entity_id": "101752875",
+    "public_company": "неприложимо",
+    "media_service_type": "Радио; Радио; Онлайн новинарско издание",
+    "media_service_name": "Радио Белла Петрич; Радио Белла Банско; www.radiobella.com",
+    "real_owner": "Цветанка Ставрева Илиева, Зоран Димитров Илиев, Кирил Димитров Илиев",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "120",
+            "contract_amount": 120,
+            "contract_basis_raw": "реклама на ПП ГЕРБ - договор от 21.05.2019 ",
+            "contract_sponsor_raw": "ПП ГЕРБ - ЕИК 175248466 "
+        },
+        {
+            "contract_amount_raw": "240",
+            "contract_amount": 240,
+            "contract_basis_raw": "реклама на  Д. Бръчков от ПП ГЕРБ - дог. от 22.10.2019",
+            "contract_sponsor_raw": "ПП ГЕРБ - ЕИК 175248466 "
+        },
+        {
+            "contract_amount_raw": "120",
+            "contract_amount": 120,
+            "contract_basis_raw": "реклама на С. Божинов от ПП ВМРО - дог. от 23.10.2019",
+            "contract_sponsor_raw": "ПП ВМРО - БНД - ЕИК 130451348"
+        }
+    ]
+}

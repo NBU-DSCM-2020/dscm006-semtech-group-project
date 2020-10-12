@@ -1,0 +1,221 @@
+{
+    "legal_entity_name": "СТЕВЕСТ ЕООД",
+    "legal_entity_id": "200676888",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "Смолян Нюз",
+    "real_owner": "СТЕФКА АНАСТАСОВА АНАСТАСОВА-ЧАВДАРОВА",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "44,77",
+            "contract_amount": 44,
+            "contract_basis_raw": "комисионно възнаграждение",
+            "contract_sponsor_raw": "Синергон Енерджи ЕООД"
+        },
+        {
+            "contract_amount_raw": "600",
+            "contract_amount": 600,
+            "contract_basis_raw": "информационно обслужване",
+            "contract_sponsor_raw": "Община Чепеларе"
+        },
+        {
+            "contract_amount_raw": "300",
+            "contract_amount": 300,
+            "contract_basis_raw": "информационно обслужване",
+            "contract_sponsor_raw": "Община Златоград"
+        },
+        {
+            "contract_amount_raw": "300",
+            "contract_amount": 300,
+            "contract_basis_raw": "информационно обслужване",
+            "contract_sponsor_raw": "Община Неделино"
+        },
+        {
+            "contract_amount_raw": "400",
+            "contract_amount": 400,
+            "contract_basis_raw": "информационно обслужване",
+            "contract_sponsor_raw": "Община Борино"
+        },
+        {
+            "contract_amount_raw": "600",
+            "contract_amount": 600,
+            "contract_basis_raw": "информационно обслужване",
+            "contract_sponsor_raw": "Община Девин"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "информационно обслужване",
+            "contract_sponsor_raw": "Община Доспат"
+        },
+        {
+            "contract_amount_raw": "47,21",
+            "contract_amount": 47,
+            "contract_basis_raw": "комисионно възнаграждение",
+            "contract_sponsor_raw": "Синергон Енерджи ЕООД"
+        },
+        {
+            "contract_amount_raw": "60",
+            "contract_amount": 60,
+            "contract_basis_raw": "обява",
+            "contract_sponsor_raw": "М-3 ЕООД"
+        },
+        {
+            "contract_amount_raw": "600",
+            "contract_amount": 600,
+            "contract_basis_raw": "информационно обслужване",
+            "contract_sponsor_raw": "Клинър ООД"
+        },
+        {
+            "contract_amount_raw": "48,9",
+            "contract_amount": 48,
+            "contract_basis_raw": "комисионно възнаграждение",
+            "contract_sponsor_raw": "Синергон Енерджи ЕООД"
+        },
+        {
+            "contract_amount_raw": "45,69",
+            "contract_amount": 45,
+            "contract_basis_raw": "комисионно възнаграждение",
+            "contract_sponsor_raw": "Синергон Енерджи ЕООД"
+        },
+        {
+            "contract_amount_raw": "1020",
+            "contract_amount": 1020,
+            "contract_basis_raw": "политическа партия",
+            "contract_sponsor_raw": "ПП АБВ"
+        },
+        {
+            "contract_amount_raw": "46,51",
+            "contract_amount": 46,
+            "contract_basis_raw": "комисионно възнаграждение",
+            "contract_sponsor_raw": "Синергон Енерджи ЕООД"
+        },
+        {
+            "contract_amount_raw": "400",
+            "contract_amount": 400,
+            "contract_basis_raw": "политическа партия",
+            "contract_sponsor_raw": "ПП БСП"
+        },
+        {
+            "contract_amount_raw": "800",
+            "contract_amount": 800,
+            "contract_basis_raw": "информационно обслужване",
+            "contract_sponsor_raw": "ЕТ Анри - 64 Андрей Кехайов"
+        },
+        {
+            "contract_amount_raw": "1500",
+            "contract_amount": 1500,
+            "contract_basis_raw": "информационно обслужване",
+            "contract_sponsor_raw": "Арексим Инженериг ЕАД"
+        },
+        {
+            "contract_amount_raw": "47,47",
+            "contract_amount": 47,
+            "contract_basis_raw": "комисионно възнаграждение",
+            "contract_sponsor_raw": "Синергон Енерджи ЕООД"
+        },
+        {
+            "contract_amount_raw": "46,23",
+            "contract_amount": 46,
+            "contract_basis_raw": "комисионно възнаграждение",
+            "contract_sponsor_raw": "Синергон Енерджи ЕООД"
+        },
+        {
+            "contract_amount_raw": "650",
+            "contract_amount": 650,
+            "contract_basis_raw": "информационно обслужване",
+            "contract_sponsor_raw": "Пампорово АД"
+        },
+        {
+            "contract_amount_raw": "47,98",
+            "contract_amount": 47,
+            "contract_basis_raw": "комисионно възнаграждение",
+            "contract_sponsor_raw": "Синергон Енерджи ЕООД"
+        },
+        {
+            "contract_amount_raw": "250",
+            "contract_amount": 250,
+            "contract_basis_raw": "информационно обслужване",
+            "contract_sponsor_raw": "Публисис АД"
+        },
+        {
+            "contract_amount_raw": "45,42",
+            "contract_amount": 45,
+            "contract_basis_raw": "комисионно възнаграждение",
+            "contract_sponsor_raw": "Синергон Енерджи ЕООД"
+        },
+        {
+            "contract_amount_raw": "1800",
+            "contract_amount": 1800,
+            "contract_basis_raw": "политическа партия",
+            "contract_sponsor_raw": "ПП Новото Време"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "политическа партия",
+            "contract_sponsor_raw": "ПП ГЕРБ"
+        },
+        {
+            "contract_amount_raw": "46,18",
+            "contract_amount": 46,
+            "contract_basis_raw": "комисионно възнаграждение",
+            "contract_sponsor_raw": "Синергон Енерджи ЕООД"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "политическа партия",
+            "contract_sponsor_raw": "ПП ДПС"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "политическа партия",
+            "contract_sponsor_raw": "ПП БСП"
+        },
+        {
+            "contract_amount_raw": "200",
+            "contract_amount": 200,
+            "contract_basis_raw": "политическа партия",
+            "contract_sponsor_raw": "ПП ЗНС"
+        },
+        {
+            "contract_amount_raw": "360",
+            "contract_amount": 360,
+            "contract_basis_raw": "политическа партия",
+            "contract_sponsor_raw": "ПП НФСБ"
+        },
+        {
+            "contract_amount_raw": "30",
+            "contract_amount": 30,
+            "contract_basis_raw": "обява",
+            "contract_sponsor_raw": "Николай Цветанов Николов"
+        },
+        {
+            "contract_amount_raw": "385",
+            "contract_amount": 385,
+            "contract_basis_raw": "ПР публикации",
+            "contract_sponsor_raw": "Супер Стор БГ ЕООД"
+        },
+        {
+            "contract_amount_raw": "40,49",
+            "contract_amount": 40,
+            "contract_basis_raw": "комисионно възнаграждение",
+            "contract_sponsor_raw": "Синергон Енерджи ЕООД"
+        },
+        {
+            "contract_amount_raw": "65",
+            "contract_amount": 65,
+            "contract_basis_raw": "ПР публикации",
+            "contract_sponsor_raw": "Конвържън Сенчъри ООД"
+        },
+        {
+            "contract_amount_raw": "29,96",
+            "contract_amount": 29,
+            "contract_basis_raw": "комисионно възнаграждение",
+            "contract_sponsor_raw": "Синергон Енерджи ЕООД"
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "legal_entity_name": "ЕЛЕНСКИ БАЛКАН ООД",
+    "legal_entity_id": "104020058",
+    "public_company": "Надзорна институция - ОБЩИНСКИ СЪВЕТ  ГР. ЕЛЕНА",
+    "media_service_type": "Печатна медия",
+    "media_service_name": "ЕЛЕНСКА ТРИБУНА",
+    "real_owner": "ДИЛЯН СТЕФАНОВ МЛЪЗЕВ, МАРИЯ ДИМИТРОВА СИМЕОНОВА, ДАНИЕЛА ДИМИТРОВА ЛАЗАРОВА",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "10000",
+            "contract_amount": 10000,
+            "contract_basis_raw": "РЕШЕНИЕ НА ОБЩИНСКИ СЪВЕТ ЕЛЕНА",
+            "contract_sponsor_raw": "ОБЩИНА ЕЛЕНА ЕИК 000133762"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "ИЗБОРНА КАМПАНИЯ ЗА ЕП - 13.05.2019",
+            "contract_sponsor_raw": "ПП ГЕРБ ЕИК 175248466"
+        },
+        {
+            "contract_amount_raw": "250",
+            "contract_amount": 250,
+            "contract_basis_raw": "ИЗБОРНА КАМПАНИЯ ЗА ЕП - 14.05.2019",
+            "contract_sponsor_raw": "ОБЩИНСКИ СЪВЕТ НА БСП ЕЛЕНА ЕИК0007020140310"
+        },
+        {
+            "contract_amount_raw": "250",
+            "contract_amount": 250,
+            "contract_basis_raw": "ИЗБОРНА КАМПАНИЯ ЗА ЕП - 14.05.2019",
+            "contract_sponsor_raw": "ПП ВМРО-БНД ЕИК 130451348"
+        },
+        {
+            "contract_amount_raw": "250",
+            "contract_amount": 250,
+            "contract_basis_raw": "ИЗБОРНА КАМПАНИЯ МИ - 10.10.2019",
+            "contract_sponsor_raw": "ПП ВМРО-БНД ЕИК 130451348"
+        },
+        {
+            "contract_amount_raw": "125",
+            "contract_amount": 125,
+            "contract_basis_raw": "ИЗБОРНА КАМПАНИЯ МИ - 10.10.2019",
+            "contract_sponsor_raw": "КРАСИМИР ТОДОРОВ КРЪСТЕВ"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "ИЗБОРНА КАМПАНИЯ МИ - 11.10.2019",
+            "contract_sponsor_raw": "ОБЩИНСКИ СЪВЕТ НА БСП ЕЛЕНА ЕИК0007020140310"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "ИЗБОРНА КАМПАНИЯ МИ - 14.10.2019",
+            "contract_sponsor_raw": "ПП ГЕРБ ЕИК 175248466"
+        },
+        {
+            "contract_amount_raw": "2539",
+            "contract_amount": 2539,
+            "contract_basis_raw": "ОБЯВИ И РЕКЛАМА НА МИГ - 14.01.2019",
+            "contract_sponsor_raw": "СНЦ МИГ ОБЩИНИ ЕЛЕНА И ЗЛАТАРИЦА ЕИК175872469"
+        }
+    ]
+}

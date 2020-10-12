@@ -1,0 +1,17 @@
+{
+    "legal_entity_name": "АЛТЕРНАТИВА 2007 ЕООД",
+    "legal_entity_id": "202950342",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "Общество и власт",
+    "real_owner": "Иван Николов Рачев",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "10668",
+            "contract_amount": 10668,
+            "contract_basis_raw": "Договор за реклама",
+            "contract_sponsor_raw": "КомЮника ЕООД, ЕИК 202202892"
+        }
+    ]
+}

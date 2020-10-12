@@ -1,0 +1,71 @@
+{
+    "legal_entity_name": "КБСК-2012 ЕООД",
+    "legal_entity_id": "201871026",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "www.slivenpost.bg",
+    "real_owner": "ТОДОРКА ЙОРДАНОВА ГОСПОДИНОВА",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "300",
+            "contract_amount": 300,
+            "contract_basis_raw": "ПОЛИТИЧЕСКА РЕКЛАМА 27.05.2019",
+            "contract_sponsor_raw": "ОБЩИНСКИ СЪВЕТ НА БСП СЛИВЕН"
+        },
+        {
+            "contract_amount_raw": "150",
+            "contract_amount": 150,
+            "contract_basis_raw": "ПОЛИТИЧЕСКА РЕКЛАМА 09.05.2019",
+            "contract_sponsor_raw": "ПОЛИТИЧЕСКА ПАРТИЯ АБВ"
+        },
+        {
+            "contract_amount_raw": "450",
+            "contract_amount": 450,
+            "contract_basis_raw": "ИНФОРМАЦИОННО ОБСЛУЖВАНЕ 26.02.2019",
+            "contract_sponsor_raw": "ОБЛАСТНА АДМИНИСТРАЦИЯ СЛИВЕН"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "ИНФОРМАЦИОННО ОБСЛУЖВАНЕ",
+            "contract_sponsor_raw": "ДВИЖЕНИЕ ЗА ПРАВА И СВОБОДИ ПО"
+        },
+        {
+            "contract_amount_raw": "1200",
+            "contract_amount": 1200,
+            "contract_basis_raw": "ПОЛИТИЧЕСКА РЕКЛАМА 27.09.2019",
+            "contract_sponsor_raw": "ОБЩИНСКИ СЪВЕТ НА БСП СЛИВЕН"
+        },
+        {
+            "contract_amount_raw": "200",
+            "contract_amount": 200,
+            "contract_basis_raw": "ПОЛИТИЧЕСКА РЕКЛАМА 01.10.2019",
+            "contract_sponsor_raw": "ПП БЪЛГАРСКА СОЦИАЛДЕМОКРАЦИЯ"
+        },
+        {
+            "contract_amount_raw": "300",
+            "contract_amount": 300,
+            "contract_basis_raw": "ПОЛИТИЧЕСКА РЕКЛАМА 01.10.2019",
+            "contract_sponsor_raw": "ПП ХРИСТИЯНДЕМОКРАТИЧЕСКА ПАРТИЯ НА БЪЛГАРИЯ"
+        },
+        {
+            "contract_amount_raw": "200",
+            "contract_amount": 200,
+            "contract_basis_raw": "ПОЛИТИЧЕСКА РЕКЛАМА 09.10.2019",
+            "contract_sponsor_raw": "ПП АБВ"
+        },
+        {
+            "contract_amount_raw": "200",
+            "contract_amount": 200,
+            "contract_basis_raw": "ПОЛИТИЧЕСКА РЕКЛАМА 28.10.2019",
+            "contract_sponsor_raw": "ОБЩИНСКИ СЪВЕТ НА БСП СЛИВЕН"
+        },
+        {
+            "contract_amount_raw": "200",
+            "contract_amount": 200,
+            "contract_basis_raw": "ПОЛИТИЧЕСКА РЕКЛАМА 30.10.2019",
+            "contract_sponsor_raw": "ПП ГЕРБ СЛИВЕН"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "legal_entity_name": "Сдружение За един по-добър живот",
+    "legal_entity_id": "131342005",
+    "public_company": "неприложимо",
+    "media_service_type": "Печатна медия",
+    "media_service_name": "Списание Средногорски БАГРИ",
+    "real_owner": "Петя Тодорова Чолакова",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "30000",
+            "contract_amount": 30000,
+            "contract_basis_raw": "Предмет на договори: Д-р №Д-151/11.09.2019 г., срок 01.09.2019-31.09.2020 г. и Д-р№Д-99/15.08.2018 г. - една година",
+            "contract_sponsor_raw": "Община Челопеч, 000777223"
+        },
+        {
+            "contract_amount_raw": "850",
+            "contract_amount": 850,
+            "contract_basis_raw": "фактура № 000000049/08.10.2019г.",
+            "contract_sponsor_raw": "Елаците-МедАД, 122016037"
+        },
+        {
+            "contract_amount_raw": "30000",
+            "contract_amount": 30000,
+            "contract_basis_raw": "Предмет на договори: Д-р №Д-151/11.09.2019 г., срок 01.09.2019-31.09.2020 г. и Д-р№Д-99/15.08.2018 г. - една година",
+            "contract_sponsor_raw": "Община Челопеч, 000777223"
+        }
+    ]
+}

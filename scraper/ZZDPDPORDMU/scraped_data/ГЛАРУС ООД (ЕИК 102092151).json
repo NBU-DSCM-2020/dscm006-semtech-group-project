@@ -1,0 +1,71 @@
+{
+    "legal_entity_name": "ГЛАРУС ООД",
+    "legal_entity_id": "102092151",
+    "public_company": "неприложимо",
+    "media_service_type": "Радио; Онлайн новинарско издание; Онлайн новинарско издание; Онлайн новинарско издание",
+    "media_service_name": "Радиоуслуга – Радио MIXX; онлайн услуга –www.radiomixx.net; Фейсбук профил - Радио MIXX; онлайн услуга –www.bgbeach.info",
+    "real_owner": "Мария Петкова Димитрова, Димитър Събков Събков",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "828,74",
+            "contract_amount": 828,
+            "contract_basis_raw": "Реклама",
+            "contract_sponsor_raw": "ОП ТУРИЗЪМ"
+        },
+        {
+            "contract_amount_raw": "297,5",
+            "contract_amount": 297,
+            "contract_basis_raw": "Предизборна реклама",
+            "contract_sponsor_raw": "Политическа партия Възраждане"
+        },
+        {
+            "contract_amount_raw": "2550",
+            "contract_amount": 2550,
+            "contract_basis_raw": "Излъчване на предизборна реклама",
+            "contract_sponsor_raw": "ПП Средна Европейска Класа"
+        },
+        {
+            "contract_amount_raw": "160",
+            "contract_amount": 160,
+            "contract_basis_raw": "Реклама",
+            "contract_sponsor_raw": "СОУ Йордан Йовков"
+        },
+        {
+            "contract_amount_raw": "220",
+            "contract_amount": 220,
+            "contract_basis_raw": "Реклама",
+            "contract_sponsor_raw": "СОУ Константин Константинов"
+        },
+        {
+            "contract_amount_raw": "120",
+            "contract_amount": 120,
+            "contract_basis_raw": "Реклама",
+            "contract_sponsor_raw": "СУ Димитър Рахов Сливен"
+        },
+        {
+            "contract_amount_raw": "1374,56",
+            "contract_amount": 1374,
+            "contract_basis_raw": "Реклама",
+            "contract_sponsor_raw": "Тракийски университет Ст.Загора"
+        },
+        {
+            "contract_amount_raw": "1540",
+            "contract_amount": 1540,
+            "contract_basis_raw": "Реклама",
+            "contract_sponsor_raw": "Тракийски университет Ст.Загора"
+        },
+        {
+            "contract_amount_raw": "600",
+            "contract_amount": 600,
+            "contract_basis_raw": "Реклама",
+            "contract_sponsor_raw": "Югоизточно държавно предприятие"
+        },
+        {
+            "contract_amount_raw": "23945",
+            "contract_amount": 23945,
+            "contract_basis_raw": "Рекл. материали По Договор РД-50-196/29.11.2016 г.",
+            "contract_sponsor_raw": "СНЦМестна инициативна група Лясковец-Стражица"
+        }
+    ]
+}

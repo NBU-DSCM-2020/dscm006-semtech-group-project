@@ -1,0 +1,35 @@
+{
+    "legal_entity_name": "ФОНДАЦИЯ КОМУНИТАС",
+    "legal_entity_id": "175205988",
+    "public_company": "неприложимо",
+    "media_service_type": "Печатна медия; Печатна медия; Онлайн новинарско издание",
+    "media_service_name": "СПИСАНИЕ ХРИСТИЯНСТВО И КУЛТУРА; СПИСАНИЕ КУЛТУРА; ПОРТАЛ КУЛТУРА ",
+    "real_owner": "Светослав Божков Божилов",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "1 043 500",
+            "contract_amount": 1043500,
+            "contract_basis_raw": "заем",
+            "contract_sponsor_raw": "Вентчър Екуити България ЕАД"
+        },
+        {
+            "contract_amount_raw": "7311,7",
+            "contract_amount": 7311,
+            "contract_basis_raw": "дарение",
+            "contract_sponsor_raw": "Пол Попов"
+        },
+        {
+            "contract_amount_raw": "3000",
+            "contract_amount": 3000,
+            "contract_basis_raw": "дарение",
+            "contract_sponsor_raw": "Община Стара Загора"
+        },
+        {
+            "contract_amount_raw": "4944",
+            "contract_amount": 4944,
+            "contract_basis_raw": "договор за реклама РИД-82-230/26.09.19 г.",
+            "contract_sponsor_raw": "Българско Национално Радио, програма Хоризонт"
+        }
+    ]
+}

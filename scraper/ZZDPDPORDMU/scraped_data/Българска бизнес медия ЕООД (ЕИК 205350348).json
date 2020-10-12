@@ -1,0 +1,17 @@
+{
+    "legal_entity_name": "Българска бизнес медия ЕООД",
+    "legal_entity_id": "205350348",
+    "public_company": "неприложимо",
+    "media_service_type": "Печатна медия; Онлайн новинарско издание; Онлайн новинарско издание; Онлайн новинарско издание; Онлайн новинарско издание",
+    "media_service_name": "Списание Forbes България; forbesbulgaria.com; facebook.com/Forbes.Bulgaria/; linkedin.com/company/forbesbulgaria/; instagram.com/forbesbulgaria/",
+    "real_owner": "Йордан Милков Матеев",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "100 000",
+            "contract_amount": 100000,
+            "contract_basis_raw": "увеличение на регистрирания капитал",
+            "contract_sponsor_raw": "Фондация за насърчаване на предприемачеството/ЕИК: 205335613"
+        }
+    ]
+}

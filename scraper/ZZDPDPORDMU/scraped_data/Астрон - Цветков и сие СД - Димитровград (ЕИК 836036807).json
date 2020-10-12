@@ -1,0 +1,137 @@
+{
+    "legal_entity_name": "Астрон - Цветков и сие СД - Димитровград",
+    "legal_entity_id": "836036807",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "Реклама и популяризация",
+    "real_owner": "Христо Цветков Христов, Тотка Ганева Цветкова",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "660",
+            "contract_amount": 660,
+            "contract_basis_raw": "07. 01. 2019 г. Договор за отразяване и популяризация на дейност",
+            "contract_sponsor_raw": "Общински драматичен театър Апостол Карамитев - Димитровград, ЕИК: 126004708"
+        },
+        {
+            "contract_amount_raw": "3600",
+            "contract_amount": 3600,
+            "contract_basis_raw": "31. 01. 2019 г. Договор за отразяване и популяризиране на дейност",
+            "contract_sponsor_raw": "Общинско предприятие СПИОПТ - Димитровград, ЕИК: 000803533"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "30. 09. 2019 - Медийно отразяване на предизборна кампания",
+            "contract_sponsor_raw": "ПП Единна народна партия, ЕИК: 175519298"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "30. 09. 2019 - Договор за популяризиране на дейност",
+            "contract_sponsor_raw": "ПП ГЕРБ, ЕИК: 175248466"
+        },
+        {
+            "contract_amount_raw": "180",
+            "contract_amount": 180,
+            "contract_basis_raw": "01. 10. 2019 - Фактура № 0000000487",
+            "contract_sponsor_raw": "Общински съвет на БСП - Димитровград, ЕИК: 00070200140"
+        },
+        {
+            "contract_amount_raw": "120",
+            "contract_amount": 120,
+            "contract_basis_raw": "15. 10. 2019 - Фактура № 0000000489",
+            "contract_sponsor_raw": "Общински съвет на БСП - Димитровград, ЕИК: 000702"
+        },
+        {
+            "contract_amount_raw": "120",
+            "contract_amount": 120,
+            "contract_basis_raw": "24. 10. 2019 - Фактура № 0000000490",
+            "contract_sponsor_raw": "Общински съвет на БСП - Димитровград, ЕИК: 000702"
+        },
+        {
+            "contract_amount_raw": "120",
+            "contract_amount": 120,
+            "contract_basis_raw": "24. 10. 2019 - Фактура № 0000000490",
+            "contract_sponsor_raw": "Коалиция Демократична България - Обединение, ЕИК:  177394497"
+        },
+        {
+            "contract_amount_raw": "160",
+            "contract_amount": 160,
+            "contract_basis_raw": "07. 01. 2019 - Фактура № 0000000431",
+            "contract_sponsor_raw": "Община Димитровград, ЕИК: 000903533"
+        },
+        {
+            "contract_amount_raw": "120",
+            "contract_amount": 120,
+            "contract_basis_raw": "08. 01. 2019 - Фактура № 0000000432",
+            "contract_sponsor_raw": "Исторически музей - Димитровград, ЕИК: 000893726"
+        },
+        {
+            "contract_amount_raw": "120",
+            "contract_amount": 120,
+            "contract_basis_raw": "08. 01. 2019 - Фактура № 0000000433",
+            "contract_sponsor_raw": "Градска библиотека П. Пенев - Димитровград, ЕИК: 000895563"
+        },
+        {
+            "contract_amount_raw": "97,79",
+            "contract_amount": 97,
+            "contract_basis_raw": "11. 02. 2019 г. - Фактура № 0000000440",
+            "contract_sponsor_raw": "СНЦ Институт за интеграция, научноизследователска и развойна дейност и образование - Плевен, ЕИК  : 177122217"
+        },
+        {
+            "contract_amount_raw": "160",
+            "contract_amount": 160,
+            "contract_basis_raw": "07. 03. 2019 - Фактура № 0000000446",
+            "contract_sponsor_raw": "Община Димитровград, ЕИК: 000903533"
+        },
+        {
+            "contract_amount_raw": "25",
+            "contract_amount": 25,
+            "contract_basis_raw": "27. 03. 2019 г. - Фактура № 0000000451",
+            "contract_sponsor_raw": "ОП Детски и младежки център - Димитровград, ЕИК: 0009035331441"
+        },
+        {
+            "contract_amount_raw": "280",
+            "contract_amount": 280,
+            "contract_basis_raw": "07. 05. 2019 г. - Фактура № 0000000457",
+            "contract_sponsor_raw": "Общински съвет на БСП - Димитровград, ЕИК: 000702"
+        },
+        {
+            "contract_amount_raw": "160",
+            "contract_amount": 160,
+            "contract_basis_raw": "07. 05. 2019 г.  - Фактура № 0000000458",
+            "contract_sponsor_raw": "Община Димитровград, ЕИК: 000903533"
+        },
+        {
+            "contract_amount_raw": "80",
+            "contract_amount": 80,
+            "contract_basis_raw": "25. 05. 2019 г. - Фактура № 0000000463",
+            "contract_sponsor_raw": "Пайнер ООД, ЕИК  126012676"
+        },
+        {
+            "contract_amount_raw": "196",
+            "contract_amount": 196,
+            "contract_basis_raw": "27. 07. 2019 г. - Фактура № 0000000473",
+            "contract_sponsor_raw": "Фактор БГ ЕООД - Хасково, ЕИК 205716799"
+        },
+        {
+            "contract_amount_raw": "960",
+            "contract_amount": 960,
+            "contract_basis_raw": "09. 08. 2019 г. - Фактура № 0000000474",
+            "contract_sponsor_raw": "Сдружение Бизнес Център - Марица ЕИК 175761255 "
+        },
+        {
+            "contract_amount_raw": "180",
+            "contract_amount": 180,
+            "contract_basis_raw": "04. 09. 2019 г. Фактура № 0000000479",
+            "contract_sponsor_raw": "Община Димитровград, ЕИК: 000903533"
+        },
+        {
+            "contract_amount_raw": "180",
+            "contract_amount": 180,
+            "contract_basis_raw": "11. 09. 2019 - Фактура № 0000000481",
+            "contract_sponsor_raw": "ОП Туристически информационен център - Хасково, ЕИК: 0009039460543"
+        }
+    ]
+}

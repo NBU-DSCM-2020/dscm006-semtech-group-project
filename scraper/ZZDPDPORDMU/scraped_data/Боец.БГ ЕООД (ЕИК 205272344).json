@@ -1,0 +1,17 @@
+{
+    "legal_entity_name": "Боец.БГ ЕООД",
+    "legal_entity_id": "205272344",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание; Онлайн новинарско издание",
+    "media_service_name": "Специализиран сайт за бойни спортове Boec.bg http://www.boec.bg/; Специализиран сайт за бойни спортове Boec.com http://www.boec.com/ ",
+    "real_owner": "Светлана Георгиева Фурнаджиева-на основание пар. 2, ал. 5 от ДР на ЗМИП",
+    "executive_individual": "Десислава Станкова Джерманска",
+    "contracts": [
+        {
+            "contract_amount_raw": "94000",
+            "contract_amount": 94000,
+            "contract_basis_raw": "Договор за паричен заем",
+            "contract_sponsor_raw": "Инвестор.БГ АД, ЕИК:130277328"
+        }
+    ]
+}

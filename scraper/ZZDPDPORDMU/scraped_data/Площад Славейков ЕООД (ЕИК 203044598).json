@@ -1,0 +1,47 @@
+{
+    "legal_entity_name": "Площад Славейков ЕООД",
+    "legal_entity_id": "203044598",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "Площад Славейков",
+    "real_owner": "Диляна Василева Димитрова",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "20000",
+            "contract_amount": 20000,
+            "contract_basis_raw": "Финансиране по проект Критика и дуелизъм III",
+            "contract_sponsor_raw": "Предоставено финансиране от Фондация Америка за България – Клон - Клон на ЧЮЛНЦ с ЕИК 175562698, чрез СНЦ Асоциация за култура ЕИК 177019174"
+        },
+        {
+            "contract_amount_raw": "3267",
+            "contract_amount": 3267,
+            "contract_basis_raw": "Онлайн реклама на събития на Възложителя на сайта на медията",
+            "contract_sponsor_raw": "Софийска градска художествена галерия ЕИК 831929053"
+        },
+        {
+            "contract_amount_raw": "4800",
+            "contract_amount": 4800,
+            "contract_basis_raw": "Онлайн реклама на събития на Възложителя на сайта на медията",
+            "contract_sponsor_raw": "Национален Дворец на Културата – Конгресен център София ЕАД ЕИК 201570119"
+        },
+        {
+            "contract_amount_raw": "5600",
+            "contract_amount": 5600,
+            "contract_basis_raw": "Онлайн реклама на събития на Възложителя на сайта на медията",
+            "contract_sponsor_raw": "Софийска филхармония ЕИК 00670883"
+        },
+        {
+            "contract_amount_raw": "850",
+            "contract_amount": 850,
+            "contract_basis_raw": "Онлайн реклама на събития на Възложителя на сайта на медията",
+            "contract_sponsor_raw": "Държавна опера – Стара Загора ЕИК 123089870"
+        },
+        {
+            "contract_amount_raw": "1530",
+            "contract_amount": 1530,
+            "contract_basis_raw": "Онлайн реклама на събития на Възложителя на сайта на медията",
+            "contract_sponsor_raw": "Държавна опера – Пловдив ЕИК 115314988"
+        }
+    ]
+}

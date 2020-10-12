@@ -1,0 +1,35 @@
+{
+    "legal_entity_name": "ОП Общински медиен център към Община Плевен",
+    "legal_entity_id": "0543",
+    "public_company": "Надзорна институция - Община Плевен",
+    "media_service_type": "Радио; Печатна медия",
+    "media_service_name": "Радио 1 Плевен; безплатно общинско информационно издание - вестник Плевен",
+    "real_owner": "Община Плевен",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "136 281",
+            "contract_amount": 136281,
+            "contract_basis_raw": "субсидия",
+            "contract_sponsor_raw": "Община Плевен"
+        },
+        {
+            "contract_amount_raw": "576",
+            "contract_amount": 576,
+            "contract_basis_raw": "фактури 22.01.2019 и 15.02.2019 г.",
+            "contract_sponsor_raw": "ВиК ЕООД - Плевен 115071933"
+        },
+        {
+            "contract_amount_raw": "120",
+            "contract_amount": 120,
+            "contract_basis_raw": "фактура 22.01.2019 г.",
+            "contract_sponsor_raw": "Сдружение Учебна работилница Европа - Плевен 176442171"
+        },
+        {
+            "contract_amount_raw": "396",
+            "contract_amount": 396,
+            "contract_basis_raw": "фактура 28.01.2019 г.",
+            "contract_sponsor_raw": "Неви Фешън Текстайл"
+        }
+    ]
+}

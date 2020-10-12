@@ -1,0 +1,23 @@
+{
+    "legal_entity_name": "ЛАКС МЕДИЯ ООД",
+    "legal_entity_id": "121819228",
+    "public_company": "неприложимо",
+    "media_service_type": "Радио",
+    "media_service_name": "ЛАКС МЕДИЯ ООД",
+    "real_owner": "ВЛАДИМИР ЛЮБЕНОВ МИХАЙЛОВ, ЦВЕТОМИЛА ПЕТРОВА МИХАЙЛОВА, ПАВЕЛ ИВАНОВ СОТИРОВ",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "3300",
+            "contract_amount": 3300,
+            "contract_basis_raw": "ДОГОВОР 893000105 / 07.06.2019",
+            "contract_sponsor_raw": "АЕЦ КОЗЛОДУЙ ЕАД - ГР.КОЗЛОДУЙ"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "ДОГОВОР ОТ 11.10.2019",
+            "contract_sponsor_raw": "ПП ДПС"
+        }
+    ]
+}

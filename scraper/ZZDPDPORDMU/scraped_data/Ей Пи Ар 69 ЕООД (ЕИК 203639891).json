@@ -1,0 +1,47 @@
+{
+    "legal_entity_name": "Ей Пи Ар 69 ЕООД",
+    "legal_entity_id": "203639891",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "Plamak.bg",
+    "real_owner": "Джимиле Хамидова Чолакова",
+    "executive_individual": "Анита Младенова Чолакова",
+    "contracts": [
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "Договор за съвместна дейност",
+            "contract_sponsor_raw": "Пампорово АД - ЕИК  830166943"
+        },
+        {
+            "contract_amount_raw": "160",
+            "contract_amount": 160,
+            "contract_basis_raw": "Отразяване на събитие",
+            "contract_sponsor_raw": "ВСУ Черноризец Храбър - филиал Смолян- ЕИК 103010965"
+        },
+        {
+            "contract_amount_raw": "750",
+            "contract_amount": 750,
+            "contract_basis_raw": "Договор за медийно сътрудничество",
+            "contract_sponsor_raw": "Община Златоград"
+        },
+        {
+            "contract_amount_raw": "750",
+            "contract_amount": 750,
+            "contract_basis_raw": "Договор за медийно сътрудничество",
+            "contract_sponsor_raw": "Община Доспат"
+        },
+        {
+            "contract_amount_raw": "300",
+            "contract_amount": 300,
+            "contract_basis_raw": "Договор за медийно сътрудничество",
+            "contract_sponsor_raw": "ВиК ЕООД - Смолян"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "Договор за медийна услуга - публикуване на материали за предизборна кампания",
+            "contract_sponsor_raw": "ПП ГЕРБ - Смолян"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "legal_entity_name": "Бургаснюз ООД",
+    "legal_entity_id": "200173043",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "Burgasnews.com",
+    "real_owner": "Екатерина Николаева Капрова, Бранимир Харалампиев Петров",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "8000",
+            "contract_amount": 8000,
+            "contract_basis_raw": "Договор за рекламно-информационно обслужване",
+            "contract_sponsor_raw": "ХОРА ЕООД"
+        },
+        {
+            "contract_amount_raw": "1100",
+            "contract_amount": 1100,
+            "contract_basis_raw": "Договор за реклама",
+            "contract_sponsor_raw": "МБАЛ Лайф Хоспитал ЕООД"
+        },
+        {
+            "contract_amount_raw": "2400",
+            "contract_amount": 2400,
+            "contract_basis_raw": "Договор за реклама",
+            "contract_sponsor_raw": "Булгариен директ райзен ЕООД"
+        },
+        {
+            "contract_amount_raw": "900",
+            "contract_amount": 900,
+            "contract_basis_raw": "Договор за реклама",
+            "contract_sponsor_raw": "Пи енд Пи маунтин ЕАД"
+        },
+        {
+            "contract_amount_raw": "4320",
+            "contract_amount": 4320,
+            "contract_basis_raw": "Договор за медийно-информационно обслужване",
+            "contract_sponsor_raw": "Община Поморие"
+        },
+        {
+            "contract_amount_raw": "4320",
+            "contract_amount": 4320,
+            "contract_basis_raw": "Договор за медийно-информационно и рекламно обслужване",
+            "contract_sponsor_raw": "Слънчев бряг АД"
+        },
+        {
+            "contract_amount_raw": "4800",
+            "contract_amount": 4800,
+            "contract_basis_raw": "Договор № 56",
+            "contract_sponsor_raw": "Пристанище Бургас ЕАД"
+        },
+        {
+            "contract_amount_raw": "3000",
+            "contract_amount": 3000,
+            "contract_basis_raw": "Договор за информационно обслужване",
+            "contract_sponsor_raw": "Община Камено"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "Договор за предизборна кампания ",
+            "contract_sponsor_raw": " ПП СЕК"
+        },
+        {
+            "contract_amount_raw": "300",
+            "contract_amount": 300,
+            "contract_basis_raw": "Договор за предизборна кампания",
+            "contract_sponsor_raw": "ПП Движение България на гражданите"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "legal_entity_name": "Инфограф ООД",
+    "legal_entity_id": "203572552",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "Инфограф (www.infograf.bg)",
+    "real_owner": "Явор Александров Алексиев, Димитър Мирославов Панов, Веселин Божидаров Божков",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "6300",
+            "contract_amount": 6300,
+            "contract_basis_raw": "Изработване на уеб сайт",
+            "contract_sponsor_raw": "Фондация Институт за пазарна икономика / ЕИК 831344929"
+        }
+    ]
+}

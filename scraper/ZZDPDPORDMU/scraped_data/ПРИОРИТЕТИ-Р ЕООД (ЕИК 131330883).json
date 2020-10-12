@@ -1,0 +1,17 @@
+{
+    "legal_entity_name": "ПРИОРИТЕТИ-Р ЕООД",
+    "legal_entity_id": "131330883",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "www.priorities.bg",
+    "real_owner": "ПЕТРАНКА МИТЕВА КОЛЕВА",
+    "executive_individual": "НИКОЛАЙ ГЕОРГИЕВ ВАСИЛЕВ",
+    "contracts": [
+        {
+            "contract_amount_raw": "2000",
+            "contract_amount": 2000,
+            "contract_basis_raw": "ФИНАНСИРАНЕ ОТ СОБСТВЕНИКА",
+            "contract_sponsor_raw": "ПЕТРАНКА МИТЕВА КОЛЕВА"
+        }
+    ]
+}

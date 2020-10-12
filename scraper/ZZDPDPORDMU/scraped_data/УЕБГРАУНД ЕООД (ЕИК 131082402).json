@@ -1,0 +1,305 @@
+{
+    "legal_entity_name": "УЕБГРАУНД ЕООД",
+    "legal_entity_id": "131082402",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание; Онлайн новинарско издание; Онлайн новинарско издание; Онлайн новинарско издание",
+    "media_service_name": "actualno.com; sportlive.bg; expert.bg; sofialive.bg",
+    "real_owner": "КИРИЛ ГЕОРГИЕВ АПОСТОЛОВ",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "20000",
+            "contract_amount": 20000,
+            "contract_basis_raw": "Избори 2019",
+            "contract_sponsor_raw": "БЪЛГАРСКА СОЦИАЛИСТИЧЕСКА ПАРТИЯ"
+        },
+        {
+            "contract_amount_raw": "25067",
+            "contract_amount": 25067,
+            "contract_basis_raw": "Брандирана месечна рубрика  и видео",
+            "contract_sponsor_raw": "БЪЛГАРСКА ТЕЛЕКОМУНИКАЦИОННА КОМПАНИЯ ЕАД"
+        },
+        {
+            "contract_amount_raw": "9000",
+            "contract_amount": 9000,
+            "contract_basis_raw": "Избори 2019",
+            "contract_sponsor_raw": "ВМРО-БЪЛГАРСКО НАЦИОНАЛНО ДВИЖЕНИЕ"
+        },
+        {
+            "contract_amount_raw": "5000",
+            "contract_amount": 5000,
+            "contract_basis_raw": "рекламна площ",
+            "contract_sponsor_raw": "ДЪРЖАВНО ПРЕДПРИЯТИЕ РЪКОВОДСТВО НА ВЪЗДУШНОТО ДВИЖЕНИЕ"
+        },
+        {
+            "contract_amount_raw": "6000",
+            "contract_amount": 6000,
+            "contract_basis_raw": "Информационно обслужване и публикации",
+            "contract_sponsor_raw": "ОБЕДИНЕНА БЪЛГАРСКА БАНКА - АД"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "Местни избори 2019",
+            "contract_sponsor_raw": "ОбС на БСП Асеновград"
+        },
+        {
+            "contract_amount_raw": "2800",
+            "contract_amount": 2800,
+            "contract_basis_raw": "Снимане на клип",
+            "contract_sponsor_raw": "ОБЩИНА - СТАРА ЗАГОРА"
+        },
+        {
+            "contract_amount_raw": "2400",
+            "contract_amount": 2400,
+            "contract_basis_raw": "Рекламно-информационно обслужване в интернет сайта actualno.com съгласно договор №Д-М-22/28.12.2018 г.",
+            "contract_sponsor_raw": "ОБЩИНА БАНСКО"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "туристически видеоклип",
+            "contract_sponsor_raw": "ОБЩИНА БЕЛОГРАДЧИК"
+        },
+        {
+            "contract_amount_raw": "1900",
+            "contract_amount": 1900,
+            "contract_basis_raw": "рекламен видеоклип за общината",
+            "contract_sponsor_raw": "ОБЩИНА БОЖУРИЩЕ"
+        },
+        {
+            "contract_amount_raw": "3500",
+            "contract_amount": 3500,
+            "contract_basis_raw": "Медийно отразяване на новините от Бургас и областта",
+            "contract_sponsor_raw": "ОБЩИНА БУРГАС"
+        },
+        {
+            "contract_amount_raw": "2800",
+            "contract_amount": 2800,
+            "contract_basis_raw": "По възглателно писмо 53-2642-1",
+            "contract_sponsor_raw": "ОБЩИНА ВЕЛИКО ТЪРНОВО"
+        },
+        {
+            "contract_amount_raw": "2800",
+            "contract_amount": 2800,
+            "contract_basis_raw": "Заснемане на клип",
+            "contract_sponsor_raw": "ОБЩИНА ВИДИН"
+        },
+        {
+            "contract_amount_raw": "1900",
+            "contract_amount": 1900,
+            "contract_basis_raw": "Заснемане на видео за гр. Враца за проекта",
+            "contract_sponsor_raw": "ОБЩИНА ВРАЦА"
+        },
+        {
+            "contract_amount_raw": "1900",
+            "contract_amount": 1900,
+            "contract_basis_raw": "Озвучаване на Празник на суджука 2019",
+            "contract_sponsor_raw": "ОБЩИНА ГОРНА ОРЯХОВИЦА"
+        },
+        {
+            "contract_amount_raw": "1900",
+            "contract_amount": 1900,
+            "contract_basis_raw": "Заснемане на клип за град Добрич",
+            "contract_sponsor_raw": "ОБЩИНА ГРАД ДОБРИЧ"
+        },
+        {
+            "contract_amount_raw": "2800",
+            "contract_amount": 2800,
+            "contract_basis_raw": "снимане на клип по проекта България на длан",
+            "contract_sponsor_raw": "ОБЩИНА ДЕВИН"
+        },
+        {
+            "contract_amount_raw": "2925",
+            "contract_amount": 2925,
+            "contract_basis_raw": "Договор за информационно обслужване и заснемане на видеоклип за града",
+            "contract_sponsor_raw": "ОБЩИНА ДИМИТРОВГРАД"
+        },
+        {
+            "contract_amount_raw": "9400",
+            "contract_amount": 9400,
+            "contract_basis_raw": "ДГ- 4335 от 31.12. 2018 информационно обслужване и заснемане на видеоклип",
+            "contract_sponsor_raw": "ОБЩИНА ЕЛИН ПЕЛИН"
+        },
+        {
+            "contract_amount_raw": "3700",
+            "contract_amount": 3700,
+            "contract_basis_raw": "Заснемане на два туристически клипа",
+            "contract_sponsor_raw": "ОБЩИНА ИВАЙЛОВГРАД"
+        },
+        {
+            "contract_amount_raw": "2800",
+            "contract_amount": 2800,
+            "contract_basis_raw": "туристически клип",
+            "contract_sponsor_raw": "ОБЩИНА КАВАРНА"
+        },
+        {
+            "contract_amount_raw": "1900",
+            "contract_amount": 1900,
+            "contract_basis_raw": "Излъчване на клип",
+            "contract_sponsor_raw": "ОБЩИНА КАЗАНЛЪК"
+        },
+        {
+            "contract_amount_raw": "1900",
+            "contract_amount": 1900,
+            "contract_basis_raw": "Заснемане на клип, Участие на актьор,Монтаж на клип,рекламен клип на село Петърч и село Драговищица, с. Голяновци",
+            "contract_sponsor_raw": "ОБЩИНА КОСТИНБРОД"
+        },
+        {
+            "contract_amount_raw": "2800",
+            "contract_amount": 2800,
+            "contract_basis_raw": "договор за информационно обслужване и заснемане на туристическо видео",
+            "contract_sponsor_raw": "ОБЩИНА КЮСТЕНДИЛ"
+        },
+        {
+            "contract_amount_raw": "1900",
+            "contract_amount": 1900,
+            "contract_basis_raw": "Заснемане на видеоклип ",
+            "contract_sponsor_raw": "ОБЩИНА ЛОВЕЧ"
+        },
+        {
+            "contract_amount_raw": "1900",
+            "contract_amount": 1900,
+            "contract_basis_raw": "Заснемане на филм за община Лом",
+            "contract_sponsor_raw": "ОБЩИНА ЛОМ"
+        },
+        {
+            "contract_amount_raw": "1900",
+            "contract_amount": 1900,
+            "contract_basis_raw": "Заснемане на видео за община Мадан",
+            "contract_sponsor_raw": "ОБЩИНА МАДАН"
+        },
+        {
+            "contract_amount_raw": "1900",
+            "contract_amount": 1900,
+            "contract_basis_raw": "Заснемане на клип за град Монтана ",
+            "contract_sponsor_raw": "ОБЩИНА МОНТАНА"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "Заснемане на клип",
+            "contract_sponsor_raw": "ОБЩИНА ПЕРНИК"
+        },
+        {
+            "contract_amount_raw": "3700",
+            "contract_amount": 3700,
+            "contract_basis_raw": "заснемане на 2 клипа по проекта България на длан",
+            "contract_sponsor_raw": "ОБЩИНА ПЛОВДИВ"
+        },
+        {
+            "contract_amount_raw": "1900",
+            "contract_amount": 1900,
+            "contract_basis_raw": "Заснемане на клип",
+            "contract_sponsor_raw": "ОБЩИНА РУЖИНЦИ"
+        },
+        {
+            "contract_amount_raw": "1900",
+            "contract_amount": 1900,
+            "contract_basis_raw": "Заснемане на клип",
+            "contract_sponsor_raw": "ОБЩИНА САМОКОВ"
+        },
+        {
+            "contract_amount_raw": "1900",
+            "contract_amount": 1900,
+            "contract_basis_raw": "Заснемане на туристически клип за община Смолян",
+            "contract_sponsor_raw": "ОБЩИНА СМОЛЯН"
+        },
+        {
+            "contract_amount_raw": "3700",
+            "contract_amount": 3700,
+            "contract_basis_raw": "заснемане на туристически видео клип, договор № 177/01.02.2019 за информационно обслужване",
+            "contract_sponsor_raw": "ОБЩИНА ТЕТЕВЕН"
+        },
+        {
+            "contract_amount_raw": "1900",
+            "contract_amount": 1900,
+            "contract_basis_raw": "Заснемане на клип",
+            "contract_sponsor_raw": "ОБЩИНА ТУТРАКАН"
+        },
+        {
+            "contract_amount_raw": "3700",
+            "contract_amount": 3700,
+            "contract_basis_raw": "Заснемане на 2 филма",
+            "contract_sponsor_raw": "ОБЩИНА ЧЕПЕЛАРЕ"
+        },
+        {
+            "contract_amount_raw": "1900",
+            "contract_amount": 1900,
+            "contract_basis_raw": "договор № ФС - 4726/17.06.2019 г. за създаванена видеоклип и трейлъри към него и разпространението им",
+            "contract_sponsor_raw": "ОП Русе арт"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "Публикация",
+            "contract_sponsor_raw": "ПОЛИТИЧЕСКА ПАРТИЯ БЪЛГАРСКА СОЦИАЛДЕМОКРАЦИЯ"
+        },
+        {
+            "contract_amount_raw": "200",
+            "contract_amount": 200,
+            "contract_basis_raw": "предизборен клип за община Смолян",
+            "contract_sponsor_raw": "ПОЛИТИЧЕСКА ПАРТИЯ ГЕРБ"
+        },
+        {
+            "contract_amount_raw": "1500",
+            "contract_amount": 1500,
+            "contract_basis_raw": "Евроизбори 2019",
+            "contract_sponsor_raw": "ПОЛИТИЧЕСКА ПАРТИЯ АТАКА"
+        },
+        {
+            "contract_amount_raw": "6000",
+            "contract_amount": 6000,
+            "contract_basis_raw": "Местни избори 2019",
+            "contract_sponsor_raw": "ПОЛИТИЧЕСКА ПАРТИЯ ВЪЗРАЖДАНЕ"
+        },
+        {
+            "contract_amount_raw": "1250",
+            "contract_amount": 1250,
+            "contract_basis_raw": "Кампания Местни избори 2019",
+            "contract_sponsor_raw": "ПОЛИТИЧЕСКА ПАРТИЯ ДВИЖЕНИЕ БЪЛГАРИЯ НА ГРАЖДАНИТЕ"
+        },
+        {
+            "contract_amount_raw": "3000",
+            "contract_amount": 3000,
+            "contract_basis_raw": "Публикации и банер",
+            "contract_sponsor_raw": "ПОЛИТИЧЕСКА ПАРТИЯ НАЦИОНАЛЕН ФРОНТ ЗА СПАСЕНИЕ НА БЪЛГАРИЯ"
+        },
+        {
+            "contract_amount_raw": "900",
+            "contract_amount": 900,
+            "contract_basis_raw": "договор  от 18.02.2019 г.",
+            "contract_sponsor_raw": "ПП ВОЛТ"
+        },
+        {
+            "contract_amount_raw": "12000",
+            "contract_amount": 12000,
+            "contract_basis_raw": "договор от 11.05.2018 г.",
+            "contract_sponsor_raw": "ПЪРВА ИНВЕСТИЦИОННА БАНКА - АД"
+        },
+        {
+            "contract_amount_raw": "3200",
+            "contract_amount": 3200,
+            "contract_basis_raw": "Позициониране на ПР материали",
+            "contract_sponsor_raw": "ТИ БИ АЙ Банк - ЕАД"
+        },
+        {
+            "contract_amount_raw": "11801",
+            "contract_amount": 11801,
+            "contract_basis_raw": " вх. № ЕП-24-265/21.05.2019 г.; вх. № ЕП-24-213/1/15.05.2019 г.; вх. № ЕП-24-215/13.05.2019 г.;вх. № ЕП-24-95/1/10.05.2019 г.",
+            "contract_sponsor_raw": "ЦЕНТРАЛНА ИЗБИРАТЕЛНА КОМИСИЯ"
+        },
+        {
+            "contract_amount_raw": "6000",
+            "contract_amount": 6000,
+            "contract_basis_raw": "Публикации",
+            "contract_sponsor_raw": "ЧЕЗ БЪЛГАРИЯ - ЕАД"
+        },
+        {
+            "contract_amount_raw": "6941",
+            "contract_amount": 6941,
+            "contract_basis_raw": "Рекламна кампания и видеопродукция",
+            "contract_sponsor_raw": "ЮРОБАНК БЪЛГАРИЯ - АД"
+        }
+    ]
+}

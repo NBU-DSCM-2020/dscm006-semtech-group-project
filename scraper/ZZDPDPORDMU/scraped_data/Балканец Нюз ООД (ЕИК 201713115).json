@@ -1,0 +1,95 @@
+{
+    "legal_entity_name": "Балканец Нюз ООД",
+    "legal_entity_id": "201713115",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание; Печатна медия",
+    "media_service_name": "Интернет сайт - Balkanec.bg; Вестник Балканец",
+    "real_owner": "Николета Кирилова Райчинова, Николай Георгиев Йотов, Цветан Цветозаров Цолов",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "6000",
+            "contract_amount": 6000,
+            "contract_basis_raw": "Публикуване на обяви",
+            "contract_sponsor_raw": "000776089"
+        },
+        {
+            "contract_amount_raw": "410",
+            "contract_amount": 410,
+            "contract_basis_raw": "Информационене банер",
+            "contract_sponsor_raw": "130203228"
+        },
+        {
+            "contract_amount_raw": "120",
+            "contract_amount": 120,
+            "contract_basis_raw": "Поддръжка интернет сайт",
+            "contract_sponsor_raw": "000760373"
+        },
+        {
+            "contract_amount_raw": "265",
+            "contract_amount": 265,
+            "contract_basis_raw": "Публикуване на обяви, поддържка интернет сайт, организация на събитие",
+            "contract_sponsor_raw": "000759033"
+        },
+        {
+            "contract_amount_raw": "600",
+            "contract_amount": 600,
+            "contract_basis_raw": "Поддръжка интернет сайт",
+            "contract_sponsor_raw": "131176435"
+        },
+        {
+            "contract_amount_raw": "50",
+            "contract_amount": 50,
+            "contract_basis_raw": "Публикуване на обява",
+            "contract_sponsor_raw": "000770022"
+        },
+        {
+            "contract_amount_raw": "100",
+            "contract_amount": 100,
+            "contract_basis_raw": "Публикация в Balkanec.bg",
+            "contract_sponsor_raw": "000758760"
+        },
+        {
+            "contract_amount_raw": "50",
+            "contract_amount": 50,
+            "contract_basis_raw": "Публикация във вестник Балканец",
+            "contract_sponsor_raw": "200583131"
+        },
+        {
+            "contract_amount_raw": "200",
+            "contract_amount": 200,
+            "contract_basis_raw": "Публикация на съобщение в сайт Balkanec.bg",
+            "contract_sponsor_raw": "121199649"
+        },
+        {
+            "contract_amount_raw": "12300",
+            "contract_amount": 12300,
+            "contract_basis_raw": "Издаване на вестник",
+            "contract_sponsor_raw": "000776259"
+        },
+        {
+            "contract_amount_raw": "6000",
+            "contract_amount": 6000,
+            "contract_basis_raw": "Публикуване на обяви, новини",
+            "contract_sponsor_raw": "000776963"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "Местни избори 2019",
+            "contract_sponsor_raw": "177380302"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "Европейски избори 2019",
+            "contract_sponsor_raw": "131458114"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "Европейски избори 2019",
+            "contract_sponsor_raw": "130451348"
+        }
+    ]
+}

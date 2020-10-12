@@ -1,0 +1,47 @@
+{
+    "legal_entity_name": "Община Карнобат",
+    "legal_entity_id": "000057026",
+    "public_company": "неприложимо",
+    "media_service_type": "Печатна медия",
+    "media_service_name": "Вестник Карнобатски глас",
+    "real_owner": "Община Карнобат",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "720",
+            "contract_amount": 720,
+            "contract_basis_raw": "14.10.2019 - информационно медийно обслужване",
+            "contract_sponsor_raw": "ПП Движение за радикална промяна Българската пролет ЕИК 176908530"
+        },
+        {
+            "contract_amount_raw": "510",
+            "contract_amount": 510,
+            "contract_basis_raw": "07.10.2019 - информационно медийно обслужване",
+            "contract_sponsor_raw": "ПП ГЕРБ, ЕИК 175248466"
+        },
+        {
+            "contract_amount_raw": "1012,8",
+            "contract_amount": 1012,
+            "contract_basis_raw": "04.10.2019 - информационно медийно обслужване",
+            "contract_sponsor_raw": "ИК за независим кандидат за кмет на община Карнобат, представляващ Христо Алексиев Христов"
+        },
+        {
+            "contract_amount_raw": "412,08",
+            "contract_amount": 412,
+            "contract_basis_raw": "04.10.2019 - информационно медийно обслужване",
+            "contract_sponsor_raw": "МК АБВ и ОБТ - Български лейбъристи, представляващ Калина Русева Великова"
+        },
+        {
+            "contract_amount_raw": "940,8",
+            "contract_amount": 940,
+            "contract_basis_raw": "04.10.2019 - информационно медийно обслужване",
+            "contract_sponsor_raw": "ПП БДЦ, ЕИК 175342727"
+        },
+        {
+            "contract_amount_raw": "720",
+            "contract_amount": 720,
+            "contract_basis_raw": "26.09.2019 - информационно медийно обслужване",
+            "contract_sponsor_raw": "ОбС на БСП - Карнобат, ЕИК 000702014"
+        }
+    ]
+}

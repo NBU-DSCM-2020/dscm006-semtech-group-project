@@ -1,0 +1,41 @@
+{
+    "legal_entity_name": "ХАСКОВСКА МАРИЦА ЕООД",
+    "legal_entity_id": "201291678",
+    "public_company": "неприложимо",
+    "media_service_type": "Печатна медия; Онлайн новинарско издание",
+    "media_service_name": "печатни медии - Хасковска Марица; онлайн новинарски услуги - marica.bg/haskovo",
+    "real_owner": "Христо Грозев Грозев, Карл Старнберг Хабсбург-Лотринген",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "5000",
+            "contract_amount": 5000,
+            "contract_basis_raw": "Информационно и медийно обслужване със срок на договора 01.01.2019-31.12.2019",
+            "contract_sponsor_raw": "Община Димитровград"
+        },
+        {
+            "contract_amount_raw": "3600",
+            "contract_amount": 3600,
+            "contract_basis_raw": "Информационно и медийно обслужване със срок на договора 01.02.2019-01.02.2020",
+            "contract_sponsor_raw": "Община Минерални бани"
+        },
+        {
+            "contract_amount_raw": "9991,66",
+            "contract_amount": 9991,
+            "contract_basis_raw": "Информационно и медийно обслужване със срок на договора 01.02.2019-31.12.2019",
+            "contract_sponsor_raw": "Община Хасково"
+        },
+        {
+            "contract_amount_raw": "2010",
+            "contract_amount": 2010,
+            "contract_basis_raw": "Публикуване на материали и други свързани с Избори за общински съветници и кметове 219 със срок на договора 08.10.2019-25.10.2019",
+            "contract_sponsor_raw": "ПП ГЕРБ"
+        },
+        {
+            "contract_amount_raw": "540",
+            "contract_amount": 540,
+            "contract_basis_raw": "Публикации по договор Избори за Европарламент 2019 със срок на договора 10.05.2019-24.05.2019",
+            "contract_sponsor_raw": "ПП ДПС"
+        }
+    ]
+}

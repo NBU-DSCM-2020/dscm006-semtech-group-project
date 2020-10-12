@@ -1,0 +1,41 @@
+{
+    "legal_entity_name": "Балкан Медия стар ЕООД",
+    "legal_entity_id": "204119192",
+    "public_company": "неприложимо",
+    "media_service_type": "Печатна медия; Онлайн новинарско издание",
+    "media_service_name": "Правешки глас; Praveshki glas.com",
+    "real_owner": "Христина Иванова Николова",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "900",
+            "contract_amount": 900,
+            "contract_basis_raw": "13,03,2018 изготвя и публикува материали за Община Етрополе",
+            "contract_sponsor_raw": "Община Етрополе ЕИК 000776259"
+        },
+        {
+            "contract_amount_raw": "3600",
+            "contract_amount": 3600,
+            "contract_basis_raw": "19.04.2019 изготвя и публикува материали за Община Етрополе",
+            "contract_sponsor_raw": "Община Етрополе ЕИК 000776259"
+        },
+        {
+            "contract_amount_raw": "4000",
+            "contract_amount": 4000,
+            "contract_basis_raw": "01.11.2017 изготвя и публикува материали за Община Правец",
+            "contract_sponsor_raw": "Община Правец ЕИК 000776477"
+        },
+        {
+            "contract_amount_raw": "3600",
+            "contract_amount": 3600,
+            "contract_basis_raw": "005.09.2019 изготвя и публикува материали за Община Правец",
+            "contract_sponsor_raw": "Община Правец ЕИК 000776477"
+        },
+        {
+            "contract_amount_raw": "650",
+            "contract_amount": 650,
+            "contract_basis_raw": "фактура 221/отпечатване на вестник",
+            "contract_sponsor_raw": "Общински съвет на БСП ЕИК 0007020140275"
+        }
+    ]
+}

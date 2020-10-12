@@ -1,0 +1,41 @@
+{
+    "legal_entity_name": "ПиАр Авеню ООД",
+    "legal_entity_id": "201214781",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "www.poligraff.net",
+    "real_owner": "Жанета Христова Симеонова",
+    "executive_individual": "Ирина Йорданова Йорданова",
+    "contracts": [
+        {
+            "contract_amount_raw": "3600",
+            "contract_amount": 3600,
+            "contract_basis_raw": "Медийно-информационно обслужване Договор номер Д-19/10.01.2019",
+            "contract_sponsor_raw": "000057179"
+        },
+        {
+            "contract_amount_raw": "600",
+            "contract_amount": 600,
+            "contract_basis_raw": "Договор за реклама – 15 май 2019 Публикуване на 3 бр. Статии / Избори",
+            "contract_sponsor_raw": "0007020140222"
+        },
+        {
+            "contract_amount_raw": "1500",
+            "contract_amount": 1500,
+            "contract_basis_raw": "Медийно-информационно обслужване – от дата 19.07.2019 (публикуване на информации във връзка с изпълнение на Дейност 2 –информационна кампания по проект НПИМД-НЗ-033/2019 по договор 25-00-50/11.06.2019 с Министерство на младежта и спорта, проект финансиран от НПИМД)",
+            "contract_sponsor_raw": "147220125"
+        },
+        {
+            "contract_amount_raw": "600",
+            "contract_amount": 600,
+            "contract_basis_raw": "Договор за медийно обслужване – 20 септември 2019 г. Публикуване на 3 бр. Статии / Избори",
+            "contract_sponsor_raw": "176368365"
+        },
+        {
+            "contract_amount_raw": "200",
+            "contract_amount": 200,
+            "contract_basis_raw": "Договор за медийно обслужване – 9 октомври 2019 г.Публикуване на 1 бр. Статия/ Избори",
+            "contract_sponsor_raw": "Константин Димов Лефтеров"
+        }
+    ]
+}

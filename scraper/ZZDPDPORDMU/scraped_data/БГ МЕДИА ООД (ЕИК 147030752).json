@@ -1,0 +1,47 @@
+{
+    "legal_entity_name": "БГ МЕДИА ООД",
+    "legal_entity_id": "147030752",
+    "public_company": "неприложимо",
+    "media_service_type": "Информационен сайт",
+    "media_service_name": "www.namoreto.bg",
+    "real_owner": "Стефан Рашков Бобойчев",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "4200.00лв.",
+            "contract_amount": 4200,
+            "contract_basis_raw": "Договор медийно отразяване",
+            "contract_sponsor_raw": "Община-Поморие"
+        },
+        {
+            "contract_amount_raw": "3600.00лв.",
+            "contract_amount": 3600,
+            "contract_basis_raw": "Договор медийно отразяване",
+            "contract_sponsor_raw": "Община-Камено"
+        },
+        {
+            "contract_amount_raw": "1800.00лв.",
+            "contract_amount": 1800,
+            "contract_basis_raw": "Медийно отразяване",
+            "contract_sponsor_raw": "Община-Приморско"
+        },
+        {
+            "contract_amount_raw": "2400.00лв.",
+            "contract_amount": 2400,
+            "contract_basis_raw": "Договор медийно отразяване",
+            "contract_sponsor_raw": "Слънчев бряг АД"
+        },
+        {
+            "contract_amount_raw": "4200.00лв.",
+            "contract_amount": 4200,
+            "contract_basis_raw": "Договор реклама",
+            "contract_sponsor_raw": "Бургаски пазари ЕООД"
+        },
+        {
+            "contract_amount_raw": "450.00 лв.",
+            "contract_amount": 450,
+            "contract_basis_raw": "Банер реклама",
+            "contract_sponsor_raw": "Община Бургас-Култура"
+        }
+    ]
+}

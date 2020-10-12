@@ -1,0 +1,407 @@
+{
+    "legal_entity_name": "Черно море прес ЕООД",
+    "legal_entity_id": "103283584",
+    "public_company": "неприложимо",
+    "media_service_type": "Печатна медия; Онлайн новинарско издание",
+    "media_service_name": "Вестник Черно море; Информационна агенция Черно море/www.chernomore.bg/",
+    "real_owner": "Нася Стефанова Атанасова-на основание пар. 2, ал. 5 от ДР на ЗМИП",
+    "executive_individual": "Нася Стефанова Атанасова",
+    "contracts": [
+        {
+            "contract_amount_raw": "30000",
+            "contract_amount": 30000,
+            "contract_basis_raw": "договор за заем",
+            "contract_sponsor_raw": "Джинджърс ЕООД, ЕИК:103146449"
+        },
+        {
+            "contract_amount_raw": "20700",
+            "contract_amount": 20700,
+            "contract_basis_raw": "договор за заем",
+            "contract_sponsor_raw": "Бранд ню айдиъс ЕООД, ЕИК:131111149"
+        },
+        {
+            "contract_amount_raw": "606,34",
+            "contract_amount": 606,
+            "contract_basis_raw": "рекл.публикации във в-к Черно море по заявка, дружеството е получател на доходи",
+            "contract_sponsor_raw": "ДКЦ Чайка ЕООД, ЕИК:103514755"
+        },
+        {
+            "contract_amount_raw": "62,57",
+            "contract_amount": 62,
+            "contract_basis_raw": "рекл.публикации във в-к Черно море по заявка, дружеството е получател на доходи",
+            "contract_sponsor_raw": "Ученическо и столово хранене ЕАД, ЕИК:103552229"
+        },
+        {
+            "contract_amount_raw": "10,9",
+            "contract_amount": 10,
+            "contract_basis_raw": "рекл.публикации във в-к Черно море по заявка, дружеството е получател на доходи",
+            "contract_sponsor_raw": "ЦДГ Щастливо детство, ЕИК:000086210"
+        },
+        {
+            "contract_amount_raw": "14,54",
+            "contract_amount": 14,
+            "contract_basis_raw": "рекл.публикации във в-к Черно море по заявка, дружеството е получател на доходи",
+            "contract_sponsor_raw": "ЦДГ Пролет, ЕИК:000086138"
+        },
+        {
+            "contract_amount_raw": "2520",
+            "contract_amount": 2520,
+            "contract_basis_raw": "Договор от 04.05.2019г. за рекл.публикации в сайт chernomore.bg, по който дружеството е получател на доходи",
+            "contract_sponsor_raw": "Медицински университет Варна, ЕИК:000083633"
+        },
+        {
+            "contract_amount_raw": "21,8",
+            "contract_amount": 21,
+            "contract_basis_raw": "рекл.публикации във в-к Черно море по заявка, дружеството е получател на доходи",
+            "contract_sponsor_raw": "ЦДГ Морски свят, ЕИК:175801664"
+        },
+        {
+            "contract_amount_raw": "9,44",
+            "contract_amount": 9,
+            "contract_basis_raw": "рекл.публикации във в-к Черно море по заявка, дружеството е получател на доходи",
+            "contract_sponsor_raw": "ЦДГ Пинокио, ЕИК:000080815"
+        },
+        {
+            "contract_amount_raw": "9,44",
+            "contract_amount": 9,
+            "contract_basis_raw": "рекл.публикации във в-к Черно море по заявка, дружеството е получател на доходи",
+            "contract_sponsor_raw": "ЦДГ Валентина Терешкова, ЕИК:000080854"
+        },
+        {
+            "contract_amount_raw": "29,07",
+            "contract_amount": 29,
+            "contract_basis_raw": "рекл.публикации във в-к Черно море по заявка, дружеството е получател на доходи",
+            "contract_sponsor_raw": "ОДЗ 25 Люляче, ЕИК:000081123"
+        },
+        {
+            "contract_amount_raw": "14,54",
+            "contract_amount": 14,
+            "contract_basis_raw": "рекл.публикации във в-к Черно море по заявка, дружеството е получател на доходи",
+            "contract_sponsor_raw": "ОДЗ 9 Ален мак, ЕИК:000086120"
+        },
+        {
+            "contract_amount_raw": "14,54",
+            "contract_amount": 14,
+            "contract_basis_raw": "рекл.публикации във в-к Черно море по заявка, дружеството е получател на доходи",
+            "contract_sponsor_raw": "ОДЗ 11 Детски свят, ЕИК:000086152"
+        },
+        {
+            "contract_amount_raw": "20,64",
+            "contract_amount": 20,
+            "contract_basis_raw": "рекл.публикации във в-к Черно море по заявка, дружеството е получател на доходи",
+            "contract_sponsor_raw": "ОДЗ 3 Делфинче, ЕИК:175630101"
+        },
+        {
+            "contract_amount_raw": "14,54",
+            "contract_amount": 14,
+            "contract_basis_raw": "рекл.публикации във в-к Черно море по заявка, дружеството е получател на доходи",
+            "contract_sponsor_raw": "ДГ Детско градче, ЕИК:000085844"
+        },
+        {
+            "contract_amount_raw": "13,46",
+            "contract_amount": 13,
+            "contract_basis_raw": "рекл.публикации във в-к Черно море по заявка, дружеството е получател на доходи",
+            "contract_sponsor_raw": "ДГ Пламъче, ЕИК:000080726"
+        },
+        {
+            "contract_amount_raw": "152",
+            "contract_amount": 152,
+            "contract_basis_raw": "рекл.публикации във в-к Черно море по заявка, дружестовто е получател на доходи",
+            "contract_sponsor_raw": "СБОБАЛ Варна ЕООД, ЕИК:000091879"
+        },
+        {
+            "contract_amount_raw": "12,36",
+            "contract_amount": 12,
+            "contract_basis_raw": "рекл.публикации във в-к Черно море по заявка, дружеството е получател на доходи",
+            "contract_sponsor_raw": "ОДЗ 8 Лястовичка, ЕИК:000086202"
+        },
+        {
+            "contract_amount_raw": "89,74",
+            "contract_amount": 89,
+            "contract_basis_raw": "рекл.публикации във в-к Черно море по заявка, дружеството е получател на доходи",
+            "contract_sponsor_raw": "СОУ Елин Пелин, ЕИК:000082061"
+        },
+        {
+            "contract_amount_raw": "55,3",
+            "contract_amount": 55,
+            "contract_basis_raw": "рекл.публикации във в-к Черно море по заявка, дружеството е получател на доходи",
+            "contract_sponsor_raw": "Район Вл.Варненчик, ЕИК:000093442"
+        },
+        {
+            "contract_amount_raw": "257,23",
+            "contract_amount": 257,
+            "contract_basis_raw": "рекл.публикации във в-к Черно море по заявка, дружеството е получател на доходи",
+            "contract_sponsor_raw": "ДКЦ 4 Варна ЕООД, ЕИК:813116984"
+        },
+        {
+            "contract_amount_raw": "180,85",
+            "contract_amount": 180,
+            "contract_basis_raw": "рекл.публикации във в-к Черно море по заявка, дружеството е получател на доходи",
+            "contract_sponsor_raw": "ОУ Патриарх Евтимий, ЕИК:000081568"
+        },
+        {
+            "contract_amount_raw": "13,46",
+            "contract_amount": 13,
+            "contract_basis_raw": "рекл.публикации във в-к Черно море по заявка, дружеството е получател на доходи",
+            "contract_sponsor_raw": "ОУ Стоян Михайловски, ЕИК:000087674"
+        },
+        {
+            "contract_amount_raw": "39,97",
+            "contract_amount": 39,
+            "contract_basis_raw": "рекл.публикации във в-к Черно море по заявка, дружеството е получател на доходи",
+            "contract_sponsor_raw": "ОУ Ангел Кънчев, ЕИК:175531126"
+        },
+        {
+            "contract_amount_raw": "24,36",
+            "contract_amount": 24,
+            "contract_basis_raw": "рекл.публикации във в-к Черно море по заявка, дружеството е получател на доходи",
+            "contract_sponsor_raw": "СУ Гео Милев, ЕИК:000086191"
+        },
+        {
+            "contract_amount_raw": "7,27",
+            "contract_amount": 7,
+            "contract_basis_raw": "рекл.публикации във в-к Черно море по заявка, дружестовто е получател на доходи",
+            "contract_sponsor_raw": "ДГ Слънчева дъга, ЕИК:175458589"
+        },
+        {
+            "contract_amount_raw": "58,34",
+            "contract_amount": 58,
+            "contract_basis_raw": "рекл.публикации във в-к Черно море по заявка, дружеството е получател на доходи",
+            "contract_sponsor_raw": "ДГ Слънчо, ЕИК:000080758"
+        },
+        {
+            "contract_amount_raw": "10,9",
+            "contract_amount": 10,
+            "contract_basis_raw": "рекл.публикации във в-к Черно море по заявка, дружеството е получател на доходи",
+            "contract_sponsor_raw": "ДГ 32 Моряче, 000085787"
+        },
+        {
+            "contract_amount_raw": "51,98",
+            "contract_amount": 51,
+            "contract_basis_raw": "рекл.публикации във в-к Черно море по заявка, дружеството е получател на доходи",
+            "contract_sponsor_raw": "ДГ 35 Детска радост, ЕИК:000087165"
+        },
+        {
+            "contract_amount_raw": "7,27",
+            "contract_amount": 7,
+            "contract_basis_raw": "рекл.публикации във в-к Черно море по заявка, дружеството е получател на доходи",
+            "contract_sponsor_raw": "ДГ 15 Гълъбче, ЕИК:000087172"
+        },
+        {
+            "contract_amount_raw": "50,88",
+            "contract_amount": 50,
+            "contract_basis_raw": "рекл.публикации във в-к Черно море по заявка, дружеството е получател на доходи",
+            "contract_sponsor_raw": "ДГ 17 Д-р Петър Берон, ЕИК:000080936"
+        },
+        {
+            "contract_amount_raw": "72,68",
+            "contract_amount": 72,
+            "contract_basis_raw": "рекл.публикации във в-к Черно море по заявка, дружеството е получател на доходи",
+            "contract_sponsor_raw": "НГХНИ К.Преславски, ЕИК:000087699"
+        },
+        {
+            "contract_amount_raw": "316,8",
+            "contract_amount": 316,
+            "contract_basis_raw": "рекл.публикации във в-к Черно море по заявка, дружеството е получател  на доходи",
+            "contract_sponsor_raw": "СБАГАЛ Варна ЕООД, ЕИК:000090065"
+        },
+        {
+            "contract_amount_raw": "1661,58",
+            "contract_amount": 1661,
+            "contract_basis_raw": "рекл.публикации във в-к Черно море по заявки, дружеството е получател на доходи",
+            "contract_sponsor_raw": "МБАЛ Св.Марина, ЕИК:103562052"
+        },
+        {
+            "contract_amount_raw": "567,55",
+            "contract_amount": 567,
+            "contract_basis_raw": "рекл.публикации във в-к Черно море по заявка, дружеството е получател на доходи",
+            "contract_sponsor_raw": "ДКЦ III Варна ЕООД, ЕИК:813154554"
+        },
+        {
+            "contract_amount_raw": "257,51",
+            "contract_amount": 257,
+            "contract_basis_raw": "рекл.публикации във в-к Черно море по заявка, дружеството е получател на доходи",
+            "contract_sponsor_raw": "ПП Движение Нашият град, ЕИК:175292103"
+        },
+        {
+            "contract_amount_raw": "82,95",
+            "contract_amount": 82,
+            "contract_basis_raw": "рекл.публикации във в-к Черно море по заявка, дружеството е получател на доходи",
+            "contract_sponsor_raw": "Административен съд Варна, ЕИК:148076820"
+        },
+        {
+            "contract_amount_raw": "228,94",
+            "contract_amount": 228,
+            "contract_basis_raw": "рекл.публикации във в-к Черно море по заявка, дружеството е получател на доходи",
+            "contract_sponsor_raw": "СОУ В.Левски, ЕИК:000082264"
+        },
+        {
+            "contract_amount_raw": "167,17",
+            "contract_amount": 167,
+            "contract_basis_raw": "рекл.публикации във в-к Черно море по заявка, дружеството е получател на доходи",
+            "contract_sponsor_raw": "ВВМУ Н.Й.Вапцаров, ЕИК:129004492"
+        },
+        {
+            "contract_amount_raw": "243,6",
+            "contract_amount": 243,
+            "contract_basis_raw": "рекл.публикации във в-к Черно море по заявка, дружеството е получател на доходи",
+            "contract_sponsor_raw": "Окръжна прокуратура Варна, ЕИК:121817309"
+        },
+        {
+            "contract_amount_raw": "760,67",
+            "contract_amount": 760,
+            "contract_basis_raw": "рекл.публикации във в-к Черно море по заявка, дружеството е получател на доходи",
+            "contract_sponsor_raw": "Община Девня, ЕИК: 000093645"
+        },
+        {
+            "contract_amount_raw": "110,6",
+            "contract_amount": 110,
+            "contract_basis_raw": "рекл.публикации във в-к Черно море по заявка, дружеството е получател на доходи",
+            "contract_sponsor_raw": "ДМСГД Варна, ЕИК:000090204"
+        },
+        {
+            "contract_amount_raw": "262,97",
+            "contract_amount": 262,
+            "contract_basis_raw": "рекл.публикации във в-к Черно море по заявка, дружеството е получател на доходи",
+            "contract_sponsor_raw": "ВИК Варна ООД, ЕИК:103002253"
+        },
+        {
+            "contract_amount_raw": "234,35",
+            "contract_amount": 234,
+            "contract_basis_raw": "рекл.публикации във в-к Черно море по заявка, дружеството е получател на доходи",
+            "contract_sponsor_raw": "Икономически университет Варна, ЕИК:000083619"
+        },
+        {
+            "contract_amount_raw": "260",
+            "contract_amount": 260,
+            "contract_basis_raw": "рекл.публикации във в-к Черно море по заявка, дружеството е получател на доходи",
+            "contract_sponsor_raw": "Областна администрация Варна, ЕИК:000093360"
+        },
+        {
+            "contract_amount_raw": "232,26",
+            "contract_amount": 232,
+            "contract_basis_raw": "рекл.публикации във в-к Черно море по заявка, дружестовото е получател на доходи",
+            "contract_sponsor_raw": "Община Вълчи дол, ЕИК:000093474"
+        },
+        {
+            "contract_amount_raw": "1695",
+            "contract_amount": 1695,
+            "contract_basis_raw": "Договор за набиране и доставка на абонамент №5-16-8/19.09.2019г., по който дружестовото е получател на доходи",
+            "contract_sponsor_raw": "РУ Североизт.р-н на БП ЕАД, ЕИК:121396123"
+        },
+        {
+            "contract_amount_raw": "23,87",
+            "contract_amount": 23,
+            "contract_basis_raw": "рекл.публикации във в-к Черно море по заявка, дружеството е  получател на доходи",
+            "contract_sponsor_raw": "ДП Пристанищна инфраструктура, ЕИК:130316140"
+        },
+        {
+            "contract_amount_raw": "5066,63",
+            "contract_amount": 5066,
+            "contract_basis_raw": "рекл.публикации във в-к Черно море по заявки, дружеството е получател на доходи",
+            "contract_sponsor_raw": "Община Провадия, ЕИК:000093638"
+        },
+        {
+            "contract_amount_raw": "165,9",
+            "contract_amount": 165,
+            "contract_basis_raw": "рекл.публикации във в-к Черно море по заявка, дружеството е получател на доходи",
+            "contract_sponsor_raw": "МБАЛ Св.Анна Варна АД, ЕИК:000090019"
+        },
+        {
+            "contract_amount_raw": "4800",
+            "contract_amount": 4800,
+            "contract_basis_raw": "Договор за рекл.услуги от 19.01.17г., по който дружеството е получател на доходи",
+            "contract_sponsor_raw": "Пазари ЕАД, ЕИК:148089508"
+        },
+        {
+            "contract_amount_raw": "900",
+            "contract_amount": 900,
+            "contract_basis_raw": "Договор за рекл.услуги от 14.11.2019г., по който дружеството е получател на доходи",
+            "contract_sponsor_raw": "Обреди ЕООД, ЕИК:813106564"
+        },
+        {
+            "contract_amount_raw": "18,17",
+            "contract_amount": 18,
+            "contract_basis_raw": "рекл.публикации във в-к Черно море по заявка, дружеството е получател на доходи",
+            "contract_sponsor_raw": "ОУ П.Р.Славейков, ЕИК:000083074"
+        },
+        {
+            "contract_amount_raw": "36,8",
+            "contract_amount": 36,
+            "contract_basis_raw": "рекл.публикации във в-к Черно море по заявка, дружеството е получател на доходи",
+            "contract_sponsor_raw": "ДГ 42 Българче, ЕИК:000086907"
+        },
+        {
+            "contract_amount_raw": "21,8",
+            "contract_amount": 21,
+            "contract_basis_raw": "рекл.публикации във в-к Черно море по заявка, дружеството е получател на доходи",
+            "contract_sponsor_raw": "ДГ 4 Теменужка, ЕИК:000080740"
+        },
+        {
+            "contract_amount_raw": "108,08",
+            "contract_amount": 108,
+            "contract_basis_raw": "рекл.публикации във в-к Черно море по заявка, дружеството е получател на доходи",
+            "contract_sponsor_raw": "Затвора Варна, ЕИК:1290100290055"
+        },
+        {
+            "contract_amount_raw": "7,27",
+            "contract_amount": 7,
+            "contract_basis_raw": "рекл.публикации във в-к Черно море по заявка, дружеството е получател на доходи",
+            "contract_sponsor_raw": "ДГ 31 Крилатко, ЕИК:000087247"
+        },
+        {
+            "contract_amount_raw": "9,44",
+            "contract_amount": 9,
+            "contract_basis_raw": "рекл.публикации във в-к Черно море по заявка, дружеството е получател на доходи",
+            "contract_sponsor_raw": "ДГ 19 Славейче, ЕИК:000085869"
+        },
+        {
+            "contract_amount_raw": "36,34",
+            "contract_amount": 36,
+            "contract_basis_raw": "рекл.публикации във в-к Черно море по заявка, дружеството е получател на доходи",
+            "contract_sponsor_raw": "ДГ 3 Звездичка, ЕИК:000080797"
+        },
+        {
+            "contract_amount_raw": "16,71",
+            "contract_amount": 16,
+            "contract_basis_raw": "рекл.публикации във в-к Черно море по заявка, дружеството е получател на доходи",
+            "contract_sponsor_raw": "ДГ14 Дружба, ЕИК:000086794"
+        },
+        {
+            "contract_amount_raw": "129,56",
+            "contract_amount": 129,
+            "contract_basis_raw": "рекл.публикации във в-к Черно море по заявка, дружеството е получател на доходи",
+            "contract_sponsor_raw": "МБАЛ Св.Иван Рилски Разград АД, ЕИК:116503980"
+        },
+        {
+            "contract_amount_raw": "105,07",
+            "contract_amount": 105,
+            "contract_basis_raw": "рекл.публикации във в-к Черно море по заявка, дружеството е получател на доходи",
+            "contract_sponsor_raw": "РТВЦ-Варна, 0006723500049"
+        },
+        {
+            "contract_amount_raw": "24,36",
+            "contract_amount": 24,
+            "contract_basis_raw": "рекл.публикации във в-к Черно море по заявка",
+            "contract_sponsor_raw": "ДГ 36 Морска звездица, ЕИК:000086889"
+        },
+        {
+            "contract_amount_raw": "9,44",
+            "contract_amount": 9,
+            "contract_basis_raw": "рекл.публикации във в-к Черно море по заявка, дружеството е получател на доходи",
+            "contract_sponsor_raw": "ДГ 30 Синчец, ЕИК:000086768"
+        },
+        {
+            "contract_amount_raw": "158,4",
+            "contract_amount": 158,
+            "contract_basis_raw": "рекл.публикации във в-к Черно море по заявка, дружеството е получател на доходи",
+            "contract_sponsor_raw": "Община Каварна, ЕИК:000852697"
+        },
+        {
+            "contract_amount_raw": "352,8",
+            "contract_amount": 352,
+            "contract_basis_raw": "рекл.публикации във в-к Черно море по заявка, дружеството е получател на доходи",
+            "contract_sponsor_raw": "ТД на НАП Варна, ЕИК:1310631880146"
+        }
+    ]
+}

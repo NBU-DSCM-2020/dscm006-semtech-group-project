@@ -1,0 +1,35 @@
+{
+    "legal_entity_name": "ОБЩИНА КОСТИНБРОД",
+    "legal_entity_id": "000776363",
+    "public_company": "Надзорна институция - ОБЩИНСКИ СЪВЕТ КОСТИНБРОД",
+    "media_service_type": "Печатна медия",
+    "media_service_name": "Информационен бюлетин Костинброд",
+    "real_owner": "ОБЩИНА КОСТИНБРОД",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "3500",
+            "contract_amount": 3500,
+            "contract_basis_raw": "Договор за спонсорство на информационния бюлетин",
+            "contract_sponsor_raw": "Кока кола хеленик боталинг къмпани България ЕИК 131032463"
+        },
+        {
+            "contract_amount_raw": "4660",
+            "contract_amount": 4660,
+            "contract_basis_raw": "договор за репортерски отразявания",
+            "contract_sponsor_raw": "Община Костинброд ЕИК 000776363"
+        },
+        {
+            "contract_amount_raw": "17650",
+            "contract_amount": 17650,
+            "contract_basis_raw": "офсетов печат",
+            "contract_sponsor_raw": "Община Костинброд ЕИК 000776363"
+        },
+        {
+            "contract_amount_raw": "5400",
+            "contract_amount": 5400,
+            "contract_basis_raw": "договор журналист",
+            "contract_sponsor_raw": "Община Костинброд ЕИК 000776363"
+        }
+    ]
+}

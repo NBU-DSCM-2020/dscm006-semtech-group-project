@@ -1,0 +1,17 @@
+{
+    "legal_entity_name": "Общинска администрация Шабла",
+    "legal_entity_id": "000852957",
+    "public_company": "Надзорна институция - Общински съвет Шабла",
+    "media_service_type": "Печатна медия; Онлайн новинарско издание",
+    "media_service_name": "Вестник Изгрев; Вестник Изгрев",
+    "real_owner": "Мариян Александров Жечев",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "28446,93",
+            "contract_amount": 28446,
+            "contract_basis_raw": "Решение на Общински съвет Шабла",
+            "contract_sponsor_raw": "Бюджет на община Шабла"
+        }
+    ]
+}

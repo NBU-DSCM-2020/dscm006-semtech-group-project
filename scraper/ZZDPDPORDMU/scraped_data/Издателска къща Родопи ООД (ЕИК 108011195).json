@@ -1,0 +1,263 @@
+{
+    "legal_entity_name": "Издателска къща Родопи ООД",
+    "legal_entity_id": "108011195",
+    "public_company": "неприложимо",
+    "media_service_type": "Печатна медия",
+    "media_service_name": "Печат и разпространение на в. Нов живот",
+    "real_owner": "Иван Янев Бунков, Николай Денчев Николов, Димитър Стойков Николов",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "20738",
+            "contract_amount": 20738,
+            "contract_basis_raw": "Абонамент и информационно обслужване ",
+            "contract_sponsor_raw": "Община Кърджали"
+        },
+        {
+            "contract_amount_raw": "1407",
+            "contract_amount": 1407,
+            "contract_basis_raw": "Абонамент и информационно обслужване ",
+            "contract_sponsor_raw": "Областна администрация Кърджали"
+        },
+        {
+            "contract_amount_raw": "2442",
+            "contract_amount": 2442,
+            "contract_basis_raw": "Абонамент и информационно обслужване ",
+            "contract_sponsor_raw": "Община Джебел"
+        },
+        {
+            "contract_amount_raw": "280",
+            "contract_amount": 280,
+            "contract_basis_raw": "Абонамент и информационно обслужване ",
+            "contract_sponsor_raw": "Община Черноочене"
+        },
+        {
+            "contract_amount_raw": "4428",
+            "contract_amount": 4428,
+            "contract_basis_raw": "Абонамент и информационно обслужване ",
+            "contract_sponsor_raw": "Община Ардино"
+        },
+        {
+            "contract_amount_raw": "2180",
+            "contract_amount": 2180,
+            "contract_basis_raw": "Абонамент и информационно обслужване ",
+            "contract_sponsor_raw": "Общински съвет Кърджали"
+        },
+        {
+            "contract_amount_raw": "920",
+            "contract_amount": 920,
+            "contract_basis_raw": "Абонамент и информационно обслужване ",
+            "contract_sponsor_raw": "ОП Обредни дейности Кърджали"
+        },
+        {
+            "contract_amount_raw": "149",
+            "contract_amount": 149,
+            "contract_basis_raw": "Абонамент и информационно обслужване ",
+            "contract_sponsor_raw": "ПГ ПО СГС Кърджали"
+        },
+        {
+            "contract_amount_raw": "1200",
+            "contract_amount": 1200,
+            "contract_basis_raw": "Публикуване на предизборни материали",
+            "contract_sponsor_raw": "ПП ВМРО - Българско национално движение"
+        },
+        {
+            "contract_amount_raw": "149",
+            "contract_amount": 149,
+            "contract_basis_raw": "Абонамент и информационно обслужване",
+            "contract_sponsor_raw": "Регионална дирекция по горите"
+        },
+        {
+            "contract_amount_raw": "149",
+            "contract_amount": 149,
+            "contract_basis_raw": "Абонамент и информационно обслужване",
+            "contract_sponsor_raw": "ОУ П. К. Яворов Кърджаали"
+        },
+        {
+            "contract_amount_raw": "269",
+            "contract_amount": 269,
+            "contract_basis_raw": "Абонамент и информационно обслужване",
+            "contract_sponsor_raw": "МБАЛ д-р Ат. Дафовски Кърджали"
+        },
+        {
+            "contract_amount_raw": "148",
+            "contract_amount": 148,
+            "contract_basis_raw": "Абонамент и информационно обслужване ",
+            "contract_sponsor_raw": "ОУ Васил Левски Крумовград"
+        },
+        {
+            "contract_amount_raw": "223",
+            "contract_amount": 223,
+            "contract_basis_raw": "Абонамент и информационно обслужване ",
+            "contract_sponsor_raw": "СУ Христо Смирненски Кърджали"
+        },
+        {
+            "contract_amount_raw": "149",
+            "contract_amount": 149,
+            "contract_basis_raw": "Абонамент и информационно обслужване ",
+            "contract_sponsor_raw": "ПГЕЕ Капитан Петко Войвода Кърджали"
+        },
+        {
+            "contract_amount_raw": "149",
+            "contract_amount": 149,
+            "contract_basis_raw": "Абонамент и информационно обслужване ",
+            "contract_sponsor_raw": "ПГ по транспорт Христо Смирненски Кърджали"
+        },
+        {
+            "contract_amount_raw": "149",
+            "contract_amount": 149,
+            "contract_basis_raw": "Абонамент и информационно обслужване ",
+            "contract_sponsor_raw": "ПГТ Проф. д-р Асен Златаров Кърджали"
+        },
+        {
+            "contract_amount_raw": "149",
+            "contract_amount": 149,
+            "contract_basis_raw": "Абонамент и информационно обслужване ",
+            "contract_sponsor_raw": "ПГОД Евридика Кърджали"
+        },
+        {
+            "contract_amount_raw": "149",
+            "contract_amount": 149,
+            "contract_basis_raw": "Абонамент и информационно обслужване ",
+            "contract_sponsor_raw": "СУ Васил Левски Кърджали"
+        },
+        {
+            "contract_amount_raw": "149",
+            "contract_amount": 149,
+            "contract_basis_raw": "Абонамент и информационно обслужване ",
+            "contract_sponsor_raw": "Държавна психиатрична болница Кърджали"
+        },
+        {
+            "contract_amount_raw": "149",
+            "contract_amount": 149,
+            "contract_basis_raw": "Абонамент и информационно обслужване ",
+            "contract_sponsor_raw": "ГПЧЕ Христо Ботев Кърджали"
+        },
+        {
+            "contract_amount_raw": "850",
+            "contract_amount": 850,
+            "contract_basis_raw": "Абонамент и информационно обслужване ",
+            "contract_sponsor_raw": "ВИК ООД Кърджали"
+        },
+        {
+            "contract_amount_raw": "149",
+            "contract_amount": 149,
+            "contract_basis_raw": "Абонамент и информационно обслужване ",
+            "contract_sponsor_raw": "ПГ Васил Левски Кърджали"
+        },
+        {
+            "contract_amount_raw": "149",
+            "contract_amount": 149,
+            "contract_basis_raw": "Абонамент и информационно обслужване ",
+            "contract_sponsor_raw": "ТМЦ Кърджали"
+        },
+        {
+            "contract_amount_raw": "5763",
+            "contract_amount": 5763,
+            "contract_basis_raw": "Абонамент и информационно обслужване ",
+            "contract_sponsor_raw": "Община Кирково"
+        },
+        {
+            "contract_amount_raw": "5722",
+            "contract_amount": 5722,
+            "contract_basis_raw": "Абонамент и информационно обслужване ",
+            "contract_sponsor_raw": "Община Крумовград"
+        },
+        {
+            "contract_amount_raw": "3542",
+            "contract_amount": 3542,
+            "contract_basis_raw": "Абонамент и информационно обслужване ",
+            "contract_sponsor_raw": "Община Момчилград"
+        },
+        {
+            "contract_amount_raw": "1340",
+            "contract_amount": 1340,
+            "contract_basis_raw": "Публикуване на предизборни материали",
+            "contract_sponsor_raw": "ИК в подкрепа на Себахтин Гьокче"
+        },
+        {
+            "contract_amount_raw": "149",
+            "contract_amount": 149,
+            "contract_basis_raw": "Абонамент и информационно обслужване",
+            "contract_sponsor_raw": "РУ на образованието Кърджали"
+        },
+        {
+            "contract_amount_raw": "447",
+            "contract_amount": 447,
+            "contract_basis_raw": "Абонамент и информационно обслужване",
+            "contract_sponsor_raw": "Регионална Библиотека Н. Й. Вапцаров Кърджали"
+        },
+        {
+            "contract_amount_raw": "149",
+            "contract_amount": 149,
+            "contract_basis_raw": "Абонамент и информационно обслужване",
+            "contract_sponsor_raw": "ПГТХВП Св. Св. Кирил и Методий Кърджали"
+        },
+        {
+            "contract_amount_raw": "149",
+            "contract_amount": 149,
+            "contract_basis_raw": "Абонамент и информационно обслужване ",
+            "contract_sponsor_raw": "СУ Йордан Йовков Кърджали"
+        },
+        {
+            "contract_amount_raw": "9000",
+            "contract_amount": 9000,
+            "contract_basis_raw": "Публикуване на предизборни материали",
+            "contract_sponsor_raw": "ПП ДПС"
+        },
+        {
+            "contract_amount_raw": "399",
+            "contract_amount": 399,
+            "contract_basis_raw": "Абонамент и информационно обслужване ",
+            "contract_sponsor_raw": "ОД Земеделие Кърджали"
+        },
+        {
+            "contract_amount_raw": "447",
+            "contract_amount": 447,
+            "contract_basis_raw": "Абонамент и информационно обслужване ",
+            "contract_sponsor_raw": "СОУ П. Р. Славейков Кърджали"
+        },
+        {
+            "contract_amount_raw": "1949",
+            "contract_amount": 1949,
+            "contract_basis_raw": "Абонамент и публикуване на предизборни материали",
+            "contract_sponsor_raw": "ПП ГЕРБ"
+        },
+        {
+            "contract_amount_raw": "149",
+            "contract_amount": 149,
+            "contract_basis_raw": "Абонамент и информационно обслужване ",
+            "contract_sponsor_raw": "СЛР Кърджали"
+        },
+        {
+            "contract_amount_raw": "149",
+            "contract_amount": 149,
+            "contract_basis_raw": "Абонамент и информационно обслужване ",
+            "contract_sponsor_raw": "РЗИ Кърджали"
+        },
+        {
+            "contract_amount_raw": "149",
+            "contract_amount": 149,
+            "contract_basis_raw": "Абонамент и информационно обслужване ",
+            "contract_sponsor_raw": "ПГИ Алеко Константинов Кърджали"
+        },
+        {
+            "contract_amount_raw": "1800",
+            "contract_amount": 1800,
+            "contract_basis_raw": "Публикуване на предизборни материали",
+            "contract_sponsor_raw": "Общински съвет на БСП Кърджали"
+        },
+        {
+            "contract_amount_raw": "209",
+            "contract_amount": 209,
+            "contract_basis_raw": "Абонамент и информационно обслужване",
+            "contract_sponsor_raw": "ОС НА БЧК - ДСХ"
+        },
+        {
+            "contract_amount_raw": "620",
+            "contract_amount": 620,
+            "contract_basis_raw": "Публикуване на предизборни материали",
+            "contract_sponsor_raw": "ПП ВОЛЯ"
+        }
+    ]
+}

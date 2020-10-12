@@ -1,0 +1,23 @@
+{
+    "legal_entity_name": "ЕТ Ипсилон - 97 - Иван Иванов",
+    "legal_entity_id": "122058669",
+    "public_company": "неприложимо",
+    "media_service_type": "Печатна медия",
+    "media_service_name": "Вестник Регион",
+    "real_owner": "Иван Тодоров Иванов",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "400",
+            "contract_amount": 400,
+            "contract_basis_raw": "Публикуване на обръщение за местни избори 2019 г. - 03.10.2019 г.",
+            "contract_sponsor_raw": "ПП БСП за България - Инициативен комитет гр. Копривщица, ЕИК: 000702014"
+        },
+        {
+            "contract_amount_raw": "678",
+            "contract_amount": 678,
+            "contract_basis_raw": "Публикуване на програма и листа за общински съветници",
+            "contract_sponsor_raw": "Местна коалиция БСП за България - БНД - Пирдоп, ЕИК: 000702014"
+        }
+    ]
+}

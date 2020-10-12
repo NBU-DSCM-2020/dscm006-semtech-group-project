@@ -1,0 +1,23 @@
+{
+    "legal_entity_name": "Сдружение с нестопанска цел  Про веритас",
+    "legal_entity_id": "177144701",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "За истината",
+    "real_owner": "Спас Цветков Спасов",
+    "executive_individual": "Спас Цветков Спасов",
+    "contracts": [
+        {
+            "contract_amount_raw": "196 000",
+            "contract_amount": 196000,
+            "contract_basis_raw": "CIV0136,20170330",
+            "contract_sponsor_raw": "Фондация Америка за България"
+        },
+        {
+            "contract_amount_raw": "100",
+            "contract_amount": 100,
+            "contract_basis_raw": "дарение",
+            "contract_sponsor_raw": "Ленко Вътев Ленков"
+        }
+    ]
+}

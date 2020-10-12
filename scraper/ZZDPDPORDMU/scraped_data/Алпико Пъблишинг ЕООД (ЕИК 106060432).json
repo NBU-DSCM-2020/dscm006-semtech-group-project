@@ -1,0 +1,65 @@
+{
+    "legal_entity_name": "Алпико Пъблишинг ЕООД",
+    "legal_entity_id": "106060432",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "Зов нюз",
+    "real_owner": "Савина Георгиева Езекиева, Йордан Георгиев Езекиев",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "84710",
+            "contract_amount": 84710,
+            "contract_basis_raw": "Безвъзмездно целево финансиране на проект Подкрепа на независимата разследваща журналистика в Северозапада",
+            "contract_sponsor_raw": "Фондация Америка за България, регистрирана по законите на САЩ"
+        },
+        {
+            "contract_amount_raw": "3000",
+            "contract_amount": 3000,
+            "contract_basis_raw": "публикуване на информационни материали в www.zovnews.com",
+            "contract_sponsor_raw": "Община Козлодуй, ЕИК 000193250"
+        },
+        {
+            "contract_amount_raw": "2880",
+            "contract_amount": 2880,
+            "contract_basis_raw": "публикуване на материали свързани с дейността на Общината в www.zovnews.com и www.vratzanews.com",
+            "contract_sponsor_raw": "Община Оряхово, ЕИК 000193414"
+        },
+        {
+            "contract_amount_raw": "150",
+            "contract_amount": 150,
+            "contract_basis_raw": "публикуване на материали",
+            "contract_sponsor_raw": "СНЦ Аз обичам Враца, ЕИК 177085936"
+        },
+        {
+            "contract_amount_raw": "840",
+            "contract_amount": 840,
+            "contract_basis_raw": "предоставяне на рекламни услуги",
+            "contract_sponsor_raw": "Водоснабдяване и Канализация ООД Враца, ЕИК 816090199"
+        },
+        {
+            "contract_amount_raw": "100",
+            "contract_amount": 100,
+            "contract_basis_raw": "предоставяне на медийни услуги в кампания за Местни избори 2019 г.",
+            "contract_sponsor_raw": "Общински съвет на БСП Враца, ИН 000702014"
+        },
+        {
+            "contract_amount_raw": "300",
+            "contract_amount": 300,
+            "contract_basis_raw": "предоставяне на медийни услуги в кампания за избор на членове на Европейски парламент от Р. България - 2019 г.",
+            "contract_sponsor_raw": "Областен съвет на БСП Враца, ЕИК 0007020140294"
+        },
+        {
+            "contract_amount_raw": "100",
+            "contract_amount": 100,
+            "contract_basis_raw": "предоставяне на медийни услуги в кампания за Местни избори 2019 г.",
+            "contract_sponsor_raw": "ПП ГЕРБ, ЕИК 175248466"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "предоставяне на медийни услуги в кампания за Местни избори 2019 г.",
+            "contract_sponsor_raw": "ПП ВМРО - БНД, ЕИК 130451348"
+        }
+    ]
+}

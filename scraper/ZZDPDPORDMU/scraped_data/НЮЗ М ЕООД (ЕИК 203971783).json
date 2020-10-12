@@ -1,0 +1,77 @@
+{
+    "legal_entity_name": "НЮЗ М ЕООД",
+    "legal_entity_id": "203971783",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "www.Shmoko.bg",
+    "real_owner": "Катерина Павлова Кайрякова",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "4000",
+            "contract_amount": 4000,
+            "contract_basis_raw": "договор от 01.01.2019 до 31.12.2019",
+            "contract_sponsor_raw": "Община Шумен - 000931721"
+        },
+        {
+            "contract_amount_raw": "1440",
+            "contract_amount": 1440,
+            "contract_basis_raw": "договор от 15.03.2019 до 15.03.2020",
+            "contract_sponsor_raw": "Община Велики Преслав - 000931625"
+        },
+        {
+            "contract_amount_raw": "1200",
+            "contract_amount": 1200,
+            "contract_basis_raw": "договор от 01.01.2019 до 01.01.2020",
+            "contract_sponsor_raw": "Община Никола Козлево - 000931568"
+        },
+        {
+            "contract_amount_raw": "1200",
+            "contract_amount": 1200,
+            "contract_basis_raw": "договор от 03.01.2019 до 03.01.2020",
+            "contract_sponsor_raw": "Община Нови Пазар - 000931575"
+        },
+        {
+            "contract_amount_raw": "1200",
+            "contract_amount": 1200,
+            "contract_basis_raw": "договор от 08.04.2019 до 08.04.2020",
+            "contract_sponsor_raw": "Община Смядово - 000931657"
+        },
+        {
+            "contract_amount_raw": "1200",
+            "contract_amount": 1200,
+            "contract_basis_raw": "договор от 01.02.2019 до 01.02.2020",
+            "contract_sponsor_raw": "В и К -гр.Шумен - 837068284"
+        },
+        {
+            "contract_amount_raw": "5000",
+            "contract_amount": 5000,
+            "contract_basis_raw": "договор от 14.01.2019 до 14.01.2020",
+            "contract_sponsor_raw": "Североизточно Държавно Предприятие-Шумен-12016 17412"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "договор от 10.10.2019 до 03.11.2019",
+            "contract_sponsor_raw": "ПП ДПС - 000707470"
+        },
+        {
+            "contract_amount_raw": "150",
+            "contract_amount": 150,
+            "contract_basis_raw": "договор от 05.10.2019 до 27.10.2019",
+            "contract_sponsor_raw": "ПП БСП - 000702014"
+        },
+        {
+            "contract_amount_raw": "300",
+            "contract_amount": 300,
+            "contract_basis_raw": "договор от 03.10.2019 до 27.10.2019",
+            "contract_sponsor_raw": "ПП ГЕРБ - 1752484666"
+        },
+        {
+            "contract_amount_raw": "600",
+            "contract_amount": 600,
+            "contract_basis_raw": "договор от 25.03.2019 до 25.03.2020",
+            "contract_sponsor_raw": "СУ Йоан Екзарх Български - Шумен - 127532060"
+        }
+    ]
+}

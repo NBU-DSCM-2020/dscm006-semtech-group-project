@@ -1,0 +1,95 @@
+{
+    "legal_entity_name": "ИНДИПЕНДЪНТ МЕДИЯ БГ ЕАД",
+    "legal_entity_id": "205737512",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "информационни сайтове dnews.bg, dsport.bg",
+    "real_owner": "Людмил Стоянов КЪРДЖИЛОВ",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "150",
+            "contract_amount": 150,
+            "contract_basis_raw": "04.10.2019- Интернет пространство",
+            "contract_sponsor_raw": "КОАЛИЦИЯ ДЕМОКРАТИЧНА БЪЛГАРИЯ-ОБЕДИНЕНИЕ-177394797"
+        },
+        {
+            "contract_amount_raw": "890",
+            "contract_amount": 890,
+            "contract_basis_raw": "01.10.2019- Интернет пространство",
+            "contract_sponsor_raw": "КОАЛИЦИЯ ДЕМОКРАТИЧНА БЪЛГАРИЯ-ОБЕДИНЕНИЕ-177394797"
+        },
+        {
+            "contract_amount_raw": "750",
+            "contract_amount": 750,
+            "contract_basis_raw": "22.10.2019- Интернет пространство",
+            "contract_sponsor_raw": "КОАЛИЦИЯ СЪЮЗ ЗА ПЛОВДИВ Ч/З ПП СЪЮЗ ЗА ПЛОВДИВ-176091306"
+        },
+        {
+            "contract_amount_raw": "1700",
+            "contract_amount": 1700,
+            "contract_basis_raw": "27.10.2019- Интернет пространство",
+            "contract_sponsor_raw": "МЕСТНА КОАЛИЦИЯ БСП ЗА БЪЛГАРИЯ-0007020140256"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "28.10.2019- Интернет пространство",
+            "contract_sponsor_raw": "МЕСТНА КОАЛИЦИЯ БСП ЗА БЪЛГАРИЯ-0007020140256"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "27.09.2019- Интернет пространство",
+            "contract_sponsor_raw": "МК СЪЮЗ НА ДЕМОКРАТИЧНИТЕ СИЛИ-130052349"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "01.10.2019- Интернет пространство",
+            "contract_sponsor_raw": "ОБЩИНСКИ СЪВЕТ НА БСП-ДОБРИЧ-0007020140730"
+        },
+        {
+            "contract_amount_raw": "600",
+            "contract_amount": 600,
+            "contract_basis_raw": "22.09.2019- Интернет пространство",
+            "contract_sponsor_raw": "ОБЩИНСКИ СЪВЕТ НА ДПС-000707470"
+        },
+        {
+            "contract_amount_raw": "860",
+            "contract_amount": 860,
+            "contract_basis_raw": "27.09.2019- Интернет пространство",
+            "contract_sponsor_raw": "ПП ВМРО - Българско национално движение-130451348"
+        },
+        {
+            "contract_amount_raw": "830",
+            "contract_amount": 830,
+            "contract_basis_raw": "27.09.2019- Интернет пространство",
+            "contract_sponsor_raw": "ПП ГЕРБ-175248466"
+        },
+        {
+            "contract_amount_raw": "1600",
+            "contract_amount": 1600,
+            "contract_basis_raw": "28.09.2019- Интернет пространство",
+            "contract_sponsor_raw": "ПП ГЕРБ-175248466"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "28.10.2019- Интернет пространство",
+            "contract_sponsor_raw": "ПП ГЕРБ-175248466"
+        },
+        {
+            "contract_amount_raw": "200",
+            "contract_amount": 200,
+            "contract_basis_raw": "07.10.2019- Интернет пространство",
+            "contract_sponsor_raw": "ПП ДПС-000707470"
+        },
+        {
+            "contract_amount_raw": "360",
+            "contract_amount": 360,
+            "contract_basis_raw": "03.10.2019- Интернет пространство",
+            "contract_sponsor_raw": "ПП СДС-130052349"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "legal_entity_name": "Тракийски университет",
+    "legal_entity_id": "123024538",
+    "public_company": "неприложимо",
+    "media_service_type": "Печатна медия; Печатна медия; Печатна медия; Печатна медия; Печатна медия; Печатна медия",
+    "media_service_name": "Trakia Journal of Sciences; Bulgaria Journal of Veterinary Medicine; Agricultural Science and Technology; Applied Researches in Technics, Technologies and Education; Годишник на Педагогически факултет; Педагогически форум ",
+    "real_owner": "Добри Желев ЯРКОВ",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "13300",
+            "contract_amount": 13300,
+            "contract_basis_raw": "спечелен конкурс",
+            "contract_sponsor_raw": "Фонд Научни изследвания, ЕИК 175467353"
+        },
+        {
+            "contract_amount_raw": "20000",
+            "contract_amount": 20000,
+            "contract_basis_raw": "субсидия",
+            "contract_sponsor_raw": "Тракийски университет, ЕИК 123024538"
+        },
+        {
+            "contract_amount_raw": "7000",
+            "contract_amount": 7000,
+            "contract_basis_raw": "КП-06-НП/56 от 12.12.2018 Финансова помощ за издаване на Agricultural Science and Technology",
+            "contract_sponsor_raw": "Фонд научни изследвания, ЕИК 175467353"
+        },
+        {
+            "contract_amount_raw": "6300",
+            "contract_amount": 6300,
+            "contract_basis_raw": "КП-06-НП/58 от 12.12.2018 Финансова помощ за издаване на Bulgarian Journal of Veterinary Medicine",
+            "contract_sponsor_raw": "Фонд научни изследвания,  ЕИК 175467353"
+        }
+    ]
+}

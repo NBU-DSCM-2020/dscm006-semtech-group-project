@@ -1,0 +1,71 @@
+{
+    "legal_entity_name": "Издателска къща Хроника -ГД ЕООД",
+    "legal_entity_id": "101608871",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "електронна медия ",
+    "real_owner": "Мария Томова Енчева",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "300 лева",
+            "contract_amount": 300,
+            "contract_basis_raw": "Поздравителни адреси",
+            "contract_sponsor_raw": "Община Сатовча, ЕИК 000024962"
+        },
+        {
+            "contract_amount_raw": "750 лева",
+            "contract_amount": 750,
+            "contract_basis_raw": "Поздравителни адреси",
+            "contract_sponsor_raw": "Общински съвет на БСП-Гоце Делчев, ЕИК 000024745"
+        },
+        {
+            "contract_amount_raw": "50 лева",
+            "contract_amount": 50,
+            "contract_basis_raw": "Поздравителни адреси",
+            "contract_sponsor_raw": "Трето ОУ - гр.Гоце Делчев, ЕИК 000010902"
+        },
+        {
+            "contract_amount_raw": "200 лева",
+            "contract_amount": 200,
+            "contract_basis_raw": "Поздравителни адреси",
+            "contract_sponsor_raw": "Община Гоце Делчев, ЕИК 000024745"
+        },
+        {
+            "contract_amount_raw": "50 лева",
+            "contract_amount": 50,
+            "contract_basis_raw": "Поздравителни адреси",
+            "contract_sponsor_raw": "ТП ДГС Гоце Делчев, ЕИК 2016275060142"
+        },
+        {
+            "contract_amount_raw": "50 лева",
+            "contract_amount": 50,
+            "contract_basis_raw": "Поздравителни адреси",
+            "contract_sponsor_raw": "Югозападно държавно предприятие, ЕИК 201627506"
+        },
+        {
+            "contract_amount_raw": "100 лева",
+            "contract_amount": 100,
+            "contract_basis_raw": "Поздравителни адреси",
+            "contract_sponsor_raw": "Първо ОУ - гр.Гоце Делчев, ЕИК 000012522"
+        },
+        {
+            "contract_amount_raw": "300 лева",
+            "contract_amount": 300,
+            "contract_basis_raw": "Поздравителни адреси",
+            "contract_sponsor_raw": "Второ ОУ - гр.Гоце Делчев, ЕИК "
+        },
+        {
+            "contract_amount_raw": "150 лева",
+            "contract_amount": 150,
+            "contract_basis_raw": "Поздравителни адреси",
+            "contract_sponsor_raw": "ПМГ Яне Сандански - гр.Гоце Делчев, ЕИК 200233526"
+        },
+        {
+            "contract_amount_raw": "100 лева",
+            "contract_amount": 100,
+            "contract_basis_raw": "Поздравителни адреси",
+            "contract_sponsor_raw": "НПГ Димитър Талев - гр.Гоце Делчев, ЕИК 000014249 "
+        }
+    ]
+}

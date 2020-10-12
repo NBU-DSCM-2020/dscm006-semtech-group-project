@@ -1,0 +1,263 @@
+{
+    "legal_entity_name": "КОНКУРЕНТ НЮЗ ЕООД",
+    "legal_entity_id": "200137677",
+    "public_company": "неприложимо",
+    "media_service_type": "Печатна медия",
+    "media_service_name": "Издателска дейност",
+    "real_owner": "Димитър Стойков Николов",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "7200",
+            "contract_amount": 7200,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "Община Борован"
+        },
+        {
+            "contract_amount_raw": "1800",
+            "contract_amount": 1800,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "ДП РАО"
+        },
+        {
+            "contract_amount_raw": "6999,84",
+            "contract_amount": 6999,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "Община Оряхово "
+        },
+        {
+            "contract_amount_raw": "2400",
+            "contract_amount": 2400,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "Община Роман"
+        },
+        {
+            "contract_amount_raw": "2000",
+            "contract_amount": 2000,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "Община Якимово"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "Община Вълчедръм"
+        },
+        {
+            "contract_amount_raw": "3600",
+            "contract_amount": 3600,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "Община Бяла Слатина"
+        },
+        {
+            "contract_amount_raw": "3600",
+            "contract_amount": 3600,
+            "contract_basis_raw": "Реклама и информационно обслужване",
+            "contract_sponsor_raw": "Комплексен онкологичен център ЕООД"
+        },
+        {
+            "contract_amount_raw": "4320",
+            "contract_amount": 4320,
+            "contract_basis_raw": "Публикуване на информационни съобщения, обяви и снимки",
+            "contract_sponsor_raw": "АЕЦ Козлодуй ЕАД"
+        },
+        {
+            "contract_amount_raw": "1800",
+            "contract_amount": 1800,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "Община Козлодуй"
+        },
+        {
+            "contract_amount_raw": "2400",
+            "contract_amount": 2400,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "МБАЛ Д-р Стамен Илиев"
+        },
+        {
+            "contract_amount_raw": "4800",
+            "contract_amount": 4800,
+            "contract_basis_raw": "Реклама и информационно обслужване",
+            "contract_sponsor_raw": "ВиК ООД"
+        },
+        {
+            "contract_amount_raw": "3600",
+            "contract_amount": 3600,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "Община Мездра"
+        },
+        {
+            "contract_amount_raw": "275",
+            "contract_amount": 275,
+            "contract_basis_raw": "Отразяване на дейности по НП Иновации в действие",
+            "contract_sponsor_raw": "СУ Козма Тричков"
+        },
+        {
+            "contract_amount_raw": "1800",
+            "contract_amount": 1800,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "Община Хайредин"
+        },
+        {
+            "contract_amount_raw": "8400",
+            "contract_amount": 8400,
+            "contract_basis_raw": "Информационно обслужване по фактури",
+            "contract_sponsor_raw": "Община Враца"
+        },
+        {
+            "contract_amount_raw": "7827",
+            "contract_amount": 7827,
+            "contract_basis_raw": "Информационно обслужване по фактури",
+            "contract_sponsor_raw": "Община Монтана"
+        },
+        {
+            "contract_amount_raw": "4200",
+            "contract_amount": 4200,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "Община Берковица"
+        },
+        {
+            "contract_amount_raw": "900",
+            "contract_amount": 900,
+            "contract_basis_raw": "Реклама и информационно обслужване",
+            "contract_sponsor_raw": "СУ Христо Ботев"
+        },
+        {
+            "contract_amount_raw": "480",
+            "contract_amount": 480,
+            "contract_basis_raw": "Реклама и информационно обслужване",
+            "contract_sponsor_raw": "СУ Отец Паисий"
+        },
+        {
+            "contract_amount_raw": "300",
+            "contract_amount": 300,
+            "contract_basis_raw": "Реклама и информационно обслужване",
+            "contract_sponsor_raw": "ДГ Единство Творчество Красота"
+        },
+        {
+            "contract_amount_raw": "528",
+            "contract_amount": 528,
+            "contract_basis_raw": "Реклама и информационно обслужване",
+            "contract_sponsor_raw": "СУ Васил Кънчов"
+        },
+        {
+            "contract_amount_raw": "360",
+            "contract_amount": 360,
+            "contract_basis_raw": "Реклама и информационно обслужване",
+            "contract_sponsor_raw": "СУ Козма Тричков"
+        },
+        {
+            "contract_amount_raw": "360",
+            "contract_amount": 360,
+            "contract_basis_raw": "Реклама и информационно обслужване",
+            "contract_sponsor_raw": "СУ Никола Войводов"
+        },
+        {
+            "contract_amount_raw": "360",
+            "contract_amount": 360,
+            "contract_basis_raw": "Реклама и информационно обслужване",
+            "contract_sponsor_raw": "ПГТР-Враца"
+        },
+        {
+            "contract_amount_raw": "480",
+            "contract_amount": 480,
+            "contract_basis_raw": "Реклама и информационно обслужване",
+            "contract_sponsor_raw": "ОУ Васил Левски"
+        },
+        {
+            "contract_amount_raw": "360",
+            "contract_amount": 360,
+            "contract_basis_raw": "Реклама и информационно обслужване",
+            "contract_sponsor_raw": "ПТГ Н.Й.Вапцаров"
+        },
+        {
+            "contract_amount_raw": "360",
+            "contract_amount": 360,
+            "contract_basis_raw": "Реклама и информационно обслужване",
+            "contract_sponsor_raw": "НУ Софроний Врачански"
+        },
+        {
+            "contract_amount_raw": "1800",
+            "contract_amount": 1800,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "Областен съвет на БСП - Видин"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "Публикации отразяващи кампания за Европейски избори",
+            "contract_sponsor_raw": "Общински съвет на БСП - Видин"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "Публикации отразяващи кампания за Европейски избори",
+            "contract_sponsor_raw": "ПП ГЕРБ - Враца"
+        },
+        {
+            "contract_amount_raw": "600",
+            "contract_amount": 600,
+            "contract_basis_raw": "Публикации отразяващи кампания за Европейски избори",
+            "contract_sponsor_raw": "ДПС"
+        },
+        {
+            "contract_amount_raw": "200",
+            "contract_amount": 200,
+            "contract_basis_raw": "Публикации отразяващи кампания за Европейски избори",
+            "contract_sponsor_raw": "БСП За България"
+        },
+        {
+            "contract_amount_raw": "960",
+            "contract_amount": 960,
+            "contract_basis_raw": "Публикации отразяващи кампания Местни избори 2019",
+            "contract_sponsor_raw": "Областен съвет на БСП - Враца"
+        },
+        {
+            "contract_amount_raw": "1200",
+            "contract_amount": 1200,
+            "contract_basis_raw": "Публикации отразяващи кампания Местни избори 2019",
+            "contract_sponsor_raw": "ПП ГЕРБ - Монтана"
+        },
+        {
+            "contract_amount_raw": "240",
+            "contract_amount": 240,
+            "contract_basis_raw": "Публикации отразяващи кампания Местни избори 2019",
+            "contract_sponsor_raw": "ЗНС"
+        },
+        {
+            "contract_amount_raw": "400",
+            "contract_amount": 400,
+            "contract_basis_raw": "Публикации отразяващи кампания Местни избори 2019",
+            "contract_sponsor_raw": "ПП ДПС"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "Публикации отразяващи кампания Местни избори 2019",
+            "contract_sponsor_raw": "Общински съвет на БСП - Враца"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "Публикации отразяващи кампания Местни избори 2019",
+            "contract_sponsor_raw": "ПП ГЕРБ - Враца"
+        },
+        {
+            "contract_amount_raw": "900",
+            "contract_amount": 900,
+            "contract_basis_raw": "Публикации отразяващи кампания Местни избори 2019",
+            "contract_sponsor_raw": "ПП ВМРО -БНД"
+        },
+        {
+            "contract_amount_raw": "2800",
+            "contract_amount": 2800,
+            "contract_basis_raw": "Публикации отразяващи кампания Местни избори 2019",
+            "contract_sponsor_raw": "ПП Българска Нова Демокрация"
+        },
+        {
+            "contract_amount_raw": "1440",
+            "contract_amount": 1440,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "Община Ружинци"
+        }
+    ]
+}

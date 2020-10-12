@@ -1,0 +1,47 @@
+{
+    "legal_entity_name": "ФАКТОР БГ ЕООД",
+    "legal_entity_id": "205716799",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "taran.news",
+    "real_owner": "Христо Петков Христов ",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "1230",
+            "contract_amount": 1230,
+            "contract_basis_raw": "РЕКЛАМА",
+            "contract_sponsor_raw": "Империал туризъм ЕАД, ЕИК 203805555"
+        },
+        {
+            "contract_amount_raw": "630",
+            "contract_amount": 630,
+            "contract_basis_raw": "РЕКЛАМА",
+            "contract_sponsor_raw": "АНДЖЕЛА 2014 ООД, ЕИК 202922032 "
+        },
+        {
+            "contract_amount_raw": "3900",
+            "contract_amount": 3900,
+            "contract_basis_raw": "31.07.2019 г. Информационно обслужване",
+            "contract_sponsor_raw": "Сдружение БАХОДЗ Живот, ЕИК 126609931 "
+        },
+        {
+            "contract_amount_raw": "50",
+            "contract_amount": 50,
+            "contract_basis_raw": "10.09.2019 г. Реклама",
+            "contract_sponsor_raw": "ОБЩИНА ДИМИТРОВГРАД , Булстат 000903533 "
+        },
+        {
+            "contract_amount_raw": "800",
+            "contract_amount": 800,
+            "contract_basis_raw": "18.10.2019 г. Информационно обслужване",
+            "contract_sponsor_raw": "ПОЛИТИЧЕСКА ПАРТИЯ ГЕРБ, Булстат 175248466 "
+        },
+        {
+            "contract_amount_raw": "100",
+            "contract_amount": 100,
+            "contract_basis_raw": "24.10.2019 г. Публикация",
+            "contract_sponsor_raw": "Общ. съвет на  БСП - Х-во, Булстат 0007020140050 "
+        }
+    ]
+}

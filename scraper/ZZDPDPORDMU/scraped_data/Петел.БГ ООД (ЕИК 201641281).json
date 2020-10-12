@@ -1,0 +1,65 @@
+{
+    "legal_entity_name": "Петел.БГ ООД",
+    "legal_entity_id": "201641281",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "petel.bg",
+    "real_owner": "Моника Владимирова Гуцанова, Мартин Драгомиров Марков",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "7200",
+            "contract_amount": 7200,
+            "contract_basis_raw": "Банер и ПР Публикации",
+            "contract_sponsor_raw": "Дворец на културата и спорта ЕАД, ЕИК 103156991, гр Варна, бул Княз Борис I"
+        },
+        {
+            "contract_amount_raw": "1173,5",
+            "contract_amount": 1173,
+            "contract_basis_raw": "ПР Публикации",
+            "contract_sponsor_raw": "Делегация на българските евродепутати социалисти в ЕП, ЕИК 175848450,  БрюкселRue Wiertz 60"
+        },
+        {
+            "contract_amount_raw": "7200",
+            "contract_amount": 7200,
+            "contract_basis_raw": "ПР Публикации",
+            "contract_sponsor_raw": "МБАЛ Св АННА АД, ЕИК 000090019, гр Варна, бул.Цар Освободител 100"
+        },
+        {
+            "contract_amount_raw": "3240",
+            "contract_amount": 3240,
+            "contract_basis_raw": "ПР Публикации",
+            "contract_sponsor_raw": "Пристанище Варна ЕАД, ЕИК 103061301, гр Варна, пл.Славейков № 1"
+        },
+        {
+            "contract_amount_raw": "8568",
+            "contract_amount": 8568,
+            "contract_basis_raw": "Банер и ПР Публикации",
+            "contract_sponsor_raw": "СОК Камчия ЕАД, ЕИК 102850750, гр Бургас, ул. Индустриална № 3, ет 10"
+        },
+        {
+            "contract_amount_raw": "1386",
+            "contract_amount": 1386,
+            "contract_basis_raw": "Банер и ПР Публикации",
+            "contract_sponsor_raw": "Коалиция Коалиция за България ЕИК 176734649, гр София, ул Врабча 23"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "Банер реклама",
+            "contract_sponsor_raw": "ПП Национален фронт за спасение на България, ЕИК 176129116, гр София, бул Шипченски проход № 63"
+        },
+        {
+            "contract_amount_raw": "2041,2",
+            "contract_amount": 2041,
+            "contract_basis_raw": "Банер реклама и ПР Материали",
+            "contract_sponsor_raw": "ПП Възраждане, ЕИК 176845471, гр София бул Христо Ботев 11"
+        },
+        {
+            "contract_amount_raw": "280,8",
+            "contract_amount": 280,
+            "contract_basis_raw": "ПР Материал",
+            "contract_sponsor_raw": "КЛМ Емо ЕООД, ЕИК 202467327"
+        }
+    ]
+}

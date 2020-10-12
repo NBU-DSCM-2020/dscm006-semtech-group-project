@@ -1,0 +1,47 @@
+{
+    "legal_entity_name": "Уеб Медия Груп АД",
+    "legal_entity_id": "131387286",
+    "public_company": "Уеб Медия Груп АД е публично дружество по смисъла на чл. 110 от ЗППЦК, поради което е налице изключението предвидено в чл. 7а, ал.3 във вр. с § 1. т.10 от ЗЗДПДПОРДМУ във вр. с § 2, ал.1, т.1 от ЗМИП. Уеб Медия Груп АД  е под надзора на Комисия за финансов надзор.",
+    "media_service_type": "Онлайн новинарско издание; Онлайн новинарско издание; Онлайн новинарско издание; Онлайн новинарско издание",
+    "media_service_name": "news.bg; money.bg; topsport.bg; lifestyle.bg",
+    "real_owner": "0",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "12000",
+            "contract_amount": 12000,
+            "contract_basis_raw": "Договор за ПР и рекламно обслужване",
+            "contract_sponsor_raw": "Българска банка за развитие"
+        },
+        {
+            "contract_amount_raw": "12833,33",
+            "contract_amount": 12833,
+            "contract_basis_raw": "Договор за ПР и рекламно обслужване",
+            "contract_sponsor_raw": "ПП ВМРО-БНД"
+        },
+        {
+            "contract_amount_raw": "10500",
+            "contract_amount": 10500,
+            "contract_basis_raw": "Договор за ПР и рекламно обслужване",
+            "contract_sponsor_raw": "ПП МИР"
+        },
+        {
+            "contract_amount_raw": "6600",
+            "contract_amount": 6600,
+            "contract_basis_raw": "Договор за ПР и рекламно обслужване",
+            "contract_sponsor_raw": "ПП Възраждане"
+        },
+        {
+            "contract_amount_raw": "4000",
+            "contract_amount": 4000,
+            "contract_basis_raw": "Договор за ПР и рекламно обслужване",
+            "contract_sponsor_raw": "Централна избирателна комисия"
+        },
+        {
+            "contract_amount_raw": "1500",
+            "contract_amount": 1500,
+            "contract_basis_raw": "Договор за ПР и рекламно обслужване",
+            "contract_sponsor_raw": "ПП Движение България на гражданите"
+        }
+    ]
+}

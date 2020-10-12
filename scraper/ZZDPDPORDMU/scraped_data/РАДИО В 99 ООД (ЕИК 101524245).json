@@ -1,0 +1,317 @@
+{
+    "legal_entity_name": "РАДИО В 99 ООД",
+    "legal_entity_id": "101524245",
+    "public_company": "неприложимо",
+    "media_service_type": "Радио",
+    "media_service_name": "РАДИО В 99",
+    "real_owner": "ИВАН АНГЕЛОВ ВОЙНОВ",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "30",
+            "contract_amount": 30,
+            "contract_basis_raw": "съобщение",
+            "contract_sponsor_raw": "Ангел Живков"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "сесия",
+            "contract_sponsor_raw": "Ангел Гераксиев"
+        },
+        {
+            "contract_amount_raw": "40",
+            "contract_amount": 40,
+            "contract_basis_raw": "съобщение",
+            "contract_sponsor_raw": "Росица Димитрова"
+        },
+        {
+            "contract_amount_raw": "425",
+            "contract_amount": 425,
+            "contract_basis_raw": "сесия",
+            "contract_sponsor_raw": "Ангел Гераксиев"
+        },
+        {
+            "contract_amount_raw": "80",
+            "contract_amount": 80,
+            "contract_basis_raw": "излъчване на спот",
+            "contract_sponsor_raw": "Симана Марковска"
+        },
+        {
+            "contract_amount_raw": "50",
+            "contract_amount": 50,
+            "contract_basis_raw": "съобщение",
+            "contract_sponsor_raw": "Елка Божикова"
+        },
+        {
+            "contract_amount_raw": "350",
+            "contract_amount": 350,
+            "contract_basis_raw": "сесия",
+            "contract_sponsor_raw": "Ангел Гераксиев"
+        },
+        {
+            "contract_amount_raw": "30",
+            "contract_amount": 30,
+            "contract_basis_raw": "съобщение",
+            "contract_sponsor_raw": "Росица Димитрова"
+        },
+        {
+            "contract_amount_raw": "50",
+            "contract_amount": 50,
+            "contract_basis_raw": "спот",
+            "contract_sponsor_raw": "Валери Сарандев"
+        },
+        {
+            "contract_amount_raw": "50",
+            "contract_amount": 50,
+            "contract_basis_raw": "спот",
+            "contract_sponsor_raw": "Бойко Борисов"
+        },
+        {
+            "contract_amount_raw": "50",
+            "contract_amount": 50,
+            "contract_basis_raw": "спот",
+            "contract_sponsor_raw": "Валери Сарандев"
+        },
+        {
+            "contract_amount_raw": "100",
+            "contract_amount": 100,
+            "contract_basis_raw": "спот",
+            "contract_sponsor_raw": "Минка Капитанова"
+        },
+        {
+            "contract_amount_raw": "100",
+            "contract_amount": 100,
+            "contract_basis_raw": "спот",
+            "contract_sponsor_raw": "Людмил Терзиев"
+        },
+        {
+            "contract_amount_raw": "160",
+            "contract_amount": 160,
+            "contract_basis_raw": "спот",
+            "contract_sponsor_raw": "Людмил Терзиев"
+        },
+        {
+            "contract_amount_raw": "350",
+            "contract_amount": 350,
+            "contract_basis_raw": "сесия",
+            "contract_sponsor_raw": "Ангел Гераксиев"
+        },
+        {
+            "contract_amount_raw": "150",
+            "contract_amount": 150,
+            "contract_basis_raw": "съобщение прием",
+            "contract_sponsor_raw": "Елка Божикова"
+        },
+        {
+            "contract_amount_raw": "200",
+            "contract_amount": 200,
+            "contract_basis_raw": "съобщение прием",
+            "contract_sponsor_raw": "Мария Георгиева"
+        },
+        {
+            "contract_amount_raw": "20",
+            "contract_amount": 20,
+            "contract_basis_raw": "съобщение",
+            "contract_sponsor_raw": "Мая Стоицева"
+        },
+        {
+            "contract_amount_raw": "210",
+            "contract_amount": 210,
+            "contract_basis_raw": "договор избори европейски парламент",
+            "contract_sponsor_raw": "Валери Сарандев"
+        },
+        {
+            "contract_amount_raw": "40",
+            "contract_amount": 40,
+            "contract_basis_raw": "спот",
+            "contract_sponsor_raw": "Мария Герова"
+        },
+        {
+            "contract_amount_raw": "200",
+            "contract_amount": 200,
+            "contract_basis_raw": "съобщение прием",
+            "contract_sponsor_raw": "Елка Божикова"
+        },
+        {
+            "contract_amount_raw": "425",
+            "contract_amount": 425,
+            "contract_basis_raw": "сесия",
+            "contract_sponsor_raw": "Ангел Гераксиев"
+        },
+        {
+            "contract_amount_raw": "200",
+            "contract_amount": 200,
+            "contract_basis_raw": "съобщение прием",
+            "contract_sponsor_raw": "Мария Георгиева"
+        },
+        {
+            "contract_amount_raw": "200",
+            "contract_amount": 200,
+            "contract_basis_raw": "съобщение прием",
+            "contract_sponsor_raw": "Ангел Живков"
+        },
+        {
+            "contract_amount_raw": "40",
+            "contract_amount": 40,
+            "contract_basis_raw": "съобщение",
+            "contract_sponsor_raw": "Таня Иванова"
+        },
+        {
+            "contract_amount_raw": "200",
+            "contract_amount": 200,
+            "contract_basis_raw": "съобщение прием",
+            "contract_sponsor_raw": "Ангел Живков"
+        },
+        {
+            "contract_amount_raw": "200",
+            "contract_amount": 200,
+            "contract_basis_raw": "съобщение курс",
+            "contract_sponsor_raw": "Румен Георгиев"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "сесия",
+            "contract_sponsor_raw": "Ангел Гераксиев"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "сесия",
+            "contract_sponsor_raw": "Ангел Гераксиев"
+        },
+        {
+            "contract_amount_raw": "150",
+            "contract_amount": 150,
+            "contract_basis_raw": "съобщение",
+            "contract_sponsor_raw": "Елка Божикова"
+        },
+        {
+            "contract_amount_raw": "100",
+            "contract_amount": 100,
+            "contract_basis_raw": "съобщение",
+            "contract_sponsor_raw": "Минка Капитанова"
+        },
+        {
+            "contract_amount_raw": "100",
+            "contract_amount": 100,
+            "contract_basis_raw": "съобщение",
+            "contract_sponsor_raw": "Минка Капитанова"
+        },
+        {
+            "contract_amount_raw": "80",
+            "contract_amount": 80,
+            "contract_basis_raw": "съобщение публично обсъждане",
+            "contract_sponsor_raw": "Минка Капитанова"
+        },
+        {
+            "contract_amount_raw": "100",
+            "contract_amount": 100,
+            "contract_basis_raw": "съобщение",
+            "contract_sponsor_raw": "Бойко Борисов"
+        },
+        {
+            "contract_amount_raw": "350",
+            "contract_amount": 350,
+            "contract_basis_raw": "сесия",
+            "contract_sponsor_raw": "Ангел Гераксиев"
+        },
+        {
+            "contract_amount_raw": "290",
+            "contract_amount": 290,
+            "contract_basis_raw": "договор месни избори",
+            "contract_sponsor_raw": "Валери Сарандев"
+        },
+        {
+            "contract_amount_raw": "240",
+            "contract_amount": 240,
+            "contract_basis_raw": "договор месни избори",
+            "contract_sponsor_raw": "Валери Сарандев"
+        },
+        {
+            "contract_amount_raw": "210",
+            "contract_amount": 210,
+            "contract_basis_raw": "излъчване на спот",
+            "contract_sponsor_raw": "Багрян Кавалов"
+        },
+        {
+            "contract_amount_raw": "50",
+            "contract_amount": 50,
+            "contract_basis_raw": "договор месни избори",
+            "contract_sponsor_raw": "Валери Сарандев"
+        },
+        {
+            "contract_amount_raw": "350",
+            "contract_amount": 350,
+            "contract_basis_raw": "сесия",
+            "contract_sponsor_raw": "Димитър Балтаджиев"
+        },
+        {
+            "contract_amount_raw": "350",
+            "contract_amount": 350,
+            "contract_basis_raw": "сесия",
+            "contract_sponsor_raw": "Димитър Балтаджиев"
+        },
+        {
+            "contract_amount_raw": "30",
+            "contract_amount": 30,
+            "contract_basis_raw": "спот",
+            "contract_sponsor_raw": "Росица Димитрова"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "медийно обслужване",
+            "contract_sponsor_raw": "Людмил Терзиев"
+        },
+        {
+            "contract_amount_raw": "50",
+            "contract_amount": 50,
+            "contract_basis_raw": "съобщение",
+            "contract_sponsor_raw": "Валери Сарандев"
+        },
+        {
+            "contract_amount_raw": "50",
+            "contract_amount": 50,
+            "contract_basis_raw": "съобщение",
+            "contract_sponsor_raw": "Валери Сарандев"
+        },
+        {
+            "contract_amount_raw": "100",
+            "contract_amount": 100,
+            "contract_basis_raw": "съобщение",
+            "contract_sponsor_raw": "Бойко Борисов"
+        },
+        {
+            "contract_amount_raw": "100",
+            "contract_amount": 100,
+            "contract_basis_raw": "съобщение",
+            "contract_sponsor_raw": "Елка Божикова"
+        },
+        {
+            "contract_amount_raw": "100",
+            "contract_amount": 100,
+            "contract_basis_raw": "съобщение",
+            "contract_sponsor_raw": "Феим Иса"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "сесия",
+            "contract_sponsor_raw": "Димитър Балтаджиев"
+        },
+        {
+            "contract_amount_raw": "100",
+            "contract_amount": 100,
+            "contract_basis_raw": "съобщение публично обсъждане",
+            "contract_sponsor_raw": "Феим Иса"
+        },
+        {
+            "contract_amount_raw": "50",
+            "contract_amount": 50,
+            "contract_basis_raw": "спот",
+            "contract_sponsor_raw": "Мария Герова"
+        }
+    ]
+}

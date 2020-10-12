@@ -1,0 +1,71 @@
+{
+    "legal_entity_name": "БРАНД МЕДИЯ БЪЛГАРИЯ ЕООД",
+    "legal_entity_id": "202660651",
+    "public_company": "неприложимо",
+    "media_service_type": "Печатна медия; Онлайн новинарско издание; Печатна медия",
+    "media_service_name": "вестник кмета.bg; www.kmeta.bg; разпространение на луксозно издание",
+    "real_owner": "БОЯН БОЯНОВ ТОМОВ",
+    "executive_individual": "18000",
+    "contracts": [
+        {
+            "contract_amount_raw": "6000",
+            "contract_amount": 6000,
+            "contract_basis_raw": "Медийно и информационно обслужване- 01.01.19",
+            "contract_sponsor_raw": "Община Поморие ЕИК 000057179"
+        },
+        {
+            "contract_amount_raw": "3000",
+            "contract_amount": 3000,
+            "contract_basis_raw": "Поставяне на рекламен банер в ел.издание - 26.02.19",
+            "contract_sponsor_raw": "Община Русе ЕИК 000530632"
+        },
+        {
+            "contract_amount_raw": "2000",
+            "contract_amount": 2000,
+            "contract_basis_raw": "Медийно и информационно обслужване -01.03.19",
+            "contract_sponsor_raw": "Община Плевен ЕИК 000413974"
+        },
+        {
+            "contract_amount_raw": "20000",
+            "contract_amount": 20000,
+            "contract_basis_raw": "Медийно и информационно обслужване  -10.04.19",
+            "contract_sponsor_raw": "Благоевград фест ЕООД ЕИК204913231"
+        },
+        {
+            "contract_amount_raw": "3600",
+            "contract_amount": 3600,
+            "contract_basis_raw": "Медийно и информационно обслужване  -08.05.19",
+            "contract_sponsor_raw": "Община Перник ЕИК 000386751"
+        },
+        {
+            "contract_amount_raw": "18000",
+            "contract_amount": 18000,
+            "contract_basis_raw": "Медийно и информационно обслужване -18.06.19",
+            "contract_sponsor_raw": "Община Стара Загора ЕИК 000818022"
+        },
+        {
+            "contract_amount_raw": "3135,35",
+            "contract_amount": 3135,
+            "contract_basis_raw": "Медийно парньорство -28.08.19",
+            "contract_sponsor_raw": "БНТ ЕИК 000672350"
+        },
+        {
+            "contract_amount_raw": "26600",
+            "contract_amount": 26600,
+            "contract_basis_raw": "Отпечатване на авторско двуезично издание с цел популяризиране на общините като туристически дестинации България : Туризъм,Фестивали,Традиции - 04.04.19",
+            "contract_sponsor_raw": "Министерство на туризма ЕИК 176789478"
+        },
+        {
+            "contract_amount_raw": "28000",
+            "contract_amount": 28000,
+            "contract_basis_raw": "Продажба на авторско двуезично изданиеБългария : Туризъм,Фестивали,Традиции- 09.04.19",
+            "contract_sponsor_raw": "Столична община ЕИК 000696327"
+        },
+        {
+            "contract_amount_raw": "18502,5",
+            "contract_amount": 18502,
+            "contract_basis_raw": "Продажба на авторско луксозно издание Инвестиции и региони-21.06.19",
+            "contract_sponsor_raw": "Българска агенция за инвестиции ЕИК 831910252"
+        }
+    ]
+}

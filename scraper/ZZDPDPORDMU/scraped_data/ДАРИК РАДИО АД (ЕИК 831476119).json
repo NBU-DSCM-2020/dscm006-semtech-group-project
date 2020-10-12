@@ -1,0 +1,1811 @@
+{
+    "legal_entity_name": "ДАРИК РАДИО АД",
+    "legal_entity_id": "831476119",
+    "public_company": "неприложимо",
+    "media_service_type": "Радио",
+    "media_service_name": "ДАРИК РАДИО",
+    "real_owner": "РАДОСВЕТ КРУМОВ РАДЕВ",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "100 000",
+            "contract_amount": 100000,
+            "contract_basis_raw": "Договор за заем",
+            "contract_sponsor_raw": "МАГНОЛИЯ КЛУБ АД/121088136"
+        },
+        {
+            "contract_amount_raw": "260 000",
+            "contract_amount": 260000,
+            "contract_basis_raw": "Договор за заем",
+            "contract_sponsor_raw": "РЕКЛАМНА АГЕНЦИЯ ДАРИК (РАД) ЕООД/131185270"
+        },
+        {
+            "contract_amount_raw": "830 000",
+            "contract_amount": 830000,
+            "contract_basis_raw": "Договор за заем",
+            "contract_sponsor_raw": "РЕКЛАМНА АГЕНЦИЯ ДАРИК (РАД) ЕООД/131185270"
+        },
+        {
+            "contract_amount_raw": "101 400",
+            "contract_amount": 101400,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "АГЕНЦИЯ ПО ВПИСВАНИЯТА, 131282355"
+        },
+        {
+            "contract_amount_raw": "59940",
+            "contract_amount": 59940,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "АЕЦ КОЗЛОДУЙ ЕАД, 106513772"
+        },
+        {
+            "contract_amount_raw": "2400",
+            "contract_amount": 2400,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "БЛАГОЕВГРАД ФЕСТ ЕООД, 204913231"
+        },
+        {
+            "contract_amount_raw": "1584",
+            "contract_amount": 1584,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "В И К ООД ВРАЦА, 816090199"
+        },
+        {
+            "contract_amount_raw": "3600",
+            "contract_amount": 3600,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "В И К РУСЕ ООД, 827184123"
+        },
+        {
+            "contract_amount_raw": "2880",
+            "contract_amount": 2880,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ВИК ЕООД Стара Загора, 833066300"
+        },
+        {
+            "contract_amount_raw": "2880",
+            "contract_amount": 2880,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ВИК СЛИВЕН ООД, 829053806"
+        },
+        {
+            "contract_amount_raw": "1608",
+            "contract_amount": 1608,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ВОДОСНАБДЯВАНЕ И КАНАЛИЗАЦИЯ ДОБРИЧ АД, 204219357"
+        },
+        {
+            "contract_amount_raw": "240",
+            "contract_amount": 240,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ВСУЗАХАРИ СТОЯНОВ, 000044064"
+        },
+        {
+            "contract_amount_raw": "1152",
+            "contract_amount": 1152,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ДЖЕНЕРАЛИ ЗАСТРАХОВАНЕ АД , 030269049"
+        },
+        {
+            "contract_amount_raw": "468",
+            "contract_amount": 468,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ДИРЕКЦИЯ РЕГИОНАЛЕН ДЪРЖАВЕН АРХИВ – МОНТАНА, 0006976000259"
+        },
+        {
+            "contract_amount_raw": "2400",
+            "contract_amount": 2400,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ДКИ КЦ ДВОРЕЦА, 124609886"
+        },
+        {
+            "contract_amount_raw": "600",
+            "contract_amount": 600,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ДОБРИЧКИ ПАНАИР АД, 834017612"
+        },
+        {
+            "contract_amount_raw": "1944",
+            "contract_amount": 1944,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ДОБРИЧКИ ПАНАИР АД, 834017612"
+        },
+        {
+            "contract_amount_raw": "103 680",
+            "contract_amount": 103680,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ДП БЪЛГАРСКИ СПОРТЕН ТОТАЛИЗАТОР, 202766380"
+        },
+        {
+            "contract_amount_raw": "23886",
+            "contract_amount": 23886,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ДП РЪКОВОДСТВО НА ВЪЗДУШНОТО ДВИЖЕНИЕ, 000697179"
+        },
+        {
+            "contract_amount_raw": "36",
+            "contract_amount": 36,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ДЪРЖАВЕН КУКЛЕН ТЕАТЪР Сливен, 119093496"
+        },
+        {
+            "contract_amount_raw": "62250",
+            "contract_amount": 62250,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ДЪРЖАВЕН ФОНД ЗЕМЕДЕЛИЕ, 121100421"
+        },
+        {
+            "contract_amount_raw": "30240",
+            "contract_amount": 30240,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ДЪРЖАВНА АГЕНЦИЯ БЕЗОПАСНОСТ НА ДВИЖЕНИЕТО ПО ПЪТИЩАТА, 177344399"
+        },
+        {
+            "contract_amount_raw": "42900",
+            "contract_amount": 42900,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ДЪРЖАВНА АГЕНЦИЯ БЕЗОПАСНОСТ НА ДВИЖЕНИЕТО ПО ПЪТИЩАТА, 177344399"
+        },
+        {
+            "contract_amount_raw": "43146",
+            "contract_amount": 43146,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ДЪРЖАВНА АГЕНЦИЯ БЕЗОПАСНОСТ НА ДВИЖЕНИЕТО ПО ПЪТИЩАТА, 177344399"
+        },
+        {
+            "contract_amount_raw": "3384",
+            "contract_amount": 3384,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ЕМО ЕТЪР, 000210397"
+        },
+        {
+            "contract_amount_raw": "1200",
+            "contract_amount": 1200,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ЗАД ОЗК-ЗАСТРАХОВАНЕ АД, 121265177"
+        },
+        {
+            "contract_amount_raw": "3720",
+            "contract_amount": 3720,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ЗД Евроинс АД, 121265113"
+        },
+        {
+            "contract_amount_raw": "18600",
+            "contract_amount": 18600,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ЗК ЛЕВ ИНС АД, 121130788 "
+        },
+        {
+            "contract_amount_raw": "19800",
+            "contract_amount": 19800,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ИЗПЪЛНИТЕЛНА АГЕНЦИЯ ОПЕРАТИВНА ПРОГРАМА НАУКА И ОБРАЗОВАНИЕ ЗА ИНТЕЛИГЕНТЕН РАСТЕЖ, 177224179"
+        },
+        {
+            "contract_amount_raw": "3789,6",
+            "contract_amount": 3789,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ИЗПЪЛНИТЕЛНА АГЕНЦИЯ ЗА НАСЪРЧАВАНЕ НА МАЛКИТЕ И СРЕДНИТЕ ПРЕДПРИЯТИЯ, 131304835"
+        },
+        {
+            "contract_amount_raw": "1080",
+            "contract_amount": 1080,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ИКОНОМИЧЕСКИ УНИВЕРСИТЕТ - ВАРНА, 000083619"
+        },
+        {
+            "contract_amount_raw": "7200",
+            "contract_amount": 7200,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "КОАЛИЦИЯ ЗА БЪЛГАРИЯ чрез ПП АБВ, 176734649"
+        },
+        {
+            "contract_amount_raw": "1080",
+            "contract_amount": 1080,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "КОАЛИЦИЯ ЗА БЪЛГАРИЯ чрез ПП АБВ, 176734649"
+        },
+        {
+            "contract_amount_raw": "300",
+            "contract_amount": 300,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "КОАЛИЦИЯ ЗА БЪЛГАРИЯ чрез ПП АБВ, 176734649"
+        },
+        {
+            "contract_amount_raw": "216",
+            "contract_amount": 216,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "КОАЛИЦИЯ ЗА БЪЛГАРИЯ чрез ПП АБВ, 176734649"
+        },
+        {
+            "contract_amount_raw": "49680",
+            "contract_amount": 49680,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "КОМИСИЯ ЗА ЗАЩИТА НА ПОТРЕБИТЕЛИТЕ, 121516918"
+        },
+        {
+            "contract_amount_raw": "1374",
+            "contract_amount": 1374,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "КОМПЛЕКСЕН ОНКОЛОГИЧЕН ЦЕНТЪР ШУМЕН ЕООД, 127521758"
+        },
+        {
+            "contract_amount_raw": "960",
+            "contract_amount": 960,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "КП БСП за България – Мездра, 0007020140294"
+        },
+        {
+            "contract_amount_raw": "600",
+            "contract_amount": 600,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "КП БСП за България – Мездра, 0007020140294"
+        },
+        {
+            "contract_amount_raw": "992,4",
+            "contract_amount": 992,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "КП БСП за България – Сливен, 0007020140070"
+        },
+        {
+            "contract_amount_raw": "1524",
+            "contract_amount": 1524,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "КП БСП за България – Сливен, 0007020140070"
+        },
+        {
+            "contract_amount_raw": "228",
+            "contract_amount": 228,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "КП БСП за България – Сливен, 0007020140070"
+        },
+        {
+            "contract_amount_raw": "1500",
+            "contract_amount": 1500,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "КП ДЕМОКРАТИЧНА БЪЛГАРИЯ – ОБЕДИНЕНИЕ, 177394797"
+        },
+        {
+            "contract_amount_raw": "720",
+            "contract_amount": 720,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "КП ДЕМОКРАТИЧНА БЪЛГАРИЯ – ОБЕДИНЕНИЕ, 177394797"
+        },
+        {
+            "contract_amount_raw": "480",
+            "contract_amount": 480,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "КП ДЕМОКРАТИЧНА БЪЛГАРИЯ – ОБЕДИНЕНИЕ, 177394797"
+        },
+        {
+            "contract_amount_raw": "972",
+            "contract_amount": 972,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "КП ДЕМОКРАТИЧНА БЪЛГАРИЯ – ОБЕДИНЕНИЕ, 177394797"
+        },
+        {
+            "contract_amount_raw": "7200",
+            "contract_amount": 7200,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "КП ДЕМОКРАТИЧНА БЪЛГАРИЯ – ОБЕДИНЕНИЕ, 177394797"
+        },
+        {
+            "contract_amount_raw": "3600",
+            "contract_amount": 3600,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "КП ДЕМОКРАТИЧНА БЪЛГАРИЯ – ОБЕДИНЕНИЕ, 177394797"
+        },
+        {
+            "contract_amount_raw": "30000",
+            "contract_amount": 30000,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "КП ДЕМОКРАТИЧНА БЪЛГАРИЯ – ОБЕДИНЕНИЕ, 177394797"
+        },
+        {
+            "contract_amount_raw": "108",
+            "contract_amount": 108,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "КП ДЕМОКРАТИЧНА БЪЛГАРИЯ – ОБЕДИНЕНИЕ (чрез Васко Борисов Врачовски) 177394797"
+        },
+        {
+            "contract_amount_raw": "600",
+            "contract_amount": 600,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "КП ДЕМОКРАТИЧНА БЪЛГАРИЯ – ОБЕДИНЕНИЕ (чрез Даниела Стоянова Божилова) 177394797"
+        },
+        {
+            "contract_amount_raw": "864",
+            "contract_amount": 864,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "КП ДЕМОКРАТИЧНА БЪЛГАРИЯ – ОБЕДИНЕНИЕ (чрез Ивайло Пеев Старибратов) 177394797"
+        },
+        {
+            "contract_amount_raw": "1440",
+            "contract_amount": 1440,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "МБАЛ ИВАН СЕЛИМИНСКИ АД, 119502733"
+        },
+        {
+            "contract_amount_raw": "30",
+            "contract_amount": 30,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "МДТ КОНСТАНТИН КИСИМОВ, 000124037"
+        },
+        {
+            "contract_amount_raw": "300",
+            "contract_amount": 300,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "МЕДИЦИНСКИ УНИВЕРСИТЕТ ПРОФ. Д-Р ПАРАСКЕВ СТОЯНОВ, 000083633"
+        },
+        {
+            "contract_amount_raw": "5916",
+            "contract_amount": 5916,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "МЕДИЦИНСКИ УНИВЕРСИТЕТ-ПЛЕВЕН, 000405689"
+        },
+        {
+            "contract_amount_raw": "19620",
+            "contract_amount": 19620,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "МЕЖДУНАРОДЕН ПАНАИР ПЛОВДИВ АД, 825278766"
+        },
+        {
+            "contract_amount_raw": "7200",
+            "contract_amount": 7200,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "МИНИ МАРИЦА ИЗТОК ЕАД, 833017552 "
+        },
+        {
+            "contract_amount_raw": "59904",
+            "contract_amount": 59904,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "МИНИСТЕРСТВО НА ЗЕМЕДЕЛИЕТО, ХРАНИТЕ И ГОРИТЕ, 831909905"
+        },
+        {
+            "contract_amount_raw": "60000",
+            "contract_amount": 60000,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "МИНИСТЕРСТВО НА ИКОНОМИКАТА, 176789453"
+        },
+        {
+            "contract_amount_raw": "50460",
+            "contract_amount": 50460,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "МИНИСТЕРСТВО НА ОБРАЗОВАНИЕТО И НАУКАТА, 000695114"
+        },
+        {
+            "contract_amount_raw": "18840",
+            "contract_amount": 18840,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "МИНИСТЕРСТВО НА ОКОЛНАТА СРЕДА И ВОДИТЕ, 000697371"
+        },
+        {
+            "contract_amount_raw": "26400",
+            "contract_amount": 26400,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "МИНИСТЕРСТВО НА ОКОЛНАТА СРЕДА И ВОДИТЕ, 000697371"
+        },
+        {
+            "contract_amount_raw": "23880",
+            "contract_amount": 23880,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "МИНИСТЕРСТВО НА РЕГИОНАЛНОТО РАЗВИТИЕ И БЛАГОУСТРОЙСТВОТО, 831661388"
+        },
+        {
+            "contract_amount_raw": "35940",
+            "contract_amount": 35940,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "МИНИСТЕРСТВО НА ТУРИЗМА, 176789478"
+        },
+        {
+            "contract_amount_raw": "35940",
+            "contract_amount": 35940,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "МИНИСТЕРСТВО НА ТУРИЗМА, 176789478"
+        },
+        {
+            "contract_amount_raw": "36000",
+            "contract_amount": 36000,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "МИНИСТЕРСТВО НА ТУРИЗМА, 176789478"
+        },
+        {
+            "contract_amount_raw": "1200",
+            "contract_amount": 1200,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "МК АБВ (ЗНС, ВОЛЯ, АБВ) Мездра"
+        },
+        {
+            "contract_amount_raw": "144",
+            "contract_amount": 144,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "МК БЗНС – ДОСТ – Шумен (чрез Петър Динков Атанасов)"
+        },
+        {
+            "contract_amount_raw": "3612",
+            "contract_amount": 3612,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "МК БСП за България – Русе"
+        },
+        {
+            "contract_amount_raw": "600",
+            "contract_amount": 600,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "МК БСП за България – Русе"
+        },
+        {
+            "contract_amount_raw": "180",
+            "contract_amount": 180,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "МК БСП за България МК – Дряново (чрез Мариана Георгиева Маринова"
+        },
+        {
+            "contract_amount_raw": "432",
+            "contract_amount": 432,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "МК БСП за България МК – Търговище"
+        },
+        {
+            "contract_amount_raw": "405",
+            "contract_amount": 405,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "МК БСП за България МК – Търговище"
+        },
+        {
+            "contract_amount_raw": "180",
+            "contract_amount": 180,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "МК ДБГ – Червен бряг"
+        },
+        {
+            "contract_amount_raw": "360",
+            "contract_amount": 360,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "МК СДС (НДСВ, НА, ЗНС, БЗНС и БДС – Р) – Видин (чрез Генади Петков Велков)"
+        },
+        {
+            "contract_amount_raw": "432",
+            "contract_amount": 432,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "МК СДС (НДСВ, НА, ЗНС, БЗНС и БДС – Р) – Видин (чрез Генади Петков Велков)"
+        },
+        {
+            "contract_amount_raw": "1584",
+            "contract_amount": 1584,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "МЦ СВЕТА МАРИНА – ДИАГНОСТИКА И ТЕРАПИЯ ООД, 202284487 "
+        },
+        {
+            "contract_amount_raw": "60",
+            "contract_amount": 60,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "НАПОИТЕЛНИ СИСТЕМИ ЕАД КЛОН МИЗИЯ, 8311600780058"
+        },
+        {
+            "contract_amount_raw": "27600",
+            "contract_amount": 27600,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "НАЦИОНАЛЕН ОСИГУРИТЕЛЕН ИНСТИТУТ, 121082521"
+        },
+        {
+            "contract_amount_raw": "1440",
+            "contract_amount": 1440,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ОБЛАСТНА АДМИНИСТРАЦИЯ СЛИВЕН, 119101402 "
+        },
+        {
+            "contract_amount_raw": "6480",
+            "contract_amount": 6480,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ОБЩИНА БАНСКО, 000024663"
+        },
+        {
+            "contract_amount_raw": "2016",
+            "contract_amount": 2016,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ОБЩИНА БОЛЯРОВО, 000970051"
+        },
+        {
+            "contract_amount_raw": "9000",
+            "contract_amount": 9000,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ОБЩИНА БУРГАС, 000056814"
+        },
+        {
+            "contract_amount_raw": "1680",
+            "contract_amount": 1680,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ОБЩИНА БЯЛА, 000530493"
+        },
+        {
+            "contract_amount_raw": "45186",
+            "contract_amount": 45186,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ОБЩИНА ВАРНА, 000093442"
+        },
+        {
+            "contract_amount_raw": "16800",
+            "contract_amount": 16800,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ОБЩИНА ВАРНА ДИРЕКЦИЯ СПОРТ, 0000934421714"
+        },
+        {
+            "contract_amount_raw": "11520",
+            "contract_amount": 11520,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ОБЩИНА ВЕЛИКО ТЪРНОВО, 000133634 "
+        },
+        {
+            "contract_amount_raw": "4080",
+            "contract_amount": 4080,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ОБЩИНА ВРАЦА, 000193115"
+        },
+        {
+            "contract_amount_raw": "3000",
+            "contract_amount": 3000,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ОБЩИНА ГЕНЕРАЛ ТОШЕВО, 000852633"
+        },
+        {
+            "contract_amount_raw": "1872",
+            "contract_amount": 1872,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ОБЩИНА ГОЦЕ ДЕЛЧЕВ, 000024745 "
+        },
+        {
+            "contract_amount_raw": "1080",
+            "contract_amount": 1080,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ОБЩИНА ДВЕ МОГИЛИ, 000530529 "
+        },
+        {
+            "contract_amount_raw": "2520",
+            "contract_amount": 2520,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ОБЩИНА ДЕВНЯ, 000093645"
+        },
+        {
+            "contract_amount_raw": "7200",
+            "contract_amount": 7200,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ОБЩИНА ДИМИТРОВГРАД, 000903533"
+        },
+        {
+            "contract_amount_raw": "3600",
+            "contract_amount": 3600,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ОБЩИНА ДОБРИЧ, 000852932"
+        },
+        {
+            "contract_amount_raw": "1200",
+            "contract_amount": 1200,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ОБЩИНА ДОБРИЧКА, 000852188"
+        },
+        {
+            "contract_amount_raw": "2640",
+            "contract_amount": 2640,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ОБЩИНА ДРЯНОВО, 000215729"
+        },
+        {
+            "contract_amount_raw": "480",
+            "contract_amount": 480,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ОБЩИНА ДУПНИЦА, 000261630"
+        },
+        {
+            "contract_amount_raw": "4320",
+            "contract_amount": 4320,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ОБЩИНА ЕЛЕНА, 000133762"
+        },
+        {
+            "contract_amount_raw": "7200",
+            "contract_amount": 7200,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ОБЩИНА КАЗАНЛЪК, 000817778"
+        },
+        {
+            "contract_amount_raw": "2160",
+            "contract_amount": 2160,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ОБЩИНА КАМЕНО, 000057001"
+        },
+        {
+            "contract_amount_raw": "2880",
+            "contract_amount": 2880,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ОБЩИНА КОТЕЛ, 000590540 "
+        },
+        {
+            "contract_amount_raw": "2160",
+            "contract_amount": 2160,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ОБЩИНА КОЧЕРИНОВО, 000261491"
+        },
+        {
+            "contract_amount_raw": "8640",
+            "contract_amount": 8640,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ОБЩИНА КЮСТЕНДИЛ, 000261517"
+        },
+        {
+            "contract_amount_raw": "1040",
+            "contract_amount": 1040,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ОБЩИНА ЛЮБИМЕЦ, 000903686 "
+        },
+        {
+            "contract_amount_raw": "360",
+            "contract_amount": 360,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ОБЩИНА МИНЕРАЛНИ БАНИ, 000903743 "
+        },
+        {
+            "contract_amount_raw": "210",
+            "contract_amount": 210,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ОБЩИНА МОНТАНА, 000320872 "
+        },
+        {
+            "contract_amount_raw": "9360",
+            "contract_amount": 9360,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ОБЩИНА НЕСЕБЪР, 000057122"
+        },
+        {
+            "contract_amount_raw": "1440",
+            "contract_amount": 1440,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ОБЩИНА ПАВЛИКЕНИ, 000133901"
+        },
+        {
+            "contract_amount_raw": "4320",
+            "contract_amount": 4320,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ОБЩИНА ПЛЕВЕН, 000413974 "
+        },
+        {
+            "contract_amount_raw": "4320",
+            "contract_amount": 4320,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ОБЩИНА ПОМОРИЕ, 000057179 "
+        },
+        {
+            "contract_amount_raw": "1440",
+            "contract_amount": 1440,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ОБЩИНА ПРИМОРСКО, 102164063"
+        },
+        {
+            "contract_amount_raw": "4320",
+            "contract_amount": 4320,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ОБЩИНА РАДОМИР, 000386776"
+        },
+        {
+            "contract_amount_raw": "2880",
+            "contract_amount": 2880,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ОБЩИНА РАЗЛОГ, 000024948"
+        },
+        {
+            "contract_amount_raw": "2880",
+            "contract_amount": 2880,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ОБЩИНА СВИЩОВ, 000133965"
+        },
+        {
+            "contract_amount_raw": "4320",
+            "contract_amount": 4320,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ОБЩИНА СЕВЛИЕВО, 000215889"
+        },
+        {
+            "contract_amount_raw": "5040",
+            "contract_amount": 5040,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ОБЩИНА СЛИВЕН, 000590654"
+        },
+        {
+            "contract_amount_raw": "1680",
+            "contract_amount": 1680,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ОБЩИНА СЛИВО ПОЛЕ, 000530657"
+        },
+        {
+            "contract_amount_raw": "2376",
+            "contract_amount": 2376,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ОБЩИНА СОПОТ, 115816423"
+        },
+        {
+            "contract_amount_raw": "14400",
+            "contract_amount": 14400,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ОБЩИНА СТАРА ЗАГОРА, 000818022"
+        },
+        {
+            "contract_amount_raw": "1728",
+            "contract_amount": 1728,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ОБЩИНА ТВЪРДИЦА, 000590704"
+        },
+        {
+            "contract_amount_raw": "1200",
+            "contract_amount": 1200,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ОБЩИНА ТЕРВЕЛ, 000852925"
+        },
+        {
+            "contract_amount_raw": "2016",
+            "contract_amount": 2016,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ОБЩИНА ТУНДЖА, 000970457 "
+        },
+        {
+            "contract_amount_raw": "4320",
+            "contract_amount": 4320,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ОБЩИНА ХАРМАНЛИ, 000903939 "
+        },
+        {
+            "contract_amount_raw": "1200",
+            "contract_amount": 1200,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ОБЩИНА ЧЕЛОПЕЧ, 000777223"
+        },
+        {
+            "contract_amount_raw": "4104",
+            "contract_amount": 4104,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ОБЩИНА ЧЕЛОПЕЧ, 000777223"
+        },
+        {
+            "contract_amount_raw": "1200",
+            "contract_amount": 1200,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ОБЩИНА ШАБЛА, 000852957"
+        },
+        {
+            "contract_amount_raw": "1152",
+            "contract_amount": 1152,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ОБЩИНА ЯМБОЛ, 000970496 "
+        },
+        {
+            "contract_amount_raw": "3600",
+            "contract_amount": 3600,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ОБЩИНСКА ФОНДАЦИЯ ПЛОВДИВ 2019, 176182033"
+        },
+        {
+            "contract_amount_raw": "300",
+            "contract_amount": 300,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ОБЩИНСКИ ПАЗАРИ ЕООД, 117111045"
+        },
+        {
+            "contract_amount_raw": "240",
+            "contract_amount": 240,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ОД ЗЕМЕДЕЛИЕ - ГАБРОВО, 175812436"
+        },
+        {
+            "contract_amount_raw": "324",
+            "contract_amount": 324,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПГ ПО МЕХАНОТЕХНИКА ЮРИЙ ГАГАРИН, 117004142"
+        },
+        {
+            "contract_amount_raw": "180",
+            "contract_amount": 180,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПГ ПО ОБЛЕКЛО НЕДКА ИВАН ЛАЗАРОВА, 117668311"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПГКПИ Бургас, 177252513"
+        },
+        {
+            "contract_amount_raw": "360",
+            "contract_amount": 360,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПГСАГ ВАСИЛ ЛЕВСКИ, 000014078"
+        },
+        {
+            "contract_amount_raw": "324",
+            "contract_amount": 324,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПГСАГ ПЕНЬО ПЕНЕВ, 000522347"
+        },
+        {
+            "contract_amount_raw": "3360",
+            "contract_amount": 3360,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПЛЕВЕНСКА ФИЛХАРМОНИЯ, 000405995"
+        },
+        {
+            "contract_amount_raw": "114",
+            "contract_amount": 114,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП  ХРИСТИЯНДЕМОКРАТИЧЕСКА ПАРТИЯ НА БЪЛГАРИЯ, 175586681"
+        },
+        {
+            "contract_amount_raw": "1240,4",
+            "contract_amount": 1240,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП АБВ, 176734649"
+        },
+        {
+            "contract_amount_raw": "720",
+            "contract_amount": 720,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП АБВ, 176734649"
+        },
+        {
+            "contract_amount_raw": "360",
+            "contract_amount": 360,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП АБВ, 176734649"
+        },
+        {
+            "contract_amount_raw": "302,4",
+            "contract_amount": 302,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП АБВ, 176734649"
+        },
+        {
+            "contract_amount_raw": "360",
+            "contract_amount": 360,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП АТАКА, 131458114 "
+        },
+        {
+            "contract_amount_raw": "900",
+            "contract_amount": 900,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП АТАКА  (чрез Силвия Георгиева Дойчинова), 131458114"
+        },
+        {
+            "contract_amount_raw": "1200",
+            "contract_amount": 1200,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП БЗНС, 121440908"
+        },
+        {
+            "contract_amount_raw": "720",
+            "contract_amount": 720,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП БНД, 175520304"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП БСП, 000702014"
+        },
+        {
+            "contract_amount_raw": "2520",
+            "contract_amount": 2520,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП БСП  (чрез РА Лун Арт ЕООД), 200051438"
+        },
+        {
+            "contract_amount_raw": "480",
+            "contract_amount": 480,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП БСП – Общинска организация – Стара Загора, 0007020140191"
+        },
+        {
+            "contract_amount_raw": "1044",
+            "contract_amount": 1044,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП БСП – Общински съвет – Благоевград, 0007020140413"
+        },
+        {
+            "contract_amount_raw": "576",
+            "contract_amount": 576,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП БСП – Общински съвет – Велико Търново, 0007020140310"
+        },
+        {
+            "contract_amount_raw": "540",
+            "contract_amount": 540,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП БСП – Общински съвет – Враца, 0007020140306"
+        },
+        {
+            "contract_amount_raw": "2520",
+            "contract_amount": 2520,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП БСП – Общински съвет – Добрич, 0007020140730"
+        },
+        {
+            "contract_amount_raw": "3600",
+            "contract_amount": 3600,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП БСП ГС – Пловдив, 0007020140237"
+        },
+        {
+            "contract_amount_raw": "10080",
+            "contract_amount": 10080,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП БСП ГС – София, 0007020140012"
+        },
+        {
+            "contract_amount_raw": "38400",
+            "contract_amount": 38400,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП БСП ЗА БЪЛГАРИЯ, 000702014"
+        },
+        {
+            "contract_amount_raw": "201,6",
+            "contract_amount": 201,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП БСП ЗА БЪЛГАРИЯ, 000702014"
+        },
+        {
+            "contract_amount_raw": "960",
+            "contract_amount": 960,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП БСП ЗА БЪЛГАРИЯ, 000702014"
+        },
+        {
+            "contract_amount_raw": "900",
+            "contract_amount": 900,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП БСП ЗА БЪЛГАРИЯ, 000702014"
+        },
+        {
+            "contract_amount_raw": "900",
+            "contract_amount": 900,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП БСП ЗА БЪЛГАРИЯ, 000702014"
+        },
+        {
+            "contract_amount_raw": "100,8",
+            "contract_amount": 100,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП БСП ЗА БЪЛГАРИЯ, 000702014"
+        },
+        {
+            "contract_amount_raw": "129,6",
+            "contract_amount": 129,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП БСП ЗА БЪЛГАРИЯ, 000702014"
+        },
+        {
+            "contract_amount_raw": "108",
+            "contract_amount": 108,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП БСП ЗА БЪЛГАРИЯ, 000702014"
+        },
+        {
+            "contract_amount_raw": "144",
+            "contract_amount": 144,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП БСП ЗА БЪЛГАРИЯ, 000702014"
+        },
+        {
+            "contract_amount_raw": "108",
+            "contract_amount": 108,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП БСП ЗА БЪЛГАРИЯ, 000702014"
+        },
+        {
+            "contract_amount_raw": "408",
+            "contract_amount": 408,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП БСП ЗА БЪЛГАРИЯ, 000702014"
+        },
+        {
+            "contract_amount_raw": "120",
+            "contract_amount": 120,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП БСП ЗА БЪЛГАРИЯ, 000702014"
+        },
+        {
+            "contract_amount_raw": "3600",
+            "contract_amount": 3600,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП БСП ЗА БЪЛГАРИЯ, 000702014"
+        },
+        {
+            "contract_amount_raw": "360",
+            "contract_amount": 360,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП БСП ЗА БЪЛГАРИЯ, 000702014"
+        },
+        {
+            "contract_amount_raw": "216",
+            "contract_amount": 216,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП БСП ЗА БЪЛГАРИЯ, 000702014"
+        },
+        {
+            "contract_amount_raw": "288",
+            "contract_amount": 288,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП БСП ЗА БЪЛГАРИЯ, 000702014"
+        },
+        {
+            "contract_amount_raw": "240",
+            "contract_amount": 240,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП БСП ЗА БЪЛГАРИЯ, 000702014"
+        },
+        {
+            "contract_amount_raw": "612",
+            "contract_amount": 612,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП БСП за България КП (чрез Боян Саркизов Саркизов)   000702014"
+        },
+        {
+            "contract_amount_raw": "500,4",
+            "contract_amount": 500,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП Българска Социалдемокрация – Евролевица, 121713634"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП БЪЛГАРСКИ СОЦИАЛДЕМОКРАТИ"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП БЪЛГАРСКИ СОЦИАЛДЕМОКРАТИ , 131017251"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП БЪЛГАРСКИ СОЦИАЛДЕМОКРАТИ , 131017251"
+        },
+        {
+            "contract_amount_raw": "400",
+            "contract_amount": 400,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП БЪЛГАРСКИ СОЦИАЛДЕМОКРАТИ (чрез Георги Дражев Атанасов) 131017251"
+        },
+        {
+            "contract_amount_raw": "6000",
+            "contract_amount": 6000,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП ВМРО – БНД, 130451348"
+        },
+        {
+            "contract_amount_raw": "201,6",
+            "contract_amount": 201,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП ВМРО – БНД, 130451348"
+        },
+        {
+            "contract_amount_raw": "504",
+            "contract_amount": 504,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП ВМРО – БНД, 130451348"
+        },
+        {
+            "contract_amount_raw": "175,2",
+            "contract_amount": 175,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП ВМРО – БНД, 130451348"
+        },
+        {
+            "contract_amount_raw": "360",
+            "contract_amount": 360,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП ВМРО – БНД, 130451348"
+        },
+        {
+            "contract_amount_raw": "240",
+            "contract_amount": 240,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП ВМРО – БНД, 130451348"
+        },
+        {
+            "contract_amount_raw": "180",
+            "contract_amount": 180,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП ВМРО – БНД, 130451348"
+        },
+        {
+            "contract_amount_raw": "360",
+            "contract_amount": 360,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП ВМРО – БНД, 130451348"
+        },
+        {
+            "contract_amount_raw": "276",
+            "contract_amount": 276,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП ВМРО – БНД, 130451348 "
+        },
+        {
+            "contract_amount_raw": "162",
+            "contract_amount": 162,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП ВМРО – БНД, 130451348 "
+        },
+        {
+            "contract_amount_raw": "3168",
+            "contract_amount": 3168,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП ВМРО – БНД , 130451348"
+        },
+        {
+            "contract_amount_raw": "6000",
+            "contract_amount": 6000,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП ВМРО – БНД , 130451348"
+        },
+        {
+            "contract_amount_raw": "480",
+            "contract_amount": 480,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП ВМРО – БНД , 130451348"
+        },
+        {
+            "contract_amount_raw": "108",
+            "contract_amount": 108,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП ВМРО – БНД , 130451348"
+        },
+        {
+            "contract_amount_raw": "4200",
+            "contract_amount": 4200,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП ВОЛТ, 177298838"
+        },
+        {
+            "contract_amount_raw": "400",
+            "contract_amount": 400,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП ВОЛТ, 177298838"
+        },
+        {
+            "contract_amount_raw": "3600",
+            "contract_amount": 3600,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП ВОЛЯ БЪЛГАРСКИ РОДОЛЮБЦИ -чрез РА Медиа планинг груп, 131347103"
+        },
+        {
+            "contract_amount_raw": "600",
+            "contract_amount": 600,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП ВЪЗРАЖДАНЕ, 176845471"
+        },
+        {
+            "contract_amount_raw": "2474",
+            "contract_amount": 2474,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП ВЪЗРАЖДАНЕ, 176845471"
+        },
+        {
+            "contract_amount_raw": "1200",
+            "contract_amount": 1200,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП ВЪЗРАЖДАНЕ, 176845471"
+        },
+        {
+            "contract_amount_raw": "24000",
+            "contract_amount": 24000,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП ГЕРБ, 175248466 "
+        },
+        {
+            "contract_amount_raw": "240",
+            "contract_amount": 240,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП ГЕРБ, 175248466 "
+        },
+        {
+            "contract_amount_raw": "360",
+            "contract_amount": 360,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП ГЕРБ, 175248466 "
+        },
+        {
+            "contract_amount_raw": "57,6",
+            "contract_amount": 57,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП ГЕРБ, 175248466"
+        },
+        {
+            "contract_amount_raw": "708",
+            "contract_amount": 708,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП ГЕРБ , 175248466"
+        },
+        {
+            "contract_amount_raw": "72",
+            "contract_amount": 72,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП ГЕРБ, 175248466"
+        },
+        {
+            "contract_amount_raw": "384",
+            "contract_amount": 384,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП ГЕРБ, 175248466"
+        },
+        {
+            "contract_amount_raw": "76,8",
+            "contract_amount": 76,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП ГЕРБ, 175248466 "
+        },
+        {
+            "contract_amount_raw": "996",
+            "contract_amount": 996,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП ГЕРБ, 175248466"
+        },
+        {
+            "contract_amount_raw": "187,2",
+            "contract_amount": 187,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП ГЕРБ, 175248466"
+        },
+        {
+            "contract_amount_raw": "180",
+            "contract_amount": 180,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП ГЕРБ, 175248466"
+        },
+        {
+            "contract_amount_raw": "480",
+            "contract_amount": 480,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП ГЕРБ, 175248466"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП ГЕРБ, 175248466"
+        },
+        {
+            "contract_amount_raw": "400,8",
+            "contract_amount": 400,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП ГЕРБ, 175248466"
+        },
+        {
+            "contract_amount_raw": "360",
+            "contract_amount": 360,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП ГЕРБ, 175248466"
+        },
+        {
+            "contract_amount_raw": "600",
+            "contract_amount": 600,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП ГЕРБ, 175248466"
+        },
+        {
+            "contract_amount_raw": "180",
+            "contract_amount": 180,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП ГЕРБ, 175248466"
+        },
+        {
+            "contract_amount_raw": "180",
+            "contract_amount": 180,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП ГЕРБ, 175248466"
+        },
+        {
+            "contract_amount_raw": "2700",
+            "contract_amount": 2700,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП ГЕРБ, 175248466 "
+        },
+        {
+            "contract_amount_raw": "1200",
+            "contract_amount": 1200,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП ГЕРБ, 175248466"
+        },
+        {
+            "contract_amount_raw": "180",
+            "contract_amount": 180,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП ГЕРБ, 175248466"
+        },
+        {
+            "contract_amount_raw": "1008",
+            "contract_amount": 1008,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП ГЕРБ, 175248466"
+        },
+        {
+            "contract_amount_raw": "720",
+            "contract_amount": 720,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП ГЕРБ, 175248466"
+        },
+        {
+            "contract_amount_raw": "540",
+            "contract_amount": 540,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП ГЕРБ, 175248466"
+        },
+        {
+            "contract_amount_raw": "108",
+            "contract_amount": 108,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП ГЕРБ, 175248466"
+        },
+        {
+            "contract_amount_raw": "817,2",
+            "contract_amount": 817,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП ГЕРБ, 175248466"
+        },
+        {
+            "contract_amount_raw": "864",
+            "contract_amount": 864,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП ГЕРБ, 175248466"
+        },
+        {
+            "contract_amount_raw": "996",
+            "contract_amount": 996,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП ГЕРБ, 175248466"
+        },
+        {
+            "contract_amount_raw": "600",
+            "contract_amount": 600,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП ГЕРБ, 175248466 "
+        },
+        {
+            "contract_amount_raw": "2187",
+            "contract_amount": 2187,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП ГЕРБ, 175248466"
+        },
+        {
+            "contract_amount_raw": "228",
+            "contract_amount": 228,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП ГЕРБ, 175248466 "
+        },
+        {
+            "contract_amount_raw": "1008",
+            "contract_amount": 1008,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП ГЕРБ, 175248466"
+        },
+        {
+            "contract_amount_raw": "1008",
+            "contract_amount": 1008,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП ГЕРБ, 175248466"
+        },
+        {
+            "contract_amount_raw": "3600",
+            "contract_amount": 3600,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП ГЕРБ, 175248466 "
+        },
+        {
+            "contract_amount_raw": "444",
+            "contract_amount": 444,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП ГЕРБ, 175248466 "
+        },
+        {
+            "contract_amount_raw": "2880",
+            "contract_amount": 2880,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП ГЕРБ СЛИВЕН, 175248466"
+        },
+        {
+            "contract_amount_raw": "2520",
+            "contract_amount": 2520,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП ГЛАС НАРОДЕН, 176477795"
+        },
+        {
+            "contract_amount_raw": "180",
+            "contract_amount": 180,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП ДБГ, 176368365"
+        },
+        {
+            "contract_amount_raw": "1200",
+            "contract_amount": 1200,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП ДБГ, 176368365"
+        },
+        {
+            "contract_amount_raw": "3060",
+            "contract_amount": 3060,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП ДБГ, 176368365"
+        },
+        {
+            "contract_amount_raw": "288",
+            "contract_amount": 288,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП ДБГ, 176368365"
+        },
+        {
+            "contract_amount_raw": "1200",
+            "contract_amount": 1200,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП ДБГ, 176368365"
+        },
+        {
+            "contract_amount_raw": "108",
+            "contract_amount": 108,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП ДПС , 000707470"
+        },
+        {
+            "contract_amount_raw": "360",
+            "contract_amount": 360,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП ДПС, 000707470"
+        },
+        {
+            "contract_amount_raw": "120",
+            "contract_amount": 120,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП ДПС, 000707470"
+        },
+        {
+            "contract_amount_raw": "252",
+            "contract_amount": 252,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП ДПС, 000707470"
+        },
+        {
+            "contract_amount_raw": "288",
+            "contract_amount": 288,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП ДПС, 000707470"
+        },
+        {
+            "contract_amount_raw": "480",
+            "contract_amount": 480,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП ДПС, 000707470"
+        },
+        {
+            "contract_amount_raw": "720",
+            "contract_amount": 720,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП ДПС, 000707470"
+        },
+        {
+            "contract_amount_raw": "1440",
+            "contract_amount": 1440,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП ЗЕМЕДЕЛСКИ СЪЮЗ АЛЕКСАНДЪР СТАМБОЛИЙСКИ  , 130038602 "
+        },
+        {
+            "contract_amount_raw": "720",
+            "contract_amount": 720,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП КОАЛИЦИЯ ЗА ТЕБ /НИЕ, ГРАЖДАНИТЕ КОАЛИЦИЯ, 177312818"
+        },
+        {
+            "contract_amount_raw": "114",
+            "contract_amount": 114,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП НОВА АЛТЕРНАТИВА, 176433208"
+        },
+        {
+            "contract_amount_raw": "360",
+            "contract_amount": 360,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП НФСБ , 176129116"
+        },
+        {
+            "contract_amount_raw": "150",
+            "contract_amount": 150,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП НФСБ , 176129116"
+        },
+        {
+            "contract_amount_raw": "114",
+            "contract_amount": 114,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП НФСБ , 176129116"
+        },
+        {
+            "contract_amount_raw": "7200",
+            "contract_amount": 7200,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП НФСБ , 176129116"
+        },
+        {
+            "contract_amount_raw": "600",
+            "contract_amount": 600,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП СДС , 130052349"
+        },
+        {
+            "contract_amount_raw": "720",
+            "contract_amount": 720,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП СДС , 130052349"
+        },
+        {
+            "contract_amount_raw": "2400",
+            "contract_amount": 2400,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП СДС , 130052349"
+        },
+        {
+            "contract_amount_raw": "1200",
+            "contract_amount": 1200,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП СДС , 130052349"
+        },
+        {
+            "contract_amount_raw": "3600",
+            "contract_amount": 3600,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП СДС , 130052349"
+        },
+        {
+            "contract_amount_raw": "540",
+            "contract_amount": 540,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП СДС , 130052349"
+        },
+        {
+            "contract_amount_raw": "187,2",
+            "contract_amount": 187,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП СДС, 130052349"
+        },
+        {
+            "contract_amount_raw": "7658,4",
+            "contract_amount": 7658,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП СРЕДНА ЕВРОПЕЙСКА КЛАСА, 175335476"
+        },
+        {
+            "contract_amount_raw": "1440",
+            "contract_amount": 1440,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПП СЪЮЗ ЗА ПЛОВДИВ, 176091306"
+        },
+        {
+            "contract_amount_raw": "240",
+            "contract_amount": 240,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ПТГ Д-Р НИКОЛА ВАСИЛИАДИ, 000210073"
+        },
+        {
+            "contract_amount_raw": "2880",
+            "contract_amount": 2880,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "РАЙОН ЗАПАДЕН ОБЩИНА ПЛОВДИВ, 0004715040050"
+        },
+        {
+            "contract_amount_raw": "2880",
+            "contract_amount": 2880,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "РАЙОН СЕВЕРЕН ОБЩИНА ПЛОВДИВ, 0004715040065"
+        },
+        {
+            "contract_amount_raw": "2649,6",
+            "contract_amount": 2649,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "РАЙОН ТРАКИЯ ОБЩИНА ПЛОВДИВ, 0004715040084"
+        },
+        {
+            "contract_amount_raw": "2664",
+            "contract_amount": 2664,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "РАЙОН ЦЕНТРАЛЕН ОБЩИНА ПЛОВДИВ, 0004715040031"
+        },
+        {
+            "contract_amount_raw": "720",
+            "contract_amount": 720,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "РАЙОН ЮЖЕН ОБЩИНА ПЛОВДИВ, 0004715040070"
+        },
+        {
+            "contract_amount_raw": "13080",
+            "contract_amount": 13080,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "РАЙФАЙЗЕНБАНК БЪЛГАРИЯ ЕАД, 831558413"
+        },
+        {
+            "contract_amount_raw": "1800",
+            "contract_amount": 1800,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "РУСЕНСКИ УНИВЕРСИТЕТ АНГЕЛ КЪНЧЕВ, 000522685"
+        },
+        {
+            "contract_amount_raw": "720",
+            "contract_amount": 720,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "СДРУЖЕНИЕ МОЦАРТОВИ ПРАЗНИЦИ- ПРАВЕЦ 04, 131424966"
+        },
+        {
+            "contract_amount_raw": "1128,84",
+            "contract_amount": 1128,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "СДРУЖЕНИЕ С НЕСТОПАНСКА ЦЕЛ МИГ ЗАВЕТ-КУБРАТ, 176021311"
+        },
+        {
+            "contract_amount_raw": "2592",
+            "contract_amount": 2592,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "СИМФОНИЕТА - ВРАЦА, 000185307"
+        },
+        {
+            "contract_amount_raw": "300",
+            "contract_amount": 300,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "СО РАЙОН СТУДЕНТСКИ, 0006963270629"
+        },
+        {
+            "contract_amount_raw": "4752",
+            "contract_amount": 4752,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "СОФИЙСКА ОПЕРА И БАЛЕТ, 000670805"
+        },
+        {
+            "contract_amount_raw": "4200",
+            "contract_amount": 4200,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "СОФИЙСКА ФИЛХАРМОНИЯ, 000670883"
+        },
+        {
+            "contract_amount_raw": "384",
+            "contract_amount": 384,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "СРЕДНО УЧИЛИЩЕ СВ. СВ. КИРИЛ И МЕТОДИЙ, 000042558"
+        },
+        {
+            "contract_amount_raw": "540",
+            "contract_amount": 540,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "СРЕДНО УЧИЛИЩЕ СВ. СВ. КИРИЛ И МЕТОДИЙ, 000042558"
+        },
+        {
+            "contract_amount_raw": "240",
+            "contract_amount": 240,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "СРЕДНО УЧИЛИЩЕ РАЙЧО КАРОЛЕВ, 000212633"
+        },
+        {
+            "contract_amount_raw": "72600",
+            "contract_amount": 72600,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "СТОЛИЧНА ОБЩИНА, 000696327"
+        },
+        {
+            "contract_amount_raw": "96",
+            "contract_amount": 96,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "СУ ОТЕЦ ПАИСИЙ, 000213048"
+        },
+        {
+            "contract_amount_raw": "12000",
+            "contract_amount": 12000,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "СУ СВЕТИ КЛИМЕНТ ОХРИДСКИ, 000670680"
+        },
+        {
+            "contract_amount_raw": "67,2",
+            "contract_amount": 67,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "СУ ХРИСТО БОТЕВ, 000183053"
+        },
+        {
+            "contract_amount_raw": "4320",
+            "contract_amount": 4320,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ТЕАТРАЛНО-МУЗИКАЛЕН ПРОДУЦЕНТСКИ ЦЕНТЪР - ВАРНА, 175932425"
+        },
+        {
+            "contract_amount_raw": "1200",
+            "contract_amount": 1200,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ТЕАТРАЛНО-МУЗИКАЛЕН ПРОДУЦЕНТСКИ ЦЕНТЪР - ВАРНА, 175932425"
+        },
+        {
+            "contract_amount_raw": "3456",
+            "contract_amount": 3456,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ТЕХНИЧЕСКИ УНИВЕРСИТЕТ – ГАБРОВО, 000210319 "
+        },
+        {
+            "contract_amount_raw": "1200",
+            "contract_amount": 1200,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ТЕЦ МАРИЦА ИЗТОК 2 ЕАД, 123531939"
+        },
+        {
+            "contract_amount_raw": "5448",
+            "contract_amount": 5448,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ТРАКИЙСКИ УНИВЕРСИТЕТ – РЕКТОРАТ, 123024538"
+        },
+        {
+            "contract_amount_raw": "1017,6",
+            "contract_amount": 1017,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "УНИВЕРСИТЕТ ПРОФ. Д-Р АСЕН ЗЛАТАРОВ, 000044541"
+        },
+        {
+            "contract_amount_raw": "18240",
+            "contract_amount": 18240,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ФОНД МЕНИДЖЪР НА ФИНАНСОВИ ИНСТРУМЕНТИ В БЪЛГАРИЯ ЕАД, 203740812"
+        },
+        {
+            "contract_amount_raw": "2520",
+            "contract_amount": 2520,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ЦЕНТРАЛНА ИЗБИРАТЕЛНА КОМИСИЯ за Ваня Григорова, 176481459"
+        },
+        {
+            "contract_amount_raw": "1536",
+            "contract_amount": 1536,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ЦЕНТРАЛНА ИЗБИРАТЕЛНА КОМИСИЯ за Велислава Атанасова, 176481459"
+        },
+        {
+            "contract_amount_raw": "7968",
+            "contract_amount": 7968,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ЦЕНТРАЛНА ИЗБИРАТЕЛНА КОМИСИЯ за Възход, 176481459"
+        },
+        {
+            "contract_amount_raw": "2088",
+            "contract_amount": 2088,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ЦЕНТРАЛНА ИЗБИРАТЕЛНА КОМИСИЯ за ДОСТ, 176481459"
+        },
+        {
+            "contract_amount_raw": "2520",
+            "contract_amount": 2520,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ЦЕНТРАЛНА ИЗБИРАТЕЛНА КОМИСИЯ за Николай Ненчев, 176481459"
+        },
+        {
+            "contract_amount_raw": "2520",
+            "contract_amount": 2520,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ЦЕНТРАЛНА ИЗБИРАТЕЛНА КОМИСИЯ за Път на младите, 176481459"
+        },
+        {
+            "contract_amount_raw": "4992",
+            "contract_amount": 4992,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ЦЕНТРАЛНА ИЗБИРАТЕЛНА КОМИСИЯ за Христо Симеонов, 176481459"
+        },
+        {
+            "contract_amount_raw": "88740",
+            "contract_amount": 88740,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ЦЕНТЪР ЗА ГРАДСКА МОБИЛНОСТ ЕАД,  202218735"
+        },
+        {
+            "contract_amount_raw": "70156",
+            "contract_amount": 70156,
+            "contract_basis_raw": "Закупуване на програмно време",
+            "contract_sponsor_raw": "ЮРОБАНК БЪЛГАРИЯ АД, 000694749"
+        }
+    ]
+}

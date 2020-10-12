@@ -1,0 +1,23 @@
+{
+    "legal_entity_name": "Народно читалище Христо Ботев - 1872",
+    "legal_entity_id": "000923169",
+    "public_company": "неприложимо",
+    "media_service_type": "Телевизия",
+    "media_service_name": "Телевизионна програма Часът на Нови пазар",
+    "real_owner": "Емил Христов Мирчев",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "20000",
+            "contract_amount": 20000,
+            "contract_basis_raw": "решение на ОС",
+            "contract_sponsor_raw": "Община Нови пазар ЕИК 000931575"
+        },
+        {
+            "contract_amount_raw": "3000",
+            "contract_amount": 3000,
+            "contract_basis_raw": "Изработване на филм",
+            "contract_sponsor_raw": "МИГ Нови пазар - Каспичан ЕИК 175936847"
+        }
+    ]
+}

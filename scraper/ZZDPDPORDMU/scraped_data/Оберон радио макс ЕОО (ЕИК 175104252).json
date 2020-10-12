@@ -1,0 +1,89 @@
+{
+    "legal_entity_name": "Оберон радио макс ЕОО",
+    "legal_entity_id": "175104252",
+    "public_company": "неприложимо",
+    "media_service_type": "Радио",
+    "media_service_name": "радио Фреш, радио ФМ+, радио Мелоди - Варна",
+    "real_owner": "Мартин Ананиев Илиев",
+    "executive_individual": "Васил Димитров Димитров",
+    "contracts": [
+        {
+            "contract_amount_raw": "300",
+            "contract_amount": 300,
+            "contract_basis_raw": "търговски съобщения",
+            "contract_sponsor_raw": "Община Хасково, ЕИК 000903946"
+        },
+        {
+            "contract_amount_raw": "1950",
+            "contract_amount": 1950,
+            "contract_basis_raw": "търговски съобщения",
+            "contract_sponsor_raw": "Община Ямбол, ЕИК 000970496"
+        },
+        {
+            "contract_amount_raw": "3326,6",
+            "contract_amount": 3326,
+            "contract_basis_raw": "програмно време за информационни клипове",
+            "contract_sponsor_raw": "Министерство на околната среда и водите, ЕИК 000697371"
+        },
+        {
+            "contract_amount_raw": "5974,27",
+            "contract_amount": 5974,
+            "contract_basis_raw": "рубрика Моят град е моята крепост",
+            "contract_sponsor_raw": "Министерство на регионалното развитие и благоустройство, ЕИК 831661388"
+        },
+        {
+            "contract_amount_raw": "172,8",
+            "contract_amount": 172,
+            "contract_basis_raw": "предизборни аудио клипове на ПП Волт",
+            "contract_sponsor_raw": "Централна избирателна комисия, ЕИК 176481459"
+        },
+        {
+            "contract_amount_raw": "1209,6",
+            "contract_amount": 1209,
+            "contract_basis_raw": "предизборни аудио клопове",
+            "contract_sponsor_raw": "ПП Партия на зелените, ЕИК 130481028"
+        },
+        {
+            "contract_amount_raw": "1138",
+            "contract_amount": 1138,
+            "contract_basis_raw": "предизборни аудио клипове",
+            "contract_sponsor_raw": "Коалиция Демократична България - обединение, ЕИК 177394797"
+        },
+        {
+            "contract_amount_raw": "2487,31",
+            "contract_amount": 2487,
+            "contract_basis_raw": "предизборни аудио клипове",
+            "contract_sponsor_raw": "ПП АБВ, ЕИК 176734649"
+        },
+        {
+            "contract_amount_raw": "499,68",
+            "contract_amount": 499,
+            "contract_basis_raw": "предизборни аудио клипове",
+            "contract_sponsor_raw": "ПП АБВ, ЕИК 176734649"
+        },
+        {
+            "contract_amount_raw": "15270,47",
+            "contract_amount": 15270,
+            "contract_basis_raw": "предизборни аудио клипове",
+            "contract_sponsor_raw": "ПП Герб (местна коалиция Герб(СДС)), ЕИК 175248466"
+        },
+        {
+            "contract_amount_raw": "6852,48",
+            "contract_amount": 6852,
+            "contract_basis_raw": "предизборни аудио клипове",
+            "contract_sponsor_raw": "ВМРО - БНД, ЕИК 130451348"
+        },
+        {
+            "contract_amount_raw": "4948,5",
+            "contract_amount": 4948,
+            "contract_basis_raw": "рекламни спотове",
+            "contract_sponsor_raw": "Българска национална телевизия, ЕИК 000672350"
+        },
+        {
+            "contract_amount_raw": "11500",
+            "contract_amount": 11500,
+            "contract_basis_raw": "рекламни спотове",
+            "contract_sponsor_raw": "Център за градска мобилност ЕАД, ЕИК 202218735"
+        }
+    ]
+}

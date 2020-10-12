@@ -1,0 +1,155 @@
+{
+    "legal_entity_name": "Сливенски новини ЕООД",
+    "legal_entity_id": "119601189",
+    "public_company": "неприложимо",
+    "media_service_type": "Печатна медия; Онлайн новинарско издание",
+    "media_service_name": "вестник Сливенски новини; Уеб сайт",
+    "real_owner": "Добрин Иванов Добрев",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "9600",
+            "contract_amount": 9600,
+            "contract_basis_raw": "28.12.2018 г.медийно отразяване дейността на Община Сливен",
+            "contract_sponsor_raw": "Община Сливен ЕИК 000590654"
+        },
+        {
+            "contract_amount_raw": "1200",
+            "contract_amount": 1200,
+            "contract_basis_raw": "07.01.2019 публикуване на инф.материали отразяващи дейността на  Областния управител на област Сливен",
+            "contract_sponsor_raw": "Областен управител на област Сливен ЕИК 119101402"
+        },
+        {
+            "contract_amount_raw": "1200",
+            "contract_amount": 1200,
+            "contract_basis_raw": "28.02.2019 Информационно обслужване",
+            "contract_sponsor_raw": "МБАЛ Д-р Иван Селимински -Сливен ЕИК 119502733"
+        },
+        {
+            "contract_amount_raw": "2400",
+            "contract_amount": 2400,
+            "contract_basis_raw": "05.01.2019 Публикуване на информационни и рекламни материали и съобщения",
+            "contract_sponsor_raw": "Югоизточно държавно предприятие ДП Сливен ЕИК 201617654"
+        },
+        {
+            "contract_amount_raw": "2004",
+            "contract_amount": 2004,
+            "contract_basis_raw": "02.01.2019 Информационно обслужване и излъчване на материали",
+            "contract_sponsor_raw": "ПП ГЕРБ ЕИК175248466"
+        },
+        {
+            "contract_amount_raw": "100",
+            "contract_amount": 100,
+            "contract_basis_raw": "25.04.2019 Прессъобщения",
+            "contract_sponsor_raw": "ПП ГЕРБ  ЕИК175248466"
+        },
+        {
+            "contract_amount_raw": "2400",
+            "contract_amount": 2400,
+            "contract_basis_raw": "28.12.2018 публикуване на рекламни карета",
+            "contract_sponsor_raw": "Евро Ферт АД ЕИК126180065"
+        },
+        {
+            "contract_amount_raw": "2640",
+            "contract_amount": 2640,
+            "contract_basis_raw": "02.01.2019 Информационно обслужване",
+            "contract_sponsor_raw": "ВИК СЛИВЕН ООД  ЕИК 829053806"
+        },
+        {
+            "contract_amount_raw": "1650",
+            "contract_amount": 1650,
+            "contract_basis_raw": "Издадени фактури през 2019 година",
+            "contract_sponsor_raw": "Административен съд Сливен ЕИК 119667813"
+        },
+        {
+            "contract_amount_raw": "940",
+            "contract_amount": 940,
+            "contract_basis_raw": "Издадени фактури през 2019 година",
+            "contract_sponsor_raw": "ВИК СЛИВЕН ООД  ЕИК 829053806"
+        },
+        {
+            "contract_amount_raw": "50",
+            "contract_amount": 50,
+            "contract_basis_raw": "Издадени фактури през 2019 година",
+            "contract_sponsor_raw": "ДПП Сините камъни ЕИК 119607289"
+        },
+        {
+            "contract_amount_raw": "60",
+            "contract_amount": 60,
+            "contract_basis_raw": "Издадени фактури през 2019 година",
+            "contract_sponsor_raw": "ДТ Стефан Киров Сливен ЕИК 000582878"
+        },
+        {
+            "contract_amount_raw": "684",
+            "contract_amount": 684,
+            "contract_basis_raw": "Издадени фактури през 2019 година",
+            "contract_sponsor_raw": "МБАЛ Д-р Иван Селимински -Сливен ЕИК 119502733"
+        },
+        {
+            "contract_amount_raw": "188",
+            "contract_amount": 188,
+            "contract_basis_raw": "Издадени фактури през 2019 година",
+            "contract_sponsor_raw": "Областен управител на област Сливен ЕИК 119101402"
+        },
+        {
+            "contract_amount_raw": "2354",
+            "contract_amount": 2354,
+            "contract_basis_raw": "Издадени фактури през 2019 година",
+            "contract_sponsor_raw": "Община Сливен ЕИК 000590654"
+        },
+        {
+            "contract_amount_raw": "150",
+            "contract_amount": 150,
+            "contract_basis_raw": "Издадени фактури през 2019 година",
+            "contract_sponsor_raw": "Община Котел ЕИК 000590540"
+        },
+        {
+            "contract_amount_raw": "214",
+            "contract_amount": 214,
+            "contract_basis_raw": "Издадени фактури през 2019 година",
+            "contract_sponsor_raw": "ОД на МВР ЕИК 129009913"
+        },
+        {
+            "contract_amount_raw": "200",
+            "contract_amount": 200,
+            "contract_basis_raw": "Издадени фактури през 2019 година",
+            "contract_sponsor_raw": "6- то ОУ Братя Миладинови Сливен ЕИК 119077823"
+        },
+        {
+            "contract_amount_raw": "366",
+            "contract_amount": 366,
+            "contract_basis_raw": "Издадени фактури през 2019 година",
+            "contract_sponsor_raw": "ПП ГЕРБ  ЕИК175248466"
+        },
+        {
+            "contract_amount_raw": "100",
+            "contract_amount": 100,
+            "contract_basis_raw": "Издадени фактури през 2019 година",
+            "contract_sponsor_raw": "ПМГ Добри Чинтулов ЕИК 000582561"
+        },
+        {
+            "contract_amount_raw": "250",
+            "contract_amount": 250,
+            "contract_basis_raw": "Издадени фактури през 2019 година",
+            "contract_sponsor_raw": "Районен съд Сливен  ЕИК 000590775"
+        },
+        {
+            "contract_amount_raw": "75",
+            "contract_amount": 75,
+            "contract_basis_raw": "Издадени фактури през 2019 година",
+            "contract_sponsor_raw": "РБ Сава Доброплодни Сливен ЕИК 119005279"
+        },
+        {
+            "contract_amount_raw": "160",
+            "contract_amount": 160,
+            "contract_basis_raw": "Издадени фактури през 2019 година",
+            "contract_sponsor_raw": "РДГ Сливен ЕИК 000591101"
+        },
+        {
+            "contract_amount_raw": "1100",
+            "contract_amount": 1100,
+            "contract_basis_raw": "Издадени фактури през 2019 година",
+            "contract_sponsor_raw": "Югоизточно държавно предприятие ДП Сливен ЕИК 201617654"
+        }
+    ]
+}

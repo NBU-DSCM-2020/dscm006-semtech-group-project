@@ -1,0 +1,29 @@
+{
+    "legal_entity_name": "Мастър медия груп ЕООД",
+    "legal_entity_id": "202710467",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "Булнюз - новинарски сайт",
+    "real_owner": "Даниел Димитров Бузов",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "4800",
+            "contract_amount": 4800,
+            "contract_basis_raw": "реклама",
+            "contract_sponsor_raw": "Община Мездра"
+        },
+        {
+            "contract_amount_raw": "6000",
+            "contract_amount": 6000,
+            "contract_basis_raw": "реклама",
+            "contract_sponsor_raw": "Община Вършец"
+        },
+        {
+            "contract_amount_raw": "800",
+            "contract_amount": 800,
+            "contract_basis_raw": "реклама",
+            "contract_sponsor_raw": "ППМГ Иван Ценов Враца"
+        }
+    ]
+}

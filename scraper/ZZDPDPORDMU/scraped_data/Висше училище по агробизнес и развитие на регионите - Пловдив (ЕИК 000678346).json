@@ -1,0 +1,17 @@
+{
+    "legal_entity_name": "Висше училище по агробизнес и развитие на регионите - Пловдив",
+    "legal_entity_id": "000678346",
+    "public_company": "неприложимо",
+    "media_service_type": "Печатна медия; Печатна медия; Печатна медия",
+    "media_service_name": "Списание за наука Ново знание, ISSN 2367-4598 (Online), ISSN 1314-5703 (Print); Годишник на ВУАРР, ISSN 1314-9113 (print), ISSN 2535-0609 (on-line);UARD Collective monograph series, ISSN: 2603-4824 (on-line) ",
+    "real_owner": "Димитър Кирилов Димитров",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "7000",
+            "contract_amount": 7000,
+            "contract_basis_raw": "Договор № КП-06-НП1/5 от 17.12.2019 за безвъзмездна финансова помощ за финансиране на българска научна периодика в конкурс Българска научна периодика – 2019 г. - Списание за наука Ново знание",
+            "contract_sponsor_raw": "Фонд Научни изследвания, МОН"
+        }
+    ]
+}

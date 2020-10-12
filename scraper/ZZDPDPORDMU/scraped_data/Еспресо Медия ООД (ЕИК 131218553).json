@@ -1,0 +1,47 @@
+{
+    "legal_entity_name": "Еспресо Медия ООД",
+    "legal_entity_id": "131218553",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "сайт - Espressonews.bg",
+    "real_owner": "Десислава Алексанрова Василева, Александър Стоянов Лесничков",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "110",
+            "contract_amount": 110,
+            "contract_basis_raw": "28.10.2019 г. Рекламно-информационно обслужване във връзка с провеждането на  избори за общински кмет в Костинброд",
+            "contract_sponsor_raw": "Трайко Андреев Младенов"
+        },
+        {
+            "contract_amount_raw": "2940",
+            "contract_amount": 2940,
+            "contract_basis_raw": "01.11.2019 г. Публикиване на материали, свързани с дейността на възложителя в регионалната онлайн медия espressonews.bg",
+            "contract_sponsor_raw": "Община Костинброд 000776363"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "10.10.2019  г. рекламно-информационно обслужване във връзка с провеждането на  избори за общински съветници и кметове, които ще се проведат на 27.10.2019",
+            "contract_sponsor_raw": "ПП Нова алтернатива 176433208"
+        },
+        {
+            "contract_amount_raw": "2120",
+            "contract_amount": 2120,
+            "contract_basis_raw": "28.02.2019 г. Публикване на материали, свързани с дейността  на възложителя в регионалната онлайн медия   espressonews.bg",
+            "contract_sponsor_raw": "Община Своге 000776502"
+        },
+        {
+            "contract_amount_raw": "1980",
+            "contract_amount": 1980,
+            "contract_basis_raw": "02.01.2019 г. Публикуване на материали, свързани с дейността на Възложителя, в регионалната онлайн медия EspressoNews.bg.",
+            "contract_sponsor_raw": "Община Драгоман 000776235"
+        },
+        {
+            "contract_amount_raw": "100",
+            "contract_amount": 100,
+            "contract_basis_raw": "17.06.2019 г. Договор за 2 бр. платени публикации",
+            "contract_sponsor_raw": "СНЦ МИГ Костинброд-Своге 176059529"
+        }
+    ]
+}

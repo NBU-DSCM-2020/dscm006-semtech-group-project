@@ -1,0 +1,263 @@
+{
+    "legal_entity_name": "КИС ООД",
+    "legal_entity_id": "117615472",
+    "public_company": "неприложимо",
+    "media_service_type": "Телевизия; Телевизия",
+    "media_service_name": "КИС 13; КИС М+",
+    "real_owner": "Пена Ангелова Бочева, Бочо Петков Бочев, Валентин Ивайлов Косев, Антония Атанасова Косева, Жасмина Ивайлова Косева",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "6000",
+            "contract_amount": 6000,
+            "contract_basis_raw": "07.01.2019 / информационно обслужване",
+            "contract_sponsor_raw": "Община Бяла, област Русе/000530493"
+        },
+        {
+            "contract_amount_raw": "6000",
+            "contract_amount": 6000,
+            "contract_basis_raw": "22.01.2019 / информационно обслужване",
+            "contract_sponsor_raw": "Русенски университет Ангел Кънчев / 000522685"
+        },
+        {
+            "contract_amount_raw": "8400",
+            "contract_amount": 8400,
+            "contract_basis_raw": "24.01.2019 / информационно обслужване",
+            "contract_sponsor_raw": "ВТУ Св. Св. Кирил и Методий Велико Търново / 104025653"
+        },
+        {
+            "contract_amount_raw": "3500",
+            "contract_amount": 3500,
+            "contract_basis_raw": "28.01.2019 / информационно обслужване",
+            "contract_sponsor_raw": "Община Две могили, област Русе/000530529"
+        },
+        {
+            "contract_amount_raw": "6000",
+            "contract_amount": 6000,
+            "contract_basis_raw": "28.01.2019 / излъчване на заседания на ОбС Две могили",
+            "contract_sponsor_raw": "Община Две могили, област Русе/000530529"
+        },
+        {
+            "contract_amount_raw": "7200",
+            "contract_amount": 7200,
+            "contract_basis_raw": "28.01.2019 / информационно обслужване",
+            "contract_sponsor_raw": "Община Разград /000505910"
+        },
+        {
+            "contract_amount_raw": "8300",
+            "contract_amount": 8300,
+            "contract_basis_raw": "28.01.2019 / излъчване на заседания на ОбС Разград",
+            "contract_sponsor_raw": "Община Разград /000505910"
+        },
+        {
+            "contract_amount_raw": "4200",
+            "contract_amount": 4200,
+            "contract_basis_raw": "29.01.2019 / информационно обслужване",
+            "contract_sponsor_raw": "Община Сливо поле, област Русе/000530657"
+        },
+        {
+            "contract_amount_raw": "6000",
+            "contract_amount": 6000,
+            "contract_basis_raw": "29.01.2019 / излъчване на заседания на ОбС Сливо поле",
+            "contract_sponsor_raw": "Община Сливо поле, област Русе/000530657"
+        },
+        {
+            "contract_amount_raw": "9840",
+            "contract_amount": 9840,
+            "contract_basis_raw": "31.01.2019 / информационно обслужване",
+            "contract_sponsor_raw": "Община Търговище/000875920"
+        },
+        {
+            "contract_amount_raw": "3000",
+            "contract_amount": 3000,
+            "contract_basis_raw": "01.02.2019 / информационно обслужване",
+            "contract_sponsor_raw": "ВиК ООД / 827184123"
+        },
+        {
+            "contract_amount_raw": "480",
+            "contract_amount": 480,
+            "contract_basis_raw": "15.04.2019 / платен репортаж",
+            "contract_sponsor_raw": "ВМРО-БНД / 130451348"
+        },
+        {
+            "contract_amount_raw": "350",
+            "contract_amount": 350,
+            "contract_basis_raw": "16.04.2019 / платено интервю",
+            "contract_sponsor_raw": "ПП ОСД / 175676431"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "17.4.2019 / изработка на рекламен видеоматериал",
+            "contract_sponsor_raw": "ДП Пристанищна инфраструктура / 130316140"
+        },
+        {
+            "contract_amount_raw": "3000",
+            "contract_amount": 3000,
+            "contract_basis_raw": "30.04.2019 / предизборна реклама ",
+            "contract_sponsor_raw": "ОбС на БСП - Русе / 0007020140256"
+        },
+        {
+            "contract_amount_raw": "300",
+            "contract_amount": 300,
+            "contract_basis_raw": "02.05.2019 / запис на събитие",
+            "contract_sponsor_raw": "Русенски университет Ангел Кънчев / 000522685"
+        },
+        {
+            "contract_amount_raw": "1680",
+            "contract_amount": 1680,
+            "contract_basis_raw": "03.05.2019 / предизборна реклама",
+            "contract_sponsor_raw": "ВМРО-БНД / 130451348"
+        },
+        {
+            "contract_amount_raw": "830",
+            "contract_amount": 830,
+            "contract_basis_raw": "07.05.2019 / предизборна реклама",
+            "contract_sponsor_raw": "ПП ГЕРБ / 175248466"
+        },
+        {
+            "contract_amount_raw": "300",
+            "contract_amount": 300,
+            "contract_basis_raw": "09.05.2019 / предизборен репортаж",
+            "contract_sponsor_raw": "ПП АТАКА / 131458114"
+        },
+        {
+            "contract_amount_raw": "855",
+            "contract_amount": 855,
+            "contract_basis_raw": "15.05.2019 / предизборен репортаж",
+            "contract_sponsor_raw": "ВМРО-БНД / 130451348"
+        },
+        {
+            "contract_amount_raw": "116,67",
+            "contract_amount": 116,
+            "contract_basis_raw": "04.06.2019 / отразяване Комуникационна стратегия за 2019",
+            "contract_sponsor_raw": "Областна администрация - Русе / 000531150"
+        },
+        {
+            "contract_amount_raw": "116,67",
+            "contract_amount": 116,
+            "contract_basis_raw": "18.06.2019 / отразяване Комуникационна стратегия за 2019",
+            "contract_sponsor_raw": "Областна администрация - Русе / 000531150"
+        },
+        {
+            "contract_amount_raw": "388,33",
+            "contract_amount": 388,
+            "contract_basis_raw": "28.06.2019 / популяризиране на дейността на МИГ",
+            "contract_sponsor_raw": "СНЦ МИГ Тутракан - Сливо поле / 175893196"
+        },
+        {
+            "contract_amount_raw": "750",
+            "contract_amount": 750,
+            "contract_basis_raw": "28.06.2019 / реклама",
+            "contract_sponsor_raw": "Община Котел / 000590540"
+        },
+        {
+            "contract_amount_raw": "700",
+            "contract_amount": 700,
+            "contract_basis_raw": "31.07.2019 / реклама",
+            "contract_sponsor_raw": "ВМРО-БНД / 130451348"
+        },
+        {
+            "contract_amount_raw": "4000",
+            "contract_amount": 4000,
+            "contract_basis_raw": "24.09.2019 / предизборна реклама",
+            "contract_sponsor_raw": "Местна коалиция БСП за България / 0007020140256"
+        },
+        {
+            "contract_amount_raw": "4000",
+            "contract_amount": 4000,
+            "contract_basis_raw": "25.09.2019 / предизборна реклама",
+            "contract_sponsor_raw": "ПП ВМРО - БНД  в полза на МК ВМРО - БНД (НФСБ) / 130451348"
+        },
+        {
+            "contract_amount_raw": "830",
+            "contract_amount": 830,
+            "contract_basis_raw": "27.09.2019 / предизборна реклама",
+            "contract_sponsor_raw": "ПП ГЕРБ / 175248466"
+        },
+        {
+            "contract_amount_raw": "300",
+            "contract_amount": 300,
+            "contract_basis_raw": "30.09.2019 / предизборна реклама",
+            "contract_sponsor_raw": "МК СЪЮЗ НА ДЕМОКРАТИЧНИТЕ СИЛИ /СДС/ 130052349"
+        },
+        {
+            "contract_amount_raw": "100",
+            "contract_amount": 100,
+            "contract_basis_raw": "01.10.2019 / платен репортаж",
+            "contract_sponsor_raw": "НЧ ХРИСТО БОТЕВ - 1928, с. Обретеник, област Русе / 000523082"
+        },
+        {
+            "contract_amount_raw": "420",
+            "contract_amount": 420,
+            "contract_basis_raw": "07.10.2019 / предизборна реклама",
+            "contract_sponsor_raw": "Свилен Филипов Иванов"
+        },
+        {
+            "contract_amount_raw": "2500",
+            "contract_amount": 2500,
+            "contract_basis_raw": "09.10.2019 / предизборна реклама",
+            "contract_sponsor_raw": "Местна коалиция БСП за България / 0007020140256"
+        },
+        {
+            "contract_amount_raw": "300",
+            "contract_amount": 300,
+            "contract_basis_raw": "11.10.2019 / предизборна реклама",
+            "contract_sponsor_raw": "Кристиян Пламенов Вълчев"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "16.10.2019 / предизборна реклама",
+            "contract_sponsor_raw": "МК СЪЮЗ НА ДЕМОКРАТИЧНИТЕ СИЛИ /СДС/ 130052349"
+        },
+        {
+            "contract_amount_raw": "300",
+            "contract_amount": 300,
+            "contract_basis_raw": "17.10.2019 / предизборна реклама",
+            "contract_sponsor_raw": "ПП ВМРО - БНД  в полза на МК ВМРО - БНД (НФСБ) / 130451348"
+        },
+        {
+            "contract_amount_raw": "400",
+            "contract_amount": 400,
+            "contract_basis_raw": "22.10.2019 / предизборна реклама",
+            "contract_sponsor_raw": "ПП ВМРО - БНД  в полза на МК ВМРО - БНД (НФСБ) / 130451348"
+        },
+        {
+            "contract_amount_raw": "300",
+            "contract_amount": 300,
+            "contract_basis_raw": "24.10.2019 / предизборна реклама",
+            "contract_sponsor_raw": "МК СЪЮЗ НА ДЕМОКРАТИЧНИТЕ СИЛИ /СДС/ 130052349"
+        },
+        {
+            "contract_amount_raw": "998",
+            "contract_amount": 998,
+            "contract_basis_raw": "29.10.2019 / предизборна реклама",
+            "contract_sponsor_raw": "Местна коалиция БСП за България / 0007020140256"
+        },
+        {
+            "contract_amount_raw": "300",
+            "contract_amount": 300,
+            "contract_basis_raw": "31.10.2019 / предизборна реклама",
+            "contract_sponsor_raw": "ПП ГЕРБ / 175248466"
+        },
+        {
+            "contract_amount_raw": "1770",
+            "contract_amount": 1770,
+            "contract_basis_raw": "21.10.2019 / предоставяне на програмно време (8840,00 лв)",
+            "contract_sponsor_raw": "МИНИСТЕРСТВО НА ОКОЛНАТА СРЕДА И ВОДИТЕ (МОСВ) / 000697371"
+        },
+        {
+            "contract_amount_raw": "300",
+            "contract_amount": 300,
+            "contract_basis_raw": "12.12.2019 / реклама",
+            "contract_sponsor_raw": "Общински пазари ЕООД / 117111045"
+        },
+        {
+            "contract_amount_raw": "194,17",
+            "contract_amount": 194,
+            "contract_basis_raw": "27.12.2019 / популяризиране на дейността на МИГ",
+            "contract_sponsor_raw": "СНЦ МИГ Тутракан - Сливо поле / 175893196"
+        }
+    ]
+}

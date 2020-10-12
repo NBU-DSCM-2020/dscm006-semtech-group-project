@@ -1,0 +1,131 @@
+{
+    "legal_entity_name": "МИХАЙЛОВ ТВ ООД",
+    "legal_entity_id": "130119552",
+    "public_company": "неприложимо",
+    "media_service_type": "Телевизия",
+    "media_service_name": "МИХАЙЛОВ ТВ ООД",
+    "real_owner": "ВЛАДИМИР ЛЮБЕНОВ МИХАЙЛОВ, ЦВЕТОМИЛА ПЕТРОВА МИХАЙЛОВА, ЗДРАВКО ЛЮБЕНОВ МИХАЙЛОВ",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "4500",
+            "contract_amount": 4500,
+            "contract_basis_raw": "ДОГОВОР 893000104 / 07.06.2019",
+            "contract_sponsor_raw": "АЕЦ КОЗЛОДУЙ ЕАД - ГР.КОЗЛОДУЙ"
+        },
+        {
+            "contract_amount_raw": "2200",
+            "contract_amount": 2200,
+            "contract_basis_raw": "ДОГОВОР ОТ 13.12.2019",
+            "contract_sponsor_raw": "ВИК ООД - ГР.ВРАЦА"
+        },
+        {
+            "contract_amount_raw": "9500",
+            "contract_amount": 9500,
+            "contract_basis_raw": "ДОГОВОР У-85 / 08.05.2019",
+            "contract_sponsor_raw": "ОБЩИНА ВРАЦА"
+        },
+        {
+            "contract_amount_raw": "2590",
+            "contract_amount": 2590,
+            "contract_basis_raw": "ДОГОВОР BG16RFOP001-5.002-0005-C01-U-003 / 20.07.2019",
+            "contract_sponsor_raw": "ОБЩИНА ВРАЦА"
+        },
+        {
+            "contract_amount_raw": "680",
+            "contract_amount": 680,
+            "contract_basis_raw": "ДОГОВОР BG16RFOP001-5.002-0005-C01-U-003 / 20.07.2019",
+            "contract_sponsor_raw": "ОБЩИНА ВРАЦА"
+        },
+        {
+            "contract_amount_raw": "10480,52",
+            "contract_amount": 10480,
+            "contract_basis_raw": "ДОГОВОР Д-34-86 / 01.10.2019",
+            "contract_sponsor_raw": "МИНИСТЕРСТВО НА ОКОЛНАТА СРЕДА И ВОДИТЕ"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "ДОГОВОР ОТ 09.05.2019",
+            "contract_sponsor_raw": "ОБЛАСТЕН СЪВЕТ НА БСП"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "ДОГОВОР ОТ 20.05.2019",
+            "contract_sponsor_raw": "ОБЛАСТЕН СЪВЕТ НА БСП"
+        },
+        {
+            "contract_amount_raw": "416,67",
+            "contract_amount": 416,
+            "contract_basis_raw": "ДОГОВОР ОТ 04.05.2019",
+            "contract_sponsor_raw": "ПП ГЕРБ"
+        },
+        {
+            "contract_amount_raw": "600",
+            "contract_amount": 600,
+            "contract_basis_raw": "ДОГОВОР ОТ 15.05.2019",
+            "contract_sponsor_raw": "ПП ДПС"
+        },
+        {
+            "contract_amount_raw": "666,67",
+            "contract_amount": 666,
+            "contract_basis_raw": "ДОГОВОР ОТ 08.05.2019",
+            "contract_sponsor_raw": "ПП АБВ"
+        },
+        {
+            "contract_amount_raw": "600",
+            "contract_amount": 600,
+            "contract_basis_raw": "ДОГОВОР ОТ 09.2019",
+            "contract_sponsor_raw": "ОБЛАСТЕН СЪВЕТ НА ВМРО"
+        },
+        {
+            "contract_amount_raw": "1200",
+            "contract_amount": 1200,
+            "contract_basis_raw": "ДОГОВОР ОТ 27.09.2019",
+            "contract_sponsor_raw": "ПП НФСБ"
+        },
+        {
+            "contract_amount_raw": "416,67",
+            "contract_amount": 416,
+            "contract_basis_raw": "ДОГОВОР ОТ 27.09.2019",
+            "contract_sponsor_raw": "ПП ГЕРБ"
+        },
+        {
+            "contract_amount_raw": "1250",
+            "contract_amount": 1250,
+            "contract_basis_raw": "ДОГОВОР ОТ 27.09.2019",
+            "contract_sponsor_raw": "МЕСТНА КОАЛИЦИЯ АБВ /ЗНС, ВОЛЯ, АБВ/"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "ДОГОВОР ОТ 19.09.2019",
+            "contract_sponsor_raw": "ОБЛАСТЕН СЪВЕТ НА БСП"
+        },
+        {
+            "contract_amount_raw": "800",
+            "contract_amount": 800,
+            "contract_basis_raw": "ДОГОВОР ОТ 09.10.2019",
+            "contract_sponsor_raw": "ОБЛАСТЕН СЪВЕТ НА БСП"
+        },
+        {
+            "contract_amount_raw": "450",
+            "contract_amount": 450,
+            "contract_basis_raw": "ДОГОВОР ОТ 03.10.2019",
+            "contract_sponsor_raw": "ПП ДПС"
+        },
+        {
+            "contract_amount_raw": "150",
+            "contract_amount": 150,
+            "contract_basis_raw": "ДОГОВОР ОТ 04.10.2019",
+            "contract_sponsor_raw": "ПП ДПС"
+        },
+        {
+            "contract_amount_raw": "250",
+            "contract_amount": 250,
+            "contract_basis_raw": "ДОГОВОР ОТ 09.10.2019",
+            "contract_sponsor_raw": "ПП ДПС"
+        }
+    ]
+}

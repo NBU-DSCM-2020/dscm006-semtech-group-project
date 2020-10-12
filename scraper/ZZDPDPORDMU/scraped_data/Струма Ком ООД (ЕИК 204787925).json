@@ -1,0 +1,137 @@
+{
+    "legal_entity_name": "Струма Ком ООД",
+    "legal_entity_id": "204787925",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "www.struma.com",
+    "real_owner": "Силвия Александрова Джамбазова, Васил Стефанов Александров",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "3724,5",
+            "contract_amount": 3724,
+            "contract_basis_raw": "Медийно отразяване- Делегация на българските евродепутати социалисти в ЕП",
+            "contract_sponsor_raw": "Сергей Станишев"
+        },
+        {
+            "contract_amount_raw": "1200",
+            "contract_amount": 1200,
+            "contract_basis_raw": "Информационно обслужване и реклама на ПП ГЕРБ",
+            "contract_sponsor_raw": "ПП ГЕРБ, ЕИК- 175248466"
+        },
+        {
+            "contract_amount_raw": "3000",
+            "contract_amount": 3000,
+            "contract_basis_raw": "Договор за рекламно и информационно обслужване през политическа кампания Местни избори 2019 с Местна коалиция ЕНП /ЕНП-СДС-БДО/ ",
+            "contract_sponsor_raw": "Местна коалиция ЕНП /ЕНП-СДС-БДО/"
+        },
+        {
+            "contract_amount_raw": "3000",
+            "contract_amount": 3000,
+            "contract_basis_raw": "Договор за рекламно и информационно обслужване през политическа кампания Местни избори 2019 с ПП РЗС",
+            "contract_sponsor_raw": "ПП РЗС"
+        },
+        {
+            "contract_amount_raw": "200",
+            "contract_amount": 200,
+            "contract_basis_raw": "Договор за рекламно и информационно обслужване през политическа кампания Местни избори 2019 /балотаж/ с ПП ГЕРБ",
+            "contract_sponsor_raw": "ПП ГЕРБ, ЕИК- 175248466"
+        },
+        {
+            "contract_amount_raw": "3600",
+            "contract_amount": 3600,
+            "contract_basis_raw": "Договор за информационно обслужване с ГРОМА ХОЛД ЕООД",
+            "contract_sponsor_raw": "ГРОМА ХОЛД ЕООД, ЕИК-  101611650"
+        },
+        {
+            "contract_amount_raw": "2400",
+            "contract_amount": 2400,
+            "contract_basis_raw": "Реклама на Стримона строй ЕООД",
+            "contract_sponsor_raw": "Стримона строй ЕООД, ЕИК- 121545581"
+        },
+        {
+            "contract_amount_raw": "2880",
+            "contract_amount": 2880,
+            "contract_basis_raw": "Реклама на Стилстрой-М ЕООД",
+            "contract_sponsor_raw": "Стилстрой-М ЕООД, ЕИК- 101655586"
+        },
+        {
+            "contract_amount_raw": "7440",
+            "contract_amount": 7440,
+            "contract_basis_raw": "Реклама на Хидроенергийна компания АД",
+            "contract_sponsor_raw": "Хидроенергийна компания АД, ЕИК- 202909921"
+        },
+        {
+            "contract_amount_raw": "7200",
+            "contract_amount": 7200,
+            "contract_basis_raw": "Информационно обслужване –Община Петрич",
+            "contract_sponsor_raw": "Община Петрич, ЕИК- 000024916"
+        },
+        {
+            "contract_amount_raw": "11520",
+            "contract_amount": 11520,
+            "contract_basis_raw": "Информационно обслужване – Община Сандански",
+            "contract_sponsor_raw": "Община Сандански, ЕИК- 000024955"
+        },
+        {
+            "contract_amount_raw": "8400",
+            "contract_amount": 8400,
+            "contract_basis_raw": "Информационно обслужване – Община Банско",
+            "contract_sponsor_raw": "Община Банско, ЕИК- 000024663"
+        },
+        {
+            "contract_amount_raw": "3600",
+            "contract_amount": 3600,
+            "contract_basis_raw": "Информационно обслужване – Община Разлог",
+            "contract_sponsor_raw": "Община Разлог, ЕИК- 000024948"
+        },
+        {
+            "contract_amount_raw": "14400",
+            "contract_amount": 14400,
+            "contract_basis_raw": "Информационно обслужване БЛАГОЕВГРАД ФЕСТ ЕООД",
+            "contract_sponsor_raw": "БЛАГОЕВГРАД ФЕСТ ЕООД, ЕИК- 204913231"
+        },
+        {
+            "contract_amount_raw": "3600",
+            "contract_amount": 3600,
+            "contract_basis_raw": "Информационно обслужване ЮЗДП- Благоевград",
+            "contract_sponsor_raw": "ЮЗДП- Благоевград, ЕИК- 201627506"
+        },
+        {
+            "contract_amount_raw": "3600",
+            "contract_amount": 3600,
+            "contract_basis_raw": "Информационно обслужване Община Благоевград",
+            "contract_sponsor_raw": "Община Благоевград, ЕИК- 000024695"
+        },
+        {
+            "contract_amount_raw": "10671,08",
+            "contract_amount": 10671,
+            "contract_basis_raw": "Договор с Община Петрич за изработване на рекламни, информационни и писмени преводи по проект Създаване на културен дипол Серес- Петрич по Програмата за сътрудничество INTERREG V-A Гърция- България 2014-2020г.",
+            "contract_sponsor_raw": "Община Петрич, ЕИК- 000024946"
+        },
+        {
+            "contract_amount_raw": "2880",
+            "contract_amount": 2880,
+            "contract_basis_raw": "Информационно обслужване на ЮЗУ Неофит Рилски гр. Благоевград",
+            "contract_sponsor_raw": "ЮЗУ Неофит Рилски гр. Благоевград, ЕИК- 000017149"
+        },
+        {
+            "contract_amount_raw": "1728",
+            "contract_amount": 1728,
+            "contract_basis_raw": "Договор за информационно обслужване с Биострой ЕООД",
+            "contract_sponsor_raw": "Биострой ЕООД, ЕИК- 101004999"
+        },
+        {
+            "contract_amount_raw": "4320",
+            "contract_amount": 4320,
+            "contract_basis_raw": "Информационно обслужване на ВиК гр. Петрич ЕООД",
+            "contract_sponsor_raw": "ВиК гр. Петрич ЕООД, ЕИК- 101005019"
+        },
+        {
+            "contract_amount_raw": "2880",
+            "contract_amount": 2880,
+            "contract_basis_raw": "Информационно обслужване с ВиК гр. Благоевград ЕООД",
+            "contract_sponsor_raw": "ВиК гр. Благоевград ЕООД, ЕИК- 811047831"
+        }
+    ]
+}

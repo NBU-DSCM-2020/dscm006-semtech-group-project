@@ -1,0 +1,107 @@
+{
+    "legal_entity_name": "Пауър Медиа ЕООД",
+    "legal_entity_id": "201393277",
+    "public_company": "неприложимо",
+    "media_service_type": "Радио",
+    "media_service_name": "Power FM / Пауър ФМ",
+    "real_owner": "Светлозар Пенков Бодуров",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "4320",
+            "contract_amount": 4320,
+            "contract_basis_raw": "10.01.2019 , Информационно обслужване",
+            "contract_sponsor_raw": "Община Поморие, ЕИК 000057179"
+        },
+        {
+            "contract_amount_raw": "4320",
+            "contract_amount": 4320,
+            "contract_basis_raw": "10.01.2019 , Информационно обслужване",
+            "contract_sponsor_raw": "Община Поморие, ЕИК 000057179"
+        },
+        {
+            "contract_amount_raw": "5760",
+            "contract_amount": 5760,
+            "contract_basis_raw": "15.07.2019 , Информационно обслужване",
+            "contract_sponsor_raw": "Община Бургас, ЕИК 000056814"
+        },
+        {
+            "contract_amount_raw": "5760",
+            "contract_amount": 5760,
+            "contract_basis_raw": "15.07.2019 , Информационно обслужване",
+            "contract_sponsor_raw": "Община Бургас, ЕИК 000056814"
+        },
+        {
+            "contract_amount_raw": "826,2",
+            "contract_amount": 826,
+            "contract_basis_raw": "15.10.2019 , Отразяване на Местни избори 2019",
+            "contract_sponsor_raw": "П.П. Съюз на Демократичните сили , ЕИК 130052349"
+        },
+        {
+            "contract_amount_raw": "826,2",
+            "contract_amount": 826,
+            "contract_basis_raw": "15.10.2019 , Отразяване на Местни избори 2019",
+            "contract_sponsor_raw": "П.П. Съюз на Демократичните сили , ЕИК 130052349"
+        },
+        {
+            "contract_amount_raw": "200",
+            "contract_amount": 200,
+            "contract_basis_raw": "17.10.2019 , Отразяване на Местни избори 2019",
+            "contract_sponsor_raw": "П.П. ГЕРБ , ЕИК 175248466"
+        },
+        {
+            "contract_amount_raw": "200",
+            "contract_amount": 200,
+            "contract_basis_raw": "17.10.2019 , Отразяване на Местни избори 2019",
+            "contract_sponsor_raw": "П.П. ГЕРБ , ЕИК 175248466"
+        },
+        {
+            "contract_amount_raw": "480",
+            "contract_amount": 480,
+            "contract_basis_raw": "19.10.2019 , Отразяване на Местни избори 2019",
+            "contract_sponsor_raw": "Петя Викторова Петрова, ЕГН 7008041713"
+        },
+        {
+            "contract_amount_raw": "480",
+            "contract_amount": 480,
+            "contract_basis_raw": "19.10.2019 , Отразяване на Местни избори 2019",
+            "contract_sponsor_raw": "Петя Викторова Петрова, ЕГН 7008041713"
+        },
+        {
+            "contract_amount_raw": "2000",
+            "contract_amount": 2000,
+            "contract_basis_raw": "02.05.19 , Отразяване Избори за Европарламент 2019",
+            "contract_sponsor_raw": "П.П. ВМРО-БНД, ЕИК 130451348"
+        },
+        {
+            "contract_amount_raw": "2000",
+            "contract_amount": 2000,
+            "contract_basis_raw": "02.05.19 , Отразяване Избори за Европарламент 2019",
+            "contract_sponsor_raw": "П.П. ВМРО-БНД, ЕИК 130451348"
+        },
+        {
+            "contract_amount_raw": "400",
+            "contract_amount": 400,
+            "contract_basis_raw": "30.04.19 , Отразяване Избори за Европарламент 2019",
+            "contract_sponsor_raw": "П.П. ГЕРБ , ЕИК 175248466"
+        },
+        {
+            "contract_amount_raw": "400",
+            "contract_amount": 400,
+            "contract_basis_raw": "30.04.19 , Отразяване Избори за Европарламент 2019",
+            "contract_sponsor_raw": "П.П. ГЕРБ , ЕИК 175248466"
+        },
+        {
+            "contract_amount_raw": "6000",
+            "contract_amount": 6000,
+            "contract_basis_raw": "10.04.2019 , Информационно обслужване",
+            "contract_sponsor_raw": "Община Царево, ЕИК 000057097"
+        },
+        {
+            "contract_amount_raw": "6000",
+            "contract_amount": 6000,
+            "contract_basis_raw": "10.04.2019 , Информационно обслужване",
+            "contract_sponsor_raw": "Община Царево, ЕИК 000057097"
+        }
+    ]
+}

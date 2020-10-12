@@ -1,0 +1,71 @@
+{
+    "legal_entity_name": "200995793",
+    "legal_entity_id": "200995793",
+    "public_company": "Неприложимо",
+    "media_service_type": "Печатна медия, онлайн издание; Печатна медия, онлайн издание; Онлайн издание",
+    "media_service_name": "Списание Ютилитис – www.utilities.bg; Списание Фасилитис – www.facilities.bg; www.publics.bg",
+    "real_owner": "Атанас Димитров Георгиев",
+    "executive_individual": "Неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "43500 лв.",
+            "contract_amount": 43500,
+            "contract_basis_raw": "Допълнителни вноски от съдружник за покриване на текущи нужди",
+            "contract_sponsor_raw": "Атанас Димитров Георгиев"
+        },
+        {
+            "contract_amount_raw": "4200 лв. с ДДС",
+            "contract_amount": 4200,
+            "contract_basis_raw": "Договор от 06.02.2019г. - за рекламни услуги по време на събития Energy Managers Forum",
+            "contract_sponsor_raw": "Ей И Ес Марица Изток I Сървисиз ЕООД, ЕИК 123533827"
+        },
+        {
+            "contract_amount_raw": "4200 лв. с ДДС",
+            "contract_amount": 4200,
+            "contract_basis_raw": "Договор от 01.03.2019 г. - рекламен пакет за събитията Energy Managers Forum",
+            "contract_sponsor_raw": "Контурглобал Марица Изток 3 АД, ЕИК 130020522"
+        },
+        {
+            "contract_amount_raw": "1200 лв. с ДДС",
+            "contract_amount": 1200,
+            "contract_basis_raw": "Договор от 29.08.2019г. - за рекламни услуги по време на лятна школа Мениджмънт в енергетиката",
+            "contract_sponsor_raw": "Тотал Е&П България Б.В. – клон България, ЕИК 202219265"
+        },
+        {
+            "contract_amount_raw": "1212 лв. с ДДС",
+            "contract_amount": 1212,
+            "contract_basis_raw": "Договор от 16.09.2019г. - Договор за набиране на абонамент за сп. Ютилитис и Фасилитис",
+            "contract_sponsor_raw": "Български пощи ЕАД, ЕИК 121396123"
+        },
+        {
+            "contract_amount_raw": "600 лв. с ДДС",
+            "contract_amount": 600,
+            "contract_basis_raw": "Договор от 16.09.2019г. - за рекламни услуги по време на лятна школа Мениджмънт в енергетиката",
+            "contract_sponsor_raw": "Ей И Ес Марица Изток I Сървисиз ЕООД, ЕИК 123533827"
+        },
+        {
+            "contract_amount_raw": "1200 лв. с ДДС",
+            "contract_amount": 1200,
+            "contract_basis_raw": "Договор от 14.10.2019г. - за рекламни услуги по време на събития Energy Managers Forum",
+            "contract_sponsor_raw": "ЧЕЗ Трейд България ЕАД, ЕИК 113570147"
+        },
+        {
+            "contract_amount_raw": "1000 лв. с ДДС",
+            "contract_amount": 1000,
+            "contract_basis_raw": "Договор от 17.10.2019г. - за рекламни услуги по време на събития Energy Managers Forum",
+            "contract_sponsor_raw": "Енерго Про Варна ЕАД, ЕИК 204146759"
+        },
+        {
+            "contract_amount_raw": "500 лв. с ДДС",
+            "contract_amount": 500,
+            "contract_basis_raw": "Договор от 06.11.2019г. - за рекламни услуги по време на събития Energy Managers Forum",
+            "contract_sponsor_raw": "Веолия Енерджи Варна ЕАД, ЕИК 103195446"
+        },
+        {
+            "contract_amount_raw": "1200 лв. с ДДС",
+            "contract_amount": 1200,
+            "contract_basis_raw": "Договор от 22.11.2019г. - за рекламни услуги по време на събития Energy Managers Forum",
+            "contract_sponsor_raw": "Ей И Ес Марица Изток I Сървисиз ЕООД, ЕИК 123533827"
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "legal_entity_name": "СИД УЕБ ГРУП ООД",
+    "legal_entity_id": "202907614",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "онлайн новинарските услуги – електронните издания на вестници, списания, информационни агенции и други електронни издания.",
+    "real_owner": "Иван Илиев Христов, Стефан Иванов Бурджев, Десислав Сашев Василков",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "6000",
+            "contract_amount": 6000,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "Община Плевен-Георг Спартански ЕИК 000413974"
+        },
+        {
+            "contract_amount_raw": "1800",
+            "contract_amount": 1800,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "Община Гулянци- Лъчезар Яков ЕИК-000413691"
+        },
+        {
+            "contract_amount_raw": "1680",
+            "contract_amount": 1680,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "Община Левски -Любка Александрова"
+        },
+        {
+            "contract_amount_raw": "1200",
+            "contract_amount": 1200,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "Община Пордим - Детелин Василев"
+        },
+        {
+            "contract_amount_raw": "1440",
+            "contract_amount": 1440,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "Община Червен бряг - Данаил Вълов"
+        },
+        {
+            "contract_amount_raw": "1800",
+            "contract_amount": 1800,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "Община Долни Дъбник - Борислав Станимиров  ЕИК-000413732"
+        },
+        {
+            "contract_amount_raw": "1680",
+            "contract_amount": 1680,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "Община Кнежа - Илийчо Лачовски ЕИК-000193243"
+        },
+        {
+            "contract_amount_raw": "2250",
+            "contract_amount": 2250,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "ПП Герб - Владислав Николов  ЕИК-175248466"
+        },
+        {
+            "contract_amount_raw": "2400",
+            "contract_amount": 2400,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "ДКЦ ІІ Плевен ЕООД д-р Марияна Лазарова ЕИК-000411941"
+        },
+        {
+            "contract_amount_raw": "3000",
+            "contract_amount": 3000,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "Плевенска филхармония- Любомир Дяковски ЕИК-000405995"
+        },
+        {
+            "contract_amount_raw": "3600",
+            "contract_amount": 3600,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "Топлофикация Плевен ЕАД-инж.Йордан Василев ЕИК-114005624"
+        }
+    ]
+}

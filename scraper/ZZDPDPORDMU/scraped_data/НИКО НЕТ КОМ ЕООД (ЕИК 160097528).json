@@ -1,0 +1,53 @@
+{
+    "legal_entity_name": "НИКО НЕТ КОМ ЕООД",
+    "legal_entity_id": "160097528",
+    "public_company": "неприложимо",
+    "media_service_type": "Телевизия",
+    "media_service_name": "ННЕТ КОМ",
+    "real_owner": "Никола Танев Георгиев",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "8640",
+            "contract_amount": 8640,
+            "contract_basis_raw": "медийно отразяване",
+            "contract_sponsor_raw": "Община Чирпан 000818086"
+        },
+        {
+            "contract_amount_raw": "1224",
+            "contract_amount": 1224,
+            "contract_basis_raw": "медийно отразяване",
+            "contract_sponsor_raw": "БСП 000702014"
+        },
+        {
+            "contract_amount_raw": "1200",
+            "contract_amount": 1200,
+            "contract_basis_raw": "медийно отразяване",
+            "contract_sponsor_raw": "ПП ГЕРБ 175248466"
+        },
+        {
+            "contract_amount_raw": "3600",
+            "contract_amount": 3600,
+            "contract_basis_raw": "медийно отразяване",
+            "contract_sponsor_raw": "ПП НОВА АЛТЕРНАТИВА 176433208     "
+        },
+        {
+            "contract_amount_raw": "480",
+            "contract_amount": 480,
+            "contract_basis_raw": "медийно отразяване",
+            "contract_sponsor_raw": "ПГ СС 000803999 "
+        },
+        {
+            "contract_amount_raw": "150",
+            "contract_amount": 150,
+            "contract_basis_raw": "медийно отразяване",
+            "contract_sponsor_raw": "СОУ  ПК Яворов 000807442 "
+        },
+        {
+            "contract_amount_raw": "480",
+            "contract_amount": 480,
+            "contract_basis_raw": "медийно отразяване",
+            "contract_sponsor_raw": "ОУ Васил  Левски 000802527 "
+        }
+    ]
+}

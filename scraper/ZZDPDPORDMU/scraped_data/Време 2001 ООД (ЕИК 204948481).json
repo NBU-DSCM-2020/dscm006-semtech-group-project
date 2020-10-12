@@ -1,0 +1,113 @@
+{
+    "legal_entity_name": "Време 2001 ООД",
+    "legal_entity_id": "204948481",
+    "public_company": "неприложимо",
+    "media_service_type": "Печатна медия; Онлайн новинарско издание",
+    "media_service_name": "Вестник Време 2001; Време 2001",
+    "real_owner": "Николай Добрев Радулов, Веселина Костадинова Велчева",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "14200",
+            "contract_amount": 14200,
+            "contract_basis_raw": "Договор за информационно обслужване",
+            "contract_sponsor_raw": "Асарел-Медет АД / 822106269"
+        },
+        {
+            "contract_amount_raw": "1200",
+            "contract_amount": 1200,
+            "contract_basis_raw": "Фактури - Публикуване на рекламно каре и банер",
+            "contract_sponsor_raw": "Бунай АД / 112638015"
+        },
+        {
+            "contract_amount_raw": "1200",
+            "contract_amount": 1200,
+            "contract_basis_raw": "Договор за информационно обслужване",
+            "contract_sponsor_raw": "Оптикс АД / 121722373"
+        },
+        {
+            "contract_amount_raw": "48",
+            "contract_amount": 48,
+            "contract_basis_raw": "Фактура - публикуване на обява",
+            "contract_sponsor_raw": "Интерлогистика куриер ЕООД / 103881915"
+        },
+        {
+            "contract_amount_raw": "1800",
+            "contract_amount": 1800,
+            "contract_basis_raw": "01.03.2019, Договор за информационно обслужване",
+            "contract_sponsor_raw": "Община Панагюрище / 000351746"
+        },
+        {
+            "contract_amount_raw": "800",
+            "contract_amount": 800,
+            "contract_basis_raw": "01.03.2019, Договор за информационно обслужване",
+            "contract_sponsor_raw": "Многопрофилна болница за активно лечение – Уни Хоспитал ООД / 112520604"
+        },
+        {
+            "contract_amount_raw": "820",
+            "contract_amount": 820,
+            "contract_basis_raw": "30.09.2019, Предоставяне на медийна услуга по време на предизборната кампания за Местни избори 2019",
+            "contract_sponsor_raw": "Обс на БСП-Панагюрище / 000702014"
+        },
+        {
+            "contract_amount_raw": "440",
+            "contract_amount": 440,
+            "contract_basis_raw": "07.10.2019, Договор за предоставяне на медийна услуга по време на Местни избори 2019",
+            "contract_sponsor_raw": "ИК за кмет на община Стрелча - Георги Кирилов Павлов / 1909043401"
+        },
+        {
+            "contract_amount_raw": "100",
+            "contract_amount": 100,
+            "contract_basis_raw": "24.10.2019, Договор за предоставяне на медийна услуга по време на Местни избори 2019",
+            "contract_sponsor_raw": "ПП ГЕРБ / 175248466"
+        },
+        {
+            "contract_amount_raw": "60",
+            "contract_amount": 60,
+            "contract_basis_raw": "21.03.2019, фактура - обява",
+            "contract_sponsor_raw": "Пазари и паркинги ООД / 112517451"
+        },
+        {
+            "contract_amount_raw": "70",
+            "contract_amount": 70,
+            "contract_basis_raw": "16.05.2019, фактура - отразяване на събитие",
+            "contract_sponsor_raw": "Областен съвет на БСП Пазарджик / 000702014"
+        },
+        {
+            "contract_amount_raw": "107",
+            "contract_amount": 107,
+            "contract_basis_raw": "31.07.2019, фактура - публикуване на обявление",
+            "contract_sponsor_raw": "Община Стрелча / 000351864"
+        },
+        {
+            "contract_amount_raw": "85",
+            "contract_amount": 85,
+            "contract_basis_raw": "30.12.2019, фактура - публикуване на обявление",
+            "contract_sponsor_raw": "Община Стрелча / 000351864"
+        },
+        {
+            "contract_amount_raw": "900",
+            "contract_amount": 900,
+            "contract_basis_raw": "04.10.2019, фактура - фотографиране на кандидатите за кметове и общински съветници на ОбС на БСП-Панагюрище, предпечат на материали за кампанията",
+            "contract_sponsor_raw": "Обс на БСП-Панагюрище / 000702014"
+        },
+        {
+            "contract_amount_raw": "390",
+            "contract_amount": 390,
+            "contract_basis_raw": "22.03.19, фактура - дизайн на Интерактивен културен календар на Община Панагюрище",
+            "contract_sponsor_raw": "Община Панагюрище / 000351746"
+        },
+        {
+            "contract_amount_raw": "200",
+            "contract_amount": 200,
+            "contract_basis_raw": "Фактура - Дизайн и предпечат на информационна дипляна",
+            "contract_sponsor_raw": "Многопрофилна болница за активно лечение – Уни Хоспитал ООД / 112520604"
+        },
+        {
+            "contract_amount_raw": "80",
+            "contract_amount": 80,
+            "contract_basis_raw": "Фактура - Дизайн на коледни поздравителни картички",
+            "contract_sponsor_raw": "Многопрофилна болница за активно лечение – Уни Хоспитал ООД / 112520604"
+        }
+    ]
+}

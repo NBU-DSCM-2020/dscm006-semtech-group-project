@@ -1,0 +1,59 @@
+{
+    "legal_entity_name": "Общински пазари ЕООД",
+    "legal_entity_id": "820184003",
+    "public_company": "неприложимо",
+    "media_service_type": "Печатна медия",
+    "media_service_name": "Вестник Троянски глас",
+    "real_owner": "Росен Любенов Веселинов",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "150",
+            "contract_amount": 150,
+            "contract_basis_raw": "Местни избори 2019г. - публикация м бр.37, 3-та стр.",
+            "contract_sponsor_raw": "БСП за България"
+        },
+        {
+            "contract_amount_raw": "150",
+            "contract_amount": 150,
+            "contract_basis_raw": "Местни избори 2019г. - публикация м бр.38, 3-та стр.",
+            "contract_sponsor_raw": "БСП за България"
+        },
+        {
+            "contract_amount_raw": "150",
+            "contract_amount": 150,
+            "contract_basis_raw": "Местни избори 2019г. - публикация м бр.39, 3-та стр.",
+            "contract_sponsor_raw": "БСП за България"
+        },
+        {
+            "contract_amount_raw": "150",
+            "contract_amount": 150,
+            "contract_basis_raw": "Местни избори 2019г. - публикация м бр.40, 3-та стр.",
+            "contract_sponsor_raw": "БСП за България"
+        },
+        {
+            "contract_amount_raw": "346",
+            "contract_amount": 346,
+            "contract_basis_raw": "Местни избори 2019г. - публикация м бр.37, 1-ва стр. и 2-ра стр.",
+            "contract_sponsor_raw": "Местна коалиция Глас Народен НФСБ"
+        },
+        {
+            "contract_amount_raw": "150",
+            "contract_amount": 150,
+            "contract_basis_raw": "Местни избори 2019г. - публикация м бр.38,  2-ра стр.",
+            "contract_sponsor_raw": "Местна коалиция Глас Народен НФСБ"
+        },
+        {
+            "contract_amount_raw": "346",
+            "contract_amount": 346,
+            "contract_basis_raw": "Местни избори 2019г. - публикация м бр.39, 1-ва и  2-ра стр.",
+            "contract_sponsor_raw": "Местна коалиция Глас Народен НФСБ"
+        },
+        {
+            "contract_amount_raw": "280",
+            "contract_amount": 280,
+            "contract_basis_raw": "Местни избори 2019г. - публикация м бр.40, 1-ва и  2-ра стр.",
+            "contract_sponsor_raw": "Местна коалиция Глас Народен НФСБ"
+        }
+    ]
+}

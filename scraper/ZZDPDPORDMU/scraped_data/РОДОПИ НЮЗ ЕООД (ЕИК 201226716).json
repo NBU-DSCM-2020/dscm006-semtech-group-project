@@ -1,0 +1,65 @@
+{
+    "legal_entity_name": "РОДОПИ НЮЗ ЕООД",
+    "legal_entity_id": "201226716",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "информационен сайт",
+    "real_owner": "Евелина Миткова Атанасова",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "105/17.01.2019- информационно обслужване",
+            "contract_sponsor_raw": "Община Чепеларе - 000615164"
+        },
+        {
+            "contract_amount_raw": "300",
+            "contract_amount": 300,
+            "contract_basis_raw": "11.02.2019 - информационно обслужване",
+            "contract_sponsor_raw": "Община Златоград - 000614938"
+        },
+        {
+            "contract_amount_raw": "400",
+            "contract_amount": 400,
+            "contract_basis_raw": "15.04.2019 - информационно обслужване",
+            "contract_sponsor_raw": "Община Мадан - 000614984"
+        },
+        {
+            "contract_amount_raw": "620",
+            "contract_amount": 620,
+            "contract_basis_raw": "16.05.2019 - отразяване на предизборна кампания",
+            "contract_sponsor_raw": "ОбС на БСП-Смолян - 0007020140359"
+        },
+        {
+            "contract_amount_raw": "1600",
+            "contract_amount": 1600,
+            "contract_basis_raw": "26.09.2019 - отразяване  на предизборна кампания",
+            "contract_sponsor_raw": "МК Новото време - 131297649"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "01.10.2019 - отразяване на местни избори 2019",
+            "contract_sponsor_raw": "ОбС на БСП - Смолян - 0007020140359"
+        },
+        {
+            "contract_amount_raw": "340",
+            "contract_amount": 340,
+            "contract_basis_raw": "14.10.2019 - публикации Местни избори 2019",
+            "contract_sponsor_raw": "ВМРО -Българско национално движение - 130451348"
+        },
+        {
+            "contract_amount_raw": "140",
+            "contract_amount": 140,
+            "contract_basis_raw": "20.12.2019 - видеоматериал",
+            "contract_sponsor_raw": "МБАЛ д-р К.Чилов - Мадан- 120505630"
+        },
+        {
+            "contract_amount_raw": "50",
+            "contract_amount": 50,
+            "contract_basis_raw": "30.12.2019- публикация по проект България - Гърция",
+            "contract_sponsor_raw": "Смолянска търговско промишлена палата - 830133605"
+        }
+    ]
+}

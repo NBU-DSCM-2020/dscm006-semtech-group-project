@@ -1,0 +1,113 @@
+{
+    "legal_entity_name": "НИЕ САВОВА ЕООД",
+    "legal_entity_id": "203544920",
+    "public_company": "неприложимо",
+    "media_service_type": "Печатна медия",
+    "media_service_name": "вестник НИЕ",
+    "real_owner": "Мария Владимирова Савова",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "2448",
+            "contract_amount": 2448,
+            "contract_basis_raw": "медийно обслужване от 2.01.2019 г до 31.12.2019 г",
+            "contract_sponsor_raw": "Община Ново село, еик 000159643"
+        },
+        {
+            "contract_amount_raw": "2448",
+            "contract_amount": 2448,
+            "contract_basis_raw": "медийно обслужване от 02.01.2019 г. До 31.12.2019 г.,",
+            "contract_sponsor_raw": "Община Грамада, еик 000159531"
+        },
+        {
+            "contract_amount_raw": "3600",
+            "contract_amount": 3600,
+            "contract_basis_raw": "медийно обслужване  от 03.01.2019 г. До 31.12.2019 г.",
+            "contract_sponsor_raw": "Община Ружинци, еик 000159682"
+        },
+        {
+            "contract_amount_raw": "1440",
+            "contract_amount": 1440,
+            "contract_basis_raw": "медийно обслужване от 02.01.2019 г. До 31.12.2019 г.,",
+            "contract_sponsor_raw": "Община Чупрене, еик   ЕИК:000159700"
+        },
+        {
+            "contract_amount_raw": "4320",
+            "contract_amount": 4320,
+            "contract_basis_raw": "медийно обслужване от 03.01.2019 г. До 31.12.2019 г.,",
+            "contract_sponsor_raw": "Община Видин, ЕИК: 000159508,"
+        },
+        {
+            "contract_amount_raw": "720",
+            "contract_amount": 720,
+            "contract_basis_raw": "медийно обслужване от 02.01.2019 г. До 31.12.2019 г.",
+            "contract_sponsor_raw": "Симфониета – Видин, еик 000153836"
+        },
+        {
+            "contract_amount_raw": "2800",
+            "contract_amount": 2800,
+            "contract_basis_raw": "медийно обслужване от 03.12.2018 г. До 03.12.2019 г.,",
+            "contract_sponsor_raw": "ОбС на БСП – Видин, еик 0007020140187"
+        },
+        {
+            "contract_amount_raw": "6000",
+            "contract_amount": 6000,
+            "contract_basis_raw": "медийно обслужване  от 02.01.2019 г. До 31.12.2019 г",
+            "contract_sponsor_raw": "ПП ГЕРБ ЕИК: 175248466"
+        },
+        {
+            "contract_amount_raw": "3600",
+            "contract_amount": 3600,
+            "contract_basis_raw": "медийно обслужване  от 02.09.2019 г. До 02.09.2020 г.,",
+            "contract_sponsor_raw": "Областна администрация – видин, еик 105042424"
+        },
+        {
+            "contract_amount_raw": "300",
+            "contract_amount": 300,
+            "contract_basis_raw": "медийно обслужване по време на предизборна кампания за избори за членове на Европейския парламент 2019 г. От 07.05.2019 г. До 09.05.2019 г.",
+            "contract_sponsor_raw": "ПП ВМРО-БНД, ЕИК: 130451348"
+        },
+        {
+            "contract_amount_raw": "1320",
+            "contract_amount": 1320,
+            "contract_basis_raw": "за медийно обслужване  по време на предизборна кампания за избори за членове на Европейския парламент 2019 г. От 03.05.2019 г. До 24.05.2019 г.,",
+            "contract_sponsor_raw": "ПП ГЕРБ, ЕИК: 175248466"
+        },
+        {
+            "contract_amount_raw": "600",
+            "contract_amount": 600,
+            "contract_basis_raw": "за медийно обслужване по време на предизборна кампания за Местни избори 2019 г. От 02.10.2019 г.  до 01.11. 2019 г.",
+            "contract_sponsor_raw": "ОбС на БСП – Видин, ЕИК: 0007020140187"
+        },
+        {
+            "contract_amount_raw": "2880",
+            "contract_amount": 2880,
+            "contract_basis_raw": "за медийно обслужване по време на предизборна кампания за Местни избори 2019 г. От 27.09.2019 до 01.11.2019 г.,",
+            "contract_sponsor_raw": "ПП ГЕРБ, ЕИК: 175248466"
+        },
+        {
+            "contract_amount_raw": "200",
+            "contract_amount": 200,
+            "contract_basis_raw": "за медийно обслужване по време на предизборна кампания за Местни избори 2019 г. От 18.10.2019 до 25.10.2019 г.",
+            "contract_sponsor_raw": "Иван Перчински, ЕГН 5101201785"
+        },
+        {
+            "contract_amount_raw": "120",
+            "contract_amount": 120,
+            "contract_basis_raw": "за медийно обслужване по време на предизборна кампания за Местни избори 2019 г. От 21.10.2019 до 25.10.2019 г.,",
+            "contract_sponsor_raw": "Местна коалиция СДС, НДСВ, НА, ЗНС, БЗНС, БДС-Р,  чрез Генади Велков, ЕГН 6204011721"
+        },
+        {
+            "contract_amount_raw": "900",
+            "contract_amount": 900,
+            "contract_basis_raw": "за предпечат и печат на предизборен вестникпо време на предизборна кампания за Местни избори 2019 г. О16.10.2019 до 18.10.2019 г.",
+            "contract_sponsor_raw": "Местна коалиция СДС, НДСВ, НА, ЗНС, БЗНС, БДС-Р,  чрез Генади Велков, ЕГН 6204011721"
+        },
+        {
+            "contract_amount_raw": "60",
+            "contract_amount": 60,
+            "contract_basis_raw": "за медийно обслужване по време на предизборна кампания за Местни избори 2019 г. От 31.10.2019 г. До 1.11.2019 г.",
+            "contract_sponsor_raw": "Местна коалиция СДС, НДСВ, НА, ЗНС, БЗНС, БДС-Р,  чрез Генади Велков, ЕГН 6204011721"
+        }
+    ]
+}

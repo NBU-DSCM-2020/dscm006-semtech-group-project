@@ -1,0 +1,629 @@
+{
+    "legal_entity_name": "168 ЧАСА ЕООД",
+    "legal_entity_id": "831400025",
+    "public_company": "неприложимо",
+    "media_service_type": "Печатна медия; Печатна медия; Печатна медия; Печатна медия; Печатна медия; Печатна медия; Печатна медия; Печатна медия; Печатна медия; Печатна медия; Онлайн новинарско издание; Онлайн новинарско издание; Онлайн новинарско издание; Онлайн новинарско издание; Онлайн новинарско издание; Онлайн новинарско издание; Онлайн новинарско издание; Онлайн новинарско издание; Онлайн новинарско издание; Онлайн новинарско издание; Онлайн новинарско издание; Печатна медия",
+    "media_service_name": "24 часа; 168 часа; ВСИЧКО ЗА СЕМЕЙСТВОТО; КЛУБ 100; БЪЛГАРИЯ ДНЕС; ИДЕАЛЕН ДОМ; TREND; TREND AUTO; КОСМОС; РЕЦЕПТИ ЗА ЗДРАВЕ; 24chasa.bg; 168chasa.bg; bgdnes.bg; mila.bg; mama24.bg; 24zdrave.bg; hiclub.bg; dotbg.bg; 24plovdiv.bg; spomen.bg; mentrend.bg; Идеален дом Decor",
+    "real_owner": "ВЕНЕЛИНА АТАНАСОВА ГОЧЕВА",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "6180",
+            "contract_amount": 6180,
+            "contract_basis_raw": "10.04.2019 Публикуване на инф. материали",
+            "contract_sponsor_raw": "Фонд мениджър на финансови инструменти в България, ЕИК 203740812"
+        },
+        {
+            "contract_amount_raw": "4000",
+            "contract_amount": 4000,
+            "contract_basis_raw": "01.04.2019 Партньорство кампания Големите малки",
+            "contract_sponsor_raw": "онд мениджър на финансови инструменти в България, ЕИК 203740812"
+        },
+        {
+            "contract_amount_raw": "1980",
+            "contract_amount": 1980,
+            "contract_basis_raw": "18.03.2019 Публикуване на инф. материали",
+            "contract_sponsor_raw": "Изп. агенция Главна инспекция по труда, ЕИК 831545394"
+        },
+        {
+            "contract_amount_raw": "2202,5",
+            "contract_amount": 2202,
+            "contract_basis_raw": "11.03.2019 Публикуване на обяви,обявления",
+            "contract_sponsor_raw": "Изп. агенция по околна среда (ИАОС), ЕИК 831901762"
+        },
+        {
+            "contract_amount_raw": "2298,91",
+            "contract_amount": 2298,
+            "contract_basis_raw": "27.02.2019 Публикуване на обяви, обявления",
+            "contract_sponsor_raw": "Югозападно държавно предприятие ДП"
+        },
+        {
+            "contract_amount_raw": "13200",
+            "contract_amount": 13200,
+            "contract_basis_raw": "28.02.2019 Информационно обслужване",
+            "contract_sponsor_raw": "Автомагистрали ЕАД, ЕИК 831646048"
+        },
+        {
+            "contract_amount_raw": "10000",
+            "contract_amount": 10000,
+            "contract_basis_raw": "14.02.2019 Рекламно и инф. обслужване -принт и онлайн",
+            "contract_sponsor_raw": "ДП РЪКОВДСТВО ВЪЗДУШНО ДВИЖЕНИЕ, ЕИК 000697179"
+        },
+        {
+            "contract_amount_raw": "6348,72",
+            "contract_amount": 6348,
+            "contract_basis_raw": "15.04.2019 Публикуване на обяви, обявления",
+            "contract_sponsor_raw": "Прокуратура на Република България, ЕИК 11817309"
+        },
+        {
+            "contract_amount_raw": "20000",
+            "contract_amount": 20000,
+            "contract_basis_raw": "25.04.2019 Партньорство кампания Големите малки",
+            "contract_sponsor_raw": "Българска агенция за експортно застраховане (БАЕЗ), ЕИК 121769212"
+        },
+        {
+            "contract_amount_raw": "20000",
+            "contract_amount": 20000,
+            "contract_basis_raw": "28.03.2019 Рекламно и инф. обслужване -принт и онлайн",
+            "contract_sponsor_raw": "Българска банка за развитие АД, ЕИК 121856089"
+        },
+        {
+            "contract_amount_raw": "9600",
+            "contract_amount": 9600,
+            "contract_basis_raw": "06.03.2019 Дарение капмания Достойните българи",
+            "contract_sponsor_raw": "АЕЦ Козлодуй АД, ЕИК 106513772"
+        },
+        {
+            "contract_amount_raw": "30000",
+            "contract_amount": 30000,
+            "contract_basis_raw": "21.01.2019 Рекламно и инф. обслужване",
+            "contract_sponsor_raw": "КонтурГлобал Марица Изток 3 АД, ЕИК 130020522"
+        },
+        {
+            "contract_amount_raw": "12000",
+            "contract_amount": 12000,
+            "contract_basis_raw": "18.11.2019 Заснемане корп. видео-ТВ и онлайн версия",
+            "contract_sponsor_raw": "КонтурГлобал Марица Изток 3 АД, ЕИК 130020522"
+        },
+        {
+            "contract_amount_raw": "2500",
+            "contract_amount": 2500,
+            "contract_basis_raw": "12.04.2019 Партньорство в провеждане на събитие",
+            "contract_sponsor_raw": "ЕСО ЕАД, ЕИК 175201304"
+        },
+        {
+            "contract_amount_raw": "25000",
+            "contract_amount": 25000,
+            "contract_basis_raw": "18.11.2019 Спец. приложение вложено в-к 24 ЧАСА + онлайн",
+            "contract_sponsor_raw": "КонтурГлобал Марица Изток 3 АД, ЕИК 130020522"
+        },
+        {
+            "contract_amount_raw": "10000",
+            "contract_amount": 10000,
+            "contract_basis_raw": "20.03.2019 Рекламно и инф. обслужване",
+            "contract_sponsor_raw": "Община Стара Загора, ЕИК 000818022"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "07.07.2019 Информационно обслужване",
+            "contract_sponsor_raw": "Община Самоков, ЕИК 000776491"
+        },
+        {
+            "contract_amount_raw": "3000",
+            "contract_amount": 3000,
+            "contract_basis_raw": "26.02.2019 Рекламно и информационно обслужване",
+            "contract_sponsor_raw": "Община Русе, ЕИК 000530632"
+        },
+        {
+            "contract_amount_raw": "2000",
+            "contract_amount": 2000,
+            "contract_basis_raw": "28.06.2019 Информационно обслужване",
+            "contract_sponsor_raw": "Общински транспорт Русе ЕАД, ЕИК 117690845"
+        },
+        {
+            "contract_amount_raw": "6800",
+            "contract_amount": 6800,
+            "contract_basis_raw": "01.07.2019 Рекламно и информационно обслужване",
+            "contract_sponsor_raw": "Община Велико Търново, ЕИК 000133634"
+        },
+        {
+            "contract_amount_raw": "6000",
+            "contract_amount": 6000,
+            "contract_basis_raw": "24.04.2019 Рекламно и информационно обслужване",
+            "contract_sponsor_raw": "Община Пазарджик, ЕИК 000351736"
+        },
+        {
+            "contract_amount_raw": "15000",
+            "contract_amount": 15000,
+            "contract_basis_raw": "16.04.2019 Информационно обслужване",
+            "contract_sponsor_raw": "Медицински университет Варна, ЕИК 000083633"
+        },
+        {
+            "contract_amount_raw": "6000",
+            "contract_amount": 6000,
+            "contract_basis_raw": "28.01.2019 Информационно обслужване",
+            "contract_sponsor_raw": "МОБАЛ Д-р Стефан Черкезов В. Търново, ЕИК 104510514"
+        },
+        {
+            "contract_amount_raw": "3760",
+            "contract_amount": 3760,
+            "contract_basis_raw": "08.01.2019 Информационно обслужване",
+            "contract_sponsor_raw": "Община Елена"
+        },
+        {
+            "contract_amount_raw": "6323,6",
+            "contract_amount": 6323,
+            "contract_basis_raw": "12.03.2019 Ф-ри Участие в спец. издание Кой кой е в енергетиката - юни 2019",
+            "contract_sponsor_raw": "НЕК ЕАД"
+        },
+        {
+            "contract_amount_raw": "4000",
+            "contract_amount": 4000,
+            "contract_basis_raw": "20.06.2019 Ф-ра Участие в спец. издание Кой кой е в енергетиката - юни 2019",
+            "contract_sponsor_raw": "БУЛГАРТРАНСГАЗ ЕАД"
+        },
+        {
+            "contract_amount_raw": "5918",
+            "contract_amount": 5918,
+            "contract_basis_raw": "11.06.2019 Ф-ри участие в специални страници Образование",
+            "contract_sponsor_raw": "Софийски Университет Св. Климент Охридски"
+        },
+        {
+            "contract_amount_raw": "2500",
+            "contract_amount": 2500,
+            "contract_basis_raw": "03.07.2019 Ф-ри информационно обслужване",
+            "contract_sponsor_raw": "МБАЛСМ Н.И. Пирогов ЕАД"
+        },
+        {
+            "contract_amount_raw": "2500",
+            "contract_amount": 2500,
+            "contract_basis_raw": "28.06.2019 Ф-ри информационно обслужване",
+            "contract_sponsor_raw": "Община Плевен"
+        },
+        {
+            "contract_amount_raw": "4500",
+            "contract_amount": 4500,
+            "contract_basis_raw": "09.05.2019 Ф-ри информационно обслужване",
+            "contract_sponsor_raw": "Община Ловеч"
+        },
+        {
+            "contract_amount_raw": "1860,4",
+            "contract_amount": 1860,
+            "contract_basis_raw": "14.05.2019 Ф-ри информационно обслужване",
+            "contract_sponsor_raw": "Община Габрово"
+        },
+        {
+            "contract_amount_raw": "4539",
+            "contract_amount": 4539,
+            "contract_basis_raw": "31.05.2019 Ф-ра информационно обслужване",
+            "contract_sponsor_raw": "Община Казанлък"
+        },
+        {
+            "contract_amount_raw": "10000",
+            "contract_amount": 10000,
+            "contract_basis_raw": "4.09.2019 Участие в спец. издание Пловдив рестарт",
+            "contract_sponsor_raw": "Община Пловдив"
+        },
+        {
+            "contract_amount_raw": "1907,82",
+            "contract_amount": 1907,
+            "contract_basis_raw": "25.04.2018 Договор за инф. обсужване",
+            "contract_sponsor_raw": "Общинско предприятие Чистота - гр. Пловдив"
+        },
+        {
+            "contract_amount_raw": "1500",
+            "contract_amount": 1500,
+            "contract_basis_raw": "4.09.2019 Участие в спец. издание Пловдив рестарт",
+            "contract_sponsor_raw": "Община Садово"
+        },
+        {
+            "contract_amount_raw": "1500",
+            "contract_amount": 1500,
+            "contract_basis_raw": "4.09.2019 Участие в спец. издание Пловдив рестарт",
+            "contract_sponsor_raw": "Община Родопи"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "09.09.2019  Участие в спец. издание Севлиево рестарт",
+            "contract_sponsor_raw": "Община Севлиево"
+        },
+        {
+            "contract_amount_raw": "4668,4",
+            "contract_amount": 4668,
+            "contract_basis_raw": "23.04.2019 - Ф-ри информационно обслужване",
+            "contract_sponsor_raw": "Община Монтана"
+        },
+        {
+            "contract_amount_raw": "3000",
+            "contract_amount": 3000,
+            "contract_basis_raw": "03.07.2019 Ф-ра информационно обслужване",
+            "contract_sponsor_raw": "Община Монтана"
+        },
+        {
+            "contract_amount_raw": "1219",
+            "contract_amount": 1219,
+            "contract_basis_raw": "11.03.2019 Ф-ра инф. обслужване +спец. участие Павлкени рестарт",
+            "contract_sponsor_raw": "Община Павликени"
+        },
+        {
+            "contract_amount_raw": "1060",
+            "contract_amount": 1060,
+            "contract_basis_raw": "01.07.2019 Ф-ри информационно обслужване",
+            "contract_sponsor_raw": "Община Чепеларе"
+        },
+        {
+            "contract_amount_raw": "1513",
+            "contract_amount": 1513,
+            "contract_basis_raw": "01.07.2019 Участие в спец. издание Родопи рестарт",
+            "contract_sponsor_raw": "Община Смолян"
+        },
+        {
+            "contract_amount_raw": "1756,25",
+            "contract_amount": 1756,
+            "contract_basis_raw": "26.06.2019 Ф-ра информационно обслужване",
+            "contract_sponsor_raw": "Община Борино"
+        },
+        {
+            "contract_amount_raw": "13006,67",
+            "contract_amount": 13006,
+            "contract_basis_raw": "21.03.2019 Ф-ри информационно обслужване",
+            "contract_sponsor_raw": "Община Бургас"
+        },
+        {
+            "contract_amount_raw": "2740,79",
+            "contract_amount": 2740,
+            "contract_basis_raw": "16.07.2019 инф. обслужване +спец. участие Димитровград рестарт",
+            "contract_sponsor_raw": "Община Димитровград"
+        },
+        {
+            "contract_amount_raw": "1500",
+            "contract_amount": 1500,
+            "contract_basis_raw": "17.04.2019 Ф-ри информационно обслужване",
+            "contract_sponsor_raw": "Община Царево"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "02.09.2019 Участие в специалното издание София Рестарт",
+            "contract_sponsor_raw": "Столичен електротранспорт"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "02.09.2019 Участие в специалното издание София Рестарт",
+            "contract_sponsor_raw": "Столичен автотранспорт"
+        },
+        {
+            "contract_amount_raw": "2972",
+            "contract_amount": 2972,
+            "contract_basis_raw": "18.07.2019 Ф-ри Участие в специалното издание София Рестарт",
+            "contract_sponsor_raw": "Пазари ЮГ ЕАД"
+        },
+        {
+            "contract_amount_raw": "2180",
+            "contract_amount": 2180,
+            "contract_basis_raw": "17.09.2019 2.09.2019 Участие в специалното издание София Рестарт",
+            "contract_sponsor_raw": "Пазари Възраждане"
+        },
+        {
+            "contract_amount_raw": "1250",
+            "contract_amount": 1250,
+            "contract_basis_raw": "03.09.2019  Участие в специалното издание София Рестарт",
+            "contract_sponsor_raw": "Център за градска мобилност"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "03.09.2019 Участие в специалното издание София Рестарт",
+            "contract_sponsor_raw": "Метрополитен ЕАД"
+        },
+        {
+            "contract_amount_raw": "943",
+            "contract_amount": 943,
+            "contract_basis_raw": "3.09.2019 Участие в специалното издание София Рестарт",
+            "contract_sponsor_raw": "Пазари Изток ЕАД"
+        },
+        {
+            "contract_amount_raw": "2000",
+            "contract_amount": 2000,
+            "contract_basis_raw": "3.09.2019 Участие в специалното издание София Рестарт",
+            "contract_sponsor_raw": "Софийски имоти ЕАД"
+        },
+        {
+            "contract_amount_raw": "625",
+            "contract_amount": 625,
+            "contract_basis_raw": "10.09.2019 Участие в специалното издание София Рестарт",
+            "contract_sponsor_raw": "СОАПИ"
+        },
+        {
+            "contract_amount_raw": "625",
+            "contract_amount": 625,
+            "contract_basis_raw": "3.09.2019 Участие в специалното издание София Рестарт",
+            "contract_sponsor_raw": "ОП Туризъм"
+        },
+        {
+            "contract_amount_raw": "33333,33",
+            "contract_amount": 33333,
+            "contract_basis_raw": "24.04.2019 Предизборна кампания за Еропейски избори 2019г. (май)",
+            "contract_sponsor_raw": "ПП ГЕРБ"
+        },
+        {
+            "contract_amount_raw": "5000",
+            "contract_amount": 5000,
+            "contract_basis_raw": "1.05.2019 Предизборна кампания за Еропейски избори 2019г. (май)",
+            "contract_sponsor_raw": "ПП АТАКА"
+        },
+        {
+            "contract_amount_raw": "2600",
+            "contract_amount": 2600,
+            "contract_basis_raw": "1.05.2019 Предизборна кампания за Еропейски избори 2019г. (май)",
+            "contract_sponsor_raw": "ПП АТАКА"
+        },
+        {
+            "contract_amount_raw": "10000",
+            "contract_amount": 10000,
+            "contract_basis_raw": "01.05.2019 Предизборна кампания за Еропейски избори 2019г. (май)",
+            "contract_sponsor_raw": "ПП ВМРО-БНД"
+        },
+        {
+            "contract_amount_raw": "4166,67",
+            "contract_amount": 4166,
+            "contract_basis_raw": "1.5.2019 Предизборна кампания за Еропейски избори 2019г. (май)",
+            "contract_sponsor_raw": "Коалиция за България/АБВ"
+        },
+        {
+            "contract_amount_raw": "1450",
+            "contract_amount": 1450,
+            "contract_basis_raw": "2.05.2019 Предизборна кампания за Еропейски избори 2019г. (май)",
+            "contract_sponsor_raw": "ПП Партия на зелените"
+        },
+        {
+            "contract_amount_raw": "2500",
+            "contract_amount": 2500,
+            "contract_basis_raw": "13.05.2019 Предизборна кампания за Еропейски избори 2019г. (май)",
+            "contract_sponsor_raw": "Коалиция Път на младите (ПП НДСВ и ПП Новото време)"
+        },
+        {
+            "contract_amount_raw": "5000",
+            "contract_amount": 5000,
+            "contract_basis_raw": "2.05.2019 Предизборна кампания за Еропейски избори 2019г. (май)",
+            "contract_sponsor_raw": "ПП Пряка Демокрация"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "13.05.2019 Предизборна кампания за Еропейски избори 2019г. (май)",
+            "contract_sponsor_raw": "БСП-Русе"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "23.5.2019 Предизборна кампания за Еропейски избори 2019г. (май)",
+            "contract_sponsor_raw": "БСП Варна"
+        },
+        {
+            "contract_amount_raw": "1320",
+            "contract_amount": 1320,
+            "contract_basis_raw": "20.05.2019 Предизборна кампания за Еропейски избори 2019г. (май)",
+            "contract_sponsor_raw": "Сергей Станишев/БСП"
+        },
+        {
+            "contract_amount_raw": "2000",
+            "contract_amount": 2000,
+            "contract_basis_raw": "24.09.19 Местни избори  за общ. съветници и за кметове 27 окт. 2019 и 3 ноември 2019",
+            "contract_sponsor_raw": "МК Новото време - Смолян"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "25.09.19 Местни избори  за общ. съветници и за кметове 27 окт. 2019 и 3 ноември 2019",
+            "contract_sponsor_raw": "Общински съвет на БСП Ловеч"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "26.09.19 Местни избори  за общ. съветници и за кметове 27 окт. 2019 и 3 ноември 2019",
+            "contract_sponsor_raw": "Общински съвет на БСП- Перник"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "26.09.19 Местни избори  за общ. съветници и за кметове 27 окт. 2019 и 3 ноември 2019",
+            "contract_sponsor_raw": "МК БСП за България Русе"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "24.09.19 Местни избори  за общ. съветници и за кметове 27 окт. 2019 и 3 ноември 2019",
+            "contract_sponsor_raw": "Общински съвет на БСП-Силистра"
+        },
+        {
+            "contract_amount_raw": "3000",
+            "contract_amount": 3000,
+            "contract_basis_raw": "24.09.19 Местни избори  за общ. съветници и за кметове 27 окт. 2019 и 3 ноември 2019",
+            "contract_sponsor_raw": "Градски съвет на БСП -София"
+        },
+        {
+            "contract_amount_raw": "10000",
+            "contract_amount": 10000,
+            "contract_basis_raw": "30.09.19 Местни избори  за общ. съветници и за кметове 27 окт. 2019 и 3 ноември 2019",
+            "contract_sponsor_raw": "БСП"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "25.09.19 Местни избори  за общ. съветници и за кметове 27 окт. 2019 и 3 ноември 2019",
+            "contract_sponsor_raw": "Общински съвет на БСП-Ямбол"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "25.09.19 Местни избори  за общ. съветници и за кметове 27 окт. 2019 и 3 ноември 2019",
+            "contract_sponsor_raw": "Общински съвет на БСП-Смолян"
+        },
+        {
+            "contract_amount_raw": "10000",
+            "contract_amount": 10000,
+            "contract_basis_raw": "1.10.19 Местни избори  за общ. съветници и за кметове 27 окт. 2019 и 3 ноември 2019",
+            "contract_sponsor_raw": "ПП ВОЛЯ"
+        },
+        {
+            "contract_amount_raw": "13000",
+            "contract_amount": 13000,
+            "contract_basis_raw": "26.09.19 Местни избори  за общ. съветници и за кметове 27 окт. 2019 и 3 ноември 2019",
+            "contract_sponsor_raw": "ПП АТАКА"
+        },
+        {
+            "contract_amount_raw": "5400",
+            "contract_amount": 5400,
+            "contract_basis_raw": "15.10.19 Местни избори  за общ. съветници и за кметове 27 окт. 2019 и 3 ноември 2019",
+            "contract_sponsor_raw": "ПП АТАКА"
+        },
+        {
+            "contract_amount_raw": "6000",
+            "contract_amount": 6000,
+            "contract_basis_raw": "14.10.19 Местни избори  за общ. съветници и за кметове 27 окт. 2019 и 3 ноември 2019",
+            "contract_sponsor_raw": "ПП АТАКА"
+        },
+        {
+            "contract_amount_raw": "5830",
+            "contract_amount": 5830,
+            "contract_basis_raw": "01.10.19 Местни избори  за общ. съветници и за кметове 27 окт. 2019 и 3 ноември 2019",
+            "contract_sponsor_raw": "ВМРО"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "30.09.19 Местни избори  за общ. съветници и за кметове 27 окт. 2019 и 3 ноември 2019",
+            "contract_sponsor_raw": "ПП ГЕРБ - ВЕЛИКО ТЪРНОВО"
+        },
+        {
+            "contract_amount_raw": "2000",
+            "contract_amount": 2000,
+            "contract_basis_raw": "27.09.19 Местни избори  за общ. съветници и за кметове 27 окт. 2019 и 3 ноември 2019",
+            "contract_sponsor_raw": "ПП ГЕРБ - РУСЕ"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "30.09.19 Местни избори  за общ. съветници и за кметове 27 окт. 2019 и 3 ноември 2019",
+            "contract_sponsor_raw": "ПП ГЕРБ СМОЛЯН"
+        },
+        {
+            "contract_amount_raw": "3000",
+            "contract_amount": 3000,
+            "contract_basis_raw": "30.09.19 Местни избори  за общ. съветници и за кметове 27 окт. 2019 и 3 ноември 2019",
+            "contract_sponsor_raw": "ПП ГЕРБ ПАЗАРДЖИК"
+        },
+        {
+            "contract_amount_raw": "1666,67",
+            "contract_amount": 1666,
+            "contract_basis_raw": "27.09.19 Местни избори  за общ. съветници и за кметове 27 окт. 2019 и 3 ноември 2019",
+            "contract_sponsor_raw": "ПП ГЕРБ Местна коалиция ГЕРБ (СДС) - София"
+        },
+        {
+            "contract_amount_raw": "1250",
+            "contract_amount": 1250,
+            "contract_basis_raw": "03.10.19 Местни избори  за общ. съветници и за кметове 27 окт. 2019 и 3 ноември 2019",
+            "contract_sponsor_raw": "ПП ГЕРБ ЗА СЛИВЕН"
+        },
+        {
+            "contract_amount_raw": "833,33",
+            "contract_amount": 833,
+            "contract_basis_raw": "01.10.19 Местни избори  за общ. съветници и за кметове 27 окт. 2019 и 3 ноември 2019",
+            "contract_sponsor_raw": "ПП ГЕРБ ЗА БУРГАС"
+        },
+        {
+            "contract_amount_raw": "250",
+            "contract_amount": 250,
+            "contract_basis_raw": "07.10.19 Местни избори  за общ. съветници и за кметове 27 окт. 2019 и 3 ноември 2019",
+            "contract_sponsor_raw": "ПП ГЕРБ ЗА ЕЛИН ПЕЛИН"
+        },
+        {
+            "contract_amount_raw": "2400",
+            "contract_amount": 2400,
+            "contract_basis_raw": "09.10.19 Местни избори  за общ. съветници и за кметове 27 окт. 2019 и 3 ноември 2019",
+            "contract_sponsor_raw": "ПП ГЕРБ ЗА ВАРНА"
+        },
+        {
+            "contract_amount_raw": "334",
+            "contract_amount": 334,
+            "contract_basis_raw": "14.10.19 Местни избори  за общ. съветници и за кметове 27 окт. 2019 и 3 ноември 2019",
+            "contract_sponsor_raw": "ПП ГЕРБ ЗА БОТЕВГРАД"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "09.10.19 Местни избори  за общ. съветници и за кметове 27 окт. 2019 и 3 ноември 2019",
+            "contract_sponsor_raw": "ПП ГЕРБ ЗА БЛАГОЕВГРАД"
+        },
+        {
+            "contract_amount_raw": "1400",
+            "contract_amount": 1400,
+            "contract_basis_raw": "21.10.19 Местни избори  за общ. съветници и за кметове 27 окт. 2019 и 3 ноември 2019",
+            "contract_sponsor_raw": "Партия Пряка Демокрация за Валентин Равенски - Ямбол"
+        },
+        {
+            "contract_amount_raw": "2000",
+            "contract_amount": 2000,
+            "contract_basis_raw": "21.10.19 Местни избори  за общ. съветници и за кметове 27 окт. 2019 и 3 ноември 2019",
+            "contract_sponsor_raw": "Областен Съвет на БСП Благоевград"
+        },
+        {
+            "contract_amount_raw": "625",
+            "contract_amount": 625,
+            "contract_basis_raw": "23.10.19 Местни избори  за общ. съветници и за кметове 27 окт. 2019 и 3 ноември 2019",
+            "contract_sponsor_raw": "ПП БНД МК: СДС, ГЕРБ, БНД, ВМРО, БЗНС - Монтана"
+        },
+        {
+            "contract_amount_raw": "2500",
+            "contract_amount": 2500,
+            "contract_basis_raw": "30.09.19 Местни избори  за общ. съветници и за кметове 27 окт. 2019 и 3 ноември 2019",
+            "contract_sponsor_raw": "ПП БНД МК: СДС, ГЕРБ, ВМРО, БЗНС - Монтана"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "04.10.19 Местни избори  за общ. съветници и за кметове 27 окт. 2019 и 3 ноември 2019",
+            "contract_sponsor_raw": "Общински съвет на БСП - Велико Търново"
+        },
+        {
+            "contract_amount_raw": "2000",
+            "contract_amount": 2000,
+            "contract_basis_raw": "04.10.19 Местни избори  за общ. съветници и за кметове 27 окт. 2019 и 3 ноември 2019",
+            "contract_sponsor_raw": "ПП Обединени земеделци - МК Новото рвеме - Пазарджик"
+        },
+        {
+            "contract_amount_raw": "833,33",
+            "contract_amount": 833,
+            "contract_basis_raw": "27.09.19 Местни избори  за общ. съветници и за кметове 27 окт. 2019 и 3 ноември 2019",
+            "contract_sponsor_raw": "ПП БЗНС за МК Ние, гражданите Бургас"
+        },
+        {
+            "contract_amount_raw": "3000",
+            "contract_amount": 3000,
+            "contract_basis_raw": "01.10.19 Местни избори  за общ. съветници и за кметове 27 окт. 2019 и 3 ноември 2019",
+            "contract_sponsor_raw": "ИК за НК за кмет на София-град-Радослав Каратанчев"
+        },
+        {
+            "contract_amount_raw": "600",
+            "contract_amount": 600,
+            "contract_basis_raw": "11.10.19 Местни избори  за общ. съветници и за кметове 27 окт. 2019 и 3 ноември 2019",
+            "contract_sponsor_raw": "ПП Българска Социалдемокрация-Евролевица"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "10.10.19 Местни избори  за общ. съветници и за кметове 27 окт. 2019 и 3 ноември 2019",
+            "contract_sponsor_raw": "ПП ДПС - Шумен"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "26.09.19 Местни избори  за общ. съветници и за кметове 27 окт. 2019 и 3 ноември 2019",
+            "contract_sponsor_raw": "Ирена Лашкова -предст. ИК за издигане на Николай Димитров за независим кмет на Община Несебър"
+        }
+    ]
+}

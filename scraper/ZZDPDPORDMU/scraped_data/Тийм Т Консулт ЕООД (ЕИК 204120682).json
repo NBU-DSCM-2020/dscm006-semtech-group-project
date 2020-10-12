@@ -1,0 +1,137 @@
+{
+    "legal_entity_name": "Тийм Т Консулт ЕООД",
+    "legal_entity_id": "204120682",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "novinata.bg",
+    "real_owner": "Кристина Тенева Тенева",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "1400",
+            "contract_amount": 1400,
+            "contract_basis_raw": "реклама",
+            "contract_sponsor_raw": "115535593"
+        },
+        {
+            "contract_amount_raw": "5760",
+            "contract_amount": 5760,
+            "contract_basis_raw": "договор за информационно обслужване",
+            "contract_sponsor_raw": "123526494"
+        },
+        {
+            "contract_amount_raw": "2640",
+            "contract_amount": 2640,
+            "contract_basis_raw": "реклама",
+            "contract_sponsor_raw": "115816551"
+        },
+        {
+            "contract_amount_raw": "40000",
+            "contract_amount": 40000,
+            "contract_basis_raw": "консултански услуги",
+            "contract_sponsor_raw": "202880028"
+        },
+        {
+            "contract_amount_raw": "1800",
+            "contract_amount": 1800,
+            "contract_basis_raw": "реклама",
+            "contract_sponsor_raw": "175183709"
+        },
+        {
+            "contract_amount_raw": "60",
+            "contract_amount": 60,
+            "contract_basis_raw": "реклама",
+            "contract_sponsor_raw": "202452433"
+        },
+        {
+            "contract_amount_raw": "1466,92",
+            "contract_amount": 1466,
+            "contract_basis_raw": "договор за информационно обслужване",
+            "contract_sponsor_raw": "0007020140012"
+        },
+        {
+            "contract_amount_raw": "2693,37",
+            "contract_amount": 2693,
+            "contract_basis_raw": "отразяване на предизборна кампания",
+            "contract_sponsor_raw": "0007020140012"
+        },
+        {
+            "contract_amount_raw": "1020",
+            "contract_amount": 1020,
+            "contract_basis_raw": "договор за онформационно обслужване",
+            "contract_sponsor_raw": "833066300"
+        },
+        {
+            "contract_amount_raw": "600",
+            "contract_amount": 600,
+            "contract_basis_raw": "отразяване на предизборна кампания",
+            "contract_sponsor_raw": "0007020140012"
+        },
+        {
+            "contract_amount_raw": "120",
+            "contract_amount": 120,
+            "contract_basis_raw": "отразяване на предизборна кампания",
+            "contract_sponsor_raw": "23-МИ/10.09.2019 на ОИК София"
+        },
+        {
+            "contract_amount_raw": "6000",
+            "contract_amount": 6000,
+            "contract_basis_raw": "договор за информационно обслужване",
+            "contract_sponsor_raw": "121516918"
+        },
+        {
+            "contract_amount_raw": "2880",
+            "contract_amount": 2880,
+            "contract_basis_raw": "договор за информационно обслужване",
+            "contract_sponsor_raw": "833017552"
+        },
+        {
+            "contract_amount_raw": "2078,69",
+            "contract_amount": 2078,
+            "contract_basis_raw": "договор за информационно обслужване",
+            "contract_sponsor_raw": "121706255"
+        },
+        {
+            "contract_amount_raw": "2880",
+            "contract_amount": 2880,
+            "contract_basis_raw": "договор за информационно обслужване",
+            "contract_sponsor_raw": "0007020140604"
+        },
+        {
+            "contract_amount_raw": "480",
+            "contract_amount": 480,
+            "contract_basis_raw": "отразяване на предизборна кампания",
+            "contract_sponsor_raw": "0007020140848"
+        },
+        {
+            "contract_amount_raw": "600",
+            "contract_amount": 600,
+            "contract_basis_raw": "отразяване на предизборна кампания",
+            "contract_sponsor_raw": "0007020140619"
+        },
+        {
+            "contract_amount_raw": "1620",
+            "contract_amount": 1620,
+            "contract_basis_raw": "договор за информационно обслужване",
+            "contract_sponsor_raw": "0007020140464"
+        },
+        {
+            "contract_amount_raw": "3000",
+            "contract_amount": 3000,
+            "contract_basis_raw": "договор за информационно обслужване",
+            "contract_sponsor_raw": "000818022"
+        },
+        {
+            "contract_amount_raw": "2640",
+            "contract_amount": 2640,
+            "contract_basis_raw": "отразяване на предизборна кампания",
+            "contract_sponsor_raw": "176734649"
+        },
+        {
+            "contract_amount_raw": "600",
+            "contract_amount": 600,
+            "contract_basis_raw": "отразяване на предизборна кампания",
+            "contract_sponsor_raw": "решение 14-МИ на ОИК София"
+        }
+    ]
+}

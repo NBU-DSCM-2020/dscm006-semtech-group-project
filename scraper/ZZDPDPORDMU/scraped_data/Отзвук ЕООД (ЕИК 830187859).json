@@ -1,0 +1,143 @@
+{
+    "legal_entity_name": "Отзвук ЕООД",
+    "legal_entity_id": "830187859",
+    "public_company": "неприложимо",
+    "media_service_type": "Печатна медия",
+    "media_service_name": "Вестник Отзвук",
+    "real_owner": "Зарко Филипов Маринов",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "780",
+            "contract_amount": 780,
+            "contract_basis_raw": "25.06.2019, абонамент за вестник",
+            "contract_sponsor_raw": "ОБЩИНА ЧЕПЕЛАРЕ, 000615164"
+        },
+        {
+            "contract_amount_raw": "62,4",
+            "contract_amount": 62,
+            "contract_basis_raw": "26.06.2019, публикуване на обява",
+            "contract_sponsor_raw": "ОБЩИНА БАНИТЕ, 000614952"
+        },
+        {
+            "contract_amount_raw": "192",
+            "contract_amount": 192,
+            "contract_basis_raw": "08.11.2019, абонамент за вестник",
+            "contract_sponsor_raw": "МБАЛ Девин, 200591288"
+        },
+        {
+            "contract_amount_raw": "96",
+            "contract_amount": 96,
+            "contract_basis_raw": "11.11.2019, абонамент за вестник ",
+            "contract_sponsor_raw": "МБАЛ Мадан, 120505630"
+        },
+        {
+            "contract_amount_raw": "192",
+            "contract_amount": 192,
+            "contract_basis_raw": "04.12.2019, абонамент за вестник ",
+            "contract_sponsor_raw": "МБАЛ Смолян, 830187859"
+        },
+        {
+            "contract_amount_raw": "288",
+            "contract_amount": 288,
+            "contract_basis_raw": "11.12.2019, абонамент за вестник ",
+            "contract_sponsor_raw": "ОБЛАСТНА АДМИНИСТРАЦИЯ - СМОЛЯН, 120068166 "
+        },
+        {
+            "contract_amount_raw": "38,4",
+            "contract_amount": 38,
+            "contract_basis_raw": "20.02.2019, публикуване на обява",
+            "contract_sponsor_raw": "ОД на МВР - Смолян, 129009920 "
+        },
+        {
+            "contract_amount_raw": "65,28",
+            "contract_amount": 65,
+            "contract_basis_raw": "22.07.2019, публикуване на обява",
+            "contract_sponsor_raw": "ОД на МВР - Смолян,  129009920"
+        },
+        {
+            "contract_amount_raw": "68,4",
+            "contract_amount": 68,
+            "contract_basis_raw": "05.12.2019, публикуване на обява",
+            "contract_sponsor_raw": "ОД на МВР - Смолян,  129009920"
+        },
+        {
+            "contract_amount_raw": "96",
+            "contract_amount": 96,
+            "contract_basis_raw": "30.12.2019, абонамент за вестник",
+            "contract_sponsor_raw": "Общински съвет на БСП - Смолян, 0007020140359"
+        },
+        {
+            "contract_amount_raw": "2064",
+            "contract_amount": 2064,
+            "contract_basis_raw": "27.09.2019, платени публикации",
+            "contract_sponsor_raw": "МК Новото време, 131287649"
+        },
+        {
+            "contract_amount_raw": "43,2",
+            "contract_amount": 43,
+            "contract_basis_raw": "08.11.2019, платена публикация",
+            "contract_sponsor_raw": "СУ Отец Паисий, 000611187"
+        },
+        {
+            "contract_amount_raw": "96",
+            "contract_amount": 96,
+            "contract_basis_raw": "08.11.2019, абонамент за вестник ",
+            "contract_sponsor_raw": "НЦЖЗ - Смолян, 177259212"
+        },
+        {
+            "contract_amount_raw": "96",
+            "contract_amount": 96,
+            "contract_basis_raw": "08.11.2019, абонамент за вестник",
+            "contract_sponsor_raw": "РДГ- Смолян, 000615424"
+        },
+        {
+            "contract_amount_raw": "41,6",
+            "contract_amount": 41,
+            "contract_basis_raw": "13.11.2019, абонамент за вестник",
+            "contract_sponsor_raw": "ЮЦДП ТП ДГС Широка лъка, 2016195800332"
+        },
+        {
+            "contract_amount_raw": "96",
+            "contract_amount": 96,
+            "contract_basis_raw": "30.12.2019, абонамент за вестник",
+            "contract_sponsor_raw": "ОД Земеделие - Смолян, 175810268"
+        },
+        {
+            "contract_amount_raw": "41,6",
+            "contract_amount": 41,
+            "contract_basis_raw": "05.12.2019, абонамент за вестник",
+            "contract_sponsor_raw": "РИОСВ Смолян, 000614817"
+        },
+        {
+            "contract_amount_raw": "48",
+            "contract_amount": 48,
+            "contract_basis_raw": "11.12.2019, платена публикация",
+            "contract_sponsor_raw": "РЗОК Смолян, 1218582201591"
+        },
+        {
+            "contract_amount_raw": "4055,6",
+            "contract_amount": 4055,
+            "contract_basis_raw": "18.01.2019, абонамент за вестник",
+            "contract_sponsor_raw": "РУ ЮЦР на БП ЕАД, 1213961230166"
+        },
+        {
+            "contract_amount_raw": "102,8",
+            "contract_amount": 102,
+            "contract_basis_raw": "25.01.2019, абонамент за вестник",
+            "contract_sponsor_raw": "РУ ЮЦР на БП ЕАД, 1213961230166"
+        },
+        {
+            "contract_amount_raw": "624",
+            "contract_amount": 624,
+            "contract_basis_raw": "14.06.2019, абонамент за вестник",
+            "contract_sponsor_raw": "РУ ЮЦР на БП ЕАД, 1213961230166"
+        },
+        {
+            "contract_amount_raw": "1505,4",
+            "contract_amount": 1505,
+            "contract_basis_raw": "30.10.2019, абонамент за вестник",
+            "contract_sponsor_raw": "РУ ЮЦР на БП ЕАД, 1213961230166"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "legal_entity_name": "АНАСТАС - Ф  ЕООД",
+    "legal_entity_id": "200956559",
+    "public_company": "неприложимо",
+    "media_service_type": "Печатна медия",
+    "media_service_name": "в.  МОСТ",
+    "real_owner": "Михаил Филев Михайлов",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "14400",
+            "contract_amount": 14400,
+            "contract_basis_raw": "Договор от 01.2019 -рекламно и информационно обслужване",
+            "contract_sponsor_raw": "ОбА - Свиленград, 000903825"
+        },
+        {
+            "contract_amount_raw": "2400",
+            "contract_amount": 2400,
+            "contract_basis_raw": "Договор от 01.2019 - рекламно и информационно обслужване",
+            "contract_sponsor_raw": "ОбА - Любимец, 000903686"
+        },
+        {
+            "contract_amount_raw": "1240",
+            "contract_amount": 1240,
+            "contract_basis_raw": "Договор от 10.2019 за предизборна кампания",
+            "contract_sponsor_raw": "ОбС на БСП - Свиленград"
+        },
+        {
+            "contract_amount_raw": "200",
+            "contract_amount": 200,
+            "contract_basis_raw": "Договор от 10.2019 за предизборна кампания",
+            "contract_sponsor_raw": "ПП ГЕРБ , 175248466"
+        }
+    ]
+}

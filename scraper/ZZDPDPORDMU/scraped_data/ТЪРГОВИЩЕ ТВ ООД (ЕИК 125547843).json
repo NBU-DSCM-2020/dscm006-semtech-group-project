@@ -1,0 +1,53 @@
+{
+    "legal_entity_name": "ТЪРГОВИЩЕ ТВ ООД",
+    "legal_entity_id": "125547843",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "TARGOVISHTE.TV",
+    "real_owner": "КОЛЬО КОЛЕВ КОЛЕВ, ИВАН КОЛЕВ КОЛЕВ, СТОЯН КОЛЕВ КОЛЕВ",
+    "executive_individual": "КОЛЬО ИВАНОВ КОЛЕВ",
+    "contracts": [
+        {
+            "contract_amount_raw": "1440",
+            "contract_amount": 1440,
+            "contract_basis_raw": "Реклама",
+            "contract_sponsor_raw": "РУ Ангел Кънчев гр. Русе, ЕИК 1181001778,гр. Русе, ул. Студентска 8, Христо Белоев - Ректор"
+        },
+        {
+            "contract_amount_raw": "420",
+            "contract_amount": 420,
+            "contract_basis_raw": "Медийно обслужване",
+            "contract_sponsor_raw": "ПП АБВ, София, ул.Врабча 23, Албена Асенова, ЕИК 176734649"
+        },
+        {
+            "contract_amount_raw": "1035",
+            "contract_amount": 1035,
+            "contract_basis_raw": "Извършена услуга видеозаписи, реклама",
+            "contract_sponsor_raw": "Драматичен театър Търговище,Търговище,ул. Бенковски 2, ЕИК 000867998, Петър Петров - Директор"
+        },
+        {
+            "contract_amount_raw": "720",
+            "contract_amount": 720,
+            "contract_basis_raw": "реклама",
+            "contract_sponsor_raw": "Област Търговище ,Търговище, ул.Ст.Караджа 2, ЕИК 125043455, Митко Стайков- Областен управител "
+        },
+        {
+            "contract_amount_raw": "3200",
+            "contract_amount": 3200,
+            "contract_basis_raw": "Медийно обслужване",
+            "contract_sponsor_raw": "Община Търговище, ЕИК 000875920, гр. Търговище, пл. Свобода 1, Дарин Димитров – Кмет,"
+        },
+        {
+            "contract_amount_raw": "3200",
+            "contract_amount": 3200,
+            "contract_basis_raw": "Договор за услуга Медийно обслужване 27.02.2019",
+            "contract_sponsor_raw": "Община Търговище,ЕИК 000875920, гр. Търговище, пл. Свобода 1, Дарин Димитров – Кмет,"
+        },
+        {
+            "contract_amount_raw": "1440",
+            "contract_amount": 1440,
+            "contract_basis_raw": "Договор за услуга реклама  01.03.2019",
+            "contract_sponsor_raw": "РУ Ангел Кънчев гр. Русе, ЕИК 1181001778,гр. Русе, ул. Студентска 8, Христо Белоев - Ректор"
+        }
+    ]
+}

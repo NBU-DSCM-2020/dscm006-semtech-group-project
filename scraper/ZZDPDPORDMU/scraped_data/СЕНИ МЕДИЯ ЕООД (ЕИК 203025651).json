@@ -1,0 +1,107 @@
+{
+    "legal_entity_name": "СЕНИ МЕДИЯ ЕООД",
+    "legal_entity_id": "203025651",
+    "public_company": "неприложимо",
+    "media_service_type": "Печатна медия; Онлайн новинарско издание",
+    "media_service_name": "Вестник Кърджали Хабер; www.kircaalihaber.com",
+    "real_owner": "МЮЗЕККИ АДЕМ АХМЕД",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "1750",
+            "contract_amount": 1750,
+            "contract_basis_raw": "АБОНАМЕНТ ЗА ВЕСТНИК Ф.0000000143/14.01.2019",
+            "contract_sponsor_raw": "ОБЩИНА КРУМОВГРАД 000235913"
+        },
+        {
+            "contract_amount_raw": "1500",
+            "contract_amount": 1500,
+            "contract_basis_raw": "АБОНАМЕНТ ЗА ВЕСТНИК Ф.0000000144/15.01.2019",
+            "contract_sponsor_raw": "ОБЩИНА ЧЕРНООЧЕНЕ 000236164"
+        },
+        {
+            "contract_amount_raw": "750",
+            "contract_amount": 750,
+            "contract_basis_raw": "АБОНАМЕНТ ЗА ВЕСТНИК Ф.0000000145/15.01.2019",
+            "contract_sponsor_raw": "ОБЩИНА МИНЕРАЛНИ БАНИ 000903743"
+        },
+        {
+            "contract_amount_raw": "3000",
+            "contract_amount": 3000,
+            "contract_basis_raw": "АБОНАМЕНТ ЗА ВЕСТНИК Ф.0000000146/04.02.2019",
+            "contract_sponsor_raw": "ОБЩИНА КИРКОВО 000235888"
+        },
+        {
+            "contract_amount_raw": "2000",
+            "contract_amount": 2000,
+            "contract_basis_raw": "АБОНАМЕНТ ЗА ВЕСТНИК / Ф.0000000147/04.02.2019",
+            "contract_sponsor_raw": "ОБЩИНА МОМЧИЛГРАД 000235984"
+        },
+        {
+            "contract_amount_raw": "1500",
+            "contract_amount": 1500,
+            "contract_basis_raw": "АБОНАМЕНТ ЗА ВЕСТНИК / Ф.0000000148/04.02.2019",
+            "contract_sponsor_raw": "ОБЩИНА АРДИНО 000235750"
+        },
+        {
+            "contract_amount_raw": "950",
+            "contract_amount": 950,
+            "contract_basis_raw": "ОТРАЗЯВАНЕ НА ДЕЙНОСТТА Ф.0000000152/30.04.2019",
+            "contract_sponsor_raw": "ОБЩИНА КЪРДЖАЛИ 0002359200"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "МЕДИЙНА УСЛУГА ДОГ. 02.05.2019",
+            "contract_sponsor_raw": "ПОЛИТИЧЕСКА ПАРТИЯ ДПС 000707470"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "ПУБЛИКУВАНЕ НА РЕКЛАМА Ф.0000000155/23.05.2019",
+            "contract_sponsor_raw": "ОБЩИНА ДЖЕБЕЛ 000235831"
+        },
+        {
+            "contract_amount_raw": "6250",
+            "contract_amount": 6250,
+            "contract_basis_raw": "АБОНАМЕНТ ЗА ВЕСТНИК / Ф.0000000156/27.06.2019",
+            "contract_sponsor_raw": "ОБЩИНА КЪРДЖАЛИ 0002359200"
+        },
+        {
+            "contract_amount_raw": "1500",
+            "contract_amount": 1500,
+            "contract_basis_raw": "АБОНАМЕНТ ЗА ВЕСТНИК / Ф.0000000157/22.07.2019",
+            "contract_sponsor_raw": "ОБЩИНА АРДИНО 000235750"
+        },
+        {
+            "contract_amount_raw": "3000",
+            "contract_amount": 3000,
+            "contract_basis_raw": "ОТРАЗЯВАНЕ НА ДЕЙНОСТТА Ф.0000000161/02.09.2019",
+            "contract_sponsor_raw": "ОБЩИНА КЪРДЖАЛИ 0002359200"
+        },
+        {
+            "contract_amount_raw": "990",
+            "contract_amount": 990,
+            "contract_basis_raw": "МЕДИЙНА УСЛУГА ДОГ. 28.09.2019",
+            "contract_sponsor_raw": "ПОЛИТИЧЕСКА ПАРТИЯ ДПС 000707470"
+        },
+        {
+            "contract_amount_raw": "300",
+            "contract_amount": 300,
+            "contract_basis_raw": "МЕДИЙНА УСЛУГА ДОГ. 30.09.2019",
+            "contract_sponsor_raw": "ПОЛИТИЧЕСКА ПАРТИЯ ДПС 000707470"
+        },
+        {
+            "contract_amount_raw": "2000",
+            "contract_amount": 2000,
+            "contract_basis_raw": "АБОНАМЕНТ ЗА ВЕСТНИК Ф.0000000166/05.12.2019",
+            "contract_sponsor_raw": "ОБЩИНА КРУМОВГРАД 000235913"
+        },
+        {
+            "contract_amount_raw": "1250",
+            "contract_amount": 1250,
+            "contract_basis_raw": "АБОНАМЕНТ ЗА ВЕСТНИК Ф.0000000167/10.12.2019",
+            "contract_sponsor_raw": "ОБЩИНА ДЖЕБЕЛ 000235831"
+        }
+    ]
+}

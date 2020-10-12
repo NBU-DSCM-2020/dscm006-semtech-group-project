@@ -1,0 +1,95 @@
+{
+    "legal_entity_name": "СД Вис виталис - Самарски и сие",
+    "legal_entity_id": "123040082",
+    "public_company": "неприложимо",
+    "media_service_type": "Радио",
+    "media_service_name": "Вис виталис",
+    "real_owner": "Васил Стефанов Самарски, Кина Василева Самарска",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "600",
+            "contract_amount": 600,
+            "contract_basis_raw": "реклама, 02.04.2019 г.- 3 месеца",
+            "contract_sponsor_raw": "НПГ по Ветеринарна медицина Ст.Загора - 000803697"
+        },
+        {
+            "contract_amount_raw": "630",
+            "contract_amount": 630,
+            "contract_basis_raw": "реклама, 20.06.2019 - 3 месеца",
+            "contract_sponsor_raw": "ПГСС Гео Милев -000807595"
+        },
+        {
+            "contract_amount_raw": "900",
+            "contract_amount": 900,
+            "contract_basis_raw": "инф.обслужване, 18.09.2019 - 9 месеца",
+            "contract_sponsor_raw": "ОУ Кулата Казанлък - 000802303"
+        },
+        {
+            "contract_amount_raw": "140",
+            "contract_amount": 140,
+            "contract_basis_raw": "инф.обслужване, 28.08.2019 - дог. за всяко събитие",
+            "contract_sponsor_raw": "НЧ Пробуда с.Копринка - 000805085"
+        },
+        {
+            "contract_amount_raw": "300",
+            "contract_amount": 300,
+            "contract_basis_raw": "инф.обслужване, 18.12.2019 - 3 месеца",
+            "contract_sponsor_raw": "ОУ Христо Ботев, с.Александрово, общ.Павел баня - 000802947"
+        },
+        {
+            "contract_amount_raw": "1080",
+            "contract_amount": 1080,
+            "contract_basis_raw": "инф.обслужване, 09.02.2019г - 1 год",
+            "contract_sponsor_raw": "ОБ ИСКРА Казанлък - 000808245"
+        },
+        {
+            "contract_amount_raw": "1600",
+            "contract_amount": 1600,
+            "contract_basis_raw": "инф.обслужване, 05.02.2019 - 8 м.",
+            "contract_sponsor_raw": "Община Мъглиж - 000817867"
+        },
+        {
+            "contract_amount_raw": "3600",
+            "contract_amount": 3600,
+            "contract_basis_raw": "инф.обслужване, 02.12.2019 - 1 год.",
+            "contract_sponsor_raw": "Община Мъглиж - 000817867"
+        },
+        {
+            "contract_amount_raw": "900",
+            "contract_amount": 900,
+            "contract_basis_raw": "инф.обслужване, 01.03.2019 г - 6м.",
+            "contract_sponsor_raw": "МБАЛ д-р Хр.Стамболски - 123540775"
+        },
+        {
+            "contract_amount_raw": "2400",
+            "contract_amount": 2400,
+            "contract_basis_raw": "инф.обслужване, 01.08.2019 г - 1 год",
+            "contract_sponsor_raw": "ВиК Ст.Загора - 833066300"
+        },
+        {
+            "contract_amount_raw": "3000",
+            "contract_amount": 3000,
+            "contract_basis_raw": "реклама - 01.01.2019 - 6 м",
+            "contract_sponsor_raw": "ПРО ЕАД - кл Мин бани - 1215770130166"
+        },
+        {
+            "contract_amount_raw": "3000",
+            "contract_amount": 3000,
+            "contract_basis_raw": "реклама - 01.07.2019 - 6 м",
+            "contract_sponsor_raw": "ПРО ЕАД - кл Мин бани - 1215770130166"
+        },
+        {
+            "contract_amount_raw": "3600",
+            "contract_amount": 3600,
+            "contract_basis_raw": "реклама - 10.01.2019 - 1 год",
+            "contract_sponsor_raw": "ПРО ЕАД - кл. Павел баня - 1215770130109"
+        },
+        {
+            "contract_amount_raw": "600",
+            "contract_amount": 600,
+            "contract_basis_raw": "инф.обслужване - 01.03.2019.-2 месеца",
+            "contract_sponsor_raw": "Делегация на БГ евродепутати социалисти в ЕП"
+        }
+    ]
+}

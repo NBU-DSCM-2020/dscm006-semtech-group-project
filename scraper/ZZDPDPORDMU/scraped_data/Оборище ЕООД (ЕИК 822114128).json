@@ -1,0 +1,47 @@
+{
+    "legal_entity_name": "Оборище ЕООД",
+    "legal_entity_id": "822114128",
+    "public_company": "неприложимо",
+    "media_service_type": "Печатна медия; Телевизия; Онлайн новинарско издание",
+    "media_service_name": "Вестник Оборище; Телевизионно студио Оборище прим; Оборище.бг",
+    "real_owner": "Никола Иванов Белишки",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "7500",
+            "contract_amount": 7500,
+            "contract_basis_raw": "Договор за информационно обслужване и подържане на позитивна публична репутация",
+            "contract_sponsor_raw": "Асарел МедетАД/822106269"
+        },
+        {
+            "contract_amount_raw": "300",
+            "contract_amount": 300,
+            "contract_basis_raw": "Договор за медийно обслужване",
+            "contract_sponsor_raw": "Сдружение на предприемачите гр. Панагюрище/130172035"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "Договор за медийно обслужване/01.03.2019 г.",
+            "contract_sponsor_raw": "МБАЛ-Уни Хоспитал ООД/112520604"
+        },
+        {
+            "contract_amount_raw": "14400",
+            "contract_amount": 14400,
+            "contract_basis_raw": "Договор за медийно обслужване/22.02.2019 г.",
+            "contract_sponsor_raw": "Община Панагюрище/000351743"
+        },
+        {
+            "contract_amount_raw": "12240",
+            "contract_amount": 12240,
+            "contract_basis_raw": "Договор за закупуване на програмно време и осигуряване на предавания/22.02.2019 г.",
+            "contract_sponsor_raw": "Община Панагюрище/000351743"
+        },
+        {
+            "contract_amount_raw": "9720",
+            "contract_amount": 9720,
+            "contract_basis_raw": "Договор за закупуване на програмно време за директно излъчване на заседания на Общински съвет-Панагюрище/22.02.2019 г.",
+            "contract_sponsor_raw": "Община Панагюрище/000351743"
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "legal_entity_name": "Смарт Хоум Сис ООД",
+    "legal_entity_id": "202977153",
+    "public_company": "Неприложимо",
+    "media_service_type": "Онлайн издание; Онлайн издание",
+    "media_service_name": "Novavarna.net; Novavest.bg",
+    "real_owner": "Георги Христов Костов",
+    "executive_individual": "Неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "960 лв.",
+            "contract_amount": 960,
+            "contract_basis_raw": "Медийно обслужване",
+            "contract_sponsor_raw": "Община Долени Чифлик"
+        },
+        {
+            "contract_amount_raw": "1440 лв.",
+            "contract_amount": 1440,
+            "contract_basis_raw": "Медийно обслужване",
+            "contract_sponsor_raw": "Община Дългопол"
+        },
+        {
+            "contract_amount_raw": "1410 лв.",
+            "contract_amount": 1410,
+            "contract_basis_raw": "Медийно обслужване",
+            "contract_sponsor_raw": "Община Вълчи дол"
+        },
+        {
+            "contract_amount_raw": "2000 лв.",
+            "contract_amount": 2000,
+            "contract_basis_raw": "Предизборни публикации",
+            "contract_sponsor_raw": "ПП ГЕРБ"
+        },
+        {
+            "contract_amount_raw": "780 лв.",
+            "contract_amount": 780,
+            "contract_basis_raw": "Предизборни публикации",
+            "contract_sponsor_raw": "Община Аврен"
+        },
+        {
+            "contract_amount_raw": "360 лв.",
+            "contract_amount": 360,
+            "contract_basis_raw": "Медийно обслужване - прдизборно",
+            "contract_sponsor_raw": "Григор Григоров независим кандидат за общински съветник"
+        },
+        {
+            "contract_amount_raw": "500 лв.",
+            "contract_amount": 500,
+            "contract_basis_raw": "Предизборни публикации",
+            "contract_sponsor_raw": "ПП Земеделски народен съюз Александър Стамболийски"
+        },
+        {
+            "contract_amount_raw": "500 лв.",
+            "contract_amount": 500,
+            "contract_basis_raw": "Предизборни публикации",
+            "contract_sponsor_raw": "ПП Български социал демократи"
+        },
+        {
+            "contract_amount_raw": "2000 лв.",
+            "contract_amount": 2000,
+            "contract_basis_raw": "Предизборни публикации",
+            "contract_sponsor_raw": "ПП ВМРО"
+        }
+    ]
+}

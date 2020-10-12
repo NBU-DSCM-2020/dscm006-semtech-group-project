@@ -1,0 +1,149 @@
+{
+    "legal_entity_name": "МИЛЕКС-08 ООД",
+    "legal_entity_id": "200418286",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание; Онлайн новинарско издание; Печатна медия; Печатна медия; Печатна медия",
+    "media_service_name": "24SHUMEN.COM; 24Smolian.co; 24x7Родопи; Родопи Смолян; Родопи войс",
+    "real_owner": "Милда Янкова Кулаклиева, Илхан Али Дурмуш-Андай",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "4200",
+            "contract_amount": 4200,
+            "contract_basis_raw": "Договор за инф. обслужване на общ. Шумен",
+            "contract_sponsor_raw": "Община Шумен/000931721"
+        },
+        {
+            "contract_amount_raw": "1200",
+            "contract_amount": 1200,
+            "contract_basis_raw": "Договор за инф. обслужване на общ. Никола Козлево",
+            "contract_sponsor_raw": "община Никола Козлево/000931568"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "Договор за инф. обслужване на общ. Върбица",
+            "contract_sponsor_raw": "Община Върбица/000931415"
+        },
+        {
+            "contract_amount_raw": "7920",
+            "contract_amount": 7920,
+            "contract_basis_raw": "годишен абонамент - вестник",
+            "contract_sponsor_raw": "Община Крумовград/000235913"
+        },
+        {
+            "contract_amount_raw": "11496",
+            "contract_amount": 11496,
+            "contract_basis_raw": "годишен абонамент - вестник",
+            "contract_sponsor_raw": "Община Черноочене/000236164"
+        },
+        {
+            "contract_amount_raw": "13320",
+            "contract_amount": 13320,
+            "contract_basis_raw": "годишен абонамент - вестник",
+            "contract_sponsor_raw": "Община Ардино/000235750"
+        },
+        {
+            "contract_amount_raw": "10800",
+            "contract_amount": 10800,
+            "contract_basis_raw": "годишен абонамент - вестник",
+            "contract_sponsor_raw": "Община Кирково/000235888"
+        },
+        {
+            "contract_amount_raw": "28000",
+            "contract_amount": 28000,
+            "contract_basis_raw": "годишен абонамент - вестник",
+            "contract_sponsor_raw": "Община Кърджали/000235920"
+        },
+        {
+            "contract_amount_raw": "8400",
+            "contract_amount": 8400,
+            "contract_basis_raw": "годишен абонамент - вестник",
+            "contract_sponsor_raw": "Община Момчилград/000235984"
+        },
+        {
+            "contract_amount_raw": "6840",
+            "contract_amount": 6840,
+            "contract_basis_raw": "годишен абонамент - вестник",
+            "contract_sponsor_raw": "Община Джебел/000235831"
+        },
+        {
+            "contract_amount_raw": "9000",
+            "contract_amount": 9000,
+            "contract_basis_raw": "годишен абонамент - вестник",
+            "contract_sponsor_raw": "Община Смолян/000615118"
+        },
+        {
+            "contract_amount_raw": "4500",
+            "contract_amount": 4500,
+            "contract_basis_raw": "годишен абонамент - вестник",
+            "contract_sponsor_raw": "Община Мадан/000614984"
+        },
+        {
+            "contract_amount_raw": "3480",
+            "contract_amount": 3480,
+            "contract_basis_raw": "годишен абонамент - вестник",
+            "contract_sponsor_raw": "Община Доспат/000614906"
+        },
+        {
+            "contract_amount_raw": "5400",
+            "contract_amount": 5400,
+            "contract_basis_raw": "годишен абонамент - вестник",
+            "contract_sponsor_raw": "Община Неделино/000615043"
+        },
+        {
+            "contract_amount_raw": "1500",
+            "contract_amount": 1500,
+            "contract_basis_raw": "договор за инф. обсл. избори за ЕП 2019",
+            "contract_sponsor_raw": "ПП ДПС/000707470"
+        },
+        {
+            "contract_amount_raw": "360",
+            "contract_amount": 360,
+            "contract_basis_raw": "договор за инф. обсл. избори за ЕП 2019",
+            "contract_sponsor_raw": "ПП ГЕРБ/175248466"
+        },
+        {
+            "contract_amount_raw": "14376",
+            "contract_amount": 14376,
+            "contract_basis_raw": "МЕСТНИ ИЗБОРИ 2019",
+            "contract_sponsor_raw": "ПП ДПС/000707470"
+        },
+        {
+            "contract_amount_raw": "3880",
+            "contract_amount": 3880,
+            "contract_basis_raw": "МЕСТНИ ИЗБОРИ 2019",
+            "contract_sponsor_raw": "ПП ГЕРБ/175248466"
+        },
+        {
+            "contract_amount_raw": "950",
+            "contract_amount": 950,
+            "contract_basis_raw": "МЕСТНИ ИЗБОРИ 2019",
+            "contract_sponsor_raw": "ПП БЪЛГАРСКИ СОЦИАЛДЕМОКРАТИ/131017251"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "МЕСТНИ ИЗБОРИ 2019",
+            "contract_sponsor_raw": "Общински съвет на БСП / 0007020140428"
+        },
+        {
+            "contract_amount_raw": "360",
+            "contract_amount": 360,
+            "contract_basis_raw": "МЕСТНИ ИЗБОРИ 2019",
+            "contract_sponsor_raw": "ДАНИЕЛ ТОЧЕВ ДЕЛЧЕВ"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "МЕСТНИ ИЗБОРИ 2019",
+            "contract_sponsor_raw": "ЕСЕН ЯСЕНОВА УСТРЕНСКА"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "МЕСТНИ ИЗБОРИ 2019",
+            "contract_sponsor_raw": "ДИАНА ВЕЛИНОВА ФИДАНОВА"
+        }
+    ]
+}

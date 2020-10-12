@@ -1,0 +1,47 @@
+{
+    "legal_entity_name": "EТ Янка Боянова",
+    "legal_entity_id": "104120642",
+    "public_company": "неприложимо",
+    "media_service_type": "Печатна медия",
+    "media_service_name": "Дунавска зора",
+    "real_owner": "Янка Боянова Костадинова",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "842",
+            "contract_amount": 842,
+            "contract_basis_raw": "17.10.2019г. - отразяване на предизборна кампания за Местни избори 2019",
+            "contract_sponsor_raw": "ПП НФСБ, ЕИК: 176129116"
+        },
+        {
+            "contract_amount_raw": "546",
+            "contract_amount": 546,
+            "contract_basis_raw": "04.10.2019г. - отразяване на предизборна кампания за Местни избори 2019",
+            "contract_sponsor_raw": "Общинки съвет на БСП - Свищов, ЕИК 0007020140852"
+        },
+        {
+            "contract_amount_raw": "435",
+            "contract_amount": 435,
+            "contract_basis_raw": "07.10.2019г. - отразяване на предизборна кампания за Местни избори 2019",
+            "contract_sponsor_raw": "ПП Съюз на свободните демократи, ЕИК 130873207"
+        },
+        {
+            "contract_amount_raw": "678",
+            "contract_amount": 678,
+            "contract_basis_raw": "07.10.2019г. - отразяване на предизборна кампания за Местни избори 2019",
+            "contract_sponsor_raw": "ИК за издигане кандидатурата на Генчо Божинов Генчев за кмет на община Свищов,  представляван от  Константин Руменов Райков с ЕГН 8603036240"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "07.10.2019г. - отразяване на предизборна кампания за Местни избори 2019",
+            "contract_sponsor_raw": "ПП Движение за права и свободи, ЕИК000707470"
+        },
+        {
+            "contract_amount_raw": "360",
+            "contract_amount": 360,
+            "contract_basis_raw": "18.10.2019г. - отразяване на предизборна кампания за Местни избори 2019",
+            "contract_sponsor_raw": "ПП ГЕРБ, ЕИК 175248466"
+        }
+    ]
+}

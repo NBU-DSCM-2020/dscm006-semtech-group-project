@@ -1,0 +1,89 @@
+{
+    "legal_entity_name": "Черноморие-БГ ООД",
+    "legal_entity_id": "201320539",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "www.chernomorie-bg.com",
+    "real_owner": "Десислава Иванова Георгиева, Лина Гинкова Главинова",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "3240 лева",
+            "contract_amount": 3240,
+            "contract_basis_raw": "Информационно обслужване от 25.03.2019 г.",
+            "contract_sponsor_raw": "Слънчев бряг АД, ЕИК 812020577"
+        },
+        {
+            "contract_amount_raw": "24600 лева",
+            "contract_amount": 24600,
+            "contract_basis_raw": "Информация и публичност на дейността на Община Горна Оряховица от 21.08.2019 г.",
+            "contract_sponsor_raw": "Община Горна Оряховица, ЕИК 000133673"
+        },
+        {
+            "contract_amount_raw": "600 лева",
+            "contract_amount": 600,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "Община Средец, ЕИК 000056878"
+        },
+        {
+            "contract_amount_raw": "950 лева",
+            "contract_amount": 950,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "Община Царево, ЕИК 000057094"
+        },
+        {
+            "contract_amount_raw": "350 лева",
+            "contract_amount": 350,
+            "contract_basis_raw": "Рекламен банер за изложба",
+            "contract_sponsor_raw": "Община Бургас, ЕИК 000056814"
+        },
+        {
+            "contract_amount_raw": "144 лева",
+            "contract_amount": 144,
+            "contract_basis_raw": "Публикация по проект на МИРГ Бургас - Камено",
+            "contract_sponsor_raw": "МИРГ Бургас - Камено, ЕИК 177226707"
+        },
+        {
+            "contract_amount_raw": "600 лева",
+            "contract_amount": 600,
+            "contract_basis_raw": "Отразяване на предизборна кампания на БСП за изборите за ЕП",
+            "contract_sponsor_raw": "Общински съвет на БСП – Бургас представляван от Живко Господинов, ЕИК 0007020140218"
+        },
+        {
+            "contract_amount_raw": "550 лева",
+            "contract_amount": 550,
+            "contract_basis_raw": "Отразяване на предизборна кампания на Даниела Божинова за местни избори 2019 г.",
+            "contract_sponsor_raw": "Даниела Божинова"
+        },
+        {
+            "contract_amount_raw": "350 лева",
+            "contract_amount": 350,
+            "contract_basis_raw": "Отразяване на предизборна кампания на ДБГ за местни избори 2019 г.",
+            "contract_sponsor_raw": "Чрез пълномощник Стоян Демирев Грозев"
+        },
+        {
+            "contract_amount_raw": "1000 лева",
+            "contract_amount": 1000,
+            "contract_basis_raw": "Отразяване на предизборна кампания на местна коалиция Ние, Гражданите за местни избори 2019 г.",
+            "contract_sponsor_raw": "Чрез пълномощник Ангел Димитров Божидаров"
+        },
+        {
+            "contract_amount_raw": "500 лева",
+            "contract_amount": 500,
+            "contract_basis_raw": "Отразяване на предизборна кампания на коалиция БСП за България за местни избори 2019 г.",
+            "contract_sponsor_raw": "Общински съвет на БСП – Бургас представляван от Живко Господинов, ЕИК 0007020140218"
+        },
+        {
+            "contract_amount_raw": "1000 лева",
+            "contract_amount": 1000,
+            "contract_basis_raw": "Отразяване на предизборна кампания на партия СЕК за местни избори 2019 г.",
+            "contract_sponsor_raw": "ПП СЕК представлявана от Георги Манев, ЕИК 175335476"
+        },
+        {
+            "contract_amount_raw": "200 лева",
+            "contract_amount": 200,
+            "contract_basis_raw": "Отразяване на предизборна кампания на ГЕРБ за местни избори 2019 г.",
+            "contract_sponsor_raw": "ПП ГЕРБ представлявана от Димитър Бойчев Петров"
+        }
+    ]
+}

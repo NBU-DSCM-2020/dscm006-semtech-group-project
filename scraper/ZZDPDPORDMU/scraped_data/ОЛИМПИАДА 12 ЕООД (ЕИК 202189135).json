@@ -1,0 +1,47 @@
+{
+    "legal_entity_name": "ОЛИМПИАДА 12 ЕООД",
+    "legal_entity_id": "202189135",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "5GMedia.bg",
+    "real_owner": "Соня Атанасова Котуклиева-Стефанова",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "5000",
+            "contract_amount": 5000,
+            "contract_basis_raw": "Комплексно медийно обслужване избори ЕП",
+            "contract_sponsor_raw": "ПП ГЕРБ ЕИК: 175248466"
+        },
+        {
+            "contract_amount_raw": "1510,4",
+            "contract_amount": 1510,
+            "contract_basis_raw": "Комплексно медийно обслужване избори ЕП",
+            "contract_sponsor_raw": "Медия Планинг Груп ООД ЕИК: 131347103"
+        },
+        {
+            "contract_amount_raw": "3000",
+            "contract_amount": 3000,
+            "contract_basis_raw": "Комплексно медийно обслужване избори ЕП",
+            "contract_sponsor_raw": "ВМРО - БНД ЕИК: 130451348"
+        },
+        {
+            "contract_amount_raw": "5000",
+            "contract_amount": 5000,
+            "contract_basis_raw": "Комплексно медийно обслужване избори ЕП",
+            "contract_sponsor_raw": "ПП НФСБ ЕИК: 176129116"
+        },
+        {
+            "contract_amount_raw": "30000",
+            "contract_amount": 30000,
+            "contract_basis_raw": "Публикуване рекламни статии и банери",
+            "contract_sponsor_raw": "БТК ЕАД ЕИК: 831642181"
+        },
+        {
+            "contract_amount_raw": "29700",
+            "contract_amount": 29700,
+            "contract_basis_raw": "Обучение - Медии и комуникационни умения",
+            "contract_sponsor_raw": "ДФ Земеделие ЕИК: 121100421"
+        }
+    ]
+}

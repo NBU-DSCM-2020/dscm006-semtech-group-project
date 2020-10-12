@@ -1,0 +1,47 @@
+{
+    "legal_entity_name": "ТАЙМС МЕДИЯ ЕООД",
+    "legal_entity_id": "203243810",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "skandal.bg",
+    "real_owner": "Вяра Георгиева Васева",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "Реклама в skandal.bg",
+            "contract_sponsor_raw": "ВМРО-БЪЛГАРСКО НАЦИОНАЛНО ДВИЖЕНИЕ "
+        },
+        {
+            "contract_amount_raw": "1950",
+            "contract_amount": 1950,
+            "contract_basis_raw": "Реклама в skandal.bg",
+            "contract_sponsor_raw": "ПОЛИТИЧЕСКА ПАРТИЯ ПАРТИЯ НА ЗЕЛЕНИТЕ"
+        },
+        {
+            "contract_amount_raw": "1500",
+            "contract_amount": 1500,
+            "contract_basis_raw": "Реклама в skandal.bg",
+            "contract_sponsor_raw": "ПАЗАРИ ЮГ ЕАД"
+        },
+        {
+            "contract_amount_raw": "2000",
+            "contract_amount": 2000,
+            "contract_basis_raw": "Реклама в skandal.bg",
+            "contract_sponsor_raw": "ВМРО-БЪЛГАРСКО НАЦИОНАЛНО ДВИЖЕНИЕ "
+        },
+        {
+            "contract_amount_raw": "1200",
+            "contract_amount": 1200,
+            "contract_basis_raw": "Реклама в skandal.bg",
+            "contract_sponsor_raw": "ПАЗАРИ ЮГ ЕАД"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "Реклама в skandal.bg",
+            "contract_sponsor_raw": "ПОЛИТИЧЕСКА ПАРТИЯ ПАРТИЯ НА ЗЕЛЕНИТЕ"
+        }
+    ]
+}

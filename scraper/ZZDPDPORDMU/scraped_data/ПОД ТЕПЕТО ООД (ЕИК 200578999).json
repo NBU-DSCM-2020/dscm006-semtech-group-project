@@ -1,0 +1,35 @@
+{
+    "legal_entity_name": "ПОД ТЕПЕТО ООД",
+    "legal_entity_id": "200578999",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "Он-лайн издание Под тепето",
+    "real_owner": "Ивайло Валентинов Дернев, Иван Ангелов Черешаров, Иван Димитров Куков ( починал )",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "18592",
+            "contract_amount": 18592,
+            "contract_basis_raw": "Договори за инф. обсл. от 01.06.2018 г. и от 04.06.2019 г.",
+            "contract_sponsor_raw": "УМБАЛ СВЕТИ ГЕОРГИ ЕАД , ЕИК 115576405"
+        },
+        {
+            "contract_amount_raw": "900",
+            "contract_amount": 900,
+            "contract_basis_raw": "Фактури 452 от ,459 от 2016г.",
+            "contract_sponsor_raw": "УМБАЛ Пловдив ЕАД, ЕИК 115532049"
+        },
+        {
+            "contract_amount_raw": "10250",
+            "contract_amount": 10250,
+            "contract_basis_raw": "СЪГЛ договор  Д.19ДГ387/10.04. 2019 ",
+            "contract_sponsor_raw": "Община Пловдив, ЕИК000471504"
+        },
+        {
+            "contract_amount_raw": "1200",
+            "contract_amount": 1200,
+            "contract_basis_raw": "ф.ра 0000000598/24.09.2019",
+            "contract_sponsor_raw": "Политическа партия НФСБ/ЕИК 176129116"
+        }
+    ]
+}

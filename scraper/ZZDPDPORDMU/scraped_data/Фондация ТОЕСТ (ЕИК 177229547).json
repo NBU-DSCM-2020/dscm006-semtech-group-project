@@ -1,0 +1,17 @@
+{
+    "legal_entity_name": "Фондация ТОЕСТ",
+    "legal_entity_id": "177229547",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "Тоест (toest.bg)",
+    "real_owner": "Владислав Василев Севов, Йовко Димитров Ламбрев, Лина Михайлова Кривошиева, Фам Тхи Тхук Анх",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "40546",
+            "contract_amount": 40546,
+            "contract_basis_raw": "Дарения от физически и юридически лица",
+            "contract_sponsor_raw": "Приложен списък"
+        }
+    ]
+}

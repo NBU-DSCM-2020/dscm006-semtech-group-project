@@ -1,0 +1,41 @@
+{
+    "legal_entity_name": "Глашатай инфо и имидж ЕООД",
+    "legal_entity_id": "203387611",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "Глашатай",
+    "real_owner": "Любомира Седевчева Владимирова",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "1800",
+            "contract_amount": 1800,
+            "contract_basis_raw": "договор информационно  обслужване ",
+            "contract_sponsor_raw": "община  перник - 000386751"
+        },
+        {
+            "contract_amount_raw": "400",
+            "contract_amount": 400,
+            "contract_basis_raw": "медийни  услуги за  отразяване предизборна кампания",
+            "contract_sponsor_raw": "ПП ГЕРБ .175248466"
+        },
+        {
+            "contract_amount_raw": "590",
+            "contract_amount": 590,
+            "contract_basis_raw": "медийни  услуги за  отразяване  местни избори",
+            "contract_sponsor_raw": "ПП ЗЕЛЕНИТЕ - 130481028"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "медийни  услуги за  отразяване предизборна кампани",
+            "contract_sponsor_raw": "П ПГЕРБ .175248466"
+        },
+        {
+            "contract_amount_raw": "300",
+            "contract_amount": 300,
+            "contract_basis_raw": "медийни  услуги за  отразяване  местни избори",
+            "contract_sponsor_raw": "ПП Никола Петков -130035830"
+        }
+    ]
+}

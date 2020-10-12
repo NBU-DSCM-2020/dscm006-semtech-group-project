@@ -1,0 +1,95 @@
+{
+    "legal_entity_name": "ТРАФИК БУЛ ООД",
+    "legal_entity_id": "203157560",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание; Онлайн новинарско издание",
+    "media_service_name": "Новинарски портал trafficnews.bg; Новинарски портал plovdivnow.bg",
+    "real_owner": "Илиян Емилов Велков, Александър Любомиров Апостолов",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "6000",
+            "contract_amount": 6000,
+            "contract_basis_raw": "ПР публикации в новинарски портал trafficnews.bg",
+            "contract_sponsor_raw": "ВМРО - Българско Национално Движение /130451348"
+        },
+        {
+            "contract_amount_raw": "12001,2",
+            "contract_amount": 12001,
+            "contract_basis_raw": "Медийна реклама",
+            "contract_sponsor_raw": "Областен съвет на БСП Пловдив поделение/ 0007020140657"
+        },
+        {
+            "contract_amount_raw": "4504",
+            "contract_amount": 4504,
+            "contract_basis_raw": "Медийна реклама",
+            "contract_sponsor_raw": "Политическа партия ГЕРБ / 175248466"
+        },
+        {
+            "contract_amount_raw": "2160",
+            "contract_amount": 2160,
+            "contract_basis_raw": "Медийна реклама",
+            "contract_sponsor_raw": "Георги Илчев Коалиция за България"
+        },
+        {
+            "contract_amount_raw": "900",
+            "contract_amount": 900,
+            "contract_basis_raw": "Рекламен банер за Коалиция Възход: Публикуване на банер 300х250 рх в traffinews.bg, зона 5, видим във всяка страница на сайта на trafficnews.bg, генериране на 62 500 импресии",
+            "contract_sponsor_raw": "Централна Избирателна Комисия / 176481459"
+        },
+        {
+            "contract_amount_raw": "5232",
+            "contract_amount": 5232,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "Градски съвет на БСП - Пловдив / 0007020140237"
+        },
+        {
+            "contract_amount_raw": "5359",
+            "contract_amount": 5359,
+            "contract_basis_raw": "Публикация. Разходът и под мярка 19.4 от ПРСР 2014-2020, във връзка със споразумение за изпълнение на СВОМР с № РД 50-195/29.11.2016г.",
+            "contract_sponsor_raw": "Местна инициативна група СНЦ общ. Марица / 177021047"
+        },
+        {
+            "contract_amount_raw": "3000",
+            "contract_amount": 3000,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "Политическа партия Воля / 175358375"
+        },
+        {
+            "contract_amount_raw": "6480",
+            "contract_amount": 6480,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "Политическа партия Национален фронт за спасение на България / 176129116"
+        },
+        {
+            "contract_amount_raw": "2712",
+            "contract_amount": 2712,
+            "contract_basis_raw": "Публикация в местна медия по договор за БФП № BG 06 RDNP 001-19.085-0018-C01 / 26.11.2019",
+            "contract_sponsor_raw": "Сдружение местна инициативна група Перущица - Родопи / 176036263"
+        },
+        {
+            "contract_amount_raw": "20736",
+            "contract_amount": 20736,
+            "contract_basis_raw": "Публикуване на авторски публикации и интервюта в информационен портал trafficnews.bg",
+            "contract_sponsor_raw": "УМБАЛ Св. Георги ЕАД / 115576405"
+        },
+        {
+            "contract_amount_raw": "32670",
+            "contract_amount": 32670,
+            "contract_basis_raw": "Предпечат и печат на издание община Марица днес",
+            "contract_sponsor_raw": "Община Марица / 000472182"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "Община Раковски / 000471543"
+        },
+        {
+            "contract_amount_raw": "14400",
+            "contract_amount": 14400,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "Община Стамболийски / 115245280"
+        }
+    ]
+}

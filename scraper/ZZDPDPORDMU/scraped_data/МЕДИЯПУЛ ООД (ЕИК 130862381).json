@@ -1,0 +1,377 @@
+{
+    "legal_entity_name": "МЕДИЯПУЛ ООД",
+    "legal_entity_id": "130862381",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "www.mediapool.bg",
+    "real_owner": "СТОЯНА ГЕОРГИЕВА ГЕОРГИЕВА",
+    "executive_individual": "СТОЯНА ГЕОРГИЕВА ГЕОРГИЕВА",
+    "contracts": [
+        {
+            "contract_amount_raw": "10",
+            "contract_amount": 10,
+            "contract_basis_raw": "Дарение",
+            "contract_sponsor_raw": "Андриан Георгиев Георгиев"
+        },
+        {
+            "contract_amount_raw": "30",
+            "contract_amount": 30,
+            "contract_basis_raw": "Дарение",
+            "contract_sponsor_raw": "Иван Господинов Господинов"
+        },
+        {
+            "contract_amount_raw": "300",
+            "contract_amount": 300,
+            "contract_basis_raw": "Дарение",
+            "contract_sponsor_raw": "Пламен Иванов Камбуров"
+        },
+        {
+            "contract_amount_raw": "10",
+            "contract_amount": 10,
+            "contract_basis_raw": "Дарение",
+            "contract_sponsor_raw": "Boyan Hristov Valchinkov"
+        },
+        {
+            "contract_amount_raw": "25",
+            "contract_amount": 25,
+            "contract_basis_raw": "Дарение",
+            "contract_sponsor_raw": "Яна Даньова Пенкин Миленов"
+        },
+        {
+            "contract_amount_raw": "250",
+            "contract_amount": 250,
+            "contract_basis_raw": "Дарение",
+            "contract_sponsor_raw": "Georgi Mihailov Mikov"
+        },
+        {
+            "contract_amount_raw": "286,57",
+            "contract_amount": 286,
+            "contract_basis_raw": "Дарение",
+            "contract_sponsor_raw": "Tsonko Georgiev"
+        },
+        {
+            "contract_amount_raw": "26,97",
+            "contract_amount": 26,
+            "contract_basis_raw": "Дарение",
+            "contract_sponsor_raw": "Christo Yovev"
+        },
+        {
+            "contract_amount_raw": "62,7",
+            "contract_amount": 62,
+            "contract_basis_raw": "Дарение",
+            "contract_sponsor_raw": "Trayan Angelov"
+        },
+        {
+            "contract_amount_raw": "93,78",
+            "contract_amount": 93,
+            "contract_basis_raw": "Дарение",
+            "contract_sponsor_raw": "Eugene Klein"
+        },
+        {
+            "contract_amount_raw": "46,55",
+            "contract_amount": 46,
+            "contract_basis_raw": "Дарение",
+            "contract_sponsor_raw": "Stoyan Spahiev"
+        },
+        {
+            "contract_amount_raw": "105,14",
+            "contract_amount": 105,
+            "contract_basis_raw": "Дарение",
+            "contract_sponsor_raw": "Petya Kafedzhieva"
+        },
+        {
+            "contract_amount_raw": "214,91",
+            "contract_amount": 214,
+            "contract_basis_raw": "Дарение",
+            "contract_sponsor_raw": "Radoslav Vasilev"
+        },
+        {
+            "contract_amount_raw": "512,04",
+            "contract_amount": 512,
+            "contract_basis_raw": "Дарение",
+            "contract_sponsor_raw": "Diana Krumova"
+        },
+        {
+            "contract_amount_raw": "93,78",
+            "contract_amount": 93,
+            "contract_basis_raw": "Дарение",
+            "contract_sponsor_raw": "Ivan Bachev"
+        },
+        {
+            "contract_amount_raw": "18,21",
+            "contract_amount": 18,
+            "contract_basis_raw": "Дарение",
+            "contract_sponsor_raw": "Miroslav Todorov"
+        },
+        {
+            "contract_amount_raw": "37,08",
+            "contract_amount": 37,
+            "contract_basis_raw": "Дарение",
+            "contract_sponsor_raw": "Valentin Torosyan"
+        },
+        {
+            "contract_amount_raw": "3,09",
+            "contract_amount": 3,
+            "contract_basis_raw": "Дарение",
+            "contract_sponsor_raw": "Nikolay Finjikov"
+        },
+        {
+            "contract_amount_raw": "96,38",
+            "contract_amount": 96,
+            "contract_basis_raw": "Дарение",
+            "contract_sponsor_raw": "Petar Tsvetkov"
+        },
+        {
+            "contract_amount_raw": "4,99",
+            "contract_amount": 4,
+            "contract_basis_raw": "Дарение",
+            "contract_sponsor_raw": "Danail Djildjov"
+        },
+        {
+            "contract_amount_raw": "188,25",
+            "contract_amount": 188,
+            "contract_basis_raw": "Дарение",
+            "contract_sponsor_raw": "RUMEN CHOLAKOV"
+        },
+        {
+            "contract_amount_raw": "8,76",
+            "contract_amount": 8,
+            "contract_basis_raw": "Дарение",
+            "contract_sponsor_raw": "Rosenov & Quintero"
+        },
+        {
+            "contract_amount_raw": "37,1",
+            "contract_amount": 37,
+            "contract_basis_raw": "Дарение",
+            "contract_sponsor_raw": "Aleksandar Georgiev"
+        },
+        {
+            "contract_amount_raw": "93,78",
+            "contract_amount": 93,
+            "contract_basis_raw": "Дарение",
+            "contract_sponsor_raw": "Kristin Cholakova"
+        },
+        {
+            "contract_amount_raw": "74,2",
+            "contract_amount": 74,
+            "contract_basis_raw": "Дарение",
+            "contract_sponsor_raw": "Mihail Mihaylov"
+        },
+        {
+            "contract_amount_raw": "8,76",
+            "contract_amount": 8,
+            "contract_basis_raw": "Дарение",
+            "contract_sponsor_raw": "Pavel Leonov"
+        },
+        {
+            "contract_amount_raw": "37,1",
+            "contract_amount": 37,
+            "contract_basis_raw": "Дарение",
+            "contract_sponsor_raw": "Angel Petrov"
+        },
+        {
+            "contract_amount_raw": "18,21",
+            "contract_amount": 18,
+            "contract_basis_raw": "Дарение",
+            "contract_sponsor_raw": "BORISLAV ORHANIEV"
+        },
+        {
+            "contract_amount_raw": "74,89",
+            "contract_amount": 74,
+            "contract_basis_raw": "Дарение",
+            "contract_sponsor_raw": "Daniel Georgiev"
+        },
+        {
+            "contract_amount_raw": "8,76",
+            "contract_amount": 8,
+            "contract_basis_raw": "Дарение",
+            "contract_sponsor_raw": "Zinaida Garanina"
+        },
+        {
+            "contract_amount_raw": "18,21",
+            "contract_amount": 18,
+            "contract_basis_raw": "Дарение",
+            "contract_sponsor_raw": "Ivan Angelov"
+        },
+        {
+            "contract_amount_raw": "27,65",
+            "contract_amount": 27,
+            "contract_basis_raw": "Дарение",
+            "contract_sponsor_raw": "Raya Katsarova"
+        },
+        {
+            "contract_amount_raw": "12,26",
+            "contract_amount": 12,
+            "contract_basis_raw": "Дарение",
+            "contract_sponsor_raw": "Boril Iordanov"
+        },
+        {
+            "contract_amount_raw": "91,83",
+            "contract_amount": 91,
+            "contract_basis_raw": "Дарение",
+            "contract_sponsor_raw": "Vassil Popvassilev"
+        },
+        {
+            "contract_amount_raw": "91,83",
+            "contract_amount": 91,
+            "contract_basis_raw": "Дарение",
+            "contract_sponsor_raw": "Stefan Tchernodrinski"
+        },
+        {
+            "contract_amount_raw": "46,55",
+            "contract_amount": 46,
+            "contract_basis_raw": "Дарение",
+            "contract_sponsor_raw": "Alexis Valerin"
+        },
+        {
+            "contract_amount_raw": "8,76",
+            "contract_amount": 8,
+            "contract_basis_raw": "Дарение",
+            "contract_sponsor_raw": "Nikolay Panev"
+        },
+        {
+            "contract_amount_raw": "46,55",
+            "contract_amount": 46,
+            "contract_basis_raw": "Дарение",
+            "contract_sponsor_raw": "Stefan Ivanov"
+        },
+        {
+            "contract_amount_raw": "4,03",
+            "contract_amount": 4,
+            "contract_basis_raw": "Дарение",
+            "contract_sponsor_raw": "Nedko Ivanov"
+        },
+        {
+            "contract_amount_raw": "188,25",
+            "contract_amount": 188,
+            "contract_basis_raw": "Дарение",
+            "contract_sponsor_raw": "Krasimira Zhelyazkova"
+        },
+        {
+            "contract_amount_raw": "8,76",
+            "contract_amount": 8,
+            "contract_basis_raw": "Дарение",
+            "contract_sponsor_raw": "Martin Lazarov"
+        },
+        {
+            "contract_amount_raw": "8,76",
+            "contract_amount": 8,
+            "contract_basis_raw": "Дарение",
+            "contract_sponsor_raw": "Venelin Todorov"
+        },
+        {
+            "contract_amount_raw": "37,1",
+            "contract_amount": 37,
+            "contract_basis_raw": "Дарение",
+            "contract_sponsor_raw": "Rosen Kostov"
+        },
+        {
+            "contract_amount_raw": "37,1",
+            "contract_amount": 37,
+            "contract_basis_raw": "Дарение",
+            "contract_sponsor_raw": "Rosen Hadzhiev"
+        },
+        {
+            "contract_amount_raw": "18,21",
+            "contract_amount": 18,
+            "contract_basis_raw": "Дарение",
+            "contract_sponsor_raw": "Stoyan Ivkov"
+        },
+        {
+            "contract_amount_raw": "19,28",
+            "contract_amount": 19,
+            "contract_basis_raw": "Дарение",
+            "contract_sponsor_raw": "Samuil Mihael"
+        },
+        {
+            "contract_amount_raw": "8,76",
+            "contract_amount": 8,
+            "contract_basis_raw": "Дарение",
+            "contract_sponsor_raw": "Kaloyan Iliev"
+        },
+        {
+            "contract_amount_raw": "18,21",
+            "contract_amount": 18,
+            "contract_basis_raw": "Дарение",
+            "contract_sponsor_raw": "IVELIN TENEV"
+        },
+        {
+            "contract_amount_raw": "3,09",
+            "contract_amount": 3,
+            "contract_basis_raw": "Дарение",
+            "contract_sponsor_raw": "ventzislav mazakov"
+        },
+        {
+            "contract_amount_raw": "10000",
+            "contract_amount": 10000,
+            "contract_basis_raw": "Договор за медийно обслужване – публикуване на материали, свързани с дейността на компанията, нейните проекти и компании",
+            "contract_sponsor_raw": "Софийска вода АД"
+        },
+        {
+            "contract_amount_raw": "10000",
+            "contract_amount": 10000,
+            "contract_basis_raw": "Договор за медийно обслужване – публикуване на материали, свързани с дейността на компанията, нейните проекти и компании",
+            "contract_sponsor_raw": "Софийска вода АД"
+        },
+        {
+            "contract_amount_raw": "21100",
+            "contract_amount": 21100,
+            "contract_basis_raw": "Договор за предоставяне на рекламни услуги – във връзка с провеждане на Избори за членове на Европейския парламент 2019",
+            "contract_sponsor_raw": "ПП ГЕРБ"
+        },
+        {
+            "contract_amount_raw": "21100",
+            "contract_amount": 21100,
+            "contract_basis_raw": "Договор за предоставяне на рекламни услуги – във връзка с провеждане на Избори за членове на Европейския парламент 2019",
+            "contract_sponsor_raw": "ПП ГЕРБ"
+        },
+        {
+            "contract_amount_raw": "3000",
+            "contract_amount": 3000,
+            "contract_basis_raw": "Договор за предоставяне на рекламни услуги – във връзка с провеждане на Избори за членове на Европейския парламент 2019",
+            "contract_sponsor_raw": "ПП ДВИЖЕНИЕ ДА БЪЛГАРИЯ"
+        },
+        {
+            "contract_amount_raw": "3000",
+            "contract_amount": 3000,
+            "contract_basis_raw": "Договор за предоставяне на рекламни услуги – във връзка с провеждане на Избори за членове на Европейския парламент 2019",
+            "contract_sponsor_raw": "ПП ДВИЖЕНИЕ ДА БЪЛГАРИЯ"
+        },
+        {
+            "contract_amount_raw": "1833,33",
+            "contract_amount": 1833,
+            "contract_basis_raw": "Договор за предоставяне на рекламни услуги – във връзка с провеждане на Избори за членове на Европейския парламент 2019",
+            "contract_sponsor_raw": "КОАЛИЦИЯ ВЪЗХОД"
+        },
+        {
+            "contract_amount_raw": "1833,33",
+            "contract_amount": 1833,
+            "contract_basis_raw": "Договор за предоставяне на рекламни услуги – във връзка с провеждане на Избори за членове на Европейския парламент 2019",
+            "contract_sponsor_raw": "КОАЛИЦИЯ ВЪЗХОД"
+        },
+        {
+            "contract_amount_raw": "2500",
+            "contract_amount": 2500,
+            "contract_basis_raw": "Договор за предоставяне на рекламни услуги –Местни избори 2019",
+            "contract_sponsor_raw": "ПП ДВИЖЕНИЕ БЪЛГАРИЯ НА ГРАЖДАНИТЕ"
+        },
+        {
+            "contract_amount_raw": "2500",
+            "contract_amount": 2500,
+            "contract_basis_raw": "Договор за предоставяне на рекламни услуги –Местни избори 2019",
+            "contract_sponsor_raw": "ПП ДВИЖЕНИЕ БЪЛГАРИЯ НА ГРАЖДАНИТЕ"
+        },
+        {
+            "contract_amount_raw": "3000",
+            "contract_amount": 3000,
+            "contract_basis_raw": "Договор за предоставяне на рекламни услуги –Местни избори 2019",
+            "contract_sponsor_raw": "ДЕМОКРАТИЧНА БЪЛГАРИЯ – ОБЕДИНЕНИЕ"
+        },
+        {
+            "contract_amount_raw": "3000",
+            "contract_amount": 3000,
+            "contract_basis_raw": "Договор за предоставяне на рекламни услуги –Местни избори 2019",
+            "contract_sponsor_raw": "ДЕМОКРАТИЧНА БЪЛГАРИЯ – ОБЕДИНЕНИЕ"
+        }
+    ]
+}

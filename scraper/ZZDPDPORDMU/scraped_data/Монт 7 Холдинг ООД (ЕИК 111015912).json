@@ -1,0 +1,23 @@
+{
+    "legal_entity_name": "Монт 7 Холдинг ООД",
+    "legal_entity_id": "111015912",
+    "public_company": "неприложимо",
+    "media_service_type": "Телевизия",
+    "media_service_name": "канал Монт 7",
+    "real_owner": "Екатерина Георгиева Гигова, Мариан Иванов Римпев, Емил Милкв Иванов, Екатерина Станиславова Станоева",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "2400",
+            "contract_amount": 2400,
+            "contract_basis_raw": "информационно обслужване",
+            "contract_sponsor_raw": "МК СДС(ГЕРБ, БНД, ВМРО-БНД, ЗНС), ЕИК 175520304"
+        },
+        {
+            "contract_amount_raw": "2000",
+            "contract_amount": 2000,
+            "contract_basis_raw": "информационно обслужване",
+            "contract_sponsor_raw": "ПП ГЕРБ, ЕИК 175248466"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "legal_entity_name": "ПОПОВО КАБЕЛ ООД",
+    "legal_entity_id": "125014973",
+    "public_company": "неприложимо",
+    "media_service_type": "Телевизия",
+    "media_service_name": "КАНАЛ 9",
+    "real_owner": "Милен Йорданов Недялков, Силвия Димчева Недялкова",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "1200",
+            "contract_amount": 1200,
+            "contract_basis_raw": "Излъчване на ТВ предаване /20.10.2018",
+            "contract_sponsor_raw": "Община Попово ЕИК 000875856"
+        }
+    ]
+}

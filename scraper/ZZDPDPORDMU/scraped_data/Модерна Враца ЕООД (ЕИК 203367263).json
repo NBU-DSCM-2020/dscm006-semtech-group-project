@@ -1,0 +1,65 @@
+{
+    "legal_entity_name": "Модерна Враца ЕООД",
+    "legal_entity_id": "203367263",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "Модерна Враца",
+    "real_owner": "Емил Петров Петров",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "700",
+            "contract_amount": 700,
+            "contract_basis_raw": "14.01.2019г.Провеждане на кампания за информираност и публичност на дейностите на НУ Иван Вазов гр.Враца",
+            "contract_sponsor_raw": "НУ Иван Вазов гр.Враца"
+        },
+        {
+            "contract_amount_raw": "3600",
+            "contract_amount": 3600,
+            "contract_basis_raw": "17.01.2019г.Заснемане и излъчване на пълен запис на заседанията на Общински съвет гр.Роман",
+            "contract_sponsor_raw": "Общински съвет гр.Роман"
+        },
+        {
+            "contract_amount_raw": "1200",
+            "contract_amount": 1200,
+            "contract_basis_raw": "27.02.2019г.Отразяване дейностите на община гр.Оряхово",
+            "contract_sponsor_raw": "Община гр.Оряхово"
+        },
+        {
+            "contract_amount_raw": "1200",
+            "contract_amount": 1200,
+            "contract_basis_raw": "12.03.2019г.Информационно обслужване включващо представяне и публикяване на съобщения,новини,събития и инициативи на ЮЗУ НеофитРилски гр.Благоевград",
+            "contract_sponsor_raw": "ЮЗУНеофит Рилски гр.Благоевград"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "11.04.2019г.Провеждане на кампания за информираност и публичност на дейностите на ППМГАкад.Иван Ценов гр.Враца",
+            "contract_sponsor_raw": "ППМГАкад.Иван Ценов гр.Враца"
+        },
+        {
+            "contract_amount_raw": "1200",
+            "contract_amount": 1200,
+            "contract_basis_raw": "23.04.2019г.Провеждане на кампания за информиране и публичност на дейностите на ВиК-Враца ООД",
+            "contract_sponsor_raw": "ВиК  ООД гр.Враца"
+        },
+        {
+            "contract_amount_raw": "3600",
+            "contract_amount": 3600,
+            "contract_basis_raw": "16.05.2019г.Онлайн излъчване на Общински съвет гр.Козлодуй",
+            "contract_sponsor_raw": "Община гр.Козлодуй"
+        },
+        {
+            "contract_amount_raw": "1800",
+            "contract_amount": 1800,
+            "contract_basis_raw": "01.08.2019г.Провеждане на кампания за информиране и публичност на дейностите на Община гр.Борован",
+            "contract_sponsor_raw": "Община гр.Борован"
+        },
+        {
+            "contract_amount_raw": "7200",
+            "contract_amount": 7200,
+            "contract_basis_raw": "09.12.2019г.Популяризация на официалната интернет страница на ДПРО",
+            "contract_sponsor_raw": "ДПРО"
+        }
+    ]
+}

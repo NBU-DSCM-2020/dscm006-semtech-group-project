@@ -1,0 +1,17 @@
+{
+    "legal_entity_name": "Община Етрополе",
+    "legal_entity_id": "000776259",
+    "public_company": "неприложимо",
+    "media_service_type": "Печатна медия",
+    "media_service_name": "Етрополски преглед",
+    "real_owner": "Димитър Радославов Димитров",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "12230",
+            "contract_amount": 12230,
+            "contract_basis_raw": "Решение №1/29.01.2019 г., Протокол №1 на ОбС - Етрополе",
+            "contract_sponsor_raw": null
+        }
+    ]
+}

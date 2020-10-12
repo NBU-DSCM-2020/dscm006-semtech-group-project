@@ -1,0 +1,23 @@
+{
+    "legal_entity_name": "УКВ ПРАКТИКА ЕООД",
+    "legal_entity_id": "130036149",
+    "public_company": "неприложимо",
+    "media_service_type": "Радио",
+    "media_service_name": "РАДИО АНТОЛА",
+    "real_owner": "Петър Стойков Стойков",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "9600",
+            "contract_amount": 9600,
+            "contract_basis_raw": "25.01.2019 - Договор за информационно обслужване",
+            "contract_sponsor_raw": "Община Попово. ЕИК 000875856"
+        },
+        {
+            "contract_amount_raw": "140",
+            "contract_amount": 140,
+            "contract_basis_raw": "03.10.2019 / 28.10.2019 - Договор за излъчване на предизборна агитация",
+            "contract_sponsor_raw": "КП Движение Заедно за промяна, ЕИК 121713634"
+        }
+    ]
+}

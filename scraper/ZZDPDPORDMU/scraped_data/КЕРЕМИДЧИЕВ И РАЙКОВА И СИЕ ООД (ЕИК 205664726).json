@@ -1,0 +1,53 @@
+{
+    "legal_entity_name": "КЕРЕМИДЧИЕВ И РАЙКОВА И СИЕ ООД",
+    "legal_entity_id": "205664726",
+    "public_company": "неприложимо",
+    "media_service_type": "Радио",
+    "media_service_name": "РАДИО 999",
+    "real_owner": "ЦВЕТАН ВАЛЕНТИНОВ РЕВАНСКИ, ЯНКА РУСЕВА РАЙКОВА",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "2400",
+            "contract_amount": 2400,
+            "contract_basis_raw": "Медийна услуга 02.01.2019",
+            "contract_sponsor_raw": "ОБЩИНА БОЛЯРОВО 000970051"
+        },
+        {
+            "contract_amount_raw": "2592",
+            "contract_amount": 2592,
+            "contract_basis_raw": "Медийна услуга 30.01.2019",
+            "contract_sponsor_raw": "ОБЩИНА ТУНДЖА 000970457"
+        },
+        {
+            "contract_amount_raw": "2160",
+            "contract_amount": 2160,
+            "contract_basis_raw": "Медийня услуга 30.12.2019",
+            "contract_sponsor_raw": "ОБЩИНА СЛИВЕН 000590654"
+        },
+        {
+            "contract_amount_raw": "1584",
+            "contract_amount": 1584,
+            "contract_basis_raw": "Медийна услуга 11.01.2019",
+            "contract_sponsor_raw": "ОБЩИНА СТРАЛДЖА 000970432"
+        },
+        {
+            "contract_amount_raw": "5400",
+            "contract_amount": 5400,
+            "contract_basis_raw": "Медийна услуга 27.09.2019; 29.10.2019",
+            "contract_sponsor_raw": "ПП ПРЯКА ДЕМОКРАЦИЯ 175032123"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "Медийна услуга 01.10.2019",
+            "contract_sponsor_raw": "ОбС НА БСП ТУНДЖА  0007020140363"
+        },
+        {
+            "contract_amount_raw": "600",
+            "contract_amount": 600,
+            "contract_basis_raw": "Медийна услуга 14.10.2019",
+            "contract_sponsor_raw": "СДС  130052349"
+        }
+    ]
+}

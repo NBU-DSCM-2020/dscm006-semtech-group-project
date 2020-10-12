@@ -1,0 +1,179 @@
+{
+    "legal_entity_name": "Дъ Уолт Дисни Къмпани България ЕООД",
+    "legal_entity_id": "131431836",
+    "public_company": "неприложимо",
+    "media_service_type": "Телевизия; Телевизия; Телевизия; Телевизия; Телевизия; Телевизия; Телевизия; Телевизия; Телевизия; Телевизия; Телевизия; Телевизия; Телевизия",
+    "media_service_name": "FOX/ Фокс; Fox Life/ Фокс Лайф; Fox Crime/ Фокс Крайм; 24Kitchen/ 24Кичън; National Geographic/ Нешънъл Джиографик; https://www.foxtv.bg/; https://www.natgeotv.com/bg; https://www.24kitchen.bg/; https://www.facebook.com/FOXTVBulgaria/; https://www.facebook.com/FoxCrime.bg/; https://www.facebook.com/FoxLife.bg/; https://www.facebook.com/NatGeoBulgaria/; https://www.facebook.com/24kitchenbg/",
+    "real_owner": "Ирина Рангелова Тотова - Маринова, Витолд Ковалчук, Кахабер Абашидзе",
+    "executive_individual": "Ирина Рангелова Тотова - Маринова, Витолд Ковалчук, Кахабер Абашидзе, Весела Богомилова Димитрова",
+    "contracts": [
+        {
+            "contract_amount_raw": "211 044",
+            "contract_amount": 211044,
+            "contract_basis_raw": "01.11.2018 - Договор за рекламни поръчки",
+            "contract_sponsor_raw": "Сийуайнс Логистикс ЕООД "
+        },
+        {
+            "contract_amount_raw": "53803",
+            "contract_amount": 53803,
+            "contract_basis_raw": "20.12.2018 - Договор за рекламни поръчки",
+            "contract_sponsor_raw": "Авенди ООД"
+        },
+        {
+            "contract_amount_raw": "32088",
+            "contract_amount": 32088,
+            "contract_basis_raw": "07.08.2019 - Договор за рекламни поръчки",
+            "contract_sponsor_raw": "Аксон България ООД "
+        },
+        {
+            "contract_amount_raw": "19558",
+            "contract_amount": 19558,
+            "contract_basis_raw": "05.03.2019 - Договор за партньорство при събития",
+            "contract_sponsor_raw": "Булфелд OOД"
+        },
+        {
+            "contract_amount_raw": "50000",
+            "contract_amount": 50000,
+            "contract_basis_raw": "28.03.2019 - Договор за рекламни поръчки",
+            "contract_sponsor_raw": "Българска Телекомуникационна компания ЕАД"
+        },
+        {
+            "contract_amount_raw": "38643",
+            "contract_amount": 38643,
+            "contract_basis_raw": "07.01.2019 - Договор за рекламни поръчки",
+            "contract_sponsor_raw": "ВК Комерсиал Европродукт ООД"
+        },
+        {
+            "contract_amount_raw": "47198",
+            "contract_amount": 47198,
+            "contract_basis_raw": "01.08.2019 - Договор за рекламни поръчки",
+            "contract_sponsor_raw": "Дайнърс Клуб България АД"
+        },
+        {
+            "contract_amount_raw": "22043,25",
+            "contract_amount": 22043,
+            "contract_basis_raw": "28.01.2019 - Договор за рекламни поръчки",
+            "contract_sponsor_raw": "Интерфудс България ЕАД"
+        },
+        {
+            "contract_amount_raw": "125 000",
+            "contract_amount": 125000,
+            "contract_basis_raw": "10.05.2019 - Договор за рекламни поръчки",
+            "contract_sponsor_raw": "Общинска Фондация Пловдив 2019 "
+        },
+        {
+            "contract_amount_raw": "7500",
+            "contract_amount": 7500,
+            "contract_basis_raw": "01.02.2019 - Договор за бартер",
+            "contract_sponsor_raw": "168 часа ЕООД"
+        },
+        {
+            "contract_amount_raw": "10000",
+            "contract_amount": 10000,
+            "contract_basis_raw": "18.02.2019 - Договор за бартер",
+            "contract_sponsor_raw": "Арт Фест ЕООД"
+        },
+        {
+            "contract_amount_raw": "30000",
+            "contract_amount": 30000,
+            "contract_basis_raw": "01.01.2019 - Договор за бартер",
+            "contract_sponsor_raw": "Атика Ева АД"
+        },
+        {
+            "contract_amount_raw": "6000",
+            "contract_amount": 6000,
+            "contract_basis_raw": "15.04.2019 - Договор за бартер",
+            "contract_sponsor_raw": "Британски Съвет - клон България"
+        },
+        {
+            "contract_amount_raw": "25000",
+            "contract_amount": 25000,
+            "contract_basis_raw": "25.07.2019 - Договор за бартер",
+            "contract_sponsor_raw": "Булсатком ЕАД"
+        },
+        {
+            "contract_amount_raw": "35000",
+            "contract_amount": 35000,
+            "contract_basis_raw": "01.01.2019 - Договор за бартер",
+            "contract_sponsor_raw": "Синема Сити България ЕООД"
+        },
+        {
+            "contract_amount_raw": "20000",
+            "contract_amount": 20000,
+            "contract_basis_raw": "01.01.2019 - Договор за бартер",
+            "contract_sponsor_raw": "Дарик Радио АД"
+        },
+        {
+            "contract_amount_raw": "10000",
+            "contract_amount": 10000,
+            "contract_basis_raw": "01.01.2019 - Договор за бартер",
+            "contract_sponsor_raw": "Дир.БГ АД"
+        },
+        {
+            "contract_amount_raw": "14000",
+            "contract_amount": 14000,
+            "contract_basis_raw": "20.06.2019 - Договор за бартер",
+            "contract_sponsor_raw": "Хай Енд Публишинг ЕООД"
+        },
+        {
+            "contract_amount_raw": "11382",
+            "contract_amount": 11382,
+            "contract_basis_raw": "01.09.2019 - Договор за бартер",
+            "contract_sponsor_raw": "Момичетата от града ООД"
+        },
+        {
+            "contract_amount_raw": "7000",
+            "contract_amount": 7000,
+            "contract_basis_raw": "01.01.2019 - Договор за бартер",
+            "contract_sponsor_raw": "Агенция Музоон ЕООД"
+        },
+        {
+            "contract_amount_raw": "35000",
+            "contract_amount": 35000,
+            "contract_basis_raw": "01.01.2019 - Договор за бартер",
+            "contract_sponsor_raw": "Нет ФМ ЕООД"
+        },
+        {
+            "contract_amount_raw": "10000",
+            "contract_amount": 10000,
+            "contract_basis_raw": "17.06.2019 - Договор за бартер",
+            "contract_sponsor_raw": "Нет Инфо АД"
+        },
+        {
+            "contract_amount_raw": "33156",
+            "contract_amount": 33156,
+            "contract_basis_raw": "25.07.2019 - Договор за бартер",
+            "contract_sponsor_raw": "Нова Броудкастинг Груп ЕООД"
+        },
+        {
+            "contract_amount_raw": "3995",
+            "contract_amount": 3995,
+            "contract_basis_raw": "15.02.2019 - Договор за бартер",
+            "contract_sponsor_raw": "Плесио Компютърс ЕАД"
+        },
+        {
+            "contract_amount_raw": "50000",
+            "contract_amount": 50000,
+            "contract_basis_raw": "01.07.2019 - Договор за бартер",
+            "contract_sponsor_raw": "СББ Медиа АД"
+        },
+        {
+            "contract_amount_raw": "10000",
+            "contract_amount": 10000,
+            "contract_basis_raw": "01.07.2019 - Договор за бартер",
+            "contract_sponsor_raw": "Спортал.БГ АД"
+        },
+        {
+            "contract_amount_raw": "50000",
+            "contract_amount": 50000,
+            "contract_basis_raw": "25.11.2019 - Договор за бартер",
+            "contract_sponsor_raw": "Спортал.БГ АД"
+        },
+        {
+            "contract_amount_raw": "3977,5",
+            "contract_amount": 3977,
+            "contract_basis_raw": "15.04.2019 - Договор за бартер",
+            "contract_sponsor_raw": "Юпи БГ ЕООД"
+        }
+    ]
+}

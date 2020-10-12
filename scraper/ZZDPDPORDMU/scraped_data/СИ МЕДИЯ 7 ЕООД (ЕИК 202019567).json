@@ -1,0 +1,71 @@
+{
+    "legal_entity_name": "СИ МЕДИЯ 7 ЕООД",
+    "legal_entity_id": "202019567",
+    "public_company": "неприложимо",
+    "media_service_type": "Печатна медия; Онлайн новинарско издание",
+    "media_service_name": "САМОКОВ 365; SAMOKOV365.COM",
+    "real_owner": "СОТИР АНГЕЛОВ НЕМОВ",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "100",
+            "contract_amount": 100,
+            "contract_basis_raw": "ПУБЛИКАЦИИ В ПЕЧАТНО ИЗДАНИЕ",
+            "contract_sponsor_raw": "ПП ОСД, 175676431"
+        },
+        {
+            "contract_amount_raw": "70",
+            "contract_amount": 70,
+            "contract_basis_raw": "ПУБЛИКАЦИИ В ПЕЧАТНО ИЗДАНИЕ",
+            "contract_sponsor_raw": "ПП ДЕМОКРАТИ ЗА СИЛНА БЪЛГАРИЯ, 131271567"
+        },
+        {
+            "contract_amount_raw": "150",
+            "contract_amount": 150,
+            "contract_basis_raw": "ПУБЛИКАЦИИ В ПЕЧАТНО ИЗДАНИЕ И НА ИНТЕРНЕТ СТРАНИЦА",
+            "contract_sponsor_raw": "АИПСМП ПО ХИРУРГИЯ Д-Р СТОЙЧО ГЪЛЪБОВ ЕООД, 202443651"
+        },
+        {
+            "contract_amount_raw": "200",
+            "contract_amount": 200,
+            "contract_basis_raw": "ПУБЛИКАЦИИ В ПЕЧАТНО ИЗДАНИЕ И НА ИНТЕРНЕТ СТРАНИЦА",
+            "contract_sponsor_raw": "МК БЪЛГАРСКИ СОЦИАЛДЕМОКРАТИ ЧРЕЗ ПП АБВ, 176734649"
+        },
+        {
+            "contract_amount_raw": "240",
+            "contract_amount": 240,
+            "contract_basis_raw": "ПУБЛИКАЦИИ В ПЕЧАТНО ИЗДАНИЕ И НА ИНТЕРНЕТ СТРАНИЦА",
+            "contract_sponsor_raw": "ПП ВМРО - БНД, 130451348"
+        },
+        {
+            "contract_amount_raw": "980",
+            "contract_amount": 980,
+            "contract_basis_raw": "ПУБЛИКАЦИИ В ПЕЧАТНО ИЗДАНИЕ И НА ИНТЕРНЕТ СТРАНИЦА",
+            "contract_sponsor_raw": "ПП ГЕРБ,, 175248466"
+        },
+        {
+            "contract_amount_raw": "470",
+            "contract_amount": 470,
+            "contract_basis_raw": "ПУБЛИКАЦИИ В ПЕЧАТНО ИЗДАНИЕ И НА ИНТЕРНЕТ СТРАНИЦА",
+            "contract_sponsor_raw": "ОБЛС НА БСП, 0007020140275"
+        },
+        {
+            "contract_amount_raw": "420",
+            "contract_amount": 420,
+            "contract_basis_raw": "РЕКЛАМНИ ПУБЛИКАЦИИ В ПЕЧАТНО ИЗДАНИЕ",
+            "contract_sponsor_raw": "РАДКА МОСКОВА ЕТ, 122077146"
+        },
+        {
+            "contract_amount_raw": "450",
+            "contract_amount": 450,
+            "contract_basis_raw": "РЕКЛАМНИ ПУБЛИКАЦИИ В ПЕЧАТНО ИЗДАНИЕ",
+            "contract_sponsor_raw": "ГАЛЧЕВ ИНЖЕНЕРИНГ ЕООД, 200678992"
+        },
+        {
+            "contract_amount_raw": "699",
+            "contract_amount": 699,
+            "contract_basis_raw": "ПУБЛИКАЦИИ В ПЕЧАТНО ИЗДАНИЕ",
+            "contract_sponsor_raw": "СДРУЖЕНИЕ МЕСТНА ИНИЦИАТИВНА ГРУПА САМОКОВ, 177037471"
+        }
+    ]
+}

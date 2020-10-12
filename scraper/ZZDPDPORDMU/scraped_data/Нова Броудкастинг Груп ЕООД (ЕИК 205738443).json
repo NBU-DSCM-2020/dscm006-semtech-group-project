@@ -1,0 +1,191 @@
+{
+    "legal_entity_name": "Нова Броудкастинг Груп ЕООД",
+    "legal_entity_id": "205738443",
+    "public_company": "неприложимо",
+    "media_service_type": "Телевизия; Онлайн новинарско издание",
+    "media_service_name": "програмите Нова телевизия,  Диема, Диема Фемили, КиноНова; www.nova.bg/news",
+    "real_owner": "Кирил Петров Домусчиев, Георги Петров Домусчиев",
+    "executive_individual": "Ива Стоянова Стоянова, Николай Стефанов Андреев",
+    "contracts": [
+        {
+            "contract_amount_raw": "6000",
+            "contract_amount": 6000,
+            "contract_basis_raw": "кредитна карта с лимит",
+            "contract_sponsor_raw": "Експресбанк АД, ЕИК 813071350"
+        },
+        {
+            "contract_amount_raw": "6000",
+            "contract_amount": 6000,
+            "contract_basis_raw": "кредитна карта с лимит",
+            "contract_sponsor_raw": "Експресбанк АД, ЕИК 813071350"
+        },
+        {
+            "contract_amount_raw": "23940",
+            "contract_amount": 23940,
+            "contract_basis_raw": "излъчване на платен репортаж, м. 02.2019",
+            "contract_sponsor_raw": "Министерство на туризма"
+        },
+        {
+            "contract_amount_raw": "43462,5",
+            "contract_amount": 43462,
+            "contract_basis_raw": "излъчване на реклл материали ОП РЧР, м. 02.2019",
+            "contract_sponsor_raw": "Министрество на труда и социалната политика"
+        },
+        {
+            "contract_amount_raw": "21061,5",
+            "contract_amount": 21061,
+            "contract_basis_raw": "излъчване на рекламни материали, м. 03.2019",
+            "contract_sponsor_raw": "Министрество на труда и социалната политика"
+        },
+        {
+            "contract_amount_raw": "99808,7",
+            "contract_amount": 99808,
+            "contract_basis_raw": "излъчване на рекл. материали Неочаквана ваканция",
+            "contract_sponsor_raw": "Министерство на туризма"
+        },
+        {
+            "contract_amount_raw": "9975",
+            "contract_amount": 9975,
+            "contract_basis_raw": "излъчване на рекл. материали ОП РЧР Умения, 04.19",
+            "contract_sponsor_raw": "Министрество на труда и социалната политика"
+        },
+        {
+            "contract_amount_raw": "21061,5",
+            "contract_amount": 21061,
+            "contract_basis_raw": "излъчване на рекл. материали ОП РЧР Мисия, 04.19",
+            "contract_sponsor_raw": "Министрество на труда и социалната политика"
+        },
+        {
+            "contract_amount_raw": "30321,2",
+            "contract_amount": 30321,
+            "contract_basis_raw": "излъчване на рекл. материали ОП Околна среда",
+            "contract_sponsor_raw": "Министерство на околната среда и водите"
+        },
+        {
+            "contract_amount_raw": "149 789,81",
+            "contract_amount": 149789,
+            "contract_basis_raw": "излъчване на рекламни материали",
+            "contract_sponsor_raw": "Министерство на туризма"
+        },
+        {
+            "contract_amount_raw": "55101,25",
+            "contract_amount": 55101,
+            "contract_basis_raw": "излъчване на рекламни материали",
+            "contract_sponsor_raw": "Министерство на регионалното развитие"
+        },
+        {
+            "contract_amount_raw": "49351",
+            "contract_amount": 49351,
+            "contract_basis_raw": "излъчване на рекл. материали Заедно с/у агресията",
+            "contract_sponsor_raw": "Министерство на младежта и спорта (агенция)"
+        },
+        {
+            "contract_amount_raw": "39410,25",
+            "contract_amount": 39410,
+            "contract_basis_raw": "излъчване на рекл. материали",
+            "contract_sponsor_raw": "МЗХГ"
+        },
+        {
+            "contract_amount_raw": "49937,5",
+            "contract_amount": 49937,
+            "contract_basis_raw": "излъчване на рекламни материали",
+            "contract_sponsor_raw": "Фондация Пловдив 2019"
+        },
+        {
+            "contract_amount_raw": "52874,25",
+            "contract_amount": 52874,
+            "contract_basis_raw": "излъчване на рекламни материали",
+            "contract_sponsor_raw": "ИА Наука и образование за интелигентен растеж"
+        },
+        {
+            "contract_amount_raw": "120 000",
+            "contract_amount": 120000,
+            "contract_basis_raw": "излъчване на рекламни материали",
+            "contract_sponsor_raw": "ДА Безопастност на движението по пътищата"
+        },
+        {
+            "contract_amount_raw": "181 921,25",
+            "contract_amount": 181921,
+            "contract_basis_raw": "излъчване на рекламни материали",
+            "contract_sponsor_raw": "Централна избирателна комисия"
+        },
+        {
+            "contract_amount_raw": "14028,82",
+            "contract_amount": 14028,
+            "contract_basis_raw": "излъчване на агитационни материали",
+            "contract_sponsor_raw": "Коалиция Път на младите"
+        },
+        {
+            "contract_amount_raw": "12935",
+            "contract_amount": 12935,
+            "contract_basis_raw": "излъчване на агитационни материали ",
+            "contract_sponsor_raw": "ПП НФСБ"
+        },
+        {
+            "contract_amount_raw": "28183,25",
+            "contract_amount": 28183,
+            "contract_basis_raw": "излъчване на агитационни материали",
+            "contract_sponsor_raw": "ПП Земеделски съюз Ал. Стамболийски"
+        },
+        {
+            "contract_amount_raw": "59434,72",
+            "contract_amount": 59434,
+            "contract_basis_raw": "излъчване на агитационни материали",
+            "contract_sponsor_raw": "ПП Да България"
+        },
+        {
+            "contract_amount_raw": "74554,35",
+            "contract_amount": 74554,
+            "contract_basis_raw": "излъчване на агитационни материали",
+            "contract_sponsor_raw": "ПП ГЕРБ"
+        },
+        {
+            "contract_amount_raw": "250 173,48",
+            "contract_amount": 250173,
+            "contract_basis_raw": "излъчване на агитационни материали",
+            "contract_sponsor_raw": "ПП ВМРО БНД"
+        },
+        {
+            "contract_amount_raw": "77848,8",
+            "contract_amount": 77848,
+            "contract_basis_raw": "излъчване на агитационни материали",
+            "contract_sponsor_raw": "ПП Атака"
+        },
+        {
+            "contract_amount_raw": "19401",
+            "contract_amount": 19401,
+            "contract_basis_raw": "излъчване на агитационни материали",
+            "contract_sponsor_raw": "ПП АБВ"
+        },
+        {
+            "contract_amount_raw": "255 092,52",
+            "contract_amount": 255092,
+            "contract_basis_raw": "излъчване на агитационни материали",
+            "contract_sponsor_raw": "ПП Воля (агенция)"
+        },
+        {
+            "contract_amount_raw": "100 849,95",
+            "contract_amount": 100849,
+            "contract_basis_raw": "излъчване на агитационни материали",
+            "contract_sponsor_raw": "Коалиция БСП за България (агенция)"
+        },
+        {
+            "contract_amount_raw": "145 262,3",
+            "contract_amount": 145262,
+            "contract_basis_raw": "излъчване на агитационни материали",
+            "contract_sponsor_raw": "БСП (агенция)"
+        },
+        {
+            "contract_amount_raw": "12935",
+            "contract_amount": 12935,
+            "contract_basis_raw": "излъчване на агитационни материали",
+            "contract_sponsor_raw": "ДПС (агенция)"
+        },
+        {
+            "contract_amount_raw": "26098,4",
+            "contract_amount": 26098,
+            "contract_basis_raw": "излъчване на агитационни материали",
+            "contract_sponsor_raw": "ИК Мая Манолова"
+        }
+    ]
+}

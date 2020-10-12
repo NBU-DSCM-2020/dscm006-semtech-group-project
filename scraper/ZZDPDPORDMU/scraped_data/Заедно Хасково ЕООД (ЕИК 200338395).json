@@ -1,0 +1,131 @@
+{
+    "legal_entity_name": "Заедно Хасково ЕООД",
+    "legal_entity_id": "200338395",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "Haskovo.info",
+    "real_owner": "Димитър Илчев Иванов",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "6000",
+            "contract_amount": 6000,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "Община Хасково"
+        },
+        {
+            "contract_amount_raw": "4320",
+            "contract_amount": 4320,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "Община Димитровград"
+        },
+        {
+            "contract_amount_raw": "2888,63",
+            "contract_amount": 2888,
+            "contract_basis_raw": "Изготвяне на репортажи",
+            "contract_sponsor_raw": "БНТ"
+        },
+        {
+            "contract_amount_raw": "710",
+            "contract_amount": 710,
+            "contract_basis_raw": "Реклама и поддържане на сайт",
+            "contract_sponsor_raw": "ПГДС Цар Иван Асен II"
+        },
+        {
+            "contract_amount_raw": "150",
+            "contract_amount": 150,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "ЦЕНТЪР ОТВОРЕНО ОБРАЗОВАНИЕ Фондация"
+        },
+        {
+            "contract_amount_raw": "530",
+            "contract_amount": 530,
+            "contract_basis_raw": "Реклама",
+            "contract_sponsor_raw": "ПГТАТ Н. Й. Вапцаров"
+        },
+        {
+            "contract_amount_raw": "2700",
+            "contract_amount": 2700,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "Общински съвет на БСП - Хасково"
+        },
+        {
+            "contract_amount_raw": "3700",
+            "contract_amount": 3700,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "ПП ГЕРБ"
+        },
+        {
+            "contract_amount_raw": "945",
+            "contract_amount": 945,
+            "contract_basis_raw": "Реклама",
+            "contract_sponsor_raw": "ФСГ Атанас Буров"
+        },
+        {
+            "contract_amount_raw": "460",
+            "contract_amount": 460,
+            "contract_basis_raw": "Реклама",
+            "contract_sponsor_raw": "СУ Стефан Караджа"
+        },
+        {
+            "contract_amount_raw": "855",
+            "contract_amount": 855,
+            "contract_basis_raw": "Реклама",
+            "contract_sponsor_raw": "ПГ по туризъм"
+        },
+        {
+            "contract_amount_raw": "740",
+            "contract_amount": 740,
+            "contract_basis_raw": "Реклама",
+            "contract_sponsor_raw": "ПГМЕТ Стойчо и Кица Марчеви"
+        },
+        {
+            "contract_amount_raw": "375",
+            "contract_amount": 375,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "Демократична България - Обединение"
+        },
+        {
+            "contract_amount_raw": "290",
+            "contract_amount": 290,
+            "contract_basis_raw": "Реклама",
+            "contract_sponsor_raw": "ПГЛП РАйна Княгиня"
+        },
+        {
+            "contract_amount_raw": "960",
+            "contract_amount": 960,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "СДРУЖЕНИЕ БИЗНЕС ЦЕНТЪР-МАРИЦА"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "ПП ССД"
+        },
+        {
+            "contract_amount_raw": "1500",
+            "contract_amount": 1500,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "Коалиция Движение ЗАЕДНО за промяна"
+        },
+        {
+            "contract_amount_raw": "85",
+            "contract_amount": 85,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "ИЗДАТЕЛСКА КЪЩА АБ - ЕООД"
+        },
+        {
+            "contract_amount_raw": "150",
+            "contract_amount": 150,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "ОУ Св. Климент Охридски"
+        },
+        {
+            "contract_amount_raw": "150",
+            "contract_amount": 150,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "ЕЗИКОВА ГИМНАЗИЯ ПРОФЕСОР Д-Р АСЕН ЗЛАТАРОВ"
+        }
+    ]
+}

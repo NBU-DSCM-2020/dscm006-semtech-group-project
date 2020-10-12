@@ -1,0 +1,53 @@
+{
+    "legal_entity_name": "Радиоцентър Канал М гр. Монтана",
+    "legal_entity_id": "000320872",
+    "public_company": "Надзорна институция - Общински съвет Монтана",
+    "media_service_type": "Радио",
+    "media_service_name": "Радиовъзел",
+    "real_owner": "Златко Софрониев Живков",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "60957",
+            "contract_amount": 60957,
+            "contract_basis_raw": "финансиране от Община Монтана",
+            "contract_sponsor_raw": "Община Монтана 000320872"
+        },
+        {
+            "contract_amount_raw": "300",
+            "contract_amount": 300,
+            "contract_basis_raw": "избори за Европейски парламент 2019 г.",
+            "contract_sponsor_raw": "Областен съвет на БСП Монтана"
+        },
+        {
+            "contract_amount_raw": "40",
+            "contract_amount": 40,
+            "contract_basis_raw": "избори за Европейски парламент 2019 г.",
+            "contract_sponsor_raw": "ПП ГЕРБ - структура Монтана"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "местни избори 2019 г.",
+            "contract_sponsor_raw": "МК СДС (ГЕРБ, БНД, ВМРО-БНД, ЗНС)"
+        },
+        {
+            "contract_amount_raw": "100",
+            "contract_amount": 100,
+            "contract_basis_raw": "местни избори 2019 г.",
+            "contract_sponsor_raw": "Общински съвет на БСП Монтана"
+        },
+        {
+            "contract_amount_raw": "100",
+            "contract_amount": 100,
+            "contract_basis_raw": "излъчване на съобщения по проект (Българо-швейцарска програма за сътрудничество)",
+            "contract_sponsor_raw": "Агенция Стратегма ООД 121026679"
+        },
+        {
+            "contract_amount_raw": "100",
+            "contract_amount": 100,
+            "contract_basis_raw": "излъчване на съобщения по дейност - 467 по НППХНБ",
+            "contract_sponsor_raw": "РЗИ Монтана"
+        }
+    ]
+}

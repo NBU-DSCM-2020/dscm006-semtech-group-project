@@ -1,0 +1,155 @@
+{
+    "legal_entity_name": "СКАТ ООД",
+    "legal_entity_id": "812104705",
+    "public_company": "неприложимо",
+    "media_service_type": "Телевизия; Телевизия",
+    "media_service_name": "Телевизия СКАТ; Телевизия СКАТ+",
+    "real_owner": "ВАЛЕРИ СИМЕОНОВ СИМЕОНОВ",
+    "executive_individual": "ДАНЧО ДИМИТРОВ ХАДЖИЕВ",
+    "contracts": [
+        {
+            "contract_amount_raw": "120 135",
+            "contract_amount": 120135,
+            "contract_basis_raw": "Рамков договор за информ.медийно обслужване",
+            "contract_sponsor_raw": "ПП НФСБ, ЕИК 176129116"
+        },
+        {
+            "contract_amount_raw": "108 000",
+            "contract_amount": 108000,
+            "contract_basis_raw": "Договор за медийно отразяване на предизборната кампания в изборите за членове на Европейския парламент от Република България на 26 май 2019 г.",
+            "contract_sponsor_raw": "КоалицияПатриоти за Валери Симеонов ПП НФСБ ЕИК 176129116"
+        },
+        {
+            "contract_amount_raw": "39480",
+            "contract_amount": 39480,
+            "contract_basis_raw": "Договор и Анекс за отразяване на предизборната кампания в изборите за общински съветници и кметове на 27 октомври 2019 г.",
+            "contract_sponsor_raw": "ПП НФСБ, ЕИК 176129116"
+        },
+        {
+            "contract_amount_raw": "405 744",
+            "contract_amount": 405744,
+            "contract_basis_raw": "Договор за информ.медийно обслужване.",
+            "contract_sponsor_raw": "СКАТ ТВ ООД, ЕИК 102663917"
+        },
+        {
+            "contract_amount_raw": "3504",
+            "contract_amount": 3504,
+            "contract_basis_raw": "Договор за отразяване на предизборната кампания в изборите за общински съветници и кметове на 27 октомври 2019 г.",
+            "contract_sponsor_raw": "ПП СЕК, ЕИК 175335476"
+        },
+        {
+            "contract_amount_raw": "2520",
+            "contract_amount": 2520,
+            "contract_basis_raw": "Договор за отразяване на предизборната кампания в изборите за общински съветници и кметове на 27 октомври 2019.",
+            "contract_sponsor_raw": "Инициативен комитет за издигане на кандидатурата на Георг Спартански -независим кмет на Плевен."
+        },
+        {
+            "contract_amount_raw": "3672",
+            "contract_amount": 3672,
+            "contract_basis_raw": "Договор за предоставяне на програмно време.",
+            "contract_sponsor_raw": "МОСВ, ЕИК 000697371"
+        },
+        {
+            "contract_amount_raw": "980",
+            "contract_amount": 980,
+            "contract_basis_raw": "Фактура за отпечатване на дискове.",
+            "contract_sponsor_raw": "Община Казанлък, ЕИК 000817778"
+        },
+        {
+            "contract_amount_raw": "360",
+            "contract_amount": 360,
+            "contract_basis_raw": "Договор за излъчване на реклама.",
+            "contract_sponsor_raw": "Община Котел, ЕИК 000590540"
+        },
+        {
+            "contract_amount_raw": "1120",
+            "contract_amount": 1120,
+            "contract_basis_raw": "Фактура вечеря",
+            "contract_sponsor_raw": "Община Малко Търново, ЕИК 000057086"
+        },
+        {
+            "contract_amount_raw": "1551",
+            "contract_amount": 1551,
+            "contract_basis_raw": "Фактура нощувки",
+            "contract_sponsor_raw": "ПП НФСБ, ЕИК 176129116"
+        },
+        {
+            "contract_amount_raw": "200",
+            "contract_amount": 200,
+            "contract_basis_raw": "Фактура вечеря",
+            "contract_sponsor_raw": "Районен съд Бургас, ЕИК 000057396"
+        },
+        {
+            "contract_amount_raw": "1560",
+            "contract_amount": 1560,
+            "contract_basis_raw": "Фактура нощувка",
+            "contract_sponsor_raw": "АЕЦ Козлодуй ЕАД, ЕИК 106513772"
+        },
+        {
+            "contract_amount_raw": "120 135",
+            "contract_amount": 120135,
+            "contract_basis_raw": "Рамков договор за информ.медийно обслужване",
+            "contract_sponsor_raw": "ПП НФСБ, ЕИК 176129116"
+        },
+        {
+            "contract_amount_raw": "108 000",
+            "contract_amount": 108000,
+            "contract_basis_raw": "Договор за медийно отразяване на предизборната кампания в изборите за членове на Европейския парламент от Република България на 26 май 2019 г.",
+            "contract_sponsor_raw": "КоалицияПатриоти за Валери Симеонов"
+        },
+        {
+            "contract_amount_raw": "39480",
+            "contract_amount": 39480,
+            "contract_basis_raw": "Договор и Анекс за отразяване на предизборната кампания в изборите за общински съветници и кметове на 27 октомври 2019г.",
+            "contract_sponsor_raw": "ПП НФСБ, ЕИК 176129116"
+        },
+        {
+            "contract_amount_raw": "3504",
+            "contract_amount": 3504,
+            "contract_basis_raw": "Договор за отразяване на предизборната кампания в изборите за общински съветници и кметове на 27 октомври 2019 г.",
+            "contract_sponsor_raw": "ПП СЕК, ЕИК 175335476"
+        },
+        {
+            "contract_amount_raw": "18264",
+            "contract_amount": 18264,
+            "contract_basis_raw": "Договор за предоставяне на програмно време.",
+            "contract_sponsor_raw": "МОСВ, ЕИК 000697371"
+        },
+        {
+            "contract_amount_raw": "2520",
+            "contract_amount": 2520,
+            "contract_basis_raw": "Договор за отразяване на предизборната кампания в изборите за общински съветници и кметове на 27 октомври 2019 г.",
+            "contract_sponsor_raw": "Инициативен комитет за издигане на кандидатурата на Георг Спартански -независим кмет на Плевен."
+        },
+        {
+            "contract_amount_raw": "360",
+            "contract_amount": 360,
+            "contract_basis_raw": "Договор за излъчване на реклама.",
+            "contract_sponsor_raw": "Община Котел, ЕИК 000590540"
+        },
+        {
+            "contract_amount_raw": "1120",
+            "contract_amount": 1120,
+            "contract_basis_raw": "Фактура вечеря",
+            "contract_sponsor_raw": "Община Малко Търново, ЕИК 000057086"
+        },
+        {
+            "contract_amount_raw": "1551",
+            "contract_amount": 1551,
+            "contract_basis_raw": "Фактура нощувки",
+            "contract_sponsor_raw": "ПП НФСБ, ЕИК 176129116"
+        },
+        {
+            "contract_amount_raw": "200",
+            "contract_amount": 200,
+            "contract_basis_raw": "Фактура вечеря",
+            "contract_sponsor_raw": "Районен съд Бургас, ЕИК 000057396"
+        },
+        {
+            "contract_amount_raw": "1560",
+            "contract_amount": 1560,
+            "contract_basis_raw": "Фактура нощувки",
+            "contract_sponsor_raw": "АЕЦ Козлодуй ЕАД, ЕИК 106513772"
+        }
+    ]
+}

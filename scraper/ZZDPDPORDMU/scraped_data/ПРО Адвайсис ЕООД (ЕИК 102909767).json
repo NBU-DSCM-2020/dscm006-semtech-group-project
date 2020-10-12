@@ -1,0 +1,77 @@
+{
+    "legal_entity_name": "ПРО Адвайсис ЕООД",
+    "legal_entity_id": "102909767",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "Медийно и ПР обслужване в Бургаски репортер",
+    "real_owner": "Красимир Калудов Тодоров",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "6600",
+            "contract_amount": 6600,
+            "contract_basis_raw": "04.01.2019, ПР обслужване",
+            "contract_sponsor_raw": "община Карнобат ЕИК 000057026"
+        },
+        {
+            "contract_amount_raw": "2000",
+            "contract_amount": 2000,
+            "contract_basis_raw": "12.11.2018 Медийна кампания - Бургас- място за спорт",
+            "contract_sponsor_raw": "община Бургас ЕИК 000056814"
+        },
+        {
+            "contract_amount_raw": "2640",
+            "contract_amount": 2640,
+            "contract_basis_raw": "04.02.2019 Медийно обслужване",
+            "contract_sponsor_raw": "Пристанище Бургас ЕАД  ЕИК 102004532"
+        },
+        {
+            "contract_amount_raw": "3240",
+            "contract_amount": 3240,
+            "contract_basis_raw": "01.04.2019 Информационно обслужване",
+            "contract_sponsor_raw": "Слънчев бряг АД ЕИК 812020577"
+        },
+        {
+            "contract_amount_raw": "3600",
+            "contract_amount": 3600,
+            "contract_basis_raw": "11.01.2019 Информационно обслужване",
+            "contract_sponsor_raw": "община Поморие ЕИК 000057179"
+        },
+        {
+            "contract_amount_raw": "300",
+            "contract_amount": 300,
+            "contract_basis_raw": "03.05.2019 Предизборна кампания- евроизбори",
+            "contract_sponsor_raw": "ПП ДПС ЕИК 000707470"
+        },
+        {
+            "contract_amount_raw": "720",
+            "contract_amount": 720,
+            "contract_basis_raw": "16.05.2019 Предизборна кампания- евроизбори",
+            "contract_sponsor_raw": "БСП Бургас"
+        },
+        {
+            "contract_amount_raw": "240",
+            "contract_amount": 240,
+            "contract_basis_raw": "17.09.2019 Предизборна кампания- местни избори",
+            "contract_sponsor_raw": "ПП ДБГ ЕИК 176368365"
+        },
+        {
+            "contract_amount_raw": "1140",
+            "contract_amount": 1140,
+            "contract_basis_raw": "28.09.2019 Предизборна кампания- местни избори",
+            "contract_sponsor_raw": "ПП ГЕРБ ЕИК 175248466"
+        },
+        {
+            "contract_amount_raw": "360",
+            "contract_amount": 360,
+            "contract_basis_raw": "16.10.2019 Предизборна кампания- местни избори",
+            "contract_sponsor_raw": "ПП СЕК ЕИК 175335476"
+        },
+        {
+            "contract_amount_raw": "3000",
+            "contract_amount": 3000,
+            "contract_basis_raw": "31.06.2019 Медийна кампания - Бургас- място за спорт Договорът е прекратен с анекс 70004076/4/29.10.2019 ",
+            "contract_sponsor_raw": "община Бургас ЕИК 000056814"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "legal_entity_name": "ОБЩИНА ОРЯХОВО",
+    "legal_entity_id": "000193414",
+    "public_company": "Надзорна институция - ОБЩИНСКИ СЪВЕТ ОРЯХОВО",
+    "media_service_type": "Печатна медия",
+    "media_service_name": "ВЕСТНИК ОРЯХОВСКА ТРИБУНА",
+    "real_owner": "РОСЕН ЖЕКОВ ДОБРЕВ",
+    "executive_individual": "РОСЕН ЖЕКОВ ДОБРЕВ",
+    "contracts": [
+        {
+            "contract_amount_raw": "13000",
+            "contract_amount": 13000,
+            "contract_basis_raw": "РЕШЕНИЕ №37/30.01.2020г.",
+            "contract_sponsor_raw": "ОБЩИНСКИ СЪВЕТ ОРЯХОВО"
+        }
+    ]
+}

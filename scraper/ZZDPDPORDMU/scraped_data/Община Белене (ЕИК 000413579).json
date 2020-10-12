@@ -1,0 +1,47 @@
+{
+    "legal_entity_name": "Община Белене",
+    "legal_entity_id": "000413579",
+    "public_company": "Надзорна институция - Общински съвет - Белене",
+    "media_service_type": "Печатна медия",
+    "media_service_name": "Общински вестник Дунавски новини",
+    "real_owner": "Милен Павлов Дулев",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "96",
+            "contract_amount": 96,
+            "contract_basis_raw": "Ф-ра №20000002074/06.08.2019г. - Публикация",
+            "contract_sponsor_raw": "РИОСВ - гр. Плевен/ ЕИК: 000414414"
+        },
+        {
+            "contract_amount_raw": "40,32",
+            "contract_amount": 40,
+            "contract_basis_raw": "Ф-ра №30178/14.03.2019г. - Обява",
+            "contract_sponsor_raw": "ЗКПУ Възраждане 2004/ ЕИК: 114627430"
+        },
+        {
+            "contract_amount_raw": "24",
+            "contract_amount": 24,
+            "contract_basis_raw": "Ф-ра №31256/30.09.2019т. - Предизборен материал",
+            "contract_sponsor_raw": "Олег Петров Йорданов/ ЕГН:7801304123"
+        },
+        {
+            "contract_amount_raw": "96",
+            "contract_amount": 96,
+            "contract_basis_raw": "Ф-ра №31261/30.09.2019г. - Предизборен материал",
+            "contract_sponsor_raw": "ПП АБВ/ЕИК:176734649"
+        },
+        {
+            "contract_amount_raw": "192",
+            "contract_amount": 192,
+            "contract_basis_raw": "Ф-ра №31273/30.09.2016г. - Предизборен материал",
+            "contract_sponsor_raw": "Милен Павлов Дулев/ ЕГН:7207113966"
+        },
+        {
+            "contract_amount_raw": "96",
+            "contract_amount": 96,
+            "contract_basis_raw": "Ф-ра № 31302/07.10.2019г. - Предизборен материал",
+            "contract_sponsor_raw": "ПП СДС/ ЕИК: 130052349"
+        }
+    ]
+}

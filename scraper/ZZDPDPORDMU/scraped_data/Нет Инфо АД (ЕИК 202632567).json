@@ -1,0 +1,1157 @@
+{
+    "legal_entity_name": "Нет Инфо АД",
+    "legal_entity_id": "202632567",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "vesti.bg",
+    "real_owner": "Георги Петров Домусчиев, Кирил Петров Домусчиев, Радосвет Крумов Радев",
+    "executive_individual": "Николай Стефанов Андреев - изпълнителен директор, Стефана Теодорова Здравкова - прокурист",
+    "contracts": [
+        {
+            "contract_amount_raw": "7000",
+            "contract_amount": 7000,
+            "contract_basis_raw": "Договор за кредит (кредитна карта)",
+            "contract_sponsor_raw": "Банка ДСК АД (предишно Експресбанк АД)"
+        },
+        {
+            "contract_amount_raw": "15000",
+            "contract_amount": 15000,
+            "contract_basis_raw": "Договор за кредит (кредитна карта)",
+            "contract_sponsor_raw": "Банка ДСК АД (предишно Експресбанк АД)"
+        },
+        {
+            "contract_amount_raw": "6845,41",
+            "contract_amount": 6845,
+            "contract_basis_raw": "Договор за кредит (кредитна карта)",
+            "contract_sponsor_raw": "Банка ДСК АД (предишно Експресбанк АД)"
+        },
+        {
+            "contract_amount_raw": "547,2",
+            "contract_amount": 547,
+            "contract_basis_raw": "януари 2019 г., реклама",
+            "contract_sponsor_raw": "ПП ГЕРБ чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "342",
+            "contract_amount": 342,
+            "contract_basis_raw": "януари 2019 г., реклама",
+            "contract_sponsor_raw": "Община Стара Загора чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "68,4",
+            "contract_amount": 68,
+            "contract_basis_raw": "януари 2019 г., реклама",
+            "contract_sponsor_raw": "Община Димитровград чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "136,8",
+            "contract_amount": 136,
+            "contract_basis_raw": "януари 2019 г., реклама",
+            "contract_sponsor_raw": "Община Каварна чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "205,2",
+            "contract_amount": 205,
+            "contract_basis_raw": "януари 2019 г., реклама",
+            "contract_sponsor_raw": "Община Добрич чрез рекламна агенция "
+        },
+        {
+            "contract_amount_raw": "191,52",
+            "contract_amount": 191,
+            "contract_basis_raw": "януари 2019 г., реклама",
+            "contract_sponsor_raw": "Община Шумен чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "143,64",
+            "contract_amount": 143,
+            "contract_basis_raw": "януари 2019 г., реклама",
+            "contract_sponsor_raw": "Община Враца чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "143,64",
+            "contract_amount": 143,
+            "contract_basis_raw": "януари 2019 г., реклама",
+            "contract_sponsor_raw": "Община Монтана чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "20",
+            "contract_amount": 20,
+            "contract_basis_raw": "януари 2019 г., услуги електронна поща",
+            "contract_sponsor_raw": "Община Ивайловград"
+        },
+        {
+            "contract_amount_raw": "20",
+            "contract_amount": 20,
+            "contract_basis_raw": "януари 2019 г., услуги електронна поща",
+            "contract_sponsor_raw": "Община Доспат"
+        },
+        {
+            "contract_amount_raw": "239,4",
+            "contract_amount": 239,
+            "contract_basis_raw": "февруари 2019 г., реклама",
+            "contract_sponsor_raw": "Община Шумен чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "547,2",
+            "contract_amount": 547,
+            "contract_basis_raw": "февруари 2019 г., реклама",
+            "contract_sponsor_raw": "ПП ГЕРБ чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "342",
+            "contract_amount": 342,
+            "contract_basis_raw": "февруари 2019 г., реклама",
+            "contract_sponsor_raw": "Община Стара Загора чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "42,56",
+            "contract_amount": 42,
+            "contract_basis_raw": "февруари 2019 г., реклама",
+            "contract_sponsor_raw": "Община Исперих чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "136,8",
+            "contract_amount": 136,
+            "contract_basis_raw": "февруари 2019 г., реклама",
+            "contract_sponsor_raw": "Община Каварна чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "191,52",
+            "contract_amount": 191,
+            "contract_basis_raw": "февруари 2019 г., реклама",
+            "contract_sponsor_raw": "Община Монтана чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "143,64",
+            "contract_amount": 143,
+            "contract_basis_raw": "февруари 2019 г., реклама",
+            "contract_sponsor_raw": "Община Враца чрез рекламна агнеция"
+        },
+        {
+            "contract_amount_raw": "68,4",
+            "contract_amount": 68,
+            "contract_basis_raw": "февруари 2019 г., реклама",
+            "contract_sponsor_raw": "Община Балчик чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "136,8",
+            "contract_amount": 136,
+            "contract_basis_raw": "февруари 2019 г., реклама",
+            "contract_sponsor_raw": "Община Тервел чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "20",
+            "contract_amount": 20,
+            "contract_basis_raw": "февруари 2019 г., услуги електронна поща",
+            "contract_sponsor_raw": "Община Каолиново"
+        },
+        {
+            "contract_amount_raw": "239,4",
+            "contract_amount": 239,
+            "contract_basis_raw": "март 2019 г., реклама",
+            "contract_sponsor_raw": "Община Шумен чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "182,3",
+            "contract_amount": 182,
+            "contract_basis_raw": "март 2019 г., реклама",
+            "contract_sponsor_raw": "Община Русе чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "342",
+            "contract_amount": 342,
+            "contract_basis_raw": "март 2019 г., реклама",
+            "contract_sponsor_raw": "Община Стара Загора чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "68,4",
+            "contract_amount": 68,
+            "contract_basis_raw": "март 2019 г., реклама",
+            "contract_sponsor_raw": "Община Димитровград чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "42,56",
+            "contract_amount": 42,
+            "contract_basis_raw": "март 2019 г., реклама",
+            "contract_sponsor_raw": "Община Исперих чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "205,2",
+            "contract_amount": 205,
+            "contract_basis_raw": "март 2019 г., реклама",
+            "contract_sponsor_raw": "ПП ГЕРБ чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "136,8",
+            "contract_amount": 136,
+            "contract_basis_raw": "март 2019 г., реклама",
+            "contract_sponsor_raw": "Община Тервел чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "68,4",
+            "contract_amount": 68,
+            "contract_basis_raw": "март 2019 г., реклама",
+            "contract_sponsor_raw": "Община Каварна чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "20",
+            "contract_amount": 20,
+            "contract_basis_raw": "март 2019 г., услуги електронна поща",
+            "contract_sponsor_raw": "Община Лесичово"
+        },
+        {
+            "contract_amount_raw": "20",
+            "contract_amount": 20,
+            "contract_basis_raw": "март 2019 г., услуги електронна поща",
+            "contract_sponsor_raw": "Община Минерални бани"
+        },
+        {
+            "contract_amount_raw": "20",
+            "contract_amount": 20,
+            "contract_basis_raw": "март 2019 г., услуги електронна поща",
+            "contract_sponsor_raw": "Община Бургас"
+        },
+        {
+            "contract_amount_raw": "239,4",
+            "contract_amount": 239,
+            "contract_basis_raw": "април 2019 г., реклама",
+            "contract_sponsor_raw": "Община Шумен чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "176,42",
+            "contract_amount": 176,
+            "contract_basis_raw": "април 2019 г., реклама",
+            "contract_sponsor_raw": "Община Русе чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "68,4",
+            "contract_amount": 68,
+            "contract_basis_raw": "април 2019 г., реклама",
+            "contract_sponsor_raw": "Община Димитровград чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "18244,47",
+            "contract_amount": 18244,
+            "contract_basis_raw": "април 2019 г., реклама",
+            "contract_sponsor_raw": "ПП Воля чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "42,56",
+            "contract_amount": 42,
+            "contract_basis_raw": "април 2019 г., реклама",
+            "contract_sponsor_raw": "Община Исперих чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "2991,9",
+            "contract_amount": 2991,
+            "contract_basis_raw": "април 2019 г., реклама",
+            "contract_sponsor_raw": "Министерство на туризма"
+        },
+        {
+            "contract_amount_raw": "116,28",
+            "contract_amount": 116,
+            "contract_basis_raw": "април 2019 г., реклама",
+            "contract_sponsor_raw": "ВМРО - БНД чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "68,4",
+            "contract_amount": 68,
+            "contract_basis_raw": "април 2019 г., реклама",
+            "contract_sponsor_raw": "Община Каварна чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "136,8",
+            "contract_amount": 136,
+            "contract_basis_raw": "април 2019 г., реклама",
+            "contract_sponsor_raw": "Община Тервел чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "493,4",
+            "contract_amount": 493,
+            "contract_basis_raw": "април 2019 г., реклама",
+            "contract_sponsor_raw": "ПП ГЕРБ чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "95,76",
+            "contract_amount": 95,
+            "contract_basis_raw": "април 2019 г., реклама",
+            "contract_sponsor_raw": "Общински съвет на БСП - Разград чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "342",
+            "contract_amount": 342,
+            "contract_basis_raw": "април 2019 г., реклама",
+            "contract_sponsor_raw": "Община Стара Загора чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "68,4",
+            "contract_amount": 68,
+            "contract_basis_raw": "април 2019 г., реклама",
+            "contract_sponsor_raw": "Община Балчик чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "136,8",
+            "contract_amount": 136,
+            "contract_basis_raw": "април 2019 г., реклама",
+            "contract_sponsor_raw": "Общински съвет на БСП Кюстендил чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "68,4",
+            "contract_amount": 68,
+            "contract_basis_raw": "април 2019 г., реклама",
+            "contract_sponsor_raw": "ПП Движение Да България чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "1211,25",
+            "contract_amount": 1211,
+            "contract_basis_raw": "април 2019 г., реклама",
+            "contract_sponsor_raw": "ЦИК"
+        },
+        {
+            "contract_amount_raw": "20",
+            "contract_amount": 20,
+            "contract_basis_raw": "април 2019 г., услуги електронна поща",
+            "contract_sponsor_raw": "Община Садово"
+        },
+        {
+            "contract_amount_raw": "47,88",
+            "contract_amount": 47,
+            "contract_basis_raw": "април 2019 г., реклама",
+            "contract_sponsor_raw": "Община Завет чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "2856",
+            "contract_amount": 2856,
+            "contract_basis_raw": "април 2019 г., реклама",
+            "contract_sponsor_raw": "ПП Атака"
+        },
+        {
+            "contract_amount_raw": "239,4",
+            "contract_amount": 239,
+            "contract_basis_raw": "май 2019 г., реклама",
+            "contract_sponsor_raw": "Община Шумен чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "182,3",
+            "contract_amount": 182,
+            "contract_basis_raw": "май 2019 г., реклама",
+            "contract_sponsor_raw": "Община Русе чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "342",
+            "contract_amount": 342,
+            "contract_basis_raw": "май 2019 г., реклама",
+            "contract_sponsor_raw": "Община Стара Загора чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "24628,91",
+            "contract_amount": 24628,
+            "contract_basis_raw": "май 2019 г., реклама",
+            "contract_sponsor_raw": "ПП Воля чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "10788,15",
+            "contract_amount": 10788,
+            "contract_basis_raw": "май 2019 г., реклама",
+            "contract_sponsor_raw": "ЦИК"
+        },
+        {
+            "contract_amount_raw": "17431,77",
+            "contract_amount": 17431,
+            "contract_basis_raw": "май 2019 г., реклама",
+            "contract_sponsor_raw": "ПП ГЕРБ чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "68,4",
+            "contract_amount": 68,
+            "contract_basis_raw": "май 2019 г., реклама",
+            "contract_sponsor_raw": "Община Димитровград чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "47,88",
+            "contract_amount": 47,
+            "contract_basis_raw": "май 2019 г., реклама",
+            "contract_sponsor_raw": "Община Завет чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "2836,37",
+            "contract_amount": 2836,
+            "contract_basis_raw": "май 2019 г., реклама",
+            "contract_sponsor_raw": "ПП ДПС чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "636",
+            "contract_amount": 636,
+            "contract_basis_raw": "май 2019 г., реклама",
+            "contract_sponsor_raw": "ВМРО - БНД чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "1068",
+            "contract_amount": 1068,
+            "contract_basis_raw": "май 2019 г., реклама",
+            "contract_sponsor_raw": "Областен съвет на БСП Кюстендил чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "720",
+            "contract_amount": 720,
+            "contract_basis_raw": "май 2019 г., реклама",
+            "contract_sponsor_raw": "Областен съвет на БСП Стара Загора чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "977,54",
+            "contract_amount": 977,
+            "contract_basis_raw": "май 2019 г., реклама",
+            "contract_sponsor_raw": "ПП Движение Да България чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "68,4",
+            "contract_amount": 68,
+            "contract_basis_raw": "май 2019 г., реклама",
+            "contract_sponsor_raw": "Община Каварна чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "42,56",
+            "contract_amount": 42,
+            "contract_basis_raw": "май 2019 г., реклама",
+            "contract_sponsor_raw": "Община Исперих чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "68,4",
+            "contract_amount": 68,
+            "contract_basis_raw": "май 2019 г., реклама",
+            "contract_sponsor_raw": "Община Балчик чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "1199,99",
+            "contract_amount": 1199,
+            "contract_basis_raw": "май 2019 г., реклама",
+            "contract_sponsor_raw": "ПП НФСБ чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "136,8",
+            "contract_amount": 136,
+            "contract_basis_raw": "май 2019 г., реклама",
+            "contract_sponsor_raw": "Община Тервел чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "4328,45",
+            "contract_amount": 4328,
+            "contract_basis_raw": "май 2019 г., реклама",
+            "contract_sponsor_raw": "ПП БСП чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "420,01",
+            "contract_amount": 420,
+            "contract_basis_raw": "май 2019 г., реклама",
+            "contract_sponsor_raw": "ПП АБВ чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "84",
+            "contract_amount": 84,
+            "contract_basis_raw": "май 2019 г., реклама",
+            "contract_sponsor_raw": "Инициатилен комитет за Николай Ненчев чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "84",
+            "contract_amount": 84,
+            "contract_basis_raw": "май 2019 г., реклама",
+            "contract_sponsor_raw": "Областен съвет на БСП - Шумен чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "240",
+            "contract_amount": 240,
+            "contract_basis_raw": "май 2019 г., реклама",
+            "contract_sponsor_raw": "Областен съвет на БСП - Плевен чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "240",
+            "contract_amount": 240,
+            "contract_basis_raw": "май 2019 г., реклама",
+            "contract_sponsor_raw": "ПП Коалиция за България чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "20",
+            "contract_amount": 20,
+            "contract_basis_raw": "май 2019 г., услуги електронна поща",
+            "contract_sponsor_raw": "Община Мизия"
+        },
+        {
+            "contract_amount_raw": "20",
+            "contract_amount": 20,
+            "contract_basis_raw": "май 2019 г., услуги електронна поща",
+            "contract_sponsor_raw": "Община Бургас"
+        },
+        {
+            "contract_amount_raw": "2484",
+            "contract_amount": 2484,
+            "contract_basis_raw": "май 2019 г., реклама",
+            "contract_sponsor_raw": "ПП Обединение Демократична България чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "1808,1",
+            "contract_amount": 1808,
+            "contract_basis_raw": "май 2019 г., реклама",
+            "contract_sponsor_raw": "Министерство на туризма"
+        },
+        {
+            "contract_amount_raw": "176,42",
+            "contract_amount": 176,
+            "contract_basis_raw": "юни 2019 г., реклама",
+            "contract_sponsor_raw": "Община Русе чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "239,4",
+            "contract_amount": 239,
+            "contract_basis_raw": "юни 2019 г., реклама",
+            "contract_sponsor_raw": "Община Шумен чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "1210,98",
+            "contract_amount": 1210,
+            "contract_basis_raw": "юни 2019 г., реклама",
+            "contract_sponsor_raw": "ПП ГЕРБ чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "342",
+            "contract_amount": 342,
+            "contract_basis_raw": "юни 2019 г., реклама",
+            "contract_sponsor_raw": "Община Стара Загора чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "68,4",
+            "contract_amount": 68,
+            "contract_basis_raw": "юни 2019 г., реклама",
+            "contract_sponsor_raw": "Община Димитровград чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "47,88",
+            "contract_amount": 47,
+            "contract_basis_raw": "юни 2019 г., реклама",
+            "contract_sponsor_raw": "Община Завет чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "136,8",
+            "contract_amount": 136,
+            "contract_basis_raw": "юни 2019 г., реклама",
+            "contract_sponsor_raw": "Община Тервел чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "42,56",
+            "contract_amount": 42,
+            "contract_basis_raw": "юни 2019 г., реклама",
+            "contract_sponsor_raw": "Община Исперх чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "68,4",
+            "contract_amount": 68,
+            "contract_basis_raw": "юни 2019 г., реклама",
+            "contract_sponsor_raw": "Община Каварна чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "68,4",
+            "contract_amount": 68,
+            "contract_basis_raw": "юни 2019 г., реклама",
+            "contract_sponsor_raw": "Община Балчик чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "1473,41",
+            "contract_amount": 1473,
+            "contract_basis_raw": "юни 2019 г., реклама",
+            "contract_sponsor_raw": "Министерство на туризма чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "136,8",
+            "contract_amount": 136,
+            "contract_basis_raw": "юни 2019 г., реклама",
+            "contract_sponsor_raw": "Община Дупница чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "287,28",
+            "contract_amount": 287,
+            "contract_basis_raw": "юни 2019 г., реклама",
+            "contract_sponsor_raw": "Община Враца чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "335,16",
+            "contract_amount": 335,
+            "contract_basis_raw": "юни 2019 г., реклама",
+            "contract_sponsor_raw": "Община Монтана чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "68,4",
+            "contract_amount": 68,
+            "contract_basis_raw": "юни 2019 г., реклама",
+            "contract_sponsor_raw": "Областна администрация Русе чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "84",
+            "contract_amount": 84,
+            "contract_basis_raw": "юни 2019 г., реклама",
+            "contract_sponsor_raw": "ПП БСП чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "129,6",
+            "contract_amount": 129,
+            "contract_basis_raw": "юни 2019 г., реклама",
+            "contract_sponsor_raw": "ИК за Николай Ненчев чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "20",
+            "contract_amount": 20,
+            "contract_basis_raw": "юни 2019 г., услуги електронна поща",
+            "contract_sponsor_raw": "Община Пловдив"
+        },
+        {
+            "contract_amount_raw": "68,4",
+            "contract_amount": 68,
+            "contract_basis_raw": "юли 2019 г., реклама",
+            "contract_sponsor_raw": "Община Балчик чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "239,4",
+            "contract_amount": 239,
+            "contract_basis_raw": "юли 2019 г., реклама",
+            "contract_sponsor_raw": "Община Шумен чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "182,3",
+            "contract_amount": 182,
+            "contract_basis_raw": "юли 2019 г., реклама",
+            "contract_sponsor_raw": "Община Русе чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "68,4",
+            "contract_amount": 68,
+            "contract_basis_raw": "юли 2019 г., реклама",
+            "contract_sponsor_raw": "Община Тервел чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "410,4",
+            "contract_amount": 410,
+            "contract_basis_raw": "юли 2019 г., реклама",
+            "contract_sponsor_raw": "ПП ГЕРБ чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "47,88",
+            "contract_amount": 47,
+            "contract_basis_raw": "юли 2019 г., реклама",
+            "contract_sponsor_raw": "Община Завет чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "42,56",
+            "contract_amount": 42,
+            "contract_basis_raw": "юли 2019 г., реклама",
+            "contract_sponsor_raw": "Община Исперих чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "342",
+            "contract_amount": 342,
+            "contract_basis_raw": "юли 2019 г., реклама",
+            "contract_sponsor_raw": "Община Стара Загора чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "143,64",
+            "contract_amount": 143,
+            "contract_basis_raw": "юли 2019 г., реклама",
+            "contract_sponsor_raw": "Община Враца чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "191,52",
+            "contract_amount": 191,
+            "contract_basis_raw": "юли 2019 г., реклама",
+            "contract_sponsor_raw": "Община Монтана чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "68,4",
+            "contract_amount": 68,
+            "contract_basis_raw": "юли 2019 г., реклама",
+            "contract_sponsor_raw": "Община Каварна чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "20",
+            "contract_amount": 20,
+            "contract_basis_raw": "юли 2019 г., услуги електронна поща",
+            "contract_sponsor_raw": "Община Сопот"
+        },
+        {
+            "contract_amount_raw": "20",
+            "contract_amount": 20,
+            "contract_basis_raw": "юли 2019 г., услуги електронна поща",
+            "contract_sponsor_raw": "Природен парк Персина"
+        },
+        {
+            "contract_amount_raw": "239,4",
+            "contract_amount": 239,
+            "contract_basis_raw": "август 2019 г., реклама",
+            "contract_sponsor_raw": "Община Шумен чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "182,3",
+            "contract_amount": 182,
+            "contract_basis_raw": "август 2019 г., реклама",
+            "contract_sponsor_raw": "Община Русе чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "410,4",
+            "contract_amount": 410,
+            "contract_basis_raw": "август 2019 г., реклама",
+            "contract_sponsor_raw": "ПП ГЕРБ чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "47,88",
+            "contract_amount": 47,
+            "contract_basis_raw": "август 2019 г., реклама",
+            "contract_sponsor_raw": "Община Завет чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "342",
+            "contract_amount": 342,
+            "contract_basis_raw": "август 2019 г., реклама",
+            "contract_sponsor_raw": "Община Стара Загора чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "68,4",
+            "contract_amount": 68,
+            "contract_basis_raw": "август 2019 г., реклама",
+            "contract_sponsor_raw": "Община Тервел чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "342",
+            "contract_amount": 342,
+            "contract_basis_raw": "август 2019 г., реклама",
+            "contract_sponsor_raw": "Община Банско чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "191,52",
+            "contract_amount": 191,
+            "contract_basis_raw": "август 2019 г., реклама",
+            "contract_sponsor_raw": "Община Монтана чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "143,64",
+            "contract_amount": 143,
+            "contract_basis_raw": "август 2019 г., реклама",
+            "contract_sponsor_raw": "Община Враца чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "20",
+            "contract_amount": 20,
+            "contract_basis_raw": "август 2019 г., услуги електронна поща",
+            "contract_sponsor_raw": "Община Кюстендил"
+        },
+        {
+            "contract_amount_raw": "176,42",
+            "contract_amount": 176,
+            "contract_basis_raw": "септември 2019 г., реклама",
+            "contract_sponsor_raw": "Община Русе чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "239,4",
+            "contract_amount": 239,
+            "contract_basis_raw": "септември 2019 г., реклама",
+            "contract_sponsor_raw": "Община Шумен чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "3342",
+            "contract_amount": 3342,
+            "contract_basis_raw": "септември 2019 г., реклама",
+            "contract_sponsor_raw": "ПП ГЕРБ чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "47,88",
+            "contract_amount": 47,
+            "contract_basis_raw": "септември 2019 г., реклама",
+            "contract_sponsor_raw": "Община Завет чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "42,56",
+            "contract_amount": 42,
+            "contract_basis_raw": "септември 2019 г., реклама",
+            "contract_sponsor_raw": "Община Исперих чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "342",
+            "contract_amount": 342,
+            "contract_basis_raw": "септември 2019 г., реклама",
+            "contract_sponsor_raw": "Община Стара Загора чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "136,8",
+            "contract_amount": 136,
+            "contract_basis_raw": "септември 2019 г., реклама",
+            "contract_sponsor_raw": "Община Тервел чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "6002,7",
+            "contract_amount": 6002,
+            "contract_basis_raw": "септември 2019 г., реклама",
+            "contract_sponsor_raw": "Министерство на младежта и спорта чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "444,6",
+            "contract_amount": 444,
+            "contract_basis_raw": "септември 2019 г., реклама",
+            "contract_sponsor_raw": "Община Банско чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "4342,43",
+            "contract_amount": 4342,
+            "contract_basis_raw": "септември 2019 г., реклама",
+            "contract_sponsor_raw": "ЦИК"
+        },
+        {
+            "contract_amount_raw": "720",
+            "contract_amount": 720,
+            "contract_basis_raw": "септември 2019 г., реклама",
+            "contract_sponsor_raw": "ПП БСП чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "385,72",
+            "contract_amount": 385,
+            "contract_basis_raw": "септември 2019 г., реклама",
+            "contract_sponsor_raw": "ИК Здравко Милев чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "20",
+            "contract_amount": 20,
+            "contract_basis_raw": "септември 2019 г., реклама",
+            "contract_sponsor_raw": "МТСП"
+        },
+        {
+            "contract_amount_raw": "239,4",
+            "contract_amount": 239,
+            "contract_basis_raw": "октомври 2019 г., реклама",
+            "contract_sponsor_raw": "Община Шумен чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "182,3",
+            "contract_amount": 182,
+            "contract_basis_raw": "октомври 2019 г., реклама",
+            "contract_sponsor_raw": "Община Русе чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "47,88",
+            "contract_amount": 47,
+            "contract_basis_raw": "октомври 2019 г., реклама",
+            "contract_sponsor_raw": "Община Завет чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "12456,97",
+            "contract_amount": 12456,
+            "contract_basis_raw": "октомври 2019 г., реклама",
+            "contract_sponsor_raw": "ЦИК"
+        },
+        {
+            "contract_amount_raw": "5014,28",
+            "contract_amount": 5014,
+            "contract_basis_raw": "октомври 2019 г., реклама",
+            "contract_sponsor_raw": "ИК Здравко Милев чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "13573,4",
+            "contract_amount": 13573,
+            "contract_basis_raw": "октомври 2019 г., реклама",
+            "contract_sponsor_raw": "ПП ГЕРБ чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "9958,8",
+            "contract_amount": 9958,
+            "contract_basis_raw": "октомври 2019 г., реклама",
+            "contract_sponsor_raw": "ПП БСП чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "42,56",
+            "contract_amount": 42,
+            "contract_basis_raw": "октомври 2019 г., реклама",
+            "contract_sponsor_raw": "Община Исперих чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "7320",
+            "contract_amount": 7320,
+            "contract_basis_raw": "октомври 2019 г., реклама",
+            "contract_sponsor_raw": "ПП Обединение Демократична България"
+        },
+        {
+            "contract_amount_raw": "6720",
+            "contract_amount": 6720,
+            "contract_basis_raw": "октомври 2019 г., реклама",
+            "contract_sponsor_raw": "ПП ВМРО чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "136,8",
+            "contract_amount": 136,
+            "contract_basis_raw": "октомври 2019 г., реклама",
+            "contract_sponsor_raw": "Община Теврел чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "2136",
+            "contract_amount": 2136,
+            "contract_basis_raw": "октомври 2019 г., реклама",
+            "contract_sponsor_raw": "ПП ДПС чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "1800",
+            "contract_amount": 1800,
+            "contract_basis_raw": "октомври 2019 г., реклама",
+            "contract_sponsor_raw": "ПП НФСБ чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "6000",
+            "contract_amount": 6000,
+            "contract_basis_raw": "октомври 2019 г., реклама",
+            "contract_sponsor_raw": "ИК Мая Манолова чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "6000",
+            "contract_amount": 6000,
+            "contract_basis_raw": "октомври 2019 г., реклама",
+            "contract_sponsor_raw": "Местна коалиция Кюстендил чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "342",
+            "contract_amount": 342,
+            "contract_basis_raw": "октомври 2019 г., реклама",
+            "contract_sponsor_raw": "Община Банско чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "900",
+            "contract_amount": 900,
+            "contract_basis_raw": "октомври 2019 г., реклама",
+            "contract_sponsor_raw": "ПП Движение България на гражданите чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "360",
+            "contract_amount": 360,
+            "contract_basis_raw": "октомври 2019 г., реклама",
+            "contract_sponsor_raw": "ИК Георги Спартански чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "342",
+            "contract_amount": 342,
+            "contract_basis_raw": "октомври 2019 г., реклама",
+            "contract_sponsor_raw": "Община Стара Загора чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "176,42",
+            "contract_amount": 176,
+            "contract_basis_raw": "ноември 2019 г., реклама",
+            "contract_sponsor_raw": "Община Русе чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "444,9",
+            "contract_amount": 444,
+            "contract_basis_raw": "ноември 2019 г., реклама",
+            "contract_sponsor_raw": "ПП ГЕРБ чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "1530",
+            "contract_amount": 1530,
+            "contract_basis_raw": "ноември 2019 г., реклама",
+            "contract_sponsor_raw": "ПП БСП чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "510",
+            "contract_amount": 510,
+            "contract_basis_raw": "ноември 2019 г., реклама",
+            "contract_sponsor_raw": "ИК Стоян Василев чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "2999,99",
+            "contract_amount": 2999,
+            "contract_basis_raw": "ноември 2019 г., реклама",
+            "contract_sponsor_raw": "ПП Български Социалдемократи чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "191,52",
+            "contract_amount": 191,
+            "contract_basis_raw": "ноември 2019 г., реклама",
+            "contract_sponsor_raw": "Община Шумен чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "8379,31",
+            "contract_amount": 8379,
+            "contract_basis_raw": "ноември 2019 г., реклама",
+            "contract_sponsor_raw": "Министерство на туризма"
+        },
+        {
+            "contract_amount_raw": "342",
+            "contract_amount": 342,
+            "contract_basis_raw": "ноември 2019 г., реклама",
+            "contract_sponsor_raw": "Община Стара Загора чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "136,8",
+            "contract_amount": 136,
+            "contract_basis_raw": "ноември 2019 г., реклама",
+            "contract_sponsor_raw": "Община Тервел чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "15079,42",
+            "contract_amount": 15079,
+            "contract_basis_raw": "ноември 2019 г., реклама",
+            "contract_sponsor_raw": "Посолство на САЩ чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "1932",
+            "contract_amount": 1932,
+            "contract_basis_raw": "ноември 2019 г., реклама",
+            "contract_sponsor_raw": "КРС чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "342",
+            "contract_amount": 342,
+            "contract_basis_raw": "ноември 2019 г., реклама",
+            "contract_sponsor_raw": "Община Банско чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "143,64",
+            "contract_amount": 143,
+            "contract_basis_raw": "ноември 2019 г., реклама",
+            "contract_sponsor_raw": "Община Враца чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "143,64",
+            "contract_amount": 143,
+            "contract_basis_raw": "ноември 2019 г., реклама",
+            "contract_sponsor_raw": "Община Монтана чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "182,28",
+            "contract_amount": 182,
+            "contract_basis_raw": "декември 2019 г., реклама",
+            "contract_sponsor_raw": "Община Русе чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "136,8",
+            "contract_amount": 136,
+            "contract_basis_raw": "декември 2019 г., реклама",
+            "contract_sponsor_raw": "Община Тервел чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "9620,68",
+            "contract_amount": 9620,
+            "contract_basis_raw": "декември 2019 г., реклама",
+            "contract_sponsor_raw": "Министерство на туризма"
+        },
+        {
+            "contract_amount_raw": "1785,6",
+            "contract_amount": 1785,
+            "contract_basis_raw": "декември 2019 г., реклама",
+            "contract_sponsor_raw": "Министерство на туризма чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "239,4",
+            "contract_amount": 239,
+            "contract_basis_raw": "декември 2019 г., реклама",
+            "contract_sponsor_raw": "Община Шумен чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "2250,32",
+            "contract_amount": 2250,
+            "contract_basis_raw": "декември 2019 г., реклама",
+            "contract_sponsor_raw": "Посолство на САЩ чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "47,88",
+            "contract_amount": 47,
+            "contract_basis_raw": "декември 2019 г., реклама",
+            "contract_sponsor_raw": "Община Завет чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "42,57",
+            "contract_amount": 42,
+            "contract_basis_raw": "декември 2019 г., реклама",
+            "contract_sponsor_raw": "Община Исперих чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "342",
+            "contract_amount": 342,
+            "contract_basis_raw": "декември 2019 г., реклама",
+            "contract_sponsor_raw": "ПП ГЕРБ чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "342",
+            "contract_amount": 342,
+            "contract_basis_raw": "декември 2019 г., реклама",
+            "contract_sponsor_raw": "Община Стара Загора чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "478,8",
+            "contract_amount": 478,
+            "contract_basis_raw": "декември 2019 г., реклама",
+            "contract_sponsor_raw": "Община Лозница чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "513",
+            "contract_amount": 513,
+            "contract_basis_raw": "декември 2019 г., реклама",
+            "contract_sponsor_raw": "Община Банско чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "68,4",
+            "contract_amount": 68,
+            "contract_basis_raw": "декември 2019 г., реклама",
+            "contract_sponsor_raw": "Областна администрация Кюстендил чрез рекламна агенция"
+        },
+        {
+            "contract_amount_raw": "20",
+            "contract_amount": 20,
+            "contract_basis_raw": "декември 2019 г., услуги електронна поща",
+            "contract_sponsor_raw": "Община Варна"
+        },
+        {
+            "contract_amount_raw": "20",
+            "contract_amount": 20,
+            "contract_basis_raw": "декември 2019 г., услуги електронна поща",
+            "contract_sponsor_raw": "Община Поморие"
+        },
+        {
+            "contract_amount_raw": "40",
+            "contract_amount": 40,
+            "contract_basis_raw": "декември 2019 г., услуги електронна поща",
+            "contract_sponsor_raw": "Община Бургас"
+        },
+        {
+            "contract_amount_raw": "20",
+            "contract_amount": 20,
+            "contract_basis_raw": "декември 2019 г., услуги електронна поща",
+            "contract_sponsor_raw": "Община Сапарева Баня"
+        },
+        {
+            "contract_amount_raw": "20",
+            "contract_amount": 20,
+            "contract_basis_raw": "декември 2019 г., услуги електронна поща",
+            "contract_sponsor_raw": "Община Елин Пелин"
+        },
+        {
+            "contract_amount_raw": "20",
+            "contract_amount": 20,
+            "contract_basis_raw": "декември 2019 г., услуги електронна поща",
+            "contract_sponsor_raw": "Община Димово"
+        },
+        {
+            "contract_amount_raw": "20",
+            "contract_amount": 20,
+            "contract_basis_raw": "декември 2019 г., услуги електронна поща",
+            "contract_sponsor_raw": "Община Велико Търново"
+        },
+        {
+            "contract_amount_raw": "20",
+            "contract_amount": 20,
+            "contract_basis_raw": "декември 2019 г., услуги електронна поща",
+            "contract_sponsor_raw": "Община Ивайловград"
+        },
+        {
+            "contract_amount_raw": "20",
+            "contract_amount": 20,
+            "contract_basis_raw": "декември 2019 г., услуги електронна поща",
+            "contract_sponsor_raw": "Община Перущица"
+        },
+        {
+            "contract_amount_raw": "120",
+            "contract_amount": 120,
+            "contract_basis_raw": "юни 2019 г., реклама",
+            "contract_sponsor_raw": "Областна администрация Кюстендил чрез рекламна агенция"
+        }
+    ]
+}

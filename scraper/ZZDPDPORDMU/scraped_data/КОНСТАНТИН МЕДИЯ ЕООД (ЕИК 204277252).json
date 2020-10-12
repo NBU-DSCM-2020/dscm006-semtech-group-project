@@ -1,0 +1,17 @@
+{
+    "legal_entity_name": "КОНСТАНТИН МЕДИЯ ЕООД",
+    "legal_entity_id": "204277252",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "BULGARIAN TIMES",
+    "real_owner": "КОНСТАНТИН ДОБРИНОВ ПЕТКОВ",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "10527,96",
+            "contract_amount": 10527,
+            "contract_basis_raw": "РЕКЛАМА",
+            "contract_sponsor_raw": "Google Ireland Ltd"
+        }
+    ]
+}

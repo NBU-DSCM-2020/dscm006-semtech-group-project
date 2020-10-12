@@ -1,0 +1,17 @@
+{
+    "legal_entity_name": "АБ КОМЮНИКЕЙШЪНС ЕООД",
+    "legal_entity_id": "200964424",
+    "public_company": "неприложимо",
+    "media_service_type": "Печатна медия; Онлайн новинарско издание",
+    "media_service_name": "Списание Агрозона; www.agrozona.bg",
+    "real_owner": "Ивайло Димитров Тодоров",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "80250",
+            "contract_amount": 80250,
+            "contract_basis_raw": "Договор № РД51-32/15.02.2019г. с предмет: Информиране и популяризиране на Програмата за морско дело и рибарство чрез реклама в печатни медии",
+            "contract_sponsor_raw": "Министерство на земеделието, храните и горите"
+        }
+    ]
+}

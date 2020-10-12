@@ -1,0 +1,71 @@
+{
+    "legal_entity_name": "ПИ АР АГЕНЦИЯ ХИКСНЮЗ ЕООД ГР.ХАСКОВО",
+    "legal_entity_id": "204426736",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "ЕЛЕКТРОННО ИЗДАНИЕ- XNEWS.BG",
+    "real_owner": "ТИХОМИР ЯНЧЕВ ПЕТКОВ",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "1500",
+            "contract_amount": 1500,
+            "contract_basis_raw": "РЕКЛАМЕН БАНЕР",
+            "contract_sponsor_raw": "АИДА МЕС ЕООД ГР-ХАСКОВО"
+        },
+        {
+            "contract_amount_raw": "900",
+            "contract_amount": 900,
+            "contract_basis_raw": "РЕКЛАМЕН БАНЕР",
+            "contract_sponsor_raw": "ВИК БУНАР ЕООД ГР.ХАСКОВО"
+        },
+        {
+            "contract_amount_raw": "3600",
+            "contract_amount": 3600,
+            "contract_basis_raw": "ИНФОРМАЦИОННО ОБСЛУЖВАНЕ",
+            "contract_sponsor_raw": "ОБЩИНА СТАМБОЛОВО ОБЛ.ХАСКОВО"
+        },
+        {
+            "contract_amount_raw": "2000",
+            "contract_amount": 2000,
+            "contract_basis_raw": "ИНФОРМАЦИОННО ОБСЛУЖВАНЕ ",
+            "contract_sponsor_raw": "ОБЩИНА ИВАЙЛОВГРАД, ОБЛ.ХАСКОВО"
+        },
+        {
+            "contract_amount_raw": "1800",
+            "contract_amount": 1800,
+            "contract_basis_raw": "ИНФОРМАЦИОННО ОБСЛУЖВАНЕ",
+            "contract_sponsor_raw": "ОБЩ.МИН.БАНИ, ОБЛ.ХАСКОВО"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "КАМПАНИЯ МЕСТНИ  ИЗБОРИ 2019",
+            "contract_sponsor_raw": "ПП СЪЮЗ НА СВОБОДНИТЕ ДЕМОКРАТИ ГР.СОФИЯ"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "КАМПАНИЯ МЕСТНИ  ИЗБОРИ 2019",
+            "contract_sponsor_raw": "ПП ГЕРБ ГР.СОФИЯ"
+        },
+        {
+            "contract_amount_raw": "800",
+            "contract_amount": 800,
+            "contract_basis_raw": "КАМПАНИЯ ЕВРО ИЗБОРИ 2019",
+            "contract_sponsor_raw": "ОБС НА БСП ГР.ХАСКОВО"
+        },
+        {
+            "contract_amount_raw": "200",
+            "contract_amount": 200,
+            "contract_basis_raw": "КАМПАНИЯ МЕСТНИ  ИЗБОРИ 2019",
+            "contract_sponsor_raw": "ДИАНА ОВЧАРОВА,КАНДИДАТ ЗА КМЕТ ОБЩ.ИВАЙЛОВГРАД, ГЕРБ"
+        },
+        {
+            "contract_amount_raw": "140",
+            "contract_amount": 140,
+            "contract_basis_raw": "КАМПАНИЯ МЕСТНИ  ИЗБОРИ 2019",
+            "contract_sponsor_raw": "ЕЛИ КОСТОВА, КАНДИДАТ ЗА КМЕТ ЗА ОБЩ.СЪВЕТНИК ГР.ХАСКОВО"
+        }
+    ]
+}

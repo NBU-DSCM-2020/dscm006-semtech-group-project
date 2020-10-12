@@ -1,0 +1,23 @@
+{
+    "legal_entity_name": "ЕКИП НЮЗ ЕООД",
+    "legal_entity_id": "200064179",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание; Онлайн новинарско издание",
+    "media_service_name": "www.debati.bg; ekipnews.com",
+    "real_owner": "Емил  Стефанов  Стоянов",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "33000",
+            "contract_amount": 33000,
+            "contract_basis_raw": "Договор за финансиране от 2016г.",
+            "contract_sponsor_raw": "Фондация Пигмалион  ЕИК 160072610"
+        },
+        {
+            "contract_amount_raw": "120 280",
+            "contract_amount": 120280,
+            "contract_basis_raw": "Договор номер CIV.0147.20180112 от 09.05.2018г.",
+            "contract_sponsor_raw": "ФОНДАЦИЯ ПИГМАЛИОН ЕИК 160072610 и Фондация Америка за България"
+        }
+    ]
+}

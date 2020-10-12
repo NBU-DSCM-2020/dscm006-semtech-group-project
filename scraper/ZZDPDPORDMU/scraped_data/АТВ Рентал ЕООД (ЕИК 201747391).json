@@ -1,0 +1,17 @@
+{
+    "legal_entity_name": "АТВ Рентал ЕООД",
+    "legal_entity_id": "201747391",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "www.tritegrada.eu",
+    "real_owner": "Кристина Василева Сакалийска",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "120",
+            "contract_amount": 120,
+            "contract_basis_raw": "27.09.2019 г. - Информационно обслужване",
+            "contract_sponsor_raw": "ПП ГЕРБ - инж. Добромир Добрев"
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "legal_entity_name": "Икономедиа АД",
+    "legal_entity_id": "131326269",
+    "public_company": "неприложимо",
+    "media_service_type": "Печатна медия; Онлайн новинарско издание; Онлайн новинарско издание; Онлайн новинарско издание; Онлайн новинарско издание; Онлайн новинарско издание; Печатна медия; Онлайн новинарско издание; Онлайн новинарско издание; Онлайн новинарско издание; Онлайн новинарско издание; Печатна медия",
+    "media_service_name": "Капитал; dnevnik.bg; capital.bg; karieri.bg/; bacchus.bg/; regal.bg/; CIO; https://www.cio.bg/; computerworld.bg; pcworld.bg; networkworld.bg; Networkworld",
+    "real_owner": "Иво Георгиев Прокопиев, Теодор Иванов Захов",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "500 000",
+            "contract_amount": 500000,
+            "contract_basis_raw": "Договор  06.02.2018",
+            "contract_sponsor_raw": "Фондация Америка за България"
+        },
+        {
+            "contract_amount_raw": "153 881,58",
+            "contract_amount": 153881,
+            "contract_basis_raw": "Договор COMM/FRA/2016/0042",
+            "contract_sponsor_raw": "Европейски парламент"
+        },
+        {
+            "contract_amount_raw": "202 744,47",
+            "contract_amount": 202744,
+            "contract_basis_raw": "Договор 2018CE16BAT128",
+            "contract_sponsor_raw": "Европейска комисия"
+        },
+        {
+            "contract_amount_raw": "150",
+            "contract_amount": 150,
+            "contract_basis_raw": "Реклама; обява печатни издания",
+            "contract_sponsor_raw": "АЕЦ КОЗЛОДУЙ ЕАД, ЕИК 106513772"
+        },
+        {
+            "contract_amount_raw": "3300",
+            "contract_amount": 3300,
+            "contract_basis_raw": "Реклама; обява печатни издания",
+            "contract_sponsor_raw": "БНБ, ЕИК 000694037"
+        },
+        {
+            "contract_amount_raw": "13954,5",
+            "contract_amount": 13954,
+            "contract_basis_raw": "Реклама; обява печатни издания",
+            "contract_sponsor_raw": "БЪЛГАРСКО НАЦИОНАЛНА ТЕЛЕВИЗИЯ, ЕИК 000672350"
+        },
+        {
+            "contract_amount_raw": "2280",
+            "contract_amount": 2280,
+            "contract_basis_raw": "Реклама; обява печатни издания",
+            "contract_sponsor_raw": "БЪЛГАРСКО НАЦИОНАЛНО РАДИО, ЕИК 000672343"
+        },
+        {
+            "contract_amount_raw": "401",
+            "contract_amount": 401,
+            "contract_basis_raw": "Реклама; обява печатни издания",
+            "contract_sponsor_raw": "Владислав Панчев Панев"
+        },
+        {
+            "contract_amount_raw": "5293,54",
+            "contract_amount": 5293,
+            "contract_basis_raw": "Реклама; обява печатни издания",
+            "contract_sponsor_raw": "ЕЛ БИ БУЛГАРИКУМ ЕАД, ЕИК 831622969"
+        },
+        {
+            "contract_amount_raw": "200",
+            "contract_amount": 200,
+            "contract_basis_raw": "Реклама; обява печатни издания",
+            "contract_sponsor_raw": "Иво Николаев Божков"
+        },
+        {
+            "contract_amount_raw": "720",
+            "contract_amount": 720,
+            "contract_basis_raw": "Реклама; обява печатни издания",
+            "contract_sponsor_raw": "ИК Григор Асенов Григоров"
+        },
+        {
+            "contract_amount_raw": "150",
+            "contract_amount": 150,
+            "contract_basis_raw": "Реклама; обява печатни издания",
+            "contract_sponsor_raw": "КИНТЕКС ЕАД, ЕИК 000725995"
+        },
+        {
+            "contract_amount_raw": "5100",
+            "contract_amount": 5100,
+            "contract_basis_raw": "Реклама; обява печатни издания",
+            "contract_sponsor_raw": "КОАЛИЦИЯ ДЕМОКРАТИЧНА БЪЛГАРИЯ, ЕИК 177394797"
+        },
+        {
+            "contract_amount_raw": "360",
+            "contract_amount": 360,
+            "contract_basis_raw": "Реклама; обява печатни издания",
+            "contract_sponsor_raw": "КОМИСИЯ ЗА ФИНАНСОВ НАДЗОР, ЕИК 131060676"
+        },
+        {
+            "contract_amount_raw": "2500",
+            "contract_amount": 2500,
+            "contract_basis_raw": "Реклама; обява печатни издания",
+            "contract_sponsor_raw": "Министерство на финансите, ЕИК 000695406"
+        },
+        {
+            "contract_amount_raw": "105 278,75",
+            "contract_amount": 105278,
+            "contract_basis_raw": "Реклама; обява печатни издания",
+            "contract_sponsor_raw": "ПОЛИТИЧЕСКА ПАРТИЯ ГЕРБ, ЕИК 175248466"
+        },
+        {
+            "contract_amount_raw": "1250",
+            "contract_amount": 1250,
+            "contract_basis_raw": "Реклама; обява печатни издания",
+            "contract_sponsor_raw": "ПП Движение България на гражданите, ЕИК 176368365"
+        },
+        {
+            "contract_amount_raw": "8339,15",
+            "contract_amount": 8339,
+            "contract_basis_raw": "Реклама; обява печатни издания",
+            "contract_sponsor_raw": "ФОНД МЕНИДЖЪР НА ФИНАНСОВИ ИНСТРУМЕНТИ В БЪЛГАРИЯ ЕАД, ЕИК 203740812"
+        },
+        {
+            "contract_amount_raw": "1120",
+            "contract_amount": 1120,
+            "contract_basis_raw": "Реклама; обява печатни издания",
+            "contract_sponsor_raw": "Борика АД, ЕИК 201230426"
+        },
+        {
+            "contract_amount_raw": "192 352",
+            "contract_amount": 192352,
+            "contract_basis_raw": "Договор за финансиране изпълнението на проект",
+            "contract_sponsor_raw": "Европейски парламент"
+        },
+        {
+            "contract_amount_raw": "289 635",
+            "contract_amount": 289635,
+            "contract_basis_raw": "Договор за финансиране изпълнението на проект",
+            "contract_sponsor_raw": "Европейска комисия"
+        },
+        {
+            "contract_amount_raw": "411 428,2",
+            "contract_amount": 411428,
+            "contract_basis_raw": "Договор за финансиране изпълнението на проект",
+            "contract_sponsor_raw": "Европейска комисия"
+        }
+    ]
+}

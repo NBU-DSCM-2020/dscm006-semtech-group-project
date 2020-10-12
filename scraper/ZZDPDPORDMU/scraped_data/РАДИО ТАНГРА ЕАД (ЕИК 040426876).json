@@ -1,0 +1,41 @@
+{
+    "legal_entity_name": "РАДИО ТАНГРА ЕАД",
+    "legal_entity_id": "040426876",
+    "public_company": "неприложимо",
+    "media_service_type": "Радио",
+    "media_service_name": "ВЕРОНИКА (включва и сайта radioveronika.bg, както и файсбук страица за слушателите)",
+    "real_owner": "Николай Георгиев Янчовичин, Атанас Иванов Генов, Христин  Богомилов Стрижлев",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "155,61",
+            "contract_amount": 155,
+            "contract_basis_raw": "Предизборна аудиореклама на политическа партия БСП Горна Оряховица",
+            "contract_sponsor_raw": "Общински Съвет на БСП Горна Оряховица, ЕИК 0007020140852"
+        },
+        {
+            "contract_amount_raw": "240",
+            "contract_amount": 240,
+            "contract_basis_raw": "Предизборна аудиореклама на водач на Земеделски народен съюз",
+            "contract_sponsor_raw": "Земеделски Народен Съюз, ЕИК:121575090"
+        },
+        {
+            "contract_amount_raw": "491,25",
+            "contract_amount": 491,
+            "contract_basis_raw": "Предизборна аудио реклама на Здравко Димитров",
+            "contract_sponsor_raw": "ПП Герб, ЕИК: 175248466"
+        },
+        {
+            "contract_amount_raw": "298,8",
+            "contract_amount": 298,
+            "contract_basis_raw": "Предизборна аудио реклама  на БСП Пловдив",
+            "contract_sponsor_raw": "ГС на БСП Пловдив, ЕИК: 0007020140237"
+        },
+        {
+            "contract_amount_raw": "900",
+            "contract_amount": 900,
+            "contract_basis_raw": "Предизборна аудио реклама за водач на листата на Земеделски народен съюз",
+            "contract_sponsor_raw": "Йорданка Хилендарова Змиярова, ЕГН:8412284598"
+        }
+    ]
+}

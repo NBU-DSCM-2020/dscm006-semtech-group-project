@@ -1,0 +1,89 @@
+{
+    "legal_entity_name": "Информационна Агенция Добруджа ЕООД",
+    "legal_entity_id": "202416896",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "Агенция Добруджа",
+    "real_owner": "Веселин Илиев Димитров",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "3600",
+            "contract_amount": 3600,
+            "contract_basis_raw": "01.02.2019 г. - Договор за информационно обслужване",
+            "contract_sponsor_raw": "ЕИК: 204219357 - ВиК Добрич ЕООД"
+        },
+        {
+            "contract_amount_raw": "2880",
+            "contract_amount": 2880,
+            "contract_basis_raw": "09.01.2019 г. - Договор за информационно обслужване",
+            "contract_sponsor_raw": "ЕИК: 000852925 - Община Тервел"
+        },
+        {
+            "contract_amount_raw": "2000",
+            "contract_amount": 2000,
+            "contract_basis_raw": "05.03.2019 г. - Договор за информационно обслужване",
+            "contract_sponsor_raw": "ЕИК: 000852633 - Община Генерал Тошево"
+        },
+        {
+            "contract_amount_raw": "9000",
+            "contract_amount": 9000,
+            "contract_basis_raw": "26.03.2019 г. - Договор за информационно обслужване",
+            "contract_sponsor_raw": "ЕИК: 000852932 - Община Добрич"
+        },
+        {
+            "contract_amount_raw": "2000",
+            "contract_amount": 2000,
+            "contract_basis_raw": "02.01.2019 г. - Договор за информационно обслужване",
+            "contract_sponsor_raw": "ЕИК: 175248466 - Политическа партия ГЕРБ"
+        },
+        {
+            "contract_amount_raw": "526",
+            "contract_amount": 526,
+            "contract_basis_raw": "19.05.2019 г. - Договор за политическа реклама",
+            "contract_sponsor_raw": "Радан Миленов Кънев"
+        },
+        {
+            "contract_amount_raw": "820",
+            "contract_amount": 820,
+            "contract_basis_raw": "18.09.2019 г. - Договор за политическа реклама",
+            "contract_sponsor_raw": "Общ. съвет на БСП Генерал Тошево - ЕИК: 0007020140745"
+        },
+        {
+            "contract_amount_raw": "1710",
+            "contract_amount": 1710,
+            "contract_basis_raw": "27.09.2019 г. - Договор за политическа реклама",
+            "contract_sponsor_raw": "Местна коалиция ГЕРБ /СДС/ - ЕИК: 175248466"
+        },
+        {
+            "contract_amount_raw": "370",
+            "contract_amount": 370,
+            "contract_basis_raw": "01.102019 г. - Договор за политическа реклама",
+            "contract_sponsor_raw": "ПП ДПС - 000707470"
+        },
+        {
+            "contract_amount_raw": "380",
+            "contract_amount": 380,
+            "contract_basis_raw": "11.10.2019 г. - Договор за политическа реклама",
+            "contract_sponsor_raw": "ВМРО /ГЕРБ,СДС/ Балчик - ЕИК: 6711197942"
+        },
+        {
+            "contract_amount_raw": "397",
+            "contract_amount": 397,
+            "contract_basis_raw": "21.10.2019 г. - Договор за политическа реклама",
+            "contract_sponsor_raw": "ПП ВМРО - БНД , ЕИК:130451348"
+        },
+        {
+            "contract_amount_raw": "4000",
+            "contract_amount": 4000,
+            "contract_basis_raw": "26.09.2019 г. - Договор за информационно обслужване",
+            "contract_sponsor_raw": "Община Балчик, ЕИК:000852544"
+        },
+        {
+            "contract_amount_raw": "6000",
+            "contract_amount": 6000,
+            "contract_basis_raw": "23.12.2019 г. - Договор за информационно обслужване",
+            "contract_sponsor_raw": "Община Добричка, ЕИК:000852188"
+        }
+    ]
+}

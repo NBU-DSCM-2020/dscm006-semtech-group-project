@@ -1,0 +1,149 @@
+{
+    "legal_entity_name": "ЕТ ЗЕТРА-ПЕТКО ЧЕРНЕВ",
+    "legal_entity_id": "030068263",
+    "public_company": "неприложимо",
+    "media_service_type": "Телевизия; Радио; Печатна медия; Онлайн новинарско издание",
+    "media_service_name": "ЗЕТРА ТВ; ЗЕТРА; ЗЕТРА; www.zetramedia.com",
+    "real_owner": "ПЕТКО ПЕЙЧЕВ ЧЕРНЕВ",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "1500",
+            "contract_amount": 1500,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "Плевенска  Филхармония  ЕИК 000405995"
+        },
+        {
+            "contract_amount_raw": "1200",
+            "contract_amount": 1200,
+            "contract_basis_raw": "Излъчване",
+            "contract_sponsor_raw": "Русенски университет ЕИК 000522685"
+        },
+        {
+            "contract_amount_raw": "4000",
+            "contract_amount": 4000,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "Медицински университет Плевен ЕИК 000405689"
+        },
+        {
+            "contract_amount_raw": "4000",
+            "contract_amount": 4000,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "Община Бяла ЕИК 000530493"
+        },
+        {
+            "contract_amount_raw": "5000",
+            "contract_amount": 5000,
+            "contract_basis_raw": "Отпечатване на инф.бюлетин",
+            "contract_sponsor_raw": "Община Гулянци  ЕИК 000413691"
+        },
+        {
+            "contract_amount_raw": "12000",
+            "contract_amount": 12000,
+            "contract_basis_raw": "Отразяване   дейността",
+            "contract_sponsor_raw": "Община Ловеч ЕИК 000291591"
+        },
+        {
+            "contract_amount_raw": "10000",
+            "contract_amount": 10000,
+            "contract_basis_raw": "Инф.медийно обслужване",
+            "contract_sponsor_raw": "Община Плевен ЕИК 000413974"
+        },
+        {
+            "contract_amount_raw": "4000",
+            "contract_amount": 4000,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "Община Павликени ЕИК 000133901"
+        },
+        {
+            "contract_amount_raw": "5000",
+            "contract_amount": 5000,
+            "contract_basis_raw": "Отразяване   дейността",
+            "contract_sponsor_raw": "Община Троян ЕИК 000291709"
+        },
+        {
+            "contract_amount_raw": "4000",
+            "contract_amount": 4000,
+            "contract_basis_raw": "Информационно обслужване",
+            "contract_sponsor_raw": "Община Ценово ЕИК 000530671"
+        },
+        {
+            "contract_amount_raw": "400",
+            "contract_amount": 400,
+            "contract_basis_raw": "Отразяване предизборна кампания",
+            "contract_sponsor_raw": "ПП АТАКА ЕИК 131458114"
+        },
+        {
+            "contract_amount_raw": "100",
+            "contract_amount": 100,
+            "contract_basis_raw": "Отразяване предизборна кампания",
+            "contract_sponsor_raw": "Обл.съвет на БСП Ловеч ЕИК 0007020140338"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "Отразяване предизборна кампания",
+            "contract_sponsor_raw": "Обл.съвет на БСП Ловеч ЕИК 0007020140338"
+        },
+        {
+            "contract_amount_raw": "800",
+            "contract_amount": 800,
+            "contract_basis_raw": "Отразяване предизборна кампания",
+            "contract_sponsor_raw": "Общ.съвет  на БСП Плевен ЕИК 0007020140203"
+        },
+        {
+            "contract_amount_raw": "2040",
+            "contract_amount": 2040,
+            "contract_basis_raw": "Отразяване предизборна кампания",
+            "contract_sponsor_raw": "Общ.съвет на БСП Ловеч ЕИК0007020140338"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "Отразяване предизборна кампания",
+            "contract_sponsor_raw": "ПП Герб ЕИК 175248466"
+        },
+        {
+            "contract_amount_raw": "250",
+            "contract_amount": 250,
+            "contract_basis_raw": "Отразяване предизборна кампания",
+            "contract_sponsor_raw": "ПП Герб ЕИК 175248466"
+        },
+        {
+            "contract_amount_raw": "700",
+            "contract_amount": 700,
+            "contract_basis_raw": "Отразяване предизборна кампания",
+            "contract_sponsor_raw": "ПП Герб ЕИК 175248466"
+        },
+        {
+            "contract_amount_raw": "7000",
+            "contract_amount": 7000,
+            "contract_basis_raw": "Отразяване предизборна кампания",
+            "contract_sponsor_raw": "ПП Герб ЕИК 175248466"
+        },
+        {
+            "contract_amount_raw": "720",
+            "contract_amount": 720,
+            "contract_basis_raw": "Отразяване предизборна кампания",
+            "contract_sponsor_raw": "ПП Герб ЕИК 175248466"
+        },
+        {
+            "contract_amount_raw": "400",
+            "contract_amount": 400,
+            "contract_basis_raw": "Отразяване предизборна кампания",
+            "contract_sponsor_raw": "МК Демократична Б-я -Обединение ПП СДС И ПП БЗНС "
+        },
+        {
+            "contract_amount_raw": "400",
+            "contract_amount": 400,
+            "contract_basis_raw": "Отразяване предизборна кампания",
+            "contract_sponsor_raw": "МК Демократична Б-я -Обединение ПП СДС И ПП БЗНС "
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "Отразяване предизборна кампания",
+            "contract_sponsor_raw": "ПП ДПС ЕИК 000707470"
+        }
+    ]
+}

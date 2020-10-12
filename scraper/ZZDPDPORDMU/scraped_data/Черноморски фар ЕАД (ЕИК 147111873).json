@@ -1,0 +1,143 @@
+{
+    "legal_entity_name": "Черноморски фар ЕАД",
+    "legal_entity_id": "147111873",
+    "public_company": "неприложимо",
+    "media_service_type": "Печатна медия",
+    "media_service_name": "вестник Черноморски фар",
+    "real_owner": "Димитър Стойков Николов",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "6000",
+            "contract_amount": 6000,
+            "contract_basis_raw": "09.01.2019, Медийно-информационно обслужване",
+            "contract_sponsor_raw": "Община Поморие, ЕИК 000057179"
+        },
+        {
+            "contract_amount_raw": "16080",
+            "contract_amount": 16080,
+            "contract_basis_raw": "03.01.2019, Изработване на вестник Народен приятел",
+            "contract_sponsor_raw": "Община Айтос, ЕИК 000056764"
+        },
+        {
+            "contract_amount_raw": "4800",
+            "contract_amount": 4800,
+            "contract_basis_raw": "18.03.2019, Изработване страница на Община Камено",
+            "contract_sponsor_raw": "Община Камено, ЕИК 000057001"
+        },
+        {
+            "contract_amount_raw": "7200",
+            "contract_amount": 7200,
+            "contract_basis_raw": "15.05.2019, Медийно-информационно обслужване",
+            "contract_sponsor_raw": "Община Средец, ЕИК 000056878"
+        },
+        {
+            "contract_amount_raw": "4800",
+            "contract_amount": 4800,
+            "contract_basis_raw": "22.07.2019, Медийно-информационно обслужване",
+            "contract_sponsor_raw": "Община Несебър, ЕИК 000057122"
+        },
+        {
+            "contract_amount_raw": "7200",
+            "contract_amount": 7200,
+            "contract_basis_raw": "21.11.2018, Медийно-информационно обслужване",
+            "contract_sponsor_raw": "Община Приморско, ЕИК 102164063"
+        },
+        {
+            "contract_amount_raw": "6000",
+            "contract_amount": 6000,
+            "contract_basis_raw": "27.03.2019, Медийно-информационно обслужване",
+            "contract_sponsor_raw": "Пристанище Бургас ЕАД, ЕИК 102004532"
+        },
+        {
+            "contract_amount_raw": "3000",
+            "contract_amount": 3000,
+            "contract_basis_raw": "Медийно-информационно обслужване",
+            "contract_sponsor_raw": "В и К Бургас, ЕИК 812115210"
+        },
+        {
+            "contract_amount_raw": "5400",
+            "contract_amount": 5400,
+            "contract_basis_raw": "01.10.2018, Медийно-информационно обслужване",
+            "contract_sponsor_raw": "УМБАЛ Бургас, ЕИК 102274111"
+        },
+        {
+            "contract_amount_raw": "2865",
+            "contract_amount": 2865,
+            "contract_basis_raw": "Публикувани обяви за търгове",
+            "contract_sponsor_raw": "Бургаски пазари ЕООД, ЕИК 102657921"
+        },
+        {
+            "contract_amount_raw": "240",
+            "contract_amount": 240,
+            "contract_basis_raw": "25.04.2019, Европейски избори 2019",
+            "contract_sponsor_raw": "ПП Герб, ЕИК 175248466"
+        },
+        {
+            "contract_amount_raw": "300",
+            "contract_amount": 300,
+            "contract_basis_raw": "02.05.2019, Европейски избори 2019",
+            "contract_sponsor_raw": "Общински съвет на БСП Бургас, ЕИК  0007020140218"
+        },
+        {
+            "contract_amount_raw": "1500",
+            "contract_amount": 1500,
+            "contract_basis_raw": "02.05.2019, Европейски избори 2019",
+            "contract_sponsor_raw": "ПП ВМРО, ЕИК 130451348"
+        },
+        {
+            "contract_amount_raw": "240",
+            "contract_amount": 240,
+            "contract_basis_raw": "08.05.2019, Европейски избори 2019",
+            "contract_sponsor_raw": "ИК Ваня Руменова Григорова, ЕИК 7809126938"
+        },
+        {
+            "contract_amount_raw": "1900",
+            "contract_amount": 1900,
+            "contract_basis_raw": "02.05.2019, Европейски избори 2019",
+            "contract_sponsor_raw": "Общински съвет на БСП Бургас, ЕИК  0007020140218"
+        },
+        {
+            "contract_amount_raw": "450",
+            "contract_amount": 450,
+            "contract_basis_raw": "08.05.2019, Европейски избори 2019",
+            "contract_sponsor_raw": "ПП Атака, ЕИК 131458114"
+        },
+        {
+            "contract_amount_raw": "600",
+            "contract_amount": 600,
+            "contract_basis_raw": "19.09.2019, Местни избори 2019",
+            "contract_sponsor_raw": "ПП Движение Б-я на гражданите, ЕИК 176368365"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "27.09.2019,  Местни избори 2019",
+            "contract_sponsor_raw": "ПП Герб, ЕИК 175248466"
+        },
+        {
+            "contract_amount_raw": "50",
+            "contract_amount": 50,
+            "contract_basis_raw": "18.10.2019, Местни избори 2019",
+            "contract_sponsor_raw": "ПП Герб, ЕИК 175248466"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "27.09.2019, Местни избори 2019",
+            "contract_sponsor_raw": "Общински съвет на БСП Бургас, ЕИК  0007020140218"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "25.09.2019, Местни избори 2019",
+            "contract_sponsor_raw": "ИК,  Ирена Борисова Лашкова, ЕИК 6103250672"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "27.09.2019, Местни избори 2019",
+            "contract_sponsor_raw": "М.К. Ние гражданите, А.Божидаров, ЕИК  5911210443"
+        }
+    ]
+}

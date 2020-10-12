@@ -1,0 +1,149 @@
+{
+    "legal_entity_name": "ПРО НЮЗ ДОБРИЧ",
+    "legal_entity_id": "204800657",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание; Онлайн новинарско издание; Онлайн новинарско издание",
+    "media_service_name": "Про Нюз Добрич; Агро Добрич; Визит Добрич",
+    "real_owner": "Станислава Георгиева Кръстева",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "4200",
+            "contract_amount": 4200,
+            "contract_basis_raw": "Договор за реклама",
+            "contract_sponsor_raw": "000852925"
+        },
+        {
+            "contract_amount_raw": "2000",
+            "contract_amount": 2000,
+            "contract_basis_raw": "Договор за реклама",
+            "contract_sponsor_raw": "124609886"
+        },
+        {
+            "contract_amount_raw": "295",
+            "contract_amount": 295,
+            "contract_basis_raw": "Изготвяне на фотоалбум",
+            "contract_sponsor_raw": "000852932"
+        },
+        {
+            "contract_amount_raw": "600",
+            "contract_amount": 600,
+            "contract_basis_raw": "Публикуване на банер за 1 месец",
+            "contract_sponsor_raw": "Йордан Апостолов Апостолов"
+        },
+        {
+            "contract_amount_raw": "1500",
+            "contract_amount": 1500,
+            "contract_basis_raw": "Договор за политическа реклама",
+            "contract_sponsor_raw": "175248466"
+        },
+        {
+            "contract_amount_raw": "2000",
+            "contract_amount": 2000,
+            "contract_basis_raw": "Договор за информационно обслужване",
+            "contract_sponsor_raw": "000852932"
+        },
+        {
+            "contract_amount_raw": "220",
+            "contract_amount": 220,
+            "contract_basis_raw": "Публикуване на банер",
+            "contract_sponsor_raw": "124712007"
+        },
+        {
+            "contract_amount_raw": "4950",
+            "contract_amount": 4950,
+            "contract_basis_raw": "Договор за реклама",
+            "contract_sponsor_raw": "834025872"
+        },
+        {
+            "contract_amount_raw": "250",
+            "contract_amount": 250,
+            "contract_basis_raw": "Публикуване на банер",
+            "contract_sponsor_raw": "124614627"
+        },
+        {
+            "contract_amount_raw": "2000",
+            "contract_amount": 2000,
+            "contract_basis_raw": "Рекламен банер",
+            "contract_sponsor_raw": "201326684"
+        },
+        {
+            "contract_amount_raw": "70",
+            "contract_amount": 70,
+            "contract_basis_raw": "Публикуване на покана",
+            "contract_sponsor_raw": "200836243"
+        },
+        {
+            "contract_amount_raw": "63",
+            "contract_amount": 63,
+            "contract_basis_raw": "Онлайн публикация",
+            "contract_sponsor_raw": "831244754"
+        },
+        {
+            "contract_amount_raw": "1800",
+            "contract_amount": 1800,
+            "contract_basis_raw": "Договор за реклама",
+            "contract_sponsor_raw": "124049734"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "Публикация по проект",
+            "contract_sponsor_raw": "124035007"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "Реклама",
+            "contract_sponsor_raw": "175248466"
+        },
+        {
+            "contract_amount_raw": "150",
+            "contract_amount": 150,
+            "contract_basis_raw": "Рекламен банер",
+            "contract_sponsor_raw": "124032961"
+        },
+        {
+            "contract_amount_raw": "50",
+            "contract_amount": 50,
+            "contract_basis_raw": "Реклама",
+            "contract_sponsor_raw": "205751412"
+        },
+        {
+            "contract_amount_raw": "4200",
+            "contract_amount": 4200,
+            "contract_basis_raw": "Договор за реклама",
+            "contract_sponsor_raw": "000852925"
+        },
+        {
+            "contract_amount_raw": "2000",
+            "contract_amount": 2000,
+            "contract_basis_raw": "Договор за реклама",
+            "contract_sponsor_raw": "124609886"
+        },
+        {
+            "contract_amount_raw": "295",
+            "contract_amount": 295,
+            "contract_basis_raw": "Изготвяне на фотоалбум",
+            "contract_sponsor_raw": "000852932"
+        },
+        {
+            "contract_amount_raw": "600",
+            "contract_amount": 600,
+            "contract_basis_raw": "Публикуване на банер за 1 месец",
+            "contract_sponsor_raw": "Йордан Апостолов Апостолов"
+        },
+        {
+            "contract_amount_raw": "1500",
+            "contract_amount": 1500,
+            "contract_basis_raw": "Договор за политическа реклама",
+            "contract_sponsor_raw": "175248466"
+        },
+        {
+            "contract_amount_raw": "2000",
+            "contract_amount": 2000,
+            "contract_basis_raw": "Договор за информационно обслужване",
+            "contract_sponsor_raw": "000852932"
+        }
+    ]
+}

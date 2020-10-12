@@ -1,0 +1,41 @@
+{
+    "legal_entity_name": "Медиатор 2015 ООД",
+    "legal_entity_id": "203365903",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "Flagman.bg",
+    "real_owner": "Веселин Йорданов Василев, Катя Георгиева Касабова",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "11500",
+            "contract_amount": 11500,
+            "contract_basis_raw": "Договор за инф. обслужване",
+            "contract_sponsor_raw": "Община Сунгурларе"
+        },
+        {
+            "contract_amount_raw": "9600",
+            "contract_amount": 9600,
+            "contract_basis_raw": "Договор за инф. обслужване",
+            "contract_sponsor_raw": "Община Созопол"
+        },
+        {
+            "contract_amount_raw": "7200",
+            "contract_amount": 7200,
+            "contract_basis_raw": "Договор за инф. обслужване",
+            "contract_sponsor_raw": "Община Карнобат"
+        },
+        {
+            "contract_amount_raw": "6000",
+            "contract_amount": 6000,
+            "contract_basis_raw": "Договор за информационно обслужване",
+            "contract_sponsor_raw": "Комплексен онкологичен център"
+        },
+        {
+            "contract_amount_raw": "3000",
+            "contract_amount": 3000,
+            "contract_basis_raw": "Pr-публикации",
+            "contract_sponsor_raw": "Община Приморско"
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "legal_entity_name": "ПИЯР ПАРТНЕР ГРУП ЕООД",
+    "legal_entity_id": "201365727",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "TARGOVISHTEBG.COM",
+    "real_owner": "Росица Иванова Топалова",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "2000",
+            "contract_amount": 2000,
+            "contract_basis_raw": "02.01.2019 до 31.12.2019, информационно обслужване",
+            "contract_sponsor_raw": "ПП Герб, ЕИК: 175248466"
+        },
+        {
+            "contract_amount_raw": "3600",
+            "contract_amount": 3600,
+            "contract_basis_raw": "31.01.2019 до 31.01.2020, информационно обслужване",
+            "contract_sponsor_raw": "Община Търговище, ЕИК: 000875920"
+        },
+        {
+            "contract_amount_raw": "1500",
+            "contract_amount": 1500,
+            "contract_basis_raw": "30.09.2019 до 25.10.2019, предизборна кампания",
+            "contract_sponsor_raw": "ПП Герб, ЕИК: 175248466"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "27.03.2019 до 01.04.2020, договор за реклама",
+            "contract_sponsor_raw": "ВИК Търговище, ЕИК: 835014989"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "21.03.2019 до 21.03.2020, медийно обслужване",
+            "contract_sponsor_raw": "ЦМДИ, ЕИК: 0008759200347"
+        }
+    ]
+}

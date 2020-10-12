@@ -1,0 +1,167 @@
+{
+    "legal_entity_name": "Симтак ООД",
+    "legal_entity_id": "200779283",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "RNews.bg",
+    "real_owner": "Тодор Захариев Акманов, Петко Симеонов Петков",
+    "executive_individual": "2800",
+    "contracts": [
+        {
+            "contract_amount_raw": "1800",
+            "contract_amount": 1800,
+            "contract_basis_raw": "Договор за рекламно-информационно обслужване, 31 .12.2018г., публикации и репортажи в електронен сайт RNews.bg",
+            "contract_sponsor_raw": "Община Мирково, ЕИК 000777248"
+        },
+        {
+            "contract_amount_raw": "3500",
+            "contract_amount": 3500,
+            "contract_basis_raw": "Договор за рекламно информационно обслужване, 26.11.2018г., публикации на факти и събития от дейността на общинска администрация в електронен сайт RNews.bg ",
+            "contract_sponsor_raw": "Община Златица, ЕИК 000776464"
+        },
+        {
+            "contract_amount_raw": "1250",
+            "contract_amount": 1250,
+            "contract_basis_raw": "Договор за рекламно-информационно обслужване,  01.08.2019г., публикуване в  електронен сайт RNews.bg на новини",
+            "contract_sponsor_raw": "Община Златица, ЕИК 000776464"
+        },
+        {
+            "contract_amount_raw": "2800",
+            "contract_amount": 2800,
+            "contract_basis_raw": "Договор за изработка на документален филм, 01.02.2019г., 200 години от рождението на Евлоги Георгиев",
+            "contract_sponsor_raw": "Община Карлово, ЕИК 000471365"
+        },
+        {
+            "contract_amount_raw": "6600",
+            "contract_amount": 6600,
+            "contract_basis_raw": "Договор за рекламно информационно обслужване, 01.02.2019г., публикуване на новини в сайта RNews.bg",
+            "contract_sponsor_raw": "Община Карлово, ЕИК 000471365"
+        },
+        {
+            "contract_amount_raw": "2800",
+            "contract_amount": 2800,
+            "contract_basis_raw": "Договор за изработка на документален филм, 17.04.2019г.",
+            "contract_sponsor_raw": "Община Карлово, ЕИК 000471365"
+        },
+        {
+            "contract_amount_raw": "1100",
+            "contract_amount": 1100,
+            "contract_basis_raw": "Публикуване на обяви и съобщения в електронен сайт RNews.bg, 02.01.2019г.",
+            "contract_sponsor_raw": "Община Сопот, ЕИК 115816423"
+        },
+        {
+            "contract_amount_raw": "460",
+            "contract_amount": 460,
+            "contract_basis_raw": "Договор за рекламно информационно обслужване, 07.02.2018г., публикации  в електронен сайт RNews.bg",
+            "contract_sponsor_raw": "Община Сопот, ЕИК 115816423"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "Публикуване на обяви и съобщения в електронен сайт RNews.bg, 14.01.2019g.",
+            "contract_sponsor_raw": "Община Сопот, ЕИК 115816423"
+        },
+        {
+            "contract_amount_raw": "1100",
+            "contract_amount": 1100,
+            "contract_basis_raw": "Публикуване на обяви и съобщения в електронен сайт RNews.bg, 05.02.2019г.",
+            "contract_sponsor_raw": "Община Сопот, ЕИК 115816423"
+        },
+        {
+            "contract_amount_raw": "5060",
+            "contract_amount": 5060,
+            "contract_basis_raw": "Договор за рекламно информационно обслужване, 30.01.2019г.,  публикации в електронен сайт RNews.bg",
+            "contract_sponsor_raw": "Община Сопот, ЕИК 115816423"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "Публикуване на обяви и съобщения в електронен сайт RNews.bg, 19.02.2019g.",
+            "contract_sponsor_raw": "Община Сопот, ЕИК 115816423"
+        },
+        {
+            "contract_amount_raw": "500",
+            "contract_amount": 500,
+            "contract_basis_raw": "Публикуване на обяви и съобщения в електронен сайт RNews.bg, 13.03.2019г.",
+            "contract_sponsor_raw": "Община Сопот, ЕИК 115816423"
+        },
+        {
+            "contract_amount_raw": "900",
+            "contract_amount": 900,
+            "contract_basis_raw": "Изготвяне на информационен бюлетин Вазови празници, 07.07.2019г.",
+            "contract_sponsor_raw": "Община Сопот, ЕИК 115816423"
+        },
+        {
+            "contract_amount_raw": "900",
+            "contract_amount": 900,
+            "contract_basis_raw": "Публикуване на обяви и съобщения в електронен сайт RNews.bg 07.07.2019",
+            "contract_sponsor_raw": "Община Сопот, ЕИК 115816423"
+        },
+        {
+            "contract_amount_raw": "700",
+            "contract_amount": 700,
+            "contract_basis_raw": "Популяризация и обяви с информация за мерките срещу африканската чума,  02.08.2019г.",
+            "contract_sponsor_raw": "Община Сопот, ЕИК 115816423"
+        },
+        {
+            "contract_amount_raw": "830",
+            "contract_amount": 830,
+            "contract_basis_raw": "Публикации касаещи дейността и инициативи на МКБППМН, 06.08.2019г.",
+            "contract_sponsor_raw": "Община Сопот, ЕИК 115816423"
+        },
+        {
+            "contract_amount_raw": "860",
+            "contract_amount": 860,
+            "contract_basis_raw": "Популяризиране дейността на Комплекс за социални услуги Сопот, 14.08.2019г.",
+            "contract_sponsor_raw": "Община Сопот, ЕИК 115816423"
+        },
+        {
+            "contract_amount_raw": "800",
+            "contract_amount": 800,
+            "contract_basis_raw": "ПР консултации и отразяване работата на МКБППМН,  02.09.2019г.",
+            "contract_sponsor_raw": "Община Сопот, ЕИК 115816423"
+        },
+        {
+            "contract_amount_raw": "900",
+            "contract_amount": 900,
+            "contract_basis_raw": "Популяризиране на дейността на Център за работа с деца, 03.09.2019г.",
+            "contract_sponsor_raw": "Община Сопот, ЕИК 115816423"
+        },
+        {
+            "contract_amount_raw": "900",
+            "contract_amount": 900,
+            "contract_basis_raw": "Изработка на брошури, 04.09.2019г.",
+            "contract_sponsor_raw": "Община Сопот, ЕИК 115816423"
+        },
+        {
+            "contract_amount_raw": "1173,5",
+            "contract_amount": 1173,
+            "contract_basis_raw": "Договор за медийно отразяване, 20.02.2019г., медийно отразяване на работата на групата депутати социалисти от България в ЕП",
+            "contract_sponsor_raw": "Делегация на българските евродепутати сoциалисти в ЕП"
+        },
+        {
+            "contract_amount_raw": "1200",
+            "contract_amount": 1200,
+            "contract_basis_raw": "Договор за отразяване на преизборната кампания на местни избори 2019, 01.10.2019г., публикуване на рекламни банери и платени публикации в сайта RNews.bg на МК Воля и ЗС в Сопот",
+            "contract_sponsor_raw": "Политическа партия Воля, ЕИК 175358375"
+        },
+        {
+            "contract_amount_raw": "600",
+            "contract_amount": 600,
+            "contract_basis_raw": "Договор за отразяване на предизборна кампания на местни избори 2019г., 27.09.2019г., публикуване на банери и публикации на МК СДС и Герб  в Сопот",
+            "contract_sponsor_raw": "Политическа партия СДС, ЕИК 130052349"
+        },
+        {
+            "contract_amount_raw": "600",
+            "contract_amount": 600,
+            "contract_basis_raw": "Договор за отразяване на предизборна кампания на местни избори 2019г., 01.10.2019г., публикуване на банери и публикации на МК СДС , Атака и ДБГ в Карлово",
+            "contract_sponsor_raw": "Политическа партия СДС, ЕИК 130052349"
+        },
+        {
+            "contract_amount_raw": "150",
+            "contract_amount": 150,
+            "contract_basis_raw": "Видео заснемане на спортист на годината, 28.01.2019г.",
+            "contract_sponsor_raw": "Спортно училище В. Левски, гр. София, ЕИК 121202771"
+        }
+    ]
+}

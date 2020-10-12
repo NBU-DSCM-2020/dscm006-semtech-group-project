@@ -1,0 +1,17 @@
+{
+    "legal_entity_name": "Зебра. БГН АД ",
+    "legal_entity_id": "202936530",
+    "public_company": "неприложимо",
+    "media_service_type": "Печатна медия; Онлайн новинарско издание",
+    "media_service_name": "СПИСАНИЕ КЛУБ Z; WWW.CLUBZ.BG",
+    "real_owner": "Огнян Иванов Донев",
+    "executive_individual": "Светлана Бориславова Джамджиева",
+    "contracts": [
+        {
+            "contract_amount_raw": "2500",
+            "contract_amount": 2500,
+            "contract_basis_raw": "Договор за информационно обслужване от 08.04.2019",
+            "contract_sponsor_raw": "Автомагистрали ЕАД -ЕИК:831646048"
+        }
+    ]
+}
