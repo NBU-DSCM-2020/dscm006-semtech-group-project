@@ -25,7 +25,7 @@ class DeclarationsRegisterSpider(scrapy.Spider):
     ]
 
     def parse(self, response):
-        # go through `set()` as there are multiple links to same page
+        # deduplicate the multiple links to a same page using set()
         all_page_urls = list(set(response.xpath('//a/@href').getall()))
         for page_url in all_page_urls:
             yield response.follow(page_url, self.parse_declaration_page)
@@ -45,7 +45,7 @@ class DeclarationsRegisterSpider(scrapy.Spider):
     @staticmethod
     def parse_contracts(response):
         contracts = []
-        # get all rows, skip first one (header row)
+        # [position()>1] is used to skip first one (header row)
         for row in response.xpath('//table//table//tr[position()>1]'):
             contract_amount_raw = row.xpath('./td[1]/text()').get()
             contracts.append({
@@ -57,7 +57,7 @@ class DeclarationsRegisterSpider(scrapy.Spider):
         return contracts
 
 
-item_structure = {
+EXAMPLE_ITEM_STRUCTURE = {
     # "Юридическо лице"
     "legal_entity_name": "АБ КОМЮНИКЕЙШЪНС ЕООД",
     # ЕИК
