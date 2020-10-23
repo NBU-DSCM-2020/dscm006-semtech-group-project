@@ -1,0 +1,32 @@
+<company/831400025> a mr:Company;
+  mr:legalName "168 ЧАСА ЕООД"@bg; # TODO: or "168 ЧАСА"?
+  mr:legalType "ЕООД"@bg;
+  mr:eik "831400025"; # wdt:VAT "BG831400025", but we can't be sure the company is registered for VAT
+  # "public_company": "неприложимо",
+  mr:publishes <media/831400025/24%20часа>, <media/831400025/mama24.bg>; # or mr:media or mr:publishesMedia
+  mr:owner "ВЕНЕЛИНА АТАНАСОВА ГОЧЕВА"@bg; # TODO: check there's no English names
+  mr:executiveOfficer "Иван Петров"@bg;
+  mr:contract
+    [ a mr:Contract;
+      mr:amount 6180;  # or mr:amount [:value 6180; mr:currency "BGN"]
+      mr:date "2019-04-10"^^xsd:date;
+      mr:description "10.04.2019 Публикуване на инф. материали"@bg;
+      mr:buyer <company/WHAT_TO_USE_HERE>
+    ]
+.
+
+<media/831400025/24%20часа> 
+  a mr:Media;
+  mr:name "24 часа";
+  mr:type "Печатна медия"@bg.
+
+<media/831400025/mama24.bg> 
+  a mr:Media;
+  mr:name "mama24.bg";
+  mr:type "Онлайн новинарско издание"@bg.
+
+<company/WHAT_TO_USE_HERE> # EIK is optional, but legalName is not spelt consistently, what to do???
+  a mr:Company;
+  mr:legalName "Фонд мениджър на финансови инструменти в България"@bg;
+    # "онд мениджър на финансови инструменти в България"@bg # two values, second one is misspelt
+  mr:eik "203740812".

@@ -1,0 +1,6 @@
+@base <http://edu.ontotext.com/media-register/resource/>.
+@prefix mr: <http://edu.ontotext.com/media-register/ontology/>. # mr:Company -> <http://edu.ontotext.com/media-register/Company>
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+@prefix company: <http://edu.ontotext.com/media-register/resource/company/>.
+@prefix media: <http://edu.ontotext.com/media-register/resource/media/>.
