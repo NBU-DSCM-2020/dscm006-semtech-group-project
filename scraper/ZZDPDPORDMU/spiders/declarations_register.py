@@ -1,9 +1,16 @@
 import scrapy
+import re
 
 
 def get_main_table_row_data(response, row):
     return response.xpath('//table/tr[%s]/td/text()' % row).get()
 
+def get_id_from_url(url):
+    match_id = re.search(r"\W+id=(\d+)", url)
+    if match_id:
+        return match_id.group(1)
+    else:
+        return None
 
 def parse_raw_amount(raw_amount):
     if raw_amount is None:
@@ -32,6 +39,7 @@ class DeclarationsRegisterSpider(scrapy.Spider):
 
     def parse_declaration_page(self, response):
         return {
+            "object_id": get_id_from_url(response.request.url),
             "legal_entity_name": get_main_table_row_data(response, 1),
             "legal_entity_id": get_main_table_row_data(response, 2),
             "public_company": get_main_table_row_data(response, 3),
@@ -58,6 +66,8 @@ class DeclarationsRegisterSpider(scrapy.Spider):
 
 
 EXAMPLE_ITEM_STRUCTURE = {
+    # Идентификационен номер на дружество
+    "object_id": "2345",
     # "Юридическо лице"
     "legal_entity_name": "АБ КОМЮНИКЕЙШЪНС ЕООД",
     # ЕИК
