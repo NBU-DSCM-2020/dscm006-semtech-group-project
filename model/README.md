@@ -49,6 +49,20 @@ Use the actual data to make a model.
 
 ```
 
+## Identification 
+
+*Companies* are identified using three diffrent modes. Thes are in order of preference:
+* EIK number
+* Wikidata Q-d for Bulgarian municipalities
+* MD5 hash of the company name
+
+*Media* are identified by a md5 hash of a combination of the media name, the media type and the parent company id
+
+*Contracts* are identified by the row number in the source data sheet. This is temporary until a bug in the transformation tool is fixed, after which we will use blank nodes. 
+
+
+
+
 ## Sample Diagram
 
 Use rdfpuml to make a diagram

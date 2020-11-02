@@ -6,14 +6,15 @@
   mr:publishes <media/831400025/24%20часа>, <media/831400025/mama24.bg>; # or mr:media or mr:publishesMedia
   mr:owner "ВЕНЕЛИНА АТАНАСОВА ГОЧЕВА"@bg; # TODO: check there's no English names
   mr:executiveOfficer "Иван Петров"@bg;
-  mr:contract
-    [ a mr:Contract;
+  mr:contract <contract/ROWINDEX> ;
+.
+
+<contract/ROWINDEX>  a mr:Contract; # make uris using rowindex until they fix GDB5180
       mr:amount 6180;  # or mr:amount [:value 6180; mr:currency "BGN"]
       mr:date "2019-04-10"^^xsd:date;
       mr:description "10.04.2019 Публикуване на инф. материали"@bg;
-      mr:buyer <company/WHAT_TO_USE_HERE>
-    ]
-.
+      mr:buyer <company/WHAT_TO_USE_HERE> .
+
 
 <media/831400025/24%20часа> 
   a mr:Media;
