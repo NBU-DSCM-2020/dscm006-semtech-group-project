@@ -7,7 +7,7 @@ Ontologies come into the picture later
 
 Consider this data under ZZDPDPORDMU (Закона на Пеевски):
 
-<https://github.com/NBU-DSCM-2020/dscm006-semtech-group-project/blob/master/scraper/ZZDPDPORDMU/scraped_data/168%20ЧАСА%20ЕООД%20(ЕИК%20831400025).json>
+<https://github.com/NBU-DSCM-2020/dscm006-semtech-group-project/blob/master/scraper/ZZDPDPORDMU/scraped_data/831400025.json>
 
 ```json
     "object_id": "173",
