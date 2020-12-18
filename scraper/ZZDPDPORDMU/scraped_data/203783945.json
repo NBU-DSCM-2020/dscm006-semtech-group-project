@@ -1,0 +1,246 @@
+{
+    "object_id": "2363",
+    "legal_entity_name": "ДУМА ПРЕС ЕООД",
+    "legal_entity_id": "203783945",
+    "public_company": "неприложимо",
+    "media_service_type": "Печатна медия",
+    "media_service_name": "вестник Дума",
+    "real_owner": "Вяра Емилова Йорданова - управител на фондация Дума",
+    "executive_individual": "Корнелия Петрова Нинова",
+    "contracts": [
+        {
+            "contract_amount_raw": "693 427,5",
+            "contract_amount": 693427,
+            "contract_basis_raw": "във връзка с чл. 23, ал.1, т. 6 от ЗПП",
+            "contract_sponsor_raw": "Фондация Дума, ЕИК: 176936800"
+        },
+        {
+            "contract_amount_raw": "720",
+            "contract_amount": 720,
+            "contract_basis_raw": "Договор за медийно сътрудничество",
+            "contract_sponsor_raw": "Община Гулянци "
+        },
+        {
+            "contract_amount_raw": "720",
+            "contract_amount": 720,
+            "contract_basis_raw": "Договор за медийно сътрудничество",
+            "contract_sponsor_raw": "Община Павликени"
+        },
+        {
+            "contract_amount_raw": "720",
+            "contract_amount": 720,
+            "contract_basis_raw": "Договор за медийно сътрудничество",
+            "contract_sponsor_raw": "Община Полски Тръмбеш"
+        },
+        {
+            "contract_amount_raw": "246",
+            "contract_amount": 246,
+            "contract_basis_raw": "Договор за медийно сътрудничество",
+            "contract_sponsor_raw": "Община Николаево"
+        },
+        {
+            "contract_amount_raw": "720",
+            "contract_amount": 720,
+            "contract_basis_raw": "Договор за медийно сътрудничество",
+            "contract_sponsor_raw": "Община Стражица"
+        },
+        {
+            "contract_amount_raw": "1500",
+            "contract_amount": 1500,
+            "contract_basis_raw": "Договор за медийно сътрудничество",
+            "contract_sponsor_raw": "Община Садово"
+        },
+        {
+            "contract_amount_raw": "384",
+            "contract_amount": 384,
+            "contract_basis_raw": "Договор за медийно сътрудничество",
+            "contract_sponsor_raw": "Община Сухиндол"
+        },
+        {
+            "contract_amount_raw": "1200",
+            "contract_amount": 1200,
+            "contract_basis_raw": "Договор за медийно сътрудничество",
+            "contract_sponsor_raw": "Община Каварна"
+        },
+        {
+            "contract_amount_raw": "444",
+            "contract_amount": 444,
+            "contract_basis_raw": "Договор за медийно сътрудничество",
+            "contract_sponsor_raw": "Община Добричка"
+        },
+        {
+            "contract_amount_raw": "3000",
+            "contract_amount": 3000,
+            "contract_basis_raw": "Договор за медийно сътрудничество",
+            "contract_sponsor_raw": "Община Правец"
+        },
+        {
+            "contract_amount_raw": "1500",
+            "contract_amount": 1500,
+            "contract_basis_raw": "Договор за медийно сътрудничество",
+            "contract_sponsor_raw": "Община Садово"
+        },
+        {
+            "contract_amount_raw": "3000",
+            "contract_amount": 3000,
+            "contract_basis_raw": "Договор за медийно сътрудничество",
+            "contract_sponsor_raw": "Община Балчик"
+        },
+        {
+            "contract_amount_raw": "4200",
+            "contract_amount": 4200,
+            "contract_basis_raw": "Договор за медийно сътрудничество",
+            "contract_sponsor_raw": "Община Гоце Делчев"
+        },
+        {
+            "contract_amount_raw": "360",
+            "contract_amount": 360,
+            "contract_basis_raw": "Договор за медийно сътрудничество",
+            "contract_sponsor_raw": "Община Николаево"
+        },
+        {
+            "contract_amount_raw": "240",
+            "contract_amount": 240,
+            "contract_basis_raw": "Договор за медийно сътрудничество",
+            "contract_sponsor_raw": "Дорково"
+        },
+        {
+            "contract_amount_raw": "360",
+            "contract_amount": 360,
+            "contract_basis_raw": "Договор за медийно сътрудничество",
+            "contract_sponsor_raw": "Община Садово"
+        },
+        {
+            "contract_amount_raw": "3000",
+            "contract_amount": 3000,
+            "contract_basis_raw": "Договор за медийно сътрудничество",
+            "contract_sponsor_raw": "Община Садово"
+        },
+        {
+            "contract_amount_raw": "126",
+            "contract_amount": 126,
+            "contract_basis_raw": "Обява",
+            "contract_sponsor_raw": "ВСУЛюбен Каравелов"
+        },
+        {
+            "contract_amount_raw": "138",
+            "contract_amount": 138,
+            "contract_basis_raw": "Обява",
+            "contract_sponsor_raw": "ВСУЛюбен Каравелов"
+        },
+        {
+            "contract_amount_raw": "192",
+            "contract_amount": 192,
+            "contract_basis_raw": "Обява",
+            "contract_sponsor_raw": "Военна академия Г.С. Раковски"
+        },
+        {
+            "contract_amount_raw": "6000",
+            "contract_amount": 6000,
+            "contract_basis_raw": "Договор за обяви",
+            "contract_sponsor_raw": "Софийска вода АД"
+        },
+        {
+            "contract_amount_raw": "312",
+            "contract_amount": 312,
+            "contract_basis_raw": "Обява",
+            "contract_sponsor_raw": "СЦДП Габрово"
+        },
+        {
+            "contract_amount_raw": "252",
+            "contract_amount": 252,
+            "contract_basis_raw": "Обява",
+            "contract_sponsor_raw": "ВСУЛюбен Каравелов"
+        },
+        {
+            "contract_amount_raw": "246",
+            "contract_amount": 246,
+            "contract_basis_raw": "Обява",
+            "contract_sponsor_raw": "ВСУЛюбен Каравелов"
+        },
+        {
+            "contract_amount_raw": "216",
+            "contract_amount": 216,
+            "contract_basis_raw": "Обява",
+            "contract_sponsor_raw": "АПИ Бургас"
+        },
+        {
+            "contract_amount_raw": "246",
+            "contract_amount": 246,
+            "contract_basis_raw": "Обява",
+            "contract_sponsor_raw": "АПИ Бургас"
+        },
+        {
+            "contract_amount_raw": "226",
+            "contract_amount": 226,
+            "contract_basis_raw": "Обява",
+            "contract_sponsor_raw": "Военна академия Г.С. Раковски"
+        },
+        {
+            "contract_amount_raw": "6000",
+            "contract_amount": 6000,
+            "contract_basis_raw": "Договор за обяви",
+            "contract_sponsor_raw": "Софийска вода АД"
+        },
+        {
+            "contract_amount_raw": "240",
+            "contract_amount": 240,
+            "contract_basis_raw": "Обява",
+            "contract_sponsor_raw": "ВСУЛюбен Каравелов"
+        },
+        {
+            "contract_amount_raw": "300",
+            "contract_amount": 300,
+            "contract_basis_raw": "Обява",
+            "contract_sponsor_raw": "Военна академия Г.С. Раковски"
+        },
+        {
+            "contract_amount_raw": "348",
+            "contract_amount": 348,
+            "contract_basis_raw": "Обява",
+            "contract_sponsor_raw": "СБПФЗПЛР Цар Фердинанд"
+        },
+        {
+            "contract_amount_raw": "108",
+            "contract_amount": 108,
+            "contract_basis_raw": "Обява",
+            "contract_sponsor_raw": "ВСУЛюбен Каравелов"
+        },
+        {
+            "contract_amount_raw": "1680",
+            "contract_amount": 1680,
+            "contract_basis_raw": "Обява",
+            "contract_sponsor_raw": "Върховен административен съд"
+        },
+        {
+            "contract_amount_raw": "110",
+            "contract_amount": 110,
+            "contract_basis_raw": "Обява",
+            "contract_sponsor_raw": "Държавна опера Бургас"
+        },
+        {
+            "contract_amount_raw": "408",
+            "contract_amount": 408,
+            "contract_basis_raw": "Обява",
+            "contract_sponsor_raw": "АПИ Бургас"
+        },
+        {
+            "contract_amount_raw": "276",
+            "contract_amount": 276,
+            "contract_basis_raw": "Обява",
+            "contract_sponsor_raw": "СБПФЗПЛР Цар Фердинанд"
+        },
+        {
+            "contract_amount_raw": "168",
+            "contract_amount": 168,
+            "contract_basis_raw": "Обява",
+            "contract_sponsor_raw": "ВСУЛюбен Каравелов"
+        },
+        {
+            "contract_amount_raw": "186",
+            "contract_amount": 186,
+            "contract_basis_raw": "Обява",
+            "contract_sponsor_raw": "НМТБ4 Цар Борис 3"
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "object_id": "2354",
+    "legal_entity_name": "РЕКЛАМНА АГЕНЦИЯ - ГЪЛЪБОВИ ВЕСТИЕООД",
+    "legal_entity_id": "203319231",
+    "public_company": "неприложимо",
+    "media_service_type": "Печатна медия",
+    "media_service_name": "ВЕСТНИК ГЪЛЪБОВИ ВЕСТИ",
+    "real_owner": "НИКОЛАЙ ТОНЕВ КОЛЕВ",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "100",
+            "contract_amount": 100,
+            "contract_basis_raw": "Реклама за евроизбори",
+            "contract_sponsor_raw": "ВМРО-БНД, ЕИК 130451348"
+        },
+        {
+            "contract_amount_raw": "100",
+            "contract_amount": 100,
+            "contract_basis_raw": "Реклама за евроизбори",
+            "contract_sponsor_raw": "БСП, ЕИК 000702014"
+        },
+        {
+            "contract_amount_raw": "200",
+            "contract_amount": 200,
+            "contract_basis_raw": "Реклама за евроизбори",
+            "contract_sponsor_raw": "АБВ, ЕИК 176734649"
+        },
+        {
+            "contract_amount_raw": "1000",
+            "contract_amount": 1000,
+            "contract_basis_raw": "Договор от 01.05.2019-Публикуване на журналист.материали",
+            "contract_sponsor_raw": "Община Опан, ЕИК 000817917"
+        },
+        {
+            "contract_amount_raw": "18000",
+            "contract_amount": 18000,
+            "contract_basis_raw": "Дог.№13 от 14.01.2019-Публикуване на журналистически материали",
+            "contract_sponsor_raw": "Община Гълъбово, ЕИК 000817696"
+        },
+        {
+            "contract_amount_raw": "16500",
+            "contract_amount": 16500,
+            "contract_basis_raw": "Дог.№13 от 14.01.2019-Публикуване на журналистически материали",
+            "contract_sponsor_raw": "Община Гълъбово, ЕИК 000817696"
+        },
+        {
+            "contract_amount_raw": "1200",
+            "contract_amount": 1200,
+            "contract_basis_raw": "Договор от 01.04.2020-Информационно обслужване и",
+            "contract_sponsor_raw": "В и К ЕООД Ст.Загора, ЕИК 833066300"
+        },
+        {
+            "contract_amount_raw": "3000",
+            "contract_amount": 3000,
+            "contract_basis_raw": "Договор МТ 345/2019 от 16.12.2019-Информац.обслужване",
+            "contract_sponsor_raw": "Мини Марица Изток ЕАД, ЕИК 833017552"
+        },
+        {
+            "contract_amount_raw": "7200",
+            "contract_amount": 7200,
+            "contract_basis_raw": "Договор №39 от 02.01.2020",
+            "contract_sponsor_raw": "СНЦ МИГ Гълъбово-Опан, ЕИК 176131964"
+        }
+    ]
+}

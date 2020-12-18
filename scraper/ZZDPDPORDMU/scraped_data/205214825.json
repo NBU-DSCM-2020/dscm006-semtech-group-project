@@ -1,0 +1,36 @@
+{
+    "object_id": "2364",
+    "legal_entity_name": "БЪЛГАРСКА СВОБОДНА МЕДИЯ ЕООД",
+    "legal_entity_id": "205214825",
+    "public_company": "неприложимо",
+    "media_service_type": "Телевизия",
+    "media_service_name": "БЪЛГАРСКА СВОБОДНА ТЕЛЕВИЗИЯ - БСТВ",
+    "real_owner": "ВЯРА ЕМИЛОВА ЙОРДАНОВА",
+    "executive_individual": "КОРНЕЛИЯ ПЕТРОВА НИНОВА",
+    "contracts": [
+        {
+            "contract_amount_raw": "2 744 126",
+            "contract_amount": 2744126,
+            "contract_basis_raw": "РЕШЕНИЕ НА ФОНДАЦИЯ ДУМА, РЕГУЛЯРНИ ЗАЯВКИ;",
+            "contract_sponsor_raw": "ФОНДАЦИЯ ДУМА - ЕИК 176936800"
+        },
+        {
+            "contract_amount_raw": "3000",
+            "contract_amount": 3000,
+            "contract_basis_raw": "МЕСТНИ ИЗБОРИ 2019 Г., Излъчване на предизборен клип - 1.10.2019 г.",
+            "contract_sponsor_raw": "Инициативен комитет за издигане на МАЯ МАНОЛОВА - КАНДИДАТ ЗА КМЕТ НА ОБЩИНА СОФИЯ, Никола Николов Вапцаров, ЕГН 8407236682"
+        },
+        {
+            "contract_amount_raw": "6000",
+            "contract_amount": 6000,
+            "contract_basis_raw": "15.10.2019 г., излъчване на предизборен клип за Местни избори 2019 г.",
+            "contract_sponsor_raw": "Градски съвет на БСП, ЕИК 0007020140012"
+        },
+        {
+            "contract_amount_raw": "88824",
+            "contract_amount": 88824,
+            "contract_basis_raw": "Излъчване предизборни клипове за Евроизбори 2019 г.",
+            "contract_sponsor_raw": "ПП Българска социалистическа партия , ЕИК 000702014"
+        }
+    ]
+}

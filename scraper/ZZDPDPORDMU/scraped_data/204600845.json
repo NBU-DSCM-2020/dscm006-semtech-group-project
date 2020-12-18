@@ -1,0 +1,72 @@
+{
+    "object_id": "3361",
+    "legal_entity_name": "Екрит Медиа ООД",
+    "legal_entity_id": "204600845",
+    "public_company": "неприложимо",
+    "media_service_type": "Печатна медия; Онлайн новинарско издание",
+    "media_service_name": "Вестник Стандарт; Информационна агенция Стандарт Нюз- www.standartnews.com ",
+    "real_owner": "Славка Николова Бозукова, Екатерина Иванова Праматарова",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "10000",
+            "contract_amount": 10000,
+            "contract_basis_raw": "Информационно обслужване Европейски избори 2019 - 24.04.2019г",
+            "contract_sponsor_raw": "ПП ГЕРБ, ЕИК 175248466"
+        },
+        {
+            "contract_amount_raw": "2000",
+            "contract_amount": 2000,
+            "contract_basis_raw": "Информационно обслужване Европейски избори 2019-16.05.2019г.",
+            "contract_sponsor_raw": "Коалиция Коалиция за България ЕИК 176734649"
+        },
+        {
+            "contract_amount_raw": "6000",
+            "contract_amount": 6000,
+            "contract_basis_raw": "Информационно и медийно обслужване - 09.07.2019г ",
+            "contract_sponsor_raw": "Община Враца, ЕИК 000193115"
+        },
+        {
+            "contract_amount_raw": "2000",
+            "contract_amount": 2000,
+            "contract_basis_raw": "Информационно обслужване Европейски избори 2019- 27.09.2019г",
+            "contract_sponsor_raw": "ПП ГЕРБ, ЕИК 176129116"
+        },
+        {
+            "contract_amount_raw": "600",
+            "contract_amount": 600,
+            "contract_basis_raw": "Инфомационно обслужване Местни избори 2019г- 02.10.2019г",
+            "contract_sponsor_raw": "Градски съвет на БСП- София - ЕИК 0007020140012"
+        },
+        {
+            "contract_amount_raw": "1200",
+            "contract_amount": 1200,
+            "contract_basis_raw": "Информационно обслужване Европейски избори 2019г- 03.10.2019г",
+            "contract_sponsor_raw": "ПП Герб - Стара Загора - ЕИК 175248466"
+        },
+        {
+            "contract_amount_raw": "1500",
+            "contract_amount": 1500,
+            "contract_basis_raw": "Информационно обслужване Европейски избори 2019- 09.10.2019г",
+            "contract_sponsor_raw": "Местна коалиция Новото време ЕИК 131287649"
+        },
+        {
+            "contract_amount_raw": "2000",
+            "contract_amount": 2000,
+            "contract_basis_raw": "Инфомационно обслужване Местни избори 2019г- 16.10.2019г",
+            "contract_sponsor_raw": "ПП НФСБ ЕИК 176129116"
+        },
+        {
+            "contract_amount_raw": "1200",
+            "contract_amount": 1200,
+            "contract_basis_raw": "Инфомационно обслужване Местни избори 2019г- 22.10.2019г",
+            "contract_sponsor_raw": "ПП Българска нова демокрация - ЕИК 175520304"
+        },
+        {
+            "contract_amount_raw": "6000",
+            "contract_amount": 6000,
+            "contract_basis_raw": "Печатна и интернет реклама, участие в кампания - 03.12.2019г",
+            "contract_sponsor_raw": "ЕЛ БИ Булгарикум ЕАД - ЕИК 831622969"
+        }
+    ]
+}

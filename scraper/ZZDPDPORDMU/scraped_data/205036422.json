@@ -1,0 +1,24 @@
+{
+    "object_id": "2360",
+    "legal_entity_name": "Уебро ЕООД",
+    "legal_entity_id": "205036422",
+    "public_company": "неприложимо",
+    "media_service_type": "Онлайн новинарско издание",
+    "media_service_name": "Stz7.com , Kz7.bg , Zabulgaria.eu , Newsbul.com , Newsbp.com",
+    "real_owner": "Златомир Каменов Вълчев",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "6000",
+            "contract_amount": 6000,
+            "contract_basis_raw": "инф.обслужване, 06.04.2020 - 1 год. - Stz7.com",
+            "contract_sponsor_raw": "Община Стара Загора - 000818022"
+        },
+        {
+            "contract_amount_raw": "5400",
+            "contract_amount": 5400,
+            "contract_basis_raw": "инф.обслужване, 18.03.2020 - 1 год. - Kz7.bg",
+            "contract_sponsor_raw": "Община Казанлък - 000817778"
+        }
+    ]
+}

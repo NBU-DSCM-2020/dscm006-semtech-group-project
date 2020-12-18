@@ -1,0 +1,30 @@
+{
+    "object_id": "2362",
+    "legal_entity_name": "РА ЕВРОМЕДИЯ ООД",
+    "legal_entity_id": "121557224",
+    "public_company": "неприложимо",
+    "media_service_type": "Печатна медия; Печатна медия",
+    "media_service_name": "ИЗДАВАНЕ ВЕСТНИК ЗЕМЯ; ИЗДАВАНЕ ВЕСТНИК КИТАЙ ДНЕС",
+    "real_owner": "СВЕТЛАНА СТЕФАНОВА ШАРЕНКОВА, ДИМИТЪР ХРИСТОВ ИВАНОВ",
+    "executive_individual": "неприложимо",
+    "contracts": [
+        {
+            "contract_amount_raw": "50000",
+            "contract_amount": 50000,
+            "contract_basis_raw": "25.01.,26.02,26.03.,22.04.,22.05,12.06.2020 Медийно и информационно отразяване позиците на БСП ",
+            "contract_sponsor_raw": "000702014"
+        },
+        {
+            "contract_amount_raw": "8553,83",
+            "contract_amount": 8553,
+            "contract_basis_raw": "Д-53-1300-40/21.02.2019-изготвяне и публикуване на информационни материали",
+            "contract_sponsor_raw": "831160078"
+        },
+        {
+            "contract_amount_raw": "10000",
+            "contract_amount": 10000,
+            "contract_basis_raw": "2222/02.09.2019-изготвяне и публикуване на ПР и инф.материали",
+            "contract_sponsor_raw": "131210347"
+        }
+    ]
+}
